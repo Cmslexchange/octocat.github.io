@@ -39,7 +39,7 @@ http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fgaoma%2
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="央视频道",CCTV5+
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fgaoma%2Fcctv5p.m3u8%24gaoma-%E9%AB%98%E7%A0%81
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.v1.mk/logo/cctv6.png" group-title="央视频道",CCTV6
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Frptv%2FG_CCTV-6-AVS-4K264.m3u8%3Flicense%3Dgitv%24rptv-%E9%AB%98%E7%A0%81
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F6000000001000004574.m3u8%3Fcdn%3Dwasusyt%24itv-50-FPS
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="央视频道",CCTV7
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fgaoma%2Fcctv7.m3u8%24gaoma-%E9%AB%98%E7%A0%81
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.v1.mk/logo/cctv8.png" group-title="央视频道",CCTV8

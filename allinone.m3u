@@ -3,17 +3,17 @@
 #EXT-X-APTV-TYPE remote
 #EXT-X-SUB-URL http://192.168.100.1:35456/m3u/2
 
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.v1.mk/logo/cctv4k.png" group-title="4 K 8 K",CCTV4K-10m
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.v1.mk/logo/cctv4k.png" group-title="4 K 8 K",CCTV4K
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fgaoma%2Fcctv4k_10m.m3u8%24gaoma-10m
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.v1.mk/logo/cctv4k.png" group-title="4 K 8 K",CCTV4K
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fgaoma%2Fcctv4k.m3u8%24gaoma
-#EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/CCTV8K.png" group-title="4 K 8 K",CCTV8K-36m
+#EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/CCTV8K.png" group-title="4 K 8 K",CCTV8K
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fgaoma%2Fcctv8k_36m.m3u8%24gaoma-36m
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="4 K 8 K",CCTV16-4K-10m
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="4 K 8 K",CCTV16-4K
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fgaoma%2Fcctv4k16_10m.m3u8%24gaoma-10m
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="4 K 8 K",CCTV16-4K
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fgaoma%2Fcctv4k16.m3u8%24gaoma
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="4 K 8 K",CCTV16-4K-HEVC
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="4 K 8 K",CCTV16-4K
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F5000000008000023254.m3u8%3Fcdn%3Dbestzb%24itv-HEVC
 #EXTINF:-1 tvg-id="北京IPTV4K" tvg-name="北京IPTV4K" tvg-logo="https://epg.v1.mk/logo/北京IPTV4K.png" group-title="4 K 8 K",北京IPTV4K
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fbptv%2F10000100000000050000000003887500.m3u8%24other

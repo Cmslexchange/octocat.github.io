@@ -141,7 +141,7 @@ http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fbptv%2F
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fbptv%2F10000100000000050000000003887452.m3u8%24bptv
 #EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://epg.v1.mk/logo/厦门卫视.png" group-title="卫视频道",厦门卫视
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fbptv%2F10000100000000050000000003887454.m3u8%24bptv
-#EXTINF:-1 tvg-id="BTV-重温经典" tvg-name="BTV-重温经典" tvg-logo="https://epg.v1.mk/logo/BTV-重温经典.png" group-title="地方频道",BTV-重温经典
+#EXTINF:-1 tvg-id="IPTV-电影频道" tvg-name="IPTV-电影频道" tvg-logo="https://upload.112114.xyz/logo/IPTVDY.png" group-title="地方频道",IPTV-电影频道
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fbptv%2F10000100000000050000000003887494.m3u8%24bptv-%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8
 #EXTINF:-1 tvg-id="萌宠TV" tvg-name="萌宠TV" tvg-logo="https://epg.v1.mk/logo/萌宠TV.png" group-title="地方频道",萌宠TV
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fbptv%2F10000100000000050000000003887495.m3u8%24bptv

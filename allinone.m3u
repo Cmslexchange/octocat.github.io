@@ -469,7 +469,56 @@ http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F5
 http://192.168.100.1:35456/jump?url=https%3A%2F%2Fgdcucc.v1.mk%2Fgdcucc%2Fchcjtyy.m3u8%24gdcucc
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.v1.mk/logo/CHC动作电影.png" group-title="数字频道",CHC动作电影
 http://192.168.100.1:35456/jump?url=https%3A%2F%2Fgdcucc.v1.mk%2Fgdcucc%2Fchcdzdy.m3u8%24gdcucc
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="港台频道",翡翠台
+#EXTINF:-1 tvg-id="333" tvg-name="Astro Hua Hee Dai" tvg-logo="https://iili.io/1NB4Xj.png" group-title="港台频道",Astro 歡喜台HD
+https://video.mytvsuper.xyz/live/f238f2035745d7d2b5b2e96e0f8e665282a4e8dc211473f0667a71a0b4e12bfd.mpd?token=663855104062871
+#EXTINF:-1 tvg-id="411" tvg-name="HBO" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="港台频道",HBO HD
+https://video.mytvsuper.xyz/live/f2064717303b303fdbd9540ce9434bf11abfe385bebc2b577a3870fc41dff483.mpd?token=663855104062871
+#EXTINF:-1 tvg-id="300" tvg-name="iQIYI" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png" group-title="港台频道",愛奇藝HD
+https://video.mytvsuper.xyz/live/71c15d30d8d1636d8fd825921ea4edcb3d05aa28123f374e298b432e1fad3278.mpd?token=663855104062871
+#EXTINF:-1 tvg-id="319" tvg-name="TVB Xing He" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB6.png" group-title="港台频道",TVB星河
+https://video.mytvsuper.xyz/live/d9786734715860feeec08118df3f019619de10b1dcf5b227dc0474e1bf4c6b20.mpd?token=663855104062871
+#EXTINF:-1 tvg-id="392" tvg-name="KBS World" tvg-logo="http://linear-poster.astro.com.my/prod/logo/KBSW_v1.png" group-title="港台频道",KBS World HD
+https://video.mytvsuper.xyz/live/29adaa949f933d34eb421b016a4f977fa218d491934fce1a81506bf7a6bd6fba.mpd?token=663855104062871
+#EXTINF:-1 tvg-id="395" tvg-name="tvN" tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvN_2021.png" group-title="港台频道",tvN HD
+https://video.mytvsuper.xyz/live/f0473e2a9b0f62ec56db8407f142d55173433dbbfe01058a1274146f2306a906.mpd?token=663855104062871
+#EXTINF:-1 tvg-id="414" tvg-name="HBO Family" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png" group-title="港台频道",HBO Family HD
+https://video.mytvsuper.xyz/live/82edf664f1e4d1ee181a7988e0dcb6c3908bb98002b0c7d9f7faa86c8a478728.mpd?token=663855104062871
+#EXTINF:-1 tvg-id="415" tvg-name="HBO Hits" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/449_144.png" group-title="港台频道",HBO Hits HD
+https://video.mytvsuper.xyz/live/1c5e5d20b8b6abeca23f668bd0b67fbfc13f31df8f4880af6f5c2a88b84d3edf.mpd?token=663855104062871
+#EXTINF:-1 tvg-id="412" tvg-name="CINEMAX" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png" group-title="港台频道",CINEMAX HD
+https://video.mytvsuper.xyz/live/1fdd1ffb25fe829a453262a12e6288197d45c7c2fa0beb3f57a4b69c4cde7da2.mpd?token=663855104062871
+#EXTINF:-1 tvg-id="321" tvg-name="Celestial Classic Movies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/CCM_v1.png" group-title="港台频道",天映經典
+https://video.mytvsuper.xyz/live/b7bfcac62f7540d27b6b5cfbeac2aee8526302d0033c1613a2ec8efd98db7eda.mpd?token=663855104062871
+#EXTINF:-1 tvg-id="309" tvg-name="Celestial Movies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Celestial_HD_v1.png" group-title="港台频道",天映電影HD
+https://video.mytvsuper.xyz/live/76d0b6abbde6e7f14a5f8224377d8f916d5b0d56b193234f2d5c710d43db8921.mpd?token=663855104062871
+#EXTINF:-1 tvg-id="413" tvg-name="SHOWCASE" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png" group-title="港台频道",Astro Showcase HD
+https://video.mytvsuper.xyz/live/7e8461ba257071ca4b2c86de83f4039f52704880c9d974ca5cf64df52c594511.mpd?token=663855104062871
+#EXTINF:-1 tvg-id="416" tvg-name="tvN Movies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png" group-title="港台频道",tvN Movies HD
+https://video.mytvsuper.xyz/live/0678b1aebc4108ea00aafa7b9bec384fcf02f9f5c147f673fcab93b44009403d.mpd?token=663855104062871
+#EXTINF:-1 tvg-id="703" tvg-name="Lifetime" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Lifetime.png" group-title="港台频道",Lifetime HD
+https://video.mytvsuper.xyz/live/c4cab744a40738e1b2e7a4b8d32c43b1cbafcbf80b1d9acc4703a86a76e32804.mpd?token=663855104062871
+#EXTINF:-1 tvg-id="712" tvg-name="Warner TV" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png" group-title="港台频道",Warner TV HD
+https://video.mytvsuper.xyz/live/85ed2b733c12a97c44c7871df4be67d5b92586d5598a02a453801c3fb9385ee5.mpd?token=663855104062871
+#EXTINF:-1 tvg-id="718" tvg-name="MTV Live" tvg-logo="http://linear-poster.astro.com.my/prod/logo/MTV_v2.png" group-title="港台频道",MTV Live HD
+https://video.mytvsuper.xyz/live/2935af5911461302de0f989724e9a86b9dc8eaf4f8cb524188a318fe105b2ea5.mpd?token=663855104062871
+#EXTINF:-1 tvg-id="709" tvg-name="Asian Food Network" tvg-logo="http://linear-poster.astro.com.my/prod/logo/afn_v1.png" group-title="港台频道",Asian Food Network HD
+https://video.mytvsuper.xyz/live/f757efc39034889c1755a2a1f8a40645b868496a82355f54a99db1fc64a73ac9.mpd?token=663855104062871
+#EXTINF:-1 tvg-id="717" tvg-name="BBC Lifestyle" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BBC_Lifestyle.png" group-title="港台频道",BBC Lifestyle HD
+https://video.mytvsuper.xyz/live/7c1262c76e9577a3b4397b71357901d015fb08f6794a8915c502e3f115144aee.mpd?token=663855104062871
+#EXTINF:-1 tvg-id="708" tvg-name="Food Network" tvg-logo="http://linear-poster.astro.com.my/prod/logo/FoodNetwork_2021.png" group-title="港台频道",Food Network HD
+https://video.mytvsuper.xyz/live/4df4c9ea9de7dbcaeb29c3e5fdec793146738670a1c0b435e454077a5a1bd56d.mpd?token=663855104062871
+#EXTINF:-1 tvg-id="715" tvg-name="HGTV" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HGTV_v1.png" group-title="港台频道",HGTV HD
+https://video.mytvsuper.xyz/live/44f3212e240384f1c7fa6127271a73a44678498efbc7504a6fe6c9cdbdb34f2f.mpd?token=663855104062871
+#EXTINF:-1 tvg-id="707" tvg-name="TLC" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TLC_v1.png" group-title="港台频道",TLC HD
+https://video.mytvsuper.xyz/live/80b31e88390eccfced5e04b9fb1e867a4a18f6359293b7067a903c90366d0bf5.mpd?token=663855104062871
+#EXTINF:-1 tvg-id="554" tvg-name="BBC Earth" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BBC_Earth.png" group-title="港台频道",BBC Earth
+https://video.mytvsuper.xyz/live/af97fd1d969d76f4e11980db592023598adf9c976f69620478ea793fc0f8d842.mpd?token=663855104062871
+#EXTINF:-1 tvg-id="552" tvg-name="Discovery Channel HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Discovery_NEW_v1.png" group-title="港台频道",Discovery Channel HD
+https://video.mytvsuper.xyz/live/fead92ed1d53d1ad36d99a69cc094c47b385bc5fcaff302191670f56c6313e2b.mpd?token=663855104062871
+#EXTINF:-1 tvg-id="553" tvg-name="Discovery Asia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Discovery_Asia_v1.png" group-title="港台频道",Discovery Asia HD
+https://video.mytvsuper.xyz/live/c3806d48d1c44069f104879fca2e914c868016e64bc018efd50c088b1e4b9dc7.mpd?token=663855104062871
+#EXTINF:-1 tvg-id="555" tvg-name="History" tvg-logo="http://linear-poster.astro.com.my/prod/logo/History_v1.png" group-title="港台频道",History HD
+https://video.mytvsuper.xyz/live/b20cd9f24e4a54c4bd40edf3ce9da017a8c2acdf01e154155ccbfd2fabedd9bd.mpd?token=663855104062871#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="港台频道",翡翠台
 http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 #EXTINF:-1 tvg-id="翡翠综合台" tvg-name="翡翠综合台" tvg-logo="https://live.hkdvb.com/static/logos/81.png" group-title="港台频道",翡翠综合台
 http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8

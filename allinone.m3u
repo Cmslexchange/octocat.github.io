@@ -1,8 +1,7 @@
 #EXTM3U url-tvg="https://epg.v1.mk/fy.xml"
 #EXT-X-APP APTV
 #EXT-X-APTV-TYPE remote
-#EXT-X-SUB-URL http://192.168.100.1:35456/m3u/2
-#EXT-X-SUB-URL https://video.mytvsuper.xyz/playlist/zong-he-ding-yue.m3u?token=663855104062871
+#EXT-X-SUB-URL http://192.168.100.1:35456/m3u/2；https://video.mytvsuper.xyz/playlist/zong-he-ding-yue.m3u?token=663855104062871
 
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.v1.mk/logo/cctv4k.png" group-title="4 K 8 K",CCTV4K
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fgaoma%2Fcctv4k_10m.m3u8%24gaoma-10m

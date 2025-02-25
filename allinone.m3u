@@ -542,7 +542,7 @@ http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
 #EXTINF:-1 tvg-id="Channel 8 HD" tvg-name="Channel 8 HD" tvg-logo="https://epg.v1.mk/logo/CHANNEL8HD.png" group-title="港台频道",Channel 8 HD
 http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
 #EXTINF:-1 tvg-id="Channel U HD" tvg-name="Channel U HD" tvg-logo="https://epg.v1.mk/logo/CHANNELUHD.png" group-title="港台频道",Channel U HD
-http://aktv.top/AKTV/live/aktv/channeuhd/AKTV.m3u8
+http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
 #EXTINF:-1 tvg-id="NewTV-精品综合" tvg-name="NewTV-精品综合" tvg-logo="https://epg.v1.mk/logo/NewTV精品综合.png" group-title="New TV",NewTV-精品综合
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F1000000004000019008.m3u8%3Fcdn%3Dystenlive$itv
 #EXTINF:-1 tvg-id="NewTV-精品大剧" tvg-name="NewTV-精品大剧" tvg-logo="https://epg.v1.mk/logo/newtv精品大剧.png" group-title="New TV",NewTV-精品大剧

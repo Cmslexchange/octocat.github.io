@@ -545,7 +545,7 @@ http://aktv_stream1.m16tv.cfd/stream/aktv/channel8hd/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/aktv/channeluhd/AKTV.m3u8
 #EXTINF:-1 tvg-id="Astro Football" tvg-name="Astro Football" tvg-logo="https://epg.v1.mk/logo/ASTROFOOTBALL.png" group-title="港台频道",Astro Football
 http://aktv_stream1.m16tv.cfd/stream/tuntun/astrofootball/AKTV.m3u8
-#EXTINF:-1 tvg-id="Astro IQIYI" tvg-name="Astro IQIYI" tvg-logo="https://epg.v1.mk/logo/ASTROIQIYI.png" group-title="港台频道",Astro IQIYI
+#EXTINF:-1 tvg-id="Astro IQIYI" tvg-name="Astro IQIYI" tvg-logo="https://epg.v1.mk/logo/IQIYI.png" group-title="港台频道",Astro IQIYI
 http://aktv_stream1.m16tv.cfd/stream/tuntun/fashiontv4k/AKTV.m3u8
 #EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://epg.v1.mk/logo/DISNEYCHANNEL.png" group-title="港台频道",Disney Channel
 http://aktv_stream1.m16tv.cfd/stream/tuntun/disneychannel/AKTV.m3u8

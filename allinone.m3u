@@ -543,6 +543,14 @@ http://aktv_stream1.m16tv.cfd/stream/aktv/channel5hd/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/aktv/channel8hd/AKTV.m3u8
 #EXTINF:-1 tvg-id="Channel U HD" tvg-name="Channel U HD" tvg-logo="https://epg.v1.mk/logo/CHANNELUHD.png" group-title="港台频道",Channel U HD
 http://aktv_stream1.m16tv.cfd/stream/aktv/channeluhd/AKTV.m3u8
+#EXTINF:-1 tvg-id="Astro Football" tvg-name="Astro Football" tvg-logo="https://epg.v1.mk/logo/ASTROFOOTBALL.png" group-title="港台频道",Astro Football
+http://aktv_stream1.m16tv.cfd/stream/tuntun/astrofootball/AKTV.m3u8
+#EXTINF:-1 tvg-id="Astro IQIYI" tvg-name="Astro IQIYI" tvg-logo="https://epg.v1.mk/logo/ASTROIQIYI.png" group-title="港台频道",Astro IQIYI
+http://aktv_stream1.m16tv.cfd/stream/tuntun/fashiontv4k/AKTV.m3u8
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://epg.v1.mk/logo/DISNEYCHANNEL.png" group-title="港台频道",Disney Channel
+http://aktv_stream1.m16tv.cfd/stream/tuntun/disneychannel/AKTV.m3u8
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="https://epg.v1.mk/logo/DISNEYXD.png" group-title="港台频道",Disney XD
+http://aktv_stream1.m16tv.cfd/stream/tuntun/disneyxd/AKTV.m3u8
 #EXTINF:-1 tvg-id="博斯无限台" tvg-name="博斯无限台" tvg-logo="https://epg.iill.top/logo/博斯无限.png" group-title="台湾频道",博斯無限 一
 https://tv.iill.top/litv/litv-longturn10
 #EXTINF:-1 tvg-id="博斯无限二台" tvg-name="博斯无限二台" tvg-logo="https://epg.iill.top/logo/博斯无限2.png" group-title="台湾频道",博斯無限 二

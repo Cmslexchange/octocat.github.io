@@ -947,7 +947,7 @@ http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F5
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F5000000002000019634.m3u8%3Fcdn%3Dbestzb$itv
 #EXTINF:-1 tvg-id="SiTV-游戏风云" tvg-name="SiTV-游戏风云" tvg-logo="https://epg.v1.mk/logo/SITV.png" group-title="New TV",SiTV-游戏风云
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F5000000011000031114.m3u8%3Fcdn%3Dbestzb$itv
-EXTINF:-1 tvg-id="NOW爆谷台" tvg-logo="https://epg.112114.xyz/logo/NOW爆谷台.png" group-title="nowtv测试",Now 爆谷台
+#EXTINF:-1 tvg-id="NOW爆谷台" tvg-logo="https://epg.112114.xyz/logo/NOW爆谷台.png" group-title="nowtv测试",Now 爆谷台
 https://dko29we9nm1rd.cloudfront.net/hls/CH133/index.m3u8
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="nowtv测试",HBO TV
 https://dko29we9nm1rd.cloudfront.net/hls/CH115/index.m3u8

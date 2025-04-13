@@ -160,15 +160,9 @@ http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F1
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.v1.mk/logo/cctv17.png" group-title="央视频道",CCTV17
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F1000000005000265015.m3u8%3Fcdn%3Dystenlive%24itv-HEVC
 #EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://epg.v1.mk/logo/凤凰卫视中文.png" group-title="卫视频道",凤凰卫视中文台
-http://dns.yiandrive.com:15907/phenix/fhzw
-#EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://epg.v1.mk/logo/凤凰卫视中文.png" group-title="卫视频道",凤凰卫视中文台
 http://aktv-stream.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
 #EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://epg.v1.mk/logo/凤凰卫视资讯.png" group-title="卫视频道",凤凰卫视资讯台
-http://dns.yiandrive.com:15907/phenix/fhzx
-#EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://epg.v1.mk/logo/凤凰卫视资讯.png" group-title="卫视频道",凤凰卫视资讯台
 http://aktv-stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
-#EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-name="凤凰卫视香港台" tvg-logo="https://epg.v1.mk/logo/凤凰卫视香港.png" group-title="卫视频道",凤凰卫视香港台
-http://dns.yiandrive.com:15907/phenix/fhhk
 #EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-name="凤凰卫视香港台" tvg-logo="https://epg.v1.mk/logo/凤凰卫视香港.png" group-title="卫视频道",凤凰卫视香港台
 http://aktv-stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="卫视频道",湖南卫视

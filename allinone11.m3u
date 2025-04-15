@@ -571,7 +571,7 @@ http://aktv_stream.m16tv.cfd/stream/aktv/4k/AKTV.m3u8
 http://aktv_stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
 #EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://epg.v1.mk/logo/寰宇新聞台.png" group-title="港台频道",寰宇新聞台
 http://aktv_stream.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
-#EXTINF:-1 tvg-id="PopC" tvg-name="PopC" tvg-logo="https://live.hkdvb.com/static/logos/801.png" group-title="港台频道",PopC
+#EXTINF:-1 tvg-id="PopC" tvg-name="PopC" tvg-logo="https://epg.v1.mk/logo/POPC.png" group-title="港台频道",PopC
 http://aktv_stream.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
 #EXTINF:-1 tvg-id="ROCK Action" tvg-name="ROCK Action" tvg-logo="https://epg.v1.mk/logo/ROCKACTION.png" group-title="港台频道",ROCK Action
 http://aktv_stream.m16tv.cfd/stream/aktv/rockaction/AKTV.m3u8
@@ -589,13 +589,13 @@ http://aktv_stream.m16tv.cfd/stream/aktv/null-15/AKTV.m3u8
 http://aktv_stream.m16tv.cfd/stream/aktv/hk/AKTV.m3u8
 #EXTINF:-1 tvg-id="明珠剧集台(北美)" tvg-name="明珠剧集台(北美)" tvg-logo="https://epg.v1.mk/logo/tvb明珠.png" group-title="港台频道",明珠剧集台(北美)
 http://aktv_stream.m16tv.cfd/stream/aktv/null-19/AKTV.m3u8
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://live.hkdvb.com/static/logos/84.png" group-title="港台频道",明珠台
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.v1.mk/logo/明珠台.png" group-title="港台频道",明珠台
 http://aktv_stream.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8
-#EXTINF:-1 tvg-id="無線新聞台" tvg-name="無線新聞台" tvg-logo="https://live.hkdvb.com/static/logos/332.png" group-title="港台频道",無線新聞台
+#EXTINF:-1 tvg-id="無線新聞台" tvg-name="無線新聞台" tvg-logo="https://epg.v1.mk/logo/無線新聞台.png" group-title="港台频道",無線新聞台
 http://aktv_stream.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
-#EXTINF:-1 tvg-id="美亞電影台(HK)" tvg-name="美亞電影台(HK)" tvg-logo="https://live.hkdvb.com/static/logos/802.png" group-title="港台频道",美亞電影台(HK)
+#EXTINF:-1 tvg-id="美亞電影台(HK)" tvg-name="美亞電影台(HK)" tvg-logo="https://epg.v1.mk/logo/美亞電影台.png" group-title="港台频道",美亞電影台(HK)
 http://aktv_stream.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
-#EXTINF:-1 tvg-id="翡翠剧集台(北美)" tvg-name="翡翠剧集台(北美)" tvg-logo="https://live.hkdvb.com/static/logos/800.png" group-title="港台频道",翡翠剧集台(北美)
+#EXTINF:-1 tvg-id="翡翠剧集台(北美)" tvg-name="翡翠剧集台(北美)" tvg-logo="https://epg.v1.mk/logo/翡翠剧集台.png" group-title="港台频道",翡翠剧集台(北美)
 http://aktv_stream.m16tv.cfd/stream/aktv/null-18/AKTV.m3u8
 #EXTINF:-1 tvg-id="黃金翡翠台" tvg-name="黃金翡翠台" tvg-logo="https://epg.v1.mk/logo/黄金翡翠台.png" group-title="港台频道",黃金翡翠台
 http://aktv_stream.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8

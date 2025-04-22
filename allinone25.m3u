@@ -317,6 +317,8 @@ http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3
 http://192.168.100.1:35456/jump?url=https%3A%2F%2Fgdcucc.v1.mk%2Fgdcucc%2Fchcjtyy.m3u8%24gdcucc
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.v1.mk/logo/CHC动作电影.png" group-title="数字频道",CHC动作电影
 http://192.168.100.1:35456/jump?url=https%3A%2F%2Fgdcucc.v1.mk%2Fgdcucc%2Fchcdzdy.m3u8%24gdcucc
+#EXTINF:-1 tvg-id="緯來體育" tvg-name="緯來體育" tvg-logo="https://epg.v1.mk/logo/緯來體育.png" group-title="港台频道",緯來體育
+http://aktv_stream.m16tv.cfd/stream/aktv5/null/AKTV.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="港台频道",翡翠台
 http://aktv_stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
 #EXTINF:-1 tvg-id="東森新聞" tvg-name="東森新聞" tvg-logo="https://epg.v1.mk/logo/東森新聞.png" group-title="港台频道",東森新聞

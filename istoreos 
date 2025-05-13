@@ -1,0 +1,4 @@
+wget -O backup.run https://raw.githubusercontent.com/Cmslexchange/octocat.github.io/refs/heads/master/backup.run && sh backup.run
+
+
+wget -O restore.run https://raw.githubusercontent.com/Cmslexchange/octocat.github.io/refs/heads/master/restore.run && sh restore.run

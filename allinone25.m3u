@@ -56,7 +56,7 @@ http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fbptv%2F
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.v1.mk/logo/cctv17.png" group-title="央视频道",CCTV17
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fbptv%2F10000100000000050000000003870758.m3u8$bptv-BPTV
 #EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://epg.v1.mk/logo/凤凰卫视中文.png" group-title="卫视频道",凤凰卫视中文台
-http://cdn.163189.xyz/live/fhzw/stream.m3u8
+https://tv.iill.top/phenix/fhzw
 #EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://epg.v1.mk/logo/凤凰卫视资讯.png" group-title="卫视频道",凤凰卫视资讯台
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-name="凤凰卫视香港台" tvg-logo="https://epg.v1.mk/logo/凤凰卫视香港.png" group-title="卫视频道",凤凰卫视香港台
@@ -252,7 +252,7 @@ http://192.168.100.1:35456/jump?url=https%3A%2F%2Fgdcucc.v1.mk%2Fgdcucc%2Fchcdzd
 #EXTINF:-1 tvg-id="緯來體育" tvg-name="緯來體育" tvg-logo="https://epg.v1.mk/logo/緯來體育.png" group-title="港台频道",緯來體育
 rtmp://f13h.mine.nu/sat/tv721
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="港台频道",翡翠台
-http://cdn.132.us.kg/live/fct4k/stream.m3u8
+https://yang-1989.eu.org/live/TVB-Jade
 #EXTINF:-1 tvg-id="東森新聞" tvg-name="東森新聞" tvg-logo="https://epg.v1.mk/logo/東森新聞.png" group-title="港台频道",東森新聞
 http://aktv_stream.m16tv.cfd/stream/yt/null-2/AKTV.m3u8
 #EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://epg.v1.mk/logo/寰宇新聞台.png" group-title="港台频道",寰宇新聞台

@@ -256,7 +256,7 @@ http://192.168.100.1:35456/jump?url=https%3A%2F%2Fgdcucc.v1.mk%2Fgdcucc%2Fchcdzd
 https://yang-1989.eu.org/live/TVB-Jade
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港台频道",翡翠台
 https://mysupertv.pendy.dpdns.org/FeiCui/feicui.m3u8
-#EXTINF:-1,tvg-id="PopC" tvg-name="PopC" tvg-logo="https://epg.112114.xyz/logo/POPC.png" group-title="港台频道",PopC
+#EXTINF:-1,tvg-id="PopC" tvg-name="PopC" tvg-logo="https://assets.livednow.com/logo/PopC.png" group-title="港台频道",PopC
 https://mysupertv.pendy.dpdns.org/PopC/popc.m3u8
 #EXTINF:-1,tvg-id="美亚电影台" tvg-name="美亚电影台" tvg-logo="https://epg.112114.xyz/logo/美亚电影台.png" group-title="港台频道",美亚电影台
 https://mysupertv.pendy.dpdns.org/CMAM/cmam.m3u8

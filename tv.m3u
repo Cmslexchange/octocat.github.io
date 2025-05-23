@@ -106,6 +106,9 @@ http://192.168.100.1:8088/udp/233.50.200.162:5140
 # 卫视频道 参考：https://www.tvmao.com/program/playing/satellite
 ########################################################################################################################
 
+#EXTINF:-1 tvg-id="北京卫视 4K" tvg-name="北京卫视 4K" tvg-logo="https://assets.livednow.com/logo/北京卫视4K.png" group-title="卫视", 北京卫视
+http://192.168.100.1:8088/udp/233.50.202.100:5140
+
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://assets.livednow.com/logo/北京卫视.png" group-title="卫视", 北京卫视
 http://192.168.100.1:8088/udp/233.50.200.179:5140
 

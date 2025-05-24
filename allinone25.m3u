@@ -196,7 +196,7 @@ http://192.168.100.1:8088/udp/233.50.201.72:5140
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://assets.livednow.com/logo/宁夏卫视.png" group-title="卫视频道", 宁夏卫视
 http://192.168.100.1:8088/udp/233.50.201.57:5140
 
-#EXTINF:-1 tvg-id="IPTV-电影频道" tvg-name="IPTV-电影频道" tvg-logo="https://upload.112114.xyz/logo/IPTVDY.png" group-title="数字频道",IPTV-电影频道
+#EXTINF:-1 tvg-id="IPTV-电影频道" tvg-name="IPTV-电影频道" tvg-logo="https://epg.v1.mk/logo/重温经典.png" group-title="数字频道",重温经典
 http://192.168.100.1:35456/jump?url=https%3A%2F%2Fgdcucc.v1.mk%2Fgdcucc%2Fcwjd.m3u8$gdcucc
 #EXTINF:-1 tvg-id="萌宠TV" tvg-name="萌宠TV" tvg-logo="https://epg.v1.mk/logo/萌宠TV.png" group-title="数字频道",萌宠TV
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fbptv%2F10000100000000050000000003887495.m3u8%24other

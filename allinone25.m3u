@@ -3,8 +3,6 @@
 #EXT-X-APTV-TYPE remote
 #EXT-X-SUB-URL http://192.168.100.1:35456/m3u/2
 
-#EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视4K" tvg-logo="https://assets.livednow.com/logo/北京卫视4K.png" group-title="4 K 8 K", 北京卫视4K
-http://192.168.100.1:8088/udp/233.50.202.100:5140
 #EXTINF:-1 tvg-id="北京IPTV4K" tvg-name="北京IPTV4K" tvg-logo="https://epg.v1.mk/logo/北京IPTV4K.png" group-title="4 K 8 K",北京IPTV4K
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fbptv%2F10000100000000050000000003887500.m3u8%24other
 #EXTINF:-1 tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="https://epg.v1.mk/logo/北京体育休闲.png" group-title="4 K 8 K",北京体育休闲-4K-HLG
@@ -35,15 +33,6 @@ http://192.168.100.1:8088/udp/233.50.200.183:5140
 
 #EXTINF:-1 tvg-id="BesTV 新威体育" tvg-name="BesTV 新威体育" group-title="BesTV", BesTV 新威体育
 http://192.168.100.1:8088/udp/233.50.201.203:5140
-
-#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知1
-http://192.168.100.1:8088/udp/233.50.200.31:5140
-
-#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知2
-http://192.168.100.1:8088/udp/233.50.200.235:5140
-
-#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知3
-http://192.168.100.1:8088/udp/233.50.201.207:5140
 
 #EXTINF:-1 tvg-id="历史" tvg-name="历史" group-title="BesTV", 历史
 http://192.168.100.1:8088/udp/233.50.201.117:5140
@@ -113,9 +102,6 @@ http://192.168.100.1:8088/udp/233.50.200.191:5140
 http://192.168.100.1:8088/udp/233.50.200.192:5140
 #EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-name="凤凰卫视香港台" tvg-logo="https://epg.v1.mk/logo/凤凰卫视香港.png" group-title="卫视频道",凤凰卫视香港台
 http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
-#EXTINF:-1 tvg-id="北京卫视 4K" tvg-name="北京卫视 4K" tvg-logo="https://assets.livednow.com/logo/北京卫视4K.png" group-title="卫视频道" 北京卫视
-http://192.168.100.1:8088/udp/233.50.202.100:5140
-
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://assets.livednow.com/logo/北京卫视.png" group-title="卫视频道", 北京卫视
 http://192.168.100.1:8088/udp/233.50.200.179:5140
 

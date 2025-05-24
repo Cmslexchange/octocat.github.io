@@ -21,6 +21,75 @@ http://192.168.100.1:35456/jump?url=https%3A%2F%2Fd18dyiwu97wm6q.cloudfront.net%
 http://192.168.100.1:35456/jump?url=https%3A%2F%2Fd2dw21aq0j0l5c.cloudfront.net%2Fplaylist_3840x2160.m3u8%24cloudfront
 #EXTINF:-1 tvg-id="北京纪实科教8K" tvg-name="北京纪实科教8K" tvg-logo="https://epg.v1.mk/logo/北京纪实科教8K.png" group-title="4 K 8 K",北京纪实科教8K
 http://192.168.100.1:35456/jump?url=https%3A%2F%2Fgdcucc.v1.mk%2Fgdcucc%2Fbrtv8k.m3u8%24gdcucc
+#EXTINF:-1 tvg-id="BesTV 新闻记录" tvg-name="BesTV 新闻记录" group-title="BesTV", BesTV 新闻记录
+http://192.168.100.1:8088/udp/233.50.200.182:5140
+
+#EXTINF:-1 tvg-id="BesTV 电影" tvg-name="BesTV 电影" group-title="BesTV", BesTV 电影 4K
+http://192.168.100.1:8088/udp/233.50.200.185:5140
+
+#EXTINF:-1 tvg-id="BesTV 电视剧" tvg-name="BesTV 电视剧" group-title="BesTV", BesTV 电视剧
+http://192.168.100.1:8088/udp/233.50.201.116:5140
+
+#EXTINF:-1 tvg-id="BesTV 少儿" tvg-name="BesTV 少儿" group-title="BesTV", BesTV 少儿
+http://192.168.100.1:8088/udp/233.50.200.183:5140
+
+#EXTINF:-1 tvg-id="BesTV 新威体育" tvg-name="BesTV 新威体育" group-title="BesTV", BesTV 新威体育
+http://192.168.100.1:8088/udp/233.50.201.203:5140
+
+#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知1
+http://192.168.100.1:8088/udp/233.50.200.31:5140
+
+#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知1
+http://192.168.100.1:8088/udp/233.50.200.32:5140
+
+#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知2
+http://192.168.100.1:8088/udp/233.50.200.233:5140
+
+#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知3
+http://192.168.100.1:8088/udp/233.50.200.234:5140
+
+#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知4
+http://192.168.100.1:8088/udp/233.50.200.235:5140
+
+#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知5
+http://192.168.100.1:8088/udp/233.50.200.236:5140
+
+#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知6
+http://192.168.100.1:8088/udp/233.50.200.237:5140
+
+#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知7
+http://192.168.100.1:8088/udp/233.50.200.244:5140
+
+#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知8
+http://192.168.100.1:8088/udp/233.50.200.245:5140
+
+#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知9
+http://192.168.100.1:8088/udp/233.50.200.246:5140
+
+#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知10
+http://192.168.100.1:8088/udp/233.50.201.201:5140
+
+#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知11
+http://192.168.100.1:8088/udp/233.50.201.202:5140
+
+#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知12
+http://192.168.100.1:8088/udp/233.50.201.204:5140
+
+#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知13
+http://192.168.100.1:8088/udp/233.50.201.205:5140
+
+#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知14
+http://192.168.100.1:8088/udp/233.50.201.206:5140
+
+#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知15
+http://192.168.100.1:8088/udp/233.50.201.207:5140
+
+#EXTINF:-1 tvg-id="历史" tvg-name="历史" group-title="BesTV", 历史
+http://192.168.100.1:8088/udp/233.50.201.117:5140
+
+# 华数：https://itv.wasu.cn/
+#EXTINF:-1 tvg-id="华数娱乐" tvg-name="华数娱乐" group-title="BesTV", 华数娱乐
+http://192.168.100.1:8088/udp/233.50.201.116:5140
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV 1" tvg-logo="https://assets.livednow.com/logo/CCTV1.png" group-title="央视频道", CCTV 1 综合
 http://192.168.100.1:8088/udp/233.50.200.130:5140
 
@@ -294,10 +363,45 @@ http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000010000027691.m3u8%3Fcdn%3DFifastbLive%24itv
 #EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-45
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000010000031669.m3u8%3Fcdn%3DFifastbLive%24itv
-#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.v1.mk/logo/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
-http://192.168.100.1:35456/jump?url=https%3A%2F%2Fgdcucc.v1.mk%2Fgdcucc%2Fchcjtyy.m3u8%24gdcucc
-#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.v1.mk/logo/CHC动作电影.png" group-title="数字频道",CHC动作电影
-http://192.168.100.1:35456/jump?url=https%3A%2F%2Fgdcucc.v1.mk%2Fgdcucc%2Fchcdzdy.m3u8%24gdcucc
+#EXTINF:-1 tvg-id="SiTV-金色学堂" tvg-name="SiTV 金色学堂" tvg-logo="https://assets.livednow.com/logo/SiTV-金色学堂.png" group-title="sitv", SiTV 金色学堂
+http://192.168.100.1:8088/udp/233.50.200.122:5140
+
+#EXTINF:-1 tvg-id="SiTV-七彩戏剧" tvg-name="SiTV 七彩戏剧" tvg-logo="https://assets.livednow.com/logo/SiTV-七彩戏剧.png" group-title="sitv", SiTV 七彩戏剧
+http://192.168.100.1:8088/udp/233.50.200.75:5140
+
+#EXTINF:-1 tvg-id="SiTV-东方财经" tvg-name="SiTV 东方财经" tvg-logo="https://assets.livednow.com/logo/上海东方财经.png" group-title="sitv", SiTV 东方财经
+http://192.168.100.1:8088/udp/233.50.200.177:5140
+
+#EXTINF:-1 tvg-id="SiTV-法治天地" tvg-name="SiTV 法治天地" tvg-logo="https://assets.livednow.com/logo/SiTV-法治天地.png" group-title="sitv", SiTV 法治天地
+http://192.168.100.1:8088/udp/233.50.200.120:5140
+
+#EXTINF:-1 tvg-id="SiTV-劲爆体育" tvg-name="SiTV 劲爆体育" tvg-logo="https://assets.livednow.com/logo/SiTV-劲爆体育.png" group-title="sitv", SiTV 劲爆体育
+# 电信IPTV暂时没找到，可以使用pixman
+# http://{{pixman地址}}:{{pixman端口}}/itv/bestzb/5000000002000029972
+
+#EXTINF:-1 tvg-id="SiTV-魅力足球" tvg-name="SiTV 魅力足球" tvg-logo="https://assets.livednow.com/logo/SiTV-魅力足球.png" group-title="sitv", SiTV 魅力足球
+http://192.168.100.1:8088/udp/233.50.200.176:5140
+
+#EXTINF:-1 tvg-id="SiTV-乐游" tvg-name="SiTV 乐游" tvg-logo="https://assets.livednow.com/logo/SiTV-乐游.png" group-title="sitv", SiTV 乐游
+http://192.168.100.1:8088/udp/233.50.200.148:5140
+
+#EXTINF:-1 tvg-id="SiTV-动漫秀场" tvg-name="SiTV 动漫秀场" tvg-logo="https://assets.livednow.com/logo/SiTV-动漫秀场.png" group-title="sitv", SiTV 动漫秀场
+http://192.168.100.1:8088/udp/233.50.200.12:5140
+
+#EXTINF:-1 tvg-id="SiTV-都市剧场" tvg-name="SiTV 都市剧场" tvg-logo="https://assets.livednow.com/logo/SiTV-都市剧场.png" group-title="sitv", SiTV 都市剧场
+http://192.168.100.1:8088/udp/233.50.200.11:5140
+
+#EXTINF:-1 tvg-id="SiTV-欢笑剧场-4K" tvg-name="SiTV 欢笑剧场-4K" tvg-logo="https://assets.livednow.com/logo/SiTV-欢笑剧场-4K.png" group-title="sitv", SiTV 欢笑剧场-4K
+http://192.168.100.1:8088/udp/233.50.200.52:5140
+
+#EXTINF:-1 tvg-id="SiTV-欢笑剧场" tvg-name="SiTV 欢笑剧场" tvg-logo="https://assets.livednow.com/logo/SiTV-欢笑剧场.png" group-title="sitv", SiTV 欢笑剧场
+http://192.168.100.1:8088/udp/233.50.200.229:5140
+
+#EXTINF:-1 tvg-id="SiTV-生活时尚" tvg-name="SiTV 生活时尚" tvg-logo="https://assets.livednow.com/logo/SiTV-生活时尚.png" group-title="sitv", SiTV 生活时尚
+http://192.168.100.1:8088/udp/233.50.200.15:5140
+
+#EXTINF:-1 tvg-id="SiTV-游戏风云" tvg-name="SiTV 游戏风云" tvg-logo="https://assets.livednow.com/logo/SiTV-游戏风云.png" group-title="sitv", SiTV 游戏风云
+http://192.168.100.1:8088/udp/233.50.200.14:5140
 
 #EXTINF:-1 tvg-id="翡翠台4K" tvg-name="翡翠台4K" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="港台频道",翡翠台4K
 https://yang-1989.eu.org/live/TVB-Jade

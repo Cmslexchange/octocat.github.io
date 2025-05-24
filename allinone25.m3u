@@ -8,7 +8,7 @@ http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fbptv%2F
 #EXTINF:-1 tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="https://epg.v1.mk/logo/北京体育休闲.png" group-title="4 K 8 K",北京体育休闲-4K-HLG
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fbptv%2F10000100000000050000000004270524.m3u8$bptv
 #EXTINF:-1 tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="https://epg.v1.mk/logo/北京体育休闲.png" group-title="4 K 8 K",北京体育休闲-4K
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fbptv%2F10000100000000050000000004270525.m3u8$bptv
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fbptv%2F10000100000000050000000003870779.m3u8$bptv
 #EXTINF:-1 tvg-id="咪咕4K" tvg-name="咪咕4K" tvg-logo="https://epg.v1.mk/logo/咪咕4K.png" group-title="4 K 8 K",咪咕4K-1
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000010000005180.m3u8%3Fcdn%3DFifastbLive%24itv
 #EXTINF:-1 tvg-id="咪咕4K" tvg-name="咪咕4K" tvg-logo="https://epg.v1.mk/logo/咪咕4K.png" group-title="4 K 8 K",咪咕4K-2

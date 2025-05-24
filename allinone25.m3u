@@ -39,57 +39,18 @@ http://192.168.100.1:8088/udp/233.50.201.203:5140
 #EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知1
 http://192.168.100.1:8088/udp/233.50.200.31:5140
 
-#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知1
-http://192.168.100.1:8088/udp/233.50.200.32:5140
-
 #EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知2
-http://192.168.100.1:8088/udp/233.50.200.233:5140
-
-#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知3
-http://192.168.100.1:8088/udp/233.50.200.234:5140
-
-#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知4
 http://192.168.100.1:8088/udp/233.50.200.235:5140
 
-#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知5
-http://192.168.100.1:8088/udp/233.50.200.236:5140
-
-#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知6
-http://192.168.100.1:8088/udp/233.50.200.237:5140
-
-#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知7
-http://192.168.100.1:8088/udp/233.50.200.244:5140
-
-#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知8
-http://192.168.100.1:8088/udp/233.50.200.245:5140
-
-#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知9
-http://192.168.100.1:8088/udp/233.50.200.246:5140
-
-#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知10
-http://192.168.100.1:8088/udp/233.50.201.201:5140
-
-#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知11
-http://192.168.100.1:8088/udp/233.50.201.202:5140
-
-#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知12
-http://192.168.100.1:8088/udp/233.50.201.204:5140
-
-#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知13
-http://192.168.100.1:8088/udp/233.50.201.205:5140
-
-#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知14
-http://192.168.100.1:8088/udp/233.50.201.206:5140
-
-#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知15
+#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知3
 http://192.168.100.1:8088/udp/233.50.201.207:5140
 
 #EXTINF:-1 tvg-id="历史" tvg-name="历史" group-title="BesTV", 历史
 http://192.168.100.1:8088/udp/233.50.201.117:5140
 
-# 华数：https://itv.wasu.cn/
 #EXTINF:-1 tvg-id="华数娱乐" tvg-name="华数娱乐" group-title="BesTV", 华数娱乐
 http://192.168.100.1:8088/udp/233.50.201.116:5140
+
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV 1" tvg-logo="https://assets.livednow.com/logo/CCTV1.png" group-title="央视频道", CCTV 1 综合
 http://192.168.100.1:8088/udp/233.50.200.130:5140
 

@@ -656,3 +656,43 @@ https://tv.iill.top/4gtv/236
 https://tv.iill.top/4gtv/301
 #EXTINF:-1 tvg-id="电影原声台CMUSIC" tvg-name="电影原声台CMUSIC" tvg-logo="https://assets.livednow.com/logo/電影原聲台CMusic.png" group-title="港台频道",電影原聲 CMusic
 https://tv.iill.top/4gtv/218
+#EXTINF:-1 tvg-id="CCTV4k" tvg-name="CCTV4k" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV4k.png" group-title="测试频道",CCTV4K
+http://175.22.226.131:888/hls/19/index.m3u8
+#EXTINF:-1 tvg-id="发现之旅" tvg-name="发现之旅" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/发现之旅.png" group-title="测试频道",发现之旅
+http://175.22.226.131:888/hls/79/index.m3u8
+#EXTINF:-1 tvg-id="老故事" tvg-name="老故事" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/老故事.png" group-title="测试频道",老故事
+http://175.22.226.131:888/hls/80/index.m3u8
+#EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/女性时尚.png" group-title="测试频道",女性时尚
+http://175.22.226.131:888/hls/81/index.m3u8
+#EXTINF:-1 tvg-id="环球奇观" tvg-name="环球奇观" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/环球奇观.png" group-title="测试频道",环球奇观
+http://175.22.226.131:888/hls/82/index.m3u8
+#EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/第一剧场.png" group-title="测试频道",第一剧场
+http://175.22.226.131:888/hls/83/index.m3u8
+#EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/世界地理.png" group-title="测试频道",世界地理
+http://175.22.226.131:888/hls/84/index.m3u8
+#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/风云足球.png" group-title="测试频道",风云足球
+http://175.22.226.131:888/hls/85/index.m3u8
+#EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/央视台球.png" group-title="测试频道",央视台球
+http://175.22.226.131:888/hls/86/index.m3u8
+#EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/风云音乐.png" group-title="测试频道",风云音乐
+http://175.22.226.131:888/hls/87/index.m3u8
+#EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/怀旧剧场.png" group-title="测试频道",怀旧剧场
+http://175.22.226.131:888/hls/88/index.m3u8
+#EXTINF:-1 tvg-id="央视文化精品" tvg-name="央视文化精品" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/央视文化精品.png" group-title="测试频道",央视文化精品
+http://175.22.226.131:888/hls/89/index.m3u8
+#EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/兵器科技.png" group-title="测试频道",兵器科技
+http://175.22.226.131:888/hls/90/index.m3u8
+#EXTINF:-1 tvg-id="中学生" tvg-name="中学生" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/中学生.png" group-title="测试频道",中学生
+http://175.22.226.131:888/hls/91/index.m3u8
+#EXTINF:-1 tvg-id="汽摩" tvg-name="汽摩" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/汽摩.png" group-title="测试频道",汽摩
+http://175.22.226.131:888/hls/92/index.m3u8
+#EXTINF:-1 tvg-id="国学" tvg-name="国学" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/国学.png" group-title="测试频道",国学频道
+http://175.22.226.131:888/hls/93/index.m3u8
+#EXTINF:-1 tvg-id="书画" tvg-name="书画" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/书画.png" group-title="测试频道",书画
+http://175.22.226.131:888/hls/94/index.m3u8
+#EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/风云剧场.png" group-title="测试频道",风云剧场
+http://175.22.226.131:888/hls/95/index.m3u8
+#EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/电视指南.png" group-title="测试频道",电视指南
+http://175.22.226.131:888/hls/96/index.m3u8
+#EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/高尔夫网球.png" group-title="测试频道",高尔夫网球
+http://175.22.226.131:888/hls/97/index.m3u8

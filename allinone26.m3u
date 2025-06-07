@@ -3,10 +3,8 @@
 #EXT-X-APTV-TYPE remote
 #EXT-X-SUB-URL http://192.168.100.1:35456/m3u/2
 
-#EXTINF:-1 tvg-id="北京IPTV4K" tvg-name="北京IPTV4K" tvg-logo="https://epg.v1.mk/logo/北京IPTV4K.png" group-title="4 K 8 K",北京IPTV4K
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fbptv%2F10000100000000050000000003887500.m3u8%24other
 #EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视4K" tvg-logo="https://epg.v1.mk/logo/北京卫视4k.png" group-title="4 K 8 K",北京卫视4K
-https://migu.777189.xyz/?migutoken=27c998d78c7bc7f125ac816065e88260&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%864K%E8%B6%85%E9%AB%98%E6%B8%85&type=bj
+https://migu.777189.xyz/?migutoken=62aaa55d9d0c0e7a2daf7cdcd922efc9&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&pp=1
 #EXTINF:-1 tvg-id="咪咕4K" tvg-name="咪咕4K" tvg-logo="https://epg.v1.mk/logo/咪咕4K.png" group-title="4 K 8 K",咪咕4K-1
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000010000005180.m3u8%3Fcdn%3DFifastbLive%24itv
 #EXTINF:-1 tvg-id="咪咕4K" tvg-name="咪咕4K" tvg-logo="https://epg.v1.mk/logo/咪咕4K.png" group-title="4 K 8 K",咪咕4K-2
@@ -15,10 +13,6 @@ http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3
 http://192.168.100.1:35456/jump?url=https%3A%2F%2Fd18dyiwu97wm6q.cloudfront.net%2Fplaylist2160p.m3u8%24cloudfront
 #EXTINF:-1 tvg-id="LOUPE4K" tvg-name="LOUPE4K" tvg-logo="https://epg.v1.mk/logo/LOUPE4K.png" group-title="4 K 8 K",Loupe 4K
 http://192.168.100.1:35456/jump?url=https%3A%2F%2Fd2dw21aq0j0l5c.cloudfront.net%2Fplaylist_3840x2160.m3u8%24cloudfront
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV4K.png" group-title="4 K 8 K",CCTV4K
-https://nptv.freetv.top/nptv/cctv4k.m3u8
-#EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV8K.png" group-title="4 K 8 K",CCTV8K
-https://nptv.freetv.top/nptv/cctv8k.m3u8
 #EXTINF:-1 tvg-id="北京纪实科教8K" tvg-name="北京纪实科教8K" tvg-logo="https://epg.v1.mk/logo/北京纪实科教8K.png" group-title="4 K 8 K",北京纪实科教8K
 https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
 #EXTINF:-1 tvg-id="BesTV 新闻记录" tvg-name="BesTV 新闻记录" group-title="BesTV", BesTV 新闻记录
@@ -245,38 +239,12 @@ https://migu.777189.xyz/?migutoken=fd2b23a340eee9af0bdd320d1098d062&id=CHC%E5%BD
 https://migu.777189.xyz/?migutoken=77ee7e9a61e86b348e86a3d80f599ff8&id=%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8&pp=1
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://fy.188766.xyz/logo/taksssss/tv/icon/卡酷少儿.png" group-title="数字频道",卡酷少儿
 https://migu.777189.xyz/?migutoken=9fa7a3489d32a22f6c6d758a9b0a9633&id=%E5%8C%97%E4%BA%AC%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF&type=yy
-#EXTINF:-1 tvg-id="北京影视" tvg-name="北京影视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/北京影视.png" group-title="数字频道",北京影视
-https://migu.777189.xyz/?migutoken=3eeedd123755de2686d47e0ada9218a3&id=%E5%8C%97%E4%BA%AC%E5%BD%B1%E8%A7%86&type=yy
-#EXTINF:-1 tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/北京文艺.png" group-title="数字频道",北京文艺
-https://migu.777189.xyz/?migutoken=715856e3fa97e0c567bc08e685835460&id=%E5%8C%97%E4%BA%AC%E6%96%87%E8%89%BA&type=yy
-#EXTINF:-1 tvg-id="北京财经" tvg-name="北京财经" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/北京财经.png" group-title="数字频道",北京财经
-https://migu.777189.xyz/?migutoken=b7aaa2073d0bca56a2f33c78087cecc1&id=%E5%8C%97%E4%BA%AC%E8%B4%A2%E7%BB%8F&type=yy
-#EXTINF:-1 tvg-id="北京生活" tvg-name="北京生活" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/北京生活.png" group-title="数字频道",北京生活
-https://migu.777189.xyz/?migutoken=4118cf078232118316ec41aeacb246af&id=%E5%8C%97%E4%BA%ACi%E7%94%9F%E6%B4%BB&type=yy
-#EXTINF:-1 tvg-id="北京新闻" tvg-name="北京新闻" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/北京新闻.png" group-title="数字频道",北京新闻
-https://migu.777189.xyz/?migutoken=e1dc8626d0dcf92db914f233d1cdafdd&id=%E5%8C%97%E4%BA%AC%E6%96%B0%E9%97%BB&type=yy
-#EXTINF:-1 tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/北京体育休闲.png" group-title="数字频道",北京体育休闲
-https://migu.777189.xyz/?migutoken=841462b832bc718b18205bcf0df2b48f&id=%E5%8C%97%E4%BA%AC%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2&type=yy
-#EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/北京纪实科教.png" group-title="数字频道",北京纪实科教
-https://migu.777189.xyz/?migutoken=d4bf9f478957d75fcc6f95257a4fe48c&id=%E5%8C%97%E4%BA%AC%E7%BA%AA%E5%AE%9E%E7%A7%91%E6%95%99&type=yy
 #EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/东方影视.png" group-title="数字频道",东方影视
 https://migu.777189.xyz/?migutoken=ab6f6815b83a08556279ac0e212cb63a&id=%E4%B8%8A%E8%A7%86%E4%B8%9C%E6%96%B9%E5%BD%B1%E8%A7%86&type=yy
-#EXTINF:-1 tvg-id="萌宠TV" tvg-name="萌宠TV" tvg-logo="https://epg.v1.mk/logo/萌宠TV.png" group-title="数字频道",萌宠TV
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fbptv%2F10000100000000050000000003887495.m3u8%24other
-#EXTINF:-1 tvg-id="淘BABY" tvg-name="淘BABY" tvg-logo="https://epg.v1.mk/logo/淘BABY.png" group-title="数字频道",淘BABY
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fbptv%2F10000100000000050000000003887496.m3u8%24other
-#EXTINF:-1 tvg-id="淘剧场" tvg-name="淘剧场" tvg-logo="https://epg.v1.mk/logo/淘剧场.png" group-title="数字频道",淘剧场
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fbptv%2F10000100000000050000000003887497.m3u8%24other
-#EXTINF:-1 tvg-id="淘电影" tvg-name="淘电影" tvg-logo="https://epg.v1.mk/logo/淘电影.png" group-title="数字频道",淘电影
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fbptv%2F10000100000000050000000003887498.m3u8%24other
-#EXTINF:-1 tvg-id="淘娱乐" tvg-name="淘娱乐" tvg-logo="https://epg.v1.mk/logo/淘娱乐.png" group-title="数字频道",淘娱乐
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fbptv%2F10000100000000050000000003887499.m3u8%24other
 #EXTINF:-1 tvg-id="咪咕全民热练" tvg-name="咪咕全民热练" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪咕全民热练
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000020000031315.m3u8%3Fcdn%3DFifastbLive%24itv
 #EXTINF:-1 tvg-id="红色轮播台" tvg-name="红色轮播台" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="数字频道",红色轮播台
 https://tv.iill.top/migu/hslb
-#EXTINF:-1 tvg-id="金色剧场" tvg-name="金色剧场" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="数字频道",金色剧场
-https://tv.iill.top/migu/jsjc
 #EXTINF:-1 tvg-id="NBA经典" tvg-name="NBA经典" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="数字频道",NBA 经典
 https://tv.iill.top/migu/nba
 #EXTINF:-1 tvg-id="五大联赛经典" tvg-name="五大联赛经典" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="数字频道",五大联赛经典

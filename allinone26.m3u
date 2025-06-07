@@ -30,7 +30,7 @@ http://192.168.100.1:8088/rtp/233.50.200.183:5140
 #EXTINF:-1 tvg-id="历史" tvg-name="历史" tvg-logo="https://epg.v1.mk/logo/bestv.png" group-title="BesTV", 历史
 http://192.168.100.1:8088/rtp/233.50.201.117:5140
 
-#EXTINF:-1 tvg-id="华数娱乐" tvg-name="华数娱乐" tvg-logo="https://epg.v1.mk/logo/华数4K.png" group-title="BesTV", 华数娱乐
+#EXTINF:-1 tvg-id="华数影视4K" tvg-name="华数影视4K" tvg-logo="https://epg.v1.mk/logo/华数4K.png" group-title="BesTV", 华数影视4K
 http://192.168.100.1:8088/rtp/233.50.201.116:5140
 #EXTINF:-1 tvg-id="SiTV-金色学堂" tvg-name="SiTV 金色学堂" tvg-logo="https://assets.livednow.com/logo/SiTV-金色学堂.png" group-title="SiTV", SiTV 金色学堂
 http://192.168.100.1:8088/rtp/233.50.200.122:5140

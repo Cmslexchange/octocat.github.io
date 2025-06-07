@@ -15,25 +15,22 @@ http://192.168.100.1:35456/jump?url=https%3A%2F%2Fd18dyiwu97wm6q.cloudfront.net%
 http://192.168.100.1:35456/jump?url=https%3A%2F%2Fd2dw21aq0j0l5c.cloudfront.net%2Fplaylist_3840x2160.m3u8%24cloudfront
 #EXTINF:-1 tvg-id="北京纪实科教8K" tvg-name="北京纪实科教8K" tvg-logo="https://epg.v1.mk/logo/北京纪实科教8K.png" group-title="4 K 8 K",北京纪实科教8K
 https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
-#EXTINF:-1 tvg-id="BesTV 新闻记录" tvg-name="BesTV 新闻记录" group-title="BesTV", BesTV 新闻记录
+#EXTINF:-1 tvg-id="BesTV 新闻记录" tvg-name="BesTV 新闻记录" tvg-logo="https://epg.v1.mk/logo/bestv.png" group-title="BesTV", BesTV 新闻记录
 http://192.168.100.1:8088/rtp/233.50.200.182:5140
 
-#EXTINF:-1 tvg-id="BesTV 电影" tvg-name="BesTV 电影" group-title="BesTV", BesTV 电影 4K
+#EXTINF:-1 tvg-id="BesTV 电影" tvg-name="BesTV 电影" tvg-logo="https://epg.v1.mk/logo/bestv.png" group-title="BesTV", BesTV 电影 4K
 http://192.168.100.1:8088/rtp/233.50.200.185:5140
 
-#EXTINF:-1 tvg-id="BesTV 电视剧" tvg-name="BesTV 电视剧" group-title="BesTV", BesTV 电视剧
+#EXTINF:-1 tvg-id="BesTV 电视剧" tvg-name="BesTV 电视剧" tvg-logo="https://epg.v1.mk/logo/bestv.png" group-title="BesTV", BesTV 电视剧
 http://192.168.100.1:8088/rtp/233.50.201.116:5140
 
-#EXTINF:-1 tvg-id="BesTV 少儿" tvg-name="BesTV 少儿" group-title="BesTV", BesTV 少儿
+#EXTINF:-1 tvg-id="BesTV 少儿" tvg-name="BesTV 少儿" tvg-logo="https://epg.v1.mk/logo/bestv.png" group-title="BesTV", BesTV 少儿
 http://192.168.100.1:8088/rtp/233.50.200.183:5140
 
-#EXTINF:-1 tvg-id="BesTV 新威体育" tvg-name="BesTV 新威体育" group-title="BesTV", BesTV 新威体育
-http://192.168.100.1:8088/rtp/233.50.201.203:5140
-
-#EXTINF:-1 tvg-id="历史" tvg-name="历史" group-title="BesTV", 历史
+#EXTINF:-1 tvg-id="历史" tvg-name="历史" tvg-logo="https://epg.v1.mk/logo/bestv.png" group-title="BesTV", 历史
 http://192.168.100.1:8088/rtp/233.50.201.117:5140
 
-#EXTINF:-1 tvg-id="华数娱乐" tvg-name="华数娱乐" group-title="BesTV", 华数娱乐
+#EXTINF:-1 tvg-id="华数娱乐" tvg-name="华数娱乐" tvg-logo="https://epg.v1.mk/logo/华数4K.png" group-title="BesTV", 华数娱乐
 http://192.168.100.1:8088/rtp/233.50.201.116:5140
 #EXTINF:-1 tvg-id="SiTV-金色学堂" tvg-name="SiTV 金色学堂" tvg-logo="https://assets.livednow.com/logo/SiTV-金色学堂.png" group-title="SiTV", SiTV 金色学堂
 http://192.168.100.1:8088/rtp/233.50.200.122:5140

@@ -202,7 +202,7 @@ http://192.168.100.1:8088/rtp/233.50.201.148:5140
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://assets.livednow.com/logo/西藏卫视.png" group-title="卫视频道",西藏卫视
 http://192.168.100.1:8088/rtp/233.50.201.70:5140
 
-#EXTINF:-1 tvg-id="38" tvg-name="钱江频道" tvg-logo="https://epg.v1.mk/logo/钱江频道.png" group-title="浙江频道",钱江频道
+#EXTINF:-1 tvg-id="38" tvg-name="钱江频道" tvg-logo="https://epg.v1.mk/logo/钱江.png" group-title="浙江频道",钱江频道
 http://192.168.100.1:8088/rtp/233.50.201.132:5140
 #EXTINF:-1 tvg-id="39" tvg-name="浙江经济生活" tvg-logo="http://yourhost/iptv-logo/qianjiang.png" group-title="浙江频道",浙江经济生活
 http://192.168.100.1:8088/rtp/233.50.201.133:5140

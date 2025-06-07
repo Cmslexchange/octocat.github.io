@@ -230,42 +230,6 @@ http://192.168.100.1:8088/rtp/233.50.201.176:5140
 http://192.168.100.1:8088/rtp/233.50.201.177:5140
 #EXTINF:-1 tvg-id="48" tvg-name="杭州导视" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/zhejiang/Hangzhou7.png" group-title="浙江频道",杭州导视
 http://192.168.100.1:8088/rtp/233.50.201.182:5140
-#EXTINF:-1 tvg-id="49" tvg-name="宁波TV1" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="浙江频道",宁波TV1
-http://192.168.100.1:8088/rtp/233.50.201.168:5140 
-#EXTINF:-1 tvg-id="49" tvg-name="宁波TV2" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="浙江频道",宁波TV2
-http://192.168.100.1:8088/rtp/233.50.201.178:5140 
-#EXTINF:-1 tvg-id="49" tvg-name="宁波TV3" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="浙江频道",宁波TV3
-http://192.168.100.1:8088/rtp/233.50.201.179:5140 
-#EXTINF:-1 tvg-id="49" tvg-name="宁波TV4" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="浙江频道",宁波TV4
-http://192.168.100.1:8088/rtp/233.50.201.180:5140 
-#EXTINF:-1 tvg-id="49" tvg-name="宁波TV5" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="浙江频道",宁波TV5
-http://192.168.100.1:8088/rtp/233.50.201.181:5140 
-#EXTINF:-1 tvg-id="49" tvg-name="温州新闻" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="浙江频道",温州新闻
-http://192.168.100.1:8088/rtp/233.50.201.87:5140 
-#EXTINF:-1 tvg-id="49" tvg-name="衢州新闻" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="浙江频道",衢州新闻
-http://192.168.100.1:8088/rtp/233.50.201.155:5140 
-#EXTINF:-1 tvg-id="49" tvg-name="绍兴新闻" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="浙江频道",绍兴新闻
-http://192.168.100.1:8088/rtp/233.50.201.156:5140 
-#EXTINF:-1 tvg-id="49" tvg-name="台州-1" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="浙江频道",台州-1
-http://192.168.100.1:8088/rtp/233.50.201.157:5140 
-#EXTINF:-1 tvg-id="49" tvg-name="湖州公共" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="浙江频道",湖州公共
-http://192.168.100.1:8088/rtp/233.50.201.158:5140 
-#EXTINF:-1 tvg-id="49" tvg-name="金华新闻" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="浙江频道",金华新闻
-http://192.168.100.1:8088/rtp/233.50.201.161:5140 
-#EXTINF:-1 tvg-id="49" tvg-name="丽水新闻" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="浙江频道",丽水新闻
-http://192.168.100.1:8088/rtp/233.50.201.162:5140 
-#EXTINF:-1 tvg-id="49" tvg-name="嘉兴新闻" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="浙江频道",嘉兴新闻
-http://192.168.100.1:8088/rtp/233.50.201.163:5140 
-#EXTINF:-1 tvg-id="49" tvg-name="桐乡新闻" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="浙江频道",桐乡新闻
-http://192.168.100.1:8088/rtp/233.50.201.169:5140
-#EXTINF:-1 tvg-id="49" tvg-name="杭州导视" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="浙江频道",杭州导视
-http://192.168.100.1:8088/rtp/233.50.201.182:5140
-#EXTINF:-1 tvg-id="49" tvg-name="衢州新闻综合" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="浙江频道",衢州新闻综合
-http://192.168.100.1:8088/rtp/233.50.202.11:5140
-#EXTINF:-1 tvg-id="49" tvg-name="衢州公共" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="浙江频道",衢州公共
-http://192.168.100.1:8088/rtp/233.50.202.12:5140
-#EXTINF:-1 tvg-id="48" tvg-name="余杭新闻" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="浙江频道",余杭新闻
-http://192.168.100.1:8088/rtp/233.50.201.159:5140
 
 #EXTINF:-1 tvg-id="1905电影网" tvg-name="1905电影网" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/1905dy.png" group-title="数字频道",1905电影网
 http://150.138.77.132:10037/1905%E7%94%B5%E5%BD%B1%E7%BD%91.php?id=1905a

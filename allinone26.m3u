@@ -218,17 +218,17 @@ https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1 tvg-id="之江纪录" tvg-name="之江纪录" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/zhejiang/Zhejiang8.png" group-title="浙江频道",之江纪录
 https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-#EXTINF:-1 tvg-id="44" tvg-name="杭州1综合" tvg-logo="https://gitee.com/suxuang/epglogo/blob/master/zhejiang/Hangzhou1.png" group-title="浙江频道",杭州1综合
+#EXTINF:-1 tvg-id="44" tvg-name="杭州1综合" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/zhejiang/Hangzhou1.png" group-title="浙江频道",杭州1综合
 http://192.168.100.1:8088/rtp/233.50.201.173:5140
-#EXTINF:-1 tvg-id="45" tvg-name="杭州2明珠" tvg-logo="https://gitee.com/suxuang/epglogo/blob/master/zhejiang/Hangzhou2.png" group-title="浙江频道",杭州2明珠
+#EXTINF:-1 tvg-id="45" tvg-name="杭州2明珠" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/zhejiang/Hangzhou2.png" group-title="浙江频道",杭州2明珠
 http://192.168.100.1:8088/rtp/233.50.201.174:5140
-#EXTINF:-1 tvg-id="46" tvg-name="杭州3生活" tvg-logo="https://gitee.com/suxuang/epglogo/blob/master/zhejiang/Hangzhou3.png" group-title="浙江频道",杭州3生活
+#EXTINF:-1 tvg-id="46" tvg-name="杭州3生活" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/zhejiang/Hangzhou3.png" group-title="浙江频道",杭州3生活
 http://192.168.100.1:8088/rtp/233.50.201.175:5140
-#EXTINF:-1 tvg-id="47" tvg-name="杭州4影视" tvg-logo="https://gitee.com/suxuang/epglogo/blob/master/zhejiang/Hangzhou4.png" group-title="浙江频道",杭州4影视
+#EXTINF:-1 tvg-id="47" tvg-name="杭州4影视" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/zhejiang/Hangzhou4.png" group-title="浙江频道",杭州4影视
 http://192.168.100.1:8088/rtp/233.50.201.176:5140
-#EXTINF:-1 tvg-id="48" tvg-name="杭州5青少" tvg-logo="https://gitee.com/suxuang/epglogo/blob/master/zhejiang/Hangzhou5.png" group-title="浙江频道",杭州5青少
+#EXTINF:-1 tvg-id="48" tvg-name="杭州5青少" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/zhejiang/Hangzhou5.png" group-title="浙江频道",杭州5青少
 http://192.168.100.1:8088/rtp/233.50.201.177:5140
-#EXTINF:-1 tvg-id="48" tvg-name="杭州导视" tvg-logo="https://gitee.com/suxuang/epglogo/blob/master/zhejiang/Hangzhou6.png" group-title="浙江频道",杭州导视
+#EXTINF:-1 tvg-id="48" tvg-name="杭州导视" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/zhejiang/Hangzhou6.png" group-title="浙江频道",杭州导视
 http://192.168.100.1:8088/rtp/233.50.201.182:5140
 #EXTINF:-1 tvg-id="49" tvg-name="宁波TV1" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="浙江频道",宁波TV1
 http://192.168.100.1:8088/rtp/233.50.201.168:5140 

@@ -202,7 +202,7 @@ http://192.168.100.1:8088/rtp/233.50.201.70:5140
 #EXTINF:-1 tvg-id="上视东方影视" tvg-name="上视东方影视" tvg-logo="https://epg.iill.top/logo/东方影视.png" group-title="浙江频道",上视东方影视
 https://tv.iill.top/migu/shys
 #EXTINF:-1 tvg-id="上海新闻" tvg-name="上海新闻" tvg-logo="https://epg.iill.top/logo/上海新闻.png" group-title="浙江频道",上海新闻
-https://tv.iill.top/migu/chcjt
+https://tv.iill.top/migu/shxw
 #EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://assets.livednow.com/logo/上海第一财经.png" group-title="浙江频道",上海第一财经
 http://192.168.100.1:8088/udp/233.50.200.125:5140
 #EXTINF:-1 tvg-id="浙江新闻" tvg-name="浙江新闻" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Zhejiang5.png" group-title="浙江频道",浙江新闻

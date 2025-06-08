@@ -115,13 +115,13 @@ http://192.168.100.1:8088/rtp/233.50.200.113:5140
 http://192.168.100.1:8088/rtp/233.50.201.63:5140
 
 #EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://epg.v1.mk/logo/凤凰卫视资讯.png" group-title="卫视频道",凤凰卫视资讯台
-http://192.168.100.1:8088/udp/233.50.200.192:5140
-#EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://epg.v1.mk/logo/凤凰卫视资讯.png" group-title="卫视频道",凤凰卫视资讯台
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-#EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://epg.v1.mk/logo/凤凰卫视中文.png" group-title="卫视频道",凤凰卫视中文台
-http://192.168.100.1:8088/udp/233.50.200.191:5140
+#EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://epg.v1.mk/logo/凤凰卫视资讯.png" group-title="卫视频道",凤凰卫视资讯台
+https://tv.iill.top/phenix/fhzx
 #EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://epg.v1.mk/logo/凤凰卫视中文.png" group-title="卫视频道",凤凰卫视中文台
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://epg.v1.mk/logo/凤凰卫视中文.png" group-title="卫视频道",凤凰卫视中文台
+https://tv.iill.top/phenix/fhzw
 #EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-name="凤凰卫视香港台" tvg-logo="https://epg.v1.mk/logo/凤凰卫视香港.png" group-title="卫视频道",凤凰卫视香港台
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 #EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-name="凤凰卫视香港台" tvg-logo="https://epg.v1.mk/logo/凤凰卫视香港.png" group-title="卫视频道",凤凰卫视香港台

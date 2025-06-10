@@ -3,9 +3,9 @@
 #EXT-X-APTV-TYPE remote
 #EXT-X-SUB-URL http://192.168.100.1:35456/m3u/2
 
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.v1.mk/logo/cctv4k.png" group-title="4 K 8 K",CCTV4K-NPTV
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.v1.mk/logo/cctv4k.png" group-title="4 K 8 K",CCTV4K
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fnptv%2Fcctv4k.m3u8%24other-NPTV
-#EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://epg.v1.mk/logo/cctv8k.png" group-title="4 K 8 K",CCTV8K-NPTV
+#EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://live.zbds.top/logo/CCTV8K.png" group-title="4 K 8 K",CCTV8K
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fnptv%2Fcctv8k.m3u8%24other-NPTV
 #EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视4K" tvg-logo="https://epg.v1.mk/logo/北京卫视4k.png" group-title="4 K 8 K",北京卫视4K
 https://migu.777189.xyz/?migutoken=ed40d072b859071238178fa5ff61ebd1&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&pp=1
@@ -258,11 +258,11 @@ http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fmgtv%2F
 https://migu.777189.xyz/?migutoken=93f9a0f14590e2e0ae35d9faefa14fdb&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&pp=1
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/重温经典.png" group-title="数字频道",重温经典
 http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-#EXTINF:-1 tvg-id="第一剧场-NPTV" tvg-name="第一剧场-NPTV" tvg-logo="https://epg.v1.mk/logo/第一剧场.png" group-title="数字频道",第一剧场-NPTV
+#EXTINF:-1 tvg-id="第一剧场-NPTV" tvg-name="第一剧场-NPTV" tvg-logo="https://epg.v1.mk/logo/第一剧场.png" group-title="数字频道",第一剧场
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fnptv%2Fdyjc.m3u8%24other
-#EXTINF:-1 tvg-id="风云剧场-NPTV" tvg-name="风云剧场-NPTV" tvg-logo="https://epg.v1.mk/logo/风云剧场.png" group-title="数字频道",风云剧场-NPTV
+#EXTINF:-1 tvg-id="风云剧场-NPTV" tvg-name="风云剧场-NPTV" tvg-logo="https://epg.v1.mk/logo/风云剧场.png" group-title="数字频道",风云剧场
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fnptv%2Ffyjc.m3u8%24other
-#EXTINF:-1 tvg-id="怀旧剧场-NPTV" tvg-name="怀旧剧场-NPTV" tvg-logo="https://epg.v1.mk/logo/怀旧剧场.png" group-title="数字频道",怀旧剧场-NPTV
+#EXTINF:-1 tvg-id="怀旧剧场-NPTV" tvg-name="怀旧剧场-NPTV" tvg-logo="https://epg.v1.mk/logo/怀旧剧场.png" group-title="数字频道",怀旧剧场
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fnptv%2Fhjjc.m3u8%24other
 #EXTINF:-1 tvg-id="咪咕全民热练" tvg-name="咪咕全民热练" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪咕全民热练
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000020000031315.m3u8%3Fcdn%3DFifastbLive%24itv

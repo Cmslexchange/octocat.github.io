@@ -11,6 +11,8 @@ http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fnptv%2F
 https://migu.777189.xyz/?migutoken=ed40d072b859071238178fa5ff61ebd1&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&pp=1
 #EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视4K" tvg-logo="https://epg.v1.mk/logo/北京卫视4k.png" group-title="4 K 8 K",北京卫视4K
 http://192.168.100.1:8088/udp/233.50.202.100:5140
+#EXTINF:-1 tvg-id="南国都市4K" tvg-name="南国都市4K" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/linitfor/epg/main/logo/广州南国都市.png" group-title="4 K 8 K",南国都市 4K
+http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
 #EXTINF:-1 tvg-id="咪咕4K" tvg-name="咪咕4K" tvg-logo="https://epg.v1.mk/logo/咪咕4K.png" group-title="4 K 8 K",咪咕4K-1
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000010000005180.m3u8%3Fcdn%3DFifastbLive%24itv
 #EXTINF:-1 tvg-id="咪咕4K" tvg-name="咪咕4K" tvg-logo="https://epg.v1.mk/logo/咪咕4K.png" group-title="4 K 8 K",咪咕4K-2

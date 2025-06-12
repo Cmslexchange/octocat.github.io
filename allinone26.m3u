@@ -53,10 +53,6 @@ http://192.168.100.1:8088/rtp/233.50.200.177:5140
 #EXTINF:-1 tvg-id="SiTV-法治天地" tvg-name="SiTV 法治天地" tvg-logo="https://assets.livednow.com/logo/SiTV-法治天地.png" group-title="SiTV", SiTV 法治天地
 http://192.168.100.1:8088/rtp/233.50.200.120:5140
 
-#EXTINF:-1 tvg-id="SiTV-劲爆体育" tvg-name="SiTV 劲爆体育" tvg-logo="https://assets.livednow.com/logo/SiTV-劲爆体育.png" group-title="SiTV", SiTV 劲爆体育
-# 电信IPTV暂时没找到，可以使用pixman
-# http://{{pixman地址}}:{{pixman端口}}/itv/bestzb/5000000002000029972
-
 #EXTINF:-1 tvg-id="SiTV-魅力足球" tvg-name="SiTV 魅力足球" tvg-logo="https://assets.livednow.com/logo/SiTV-魅力足球.png" group-title="SiTV", SiTV 魅力足球
 http://192.168.100.1:8088/rtp/233.50.200.176:5140
 

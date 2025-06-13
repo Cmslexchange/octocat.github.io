@@ -37,6 +37,18 @@ http://192.168.100.1:8088/rtp/233.50.200.185:5140
 
 #EXTINF:-1 tvg-id="BesTV 电视剧" tvg-name="BesTV 电视剧" tvg-logo="https://epg.v1.mk/logo/bestv.png" group-title="BesTV", BesTV 电视剧
 http://192.168.100.1:8088/rtp/233.50.201.116:5140
+#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://assets.livednow.com/logo/湖南快乐垂钓.png" group-title="BesTV",快乐垂钓
+http://192.168.100.1:8088/udp/233.50.200.123:5140
+#EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" tvg-logo="https://assets.livednow.com/logo/湖南茶频道.png" group-title="BesTV",茶频道
+http://192.168.100.1:8088/udp/233.50.200.124:5140
+#EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://assets.livednow.com/logo/睛彩竞技.png" group-title="BesTV",睛彩竞技
+http://192.168.100.1:8088/udp/233.50.201.193:5140
+#EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://assets.livednow.com/logo/睛彩篮球.png" group-title="BesTV",睛彩篮球
+http://192.168.100.1:8088/udp/233.50.201.194:5140
+#EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://assets.livednow.com/logo/睛彩青少.png" group-title="BesTV",睛彩青少
+http://192.168.100.1:8088/udp/233.50.201.195:5140
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://assets.livednow.com/logo/北京卡酷少儿.png" group-title="BesTV",卡酷少儿
+http://192.168.100.1:8088/udp/233.50.200.166:5140
 
 #EXTINF:-1 tvg-id="BesTV 少儿" tvg-name="BesTV 少儿" tvg-logo="https://epg.v1.mk/logo/bestv.png" group-title="BesTV", BesTV 少儿
 http://192.168.100.1:8088/rtp/233.50.200.183:5140

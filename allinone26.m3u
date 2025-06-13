@@ -29,15 +29,15 @@ http://cdn2.163189.xyz/live/gdty/stream.m3u8
 http://192.168.100.1:35456/jump?url=https%3A%2F%2Fgdcucc.v1.mk%2Fgdcucc%2Fbrtv8k.m3u8%24gdcucc
 #EXTINF:-1 tvg-id="北京纪实科教8K" tvg-name="北京纪实科教8K" tvg-logo="https://epg.v1.mk/logo/北京纪实科教8K.png" group-title="4 K 8 K",北京纪实科教8K
 https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
-#EXTINF:-1 tvg-id="BesTV 新闻记录" tvg-name="BesTV 新闻记录" tvg-logo="https://epg.v1.mk/logo/bestv.png" group-title="BesTV", BesTV 新闻记录
+#EXTINF:-1 tvg-id="BesTV 新闻记录" tvg-name="BesTV 新闻记录" tvg-logo="https://raw.githubusercontent.com/Cmslexchange/octocat.github.io/refs/heads/master/bestv.png" group-title="BesTV", BesTV 新闻记录
 http://192.168.100.1:8088/rtp/233.50.200.182:5140
-#EXTINF:-1 tvg-id="BesTV 电影" tvg-name="BesTV 电影" tvg-logo="https://epg.v1.mk/logo/bestv.png" group-title="BesTV", BesTV 电影 4K
+#EXTINF:-1 tvg-id="BesTV 电影" tvg-name="BesTV 电影" tvg-logo="https://raw.githubusercontent.com/Cmslexchange/octocat.github.io/refs/heads/master/bestv.png" group-title="BesTV", BesTV 电影 4K
 http://192.168.100.1:8088/rtp/233.50.200.185:5140
-#EXTINF:-1 tvg-id="BesTV 电视剧" tvg-name="BesTV 电视剧" tvg-logo="https://epg.v1.mk/logo/bestv.png" group-title="BesTV", BesTV 电视剧
+#EXTINF:-1 tvg-id="BesTV 电视剧" tvg-name="BesTV 电视剧" tvg-logo="https://raw.githubusercontent.com/Cmslexchange/octocat.github.io/refs/heads/master/bestv.png" group-title="BesTV", BesTV 电视剧
 http://192.168.100.1:8088/rtp/233.50.201.116:5140
-#EXTINF:-1 tvg-id="BesTV 少儿" tvg-name="BesTV 少儿" tvg-logo="https://epg.v1.mk/logo/bestv.png" group-title="BesTV", BesTV 少儿
+#EXTINF:-1 tvg-id="BesTV 少儿" tvg-name="BesTV 少儿" tvg-logo="https://raw.githubusercontent.com/Cmslexchange/octocat.github.io/refs/heads/master/bestv.png" group-title="BesTV", BesTV 少儿
 http://192.168.100.1:8088/rtp/233.50.200.183:5140
-#EXTINF:-1 tvg-id="历史" tvg-name="历史" tvg-logo="https://epg.v1.mk/logo/bestv.png" group-title="BesTV", 历史
+#EXTINF:-1 tvg-id="历史" tvg-name="历史" tvg-logo="https://raw.githubusercontent.com/Cmslexchange/octocat.github.io/refs/heads/master/bestv.png" group-title="BesTV", 历史
 http://192.168.100.1:8088/rtp/233.50.201.117:5140
 #EXTINF:-1 tvg-id="华数影视4K" tvg-name="华数影视4K" tvg-logo="https://epg.v1.mk/logo/华数4K.png" group-title="BesTV", 华数影视4K
 http://192.168.100.1:8088/rtp/233.50.201.116:5140

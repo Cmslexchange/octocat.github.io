@@ -245,6 +245,8 @@ http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fmgtv%2F
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CHC影迷电影.png" group-title="数字频道",CHC影迷电影
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fmgtv%2F952383261.m3u8%24other
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/重温经典.png" group-title="数字频道",重温经典
+https://migu.777189.xyz/?migutoken=4208ec3fe8a315b60f865105e4ce53ab&id=%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8&pp=1
+#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/重温经典.png" group-title="数字频道",重温经典
 http://192.168.100.1:35456/jump?url=https%3A%2F%2Fgdcucc.v1.mk%2Fgdcucc%2Fcwjd.m3u8%24gdcucc
 #EXTINF:-1 tvg-id="第一剧场-NPTV" tvg-name="第一剧场-NPTV" tvg-logo="https://epg.v1.mk/logo/第一剧场.png" group-title="数字频道",第一剧场
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fnptv%2Fdyjc.m3u8%24other

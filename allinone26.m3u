@@ -55,7 +55,10 @@ http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3
 http://192.168.100.1:8088/udp/233.50.200.123:5140
 #EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" tvg-logo="https://assets.livednow.com/logo/湖南茶频道.png" group-title="BesTV",茶频道
 http://192.168.100.1:8088/udp/233.50.200.124:5140
-
+#EXTINF:-1 tvg-id="NOW体育" tvg-name="NOW体育" tvg-logo="https://epg.pw/media/images/channel/2016/12/31/large/20161231231738105400_86.png" group-title="BesTV",NOW 体育
+http://a.ru8.dpdns.org/now/630/master.m3u8
+#EXTINF:-1 tvg-id="NOW新闻" tvg-name="NOW新闻" tvg-logo="https://epg.v1.mk/logo/NOW新闻.png" group-title="BesTV",NOW 新闻
+http://a.ru8.dpdns.org/now/332/master.m3u8
 #EXTINF:-1 tvg-id="SiTV-金色学堂" tvg-name="SiTV 金色学堂" tvg-logo="https://assets.livednow.com/logo/SiTV-金色学堂.png" group-title="SiTV", SiTV 金色学堂
 http://192.168.100.1:8088/rtp/233.50.200.122:5140
 

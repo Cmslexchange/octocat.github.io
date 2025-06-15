@@ -11,6 +11,8 @@ http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fnptv%2F
 https://migu.777189.xyz/?migutoken=6a457593d20e91cd960c23ff21eb1c37&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&pp=1
 #EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视4K" tvg-logo="https://epg.v1.mk/logo/北京卫视4k.png" group-title="4 K 8 K",北京卫视4K
 http://192.168.100.1:8088/udp/233.50.202.100:5140
+#EXTINF:-1 tvg-id="SiTV-欢笑剧场-4K" tvg-name="SiTV 欢笑剧场-4K" tvg-logo="https://assets.livednow.com/logo/SiTV-欢笑剧场-4K.png" group-title="4 K 8 K",欢笑剧场-4K
+http://192.168.100.1:8088/rtp/233.50.200.52:5140
 #EXTINF:-1 tvg-id="南国都市4K" tvg-name="南国都市4K" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/linitfor/epg/main/logo/广州南国都市.png" group-title="4 K 8 K",南国都市 4K
 https://tencentplaywebsite.gztv.com/live/nanguodushi.m3u8?txSecret=e93eb85173edb8a0c70fd1438c7bd7d7&txTime=193108637cb
 #EXTINF:-1 tvg-id="南国都市4K" tvg-name="南国都市4K" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/linitfor/epg/main/logo/广州南国都市.png" group-title="4 K 8 K",南国都市 4K
@@ -37,22 +39,22 @@ http://192.168.100.1:8088/rtp/233.50.200.185:5140
 http://192.168.100.1:8088/rtp/233.50.201.116:5140
 #EXTINF:-1 tvg-id="BesTV 少儿" tvg-name="BesTV 少儿" tvg-logo="https://raw.githubusercontent.com/Cmslexchange/octocat.github.io/refs/heads/master/bestv.png" group-title="BesTV", BesTV 少儿
 http://192.168.100.1:8088/rtp/233.50.200.183:5140
-#EXTINF:-1 tvg-id="历史" tvg-name="历史" tvg-logo="https://raw.githubusercontent.com/Cmslexchange/octocat.github.io/refs/heads/master/bestv.png" group-title="BesTV", 历史
+#EXTINF:-1 tvg-id="历史" tvg-name="历史" tvg-logo="https://raw.githubusercontent.com/Cmslexchange/octocat.github.io/refs/heads/master/bestv.png" group-title="BesTV", BesTV 历史
 http://192.168.100.1:8088/rtp/233.50.201.117:5140
-#EXTINF:-1 tvg-id="华数影视4K" tvg-name="华数影视4K" tvg-logo="https://epg.v1.mk/logo/华数4K.png" group-title="BesTV", 华数影视4K
+#EXTINF:-1 tvg-id="华数影视4K" tvg-name="华数影视4K" tvg-logo="https://epg.v1.mk/logo/华数4K.png" group-title="BesTV", BesTV 影视
 http://192.168.100.1:8088/rtp/233.50.201.116:5140
-#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://assets.livednow.com/logo/湖南快乐垂钓.png" group-title="BesTV",快乐垂钓
-http://192.168.100.1:8088/udp/233.50.200.123:5140
-#EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" tvg-logo="https://assets.livednow.com/logo/湖南茶频道.png" group-title="BesTV",茶频道
-http://192.168.100.1:8088/udp/233.50.200.124:5140
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://assets.livednow.com/logo/北京卡酷少儿.png" group-title="BesTV",卡酷少儿
+http://192.168.100.1:8088/udp/233.50.200.166:5140
 #EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://assets.livednow.com/logo/睛彩竞技.png" group-title="BesTV",睛彩竞技
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000001000010948.m3u8%3Fcdn%3DFifastbLive%24itv
 #EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://assets.livednow.com/logo/睛彩篮球.png" group-title="BesTV",睛彩篮球
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000001000007218.m3u8%3Fcdn%3DFifastbLive%24itv
 #EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://assets.livednow.com/logo/睛彩青少.png" group-title="BesTV",睛彩青少
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000001000005308.m3u8%3Fcdn%3DFifastbLive%24itv
-#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://assets.livednow.com/logo/北京卡酷少儿.png" group-title="BesTV",卡酷少儿
-http://192.168.100.1:8088/udp/233.50.200.166:5140
+#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://assets.livednow.com/logo/湖南快乐垂钓.png" group-title="BesTV",快乐垂钓
+http://192.168.100.1:8088/udp/233.50.200.123:5140
+#EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" tvg-logo="https://assets.livednow.com/logo/湖南茶频道.png" group-title="BesTV",茶频道
+http://192.168.100.1:8088/udp/233.50.200.124:5140
 
 #EXTINF:-1 tvg-id="SiTV-金色学堂" tvg-name="SiTV 金色学堂" tvg-logo="https://assets.livednow.com/logo/SiTV-金色学堂.png" group-title="SiTV", SiTV 金色学堂
 http://192.168.100.1:8088/rtp/233.50.200.122:5140
@@ -74,9 +76,6 @@ http://192.168.100.1:8088/rtp/233.50.200.12:5140
 
 #EXTINF:-1 tvg-id="SiTV-都市剧场" tvg-name="SiTV 都市剧场" tvg-logo="https://assets.livednow.com/logo/SiTV-都市剧场.png" group-title="SiTV", SiTV 都市剧场
 http://192.168.100.1:8088/rtp/233.50.200.11:5140
-
-#EXTINF:-1 tvg-id="SiTV-欢笑剧场-4K" tvg-name="SiTV 欢笑剧场-4K" tvg-logo="https://assets.livednow.com/logo/SiTV-欢笑剧场-4K.png" group-title="SiTV", SiTV 欢笑剧场-4K
-http://192.168.100.1:8088/rtp/233.50.200.52:5140
 
 #EXTINF:-1 tvg-id="SiTV-欢笑剧场" tvg-name="SiTV 欢笑剧场" tvg-logo="https://assets.livednow.com/logo/SiTV-欢笑剧场.png" group-title="SiTV", SiTV 欢笑剧场
 http://192.168.100.1:8088/rtp/233.50.200.229:5140
@@ -125,8 +124,6 @@ http://192.168.100.1:8088/rtp/233.50.201.63:5140
 http://192.168.100.1:8088/rtp/233.50.200.112:5140
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV 17" tvg-logo="https://assets.livednow.com/logo/CCTV17.png" group-title="央视频道",CCTV 17 农业农村
 http://192.168.100.1:8088/rtp/233.50.200.113:5140
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV 16 奥林匹克 4K" tvg-logo="https://assets.livednow.com/logo/CCTV16.png" group-title="央视频道", CCTV 16 奥林匹克 4K 
-http://192.168.100.1:8088/rtp/233.50.201.63:5140
 
 #EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://epg.v1.mk/logo/凤凰卫视资讯.png" group-title="卫视频道",凤凰卫视资讯台
 http://192.168.100.1:8088/rtp/233.50.202.36:5140

@@ -209,6 +209,8 @@ http://192.168.100.1:8088/rtp/233.50.201.70:5140
 
 #EXTINF:-1 tvg-id="上视东方影视" tvg-name="上视东方影视" tvg-logo="https://epg.iill.top/logo/东方影视.png" group-title="浙江频道",上视东方影视
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fmgtv%2F617290047.m3u8%24mgtv
+#EXTINF:-1 tvg-id="上视五星体育" tvg-name="上视五星体育" tvg-logo="https://epg.iill.top/logo/五星体育.png" group-title="浙江频道",上海五星体育
+https://stream1.freetv.fun/3790bf8630d515781cf6b215eebc059b6662c50a8a51aa0017183f0bfddd9101.ctv
 #EXTINF:-1 tvg-id="上海新闻" tvg-name="上海新闻" tvg-logo="https://epg.iill.top/logo/上海新闻.png" group-title="浙江频道",上海新闻
 https://tv.iill.top/migu/shxw
 #EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://assets.livednow.com/logo/上海第一财经.png" group-title="浙江频道",上海第一财经

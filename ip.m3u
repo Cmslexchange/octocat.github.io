@@ -381,8 +381,10 @@ https://s1.m16tv.cfd/aktv2/viutv/AKTV.m3u8
 http://s1.m16tv.cfd/aktv/channeluhd/AKTV.m3u8
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://epg.v1.mk/logo/axn.png" group-title="港台频道",AXN
 https://s1.m16tv.cfd/aktv/axn/AKTV.m3u8
-#EXTINF:-1 tvg-id="东森电影台" tvg-name="东森电影台" tvg-logo="https://epg.v1.mk/logo/东森电影.png" group-title="港台频道",东森电影台
+#EXTINF:-1 tvg-id="东森电影" tvg-name="东森电影" tvg-logo="https://epg.v1.mk/logo/东森电影.png" group-title="港台频道",东森电影
 http://s1.m16tv.cfd/aktv2/null-1/AKTV.m3u8
+#EXTINF:-1 tvg-id="东森洋片" tvg-name="东森洋片" tvg-logo="https://epg.v1.mk/logo/东森洋片.png" group-title="港台频道",东森洋片
+https://s1.m16tv.cfd/aktv2/CH-2/AKTV.m3u8
 #EXTINF:-1 tvg-id="亞洲新聞台" tvg-name="亞洲新聞台" tvg-logo="https://epg.v1.mk/logo/亚洲新闻台.png" group-title="港台频道",亞洲新聞台
 https://s1.m16tv.cfd/aktv3/cna/AKTV.m3u8
 #EXTINF:-1 tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.iill.top/logo/TVBS新闻.png" group-title="港台频道",TVBS新闻台

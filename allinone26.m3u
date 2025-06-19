@@ -367,6 +367,50 @@ http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3
 https://yang-1989.eu.org/live/TVB-Jade
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="港台频道",翡翠台
 http://php.jdshipin.com:8880/smt.php?id=jade_twn
+#EXTINF:-1 tvg-id="緯來體育" tvg-name="緯來體育" tvg-logo="https://epg.v1.mk/logo/緯來體育.png" group-title="港台频道",緯來體育
+http://aktv_stream.m16tv.cfd/stream/test/null/AKTV.m3u8
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="港台频道",翡翠台
+http://s1.m16tv.cfd/aktv/null/AKTV.m3u8
+#EXTINF:-1 tvg-id="PopC" tvg-name="PopC" tvg-logo="https://epg.v1.mk/logo/POPC.png" group-title="港台频道",PopC
+http://s1.m16tv.cfd/aktv/popc/AKTV.m3u8
+#EXTINF:-1 tvg-id="ROCK Action" tvg-name="ROCK Action" tvg-logo="https://epg.v1.mk/logo/ROCKACTION.png" group-title="港台频道",ROCK Action
+http://s1.m16tv.cfd/aktv/rockaction/AKTV.m3u8
+#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://epg.v1.mk/logo/tvbplus.png" group-title="港台频道",TVB Plus
+http://s1.m16tv.cfd/aktv/tvbplus/AKTV.m3u8
+#EXTINF:-1 tvg-id="tvN" tvg-name="tvN" tvg-logo="https://epg.v1.mk/logo/tvN.png" group-title="港台频道",tvN
+http://s1.m16tv.cfd/aktv/tvn/AKTV.m3u8
+#EXTINF:-1 tvg-id="娛樂新聞台(HK)" tvg-name="娛樂新聞台(HK)" tvg-logo="https://epg.v1.mk/logo/娱乐新闻台.png" group-title="港台频道",娛樂新聞台(HK)
+http://s1.m16tv.cfd/aktv/hk/AKTV.m3u8
+#EXTINF:-1 tvg-id="明珠剧集台(北美)" tvg-name="明珠剧集台(北美)" tvg-logo="https://epg.v1.mk/logo/tvb明珠.png" group-title="港台频道",明珠剧集台(北美)
+http://s1.m16tv.cfd/aktv/null-19/AKTV.m3u8
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.v1.mk/logo/明珠台.png" group-title="港台频道",明珠台
+http://s1.m16tv.cfd/aktv/null-2/AKTV.m3u8
+#EXTINF:-1 tvg-id="無線新聞台" tvg-name="無線新聞台" tvg-logo="https://epg.v1.mk/logo/無線新聞台.png" group-title="港台频道",無線新聞台
+http://s1.m16tv.cfd/aktv/null-1/AKTV.m3u8
+#EXTINF:-1 tvg-id="美亞電影台(HK)" tvg-name="美亞電影台(HK)" tvg-logo="https://assets.livednow.com/logo/美亞電影台-HK.png" group-title="港台频道",美亞電影台(HK)
+https://s1.m16tv.cfd/aktv/hk/AKTV.m3u8
+#EXTINF:-1 tvg-id="翡翠剧集台(北美)" tvg-name="翡翠剧集台(北美)" tvg-logo="https://epg.v1.mk/logo/翡翠剧集台.png" group-title="港台频道",翡翠剧集台(北美)
+http://s1.m16tv.cfd/aktv/null-18/AKTV.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://epg.v1.mk/logo/axn.png" group-title="港台频道",AXN
+https://s1.m16tv.cfd/aktv/axn/AKTV.m3u8
+#EXTINF:-1 tvg-id="无线新闻台(北美)" tvg-name="无线新闻台(北美)" tvg-logo="https://epg.v1.mk/logo/TVB无线新闻PNG.png" group-title="港台频道",无线新闻台(北美)
+http://s1.m16tv.cfd/aktv2/null-1/AKTV.m3u8
+#EXTINF:-1 tvg-id="亞洲新聞台" tvg-name="亞洲新聞台" tvg-logo="https://epg.v1.mk/logo/亚洲新闻台.png" group-title="港台频道",亞洲新聞台
+https://s1.m16tv.cfd/aktv3/cna/AKTV.m3u8
+#EXTINF:-1 tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.iill.top/logo/TVBS新闻.png" group-title="港台频道",TVBS新闻台
+https://s1.m16tv.cfd/tvbs/tvbs/AKTV.m3u8
+#EXTINF:-1 tvg-id="myTV SUPER 18台" tvg-name="myTV SUPER 18台" tvg-logo="https://epg.v1.mk/logo/MYTVSUPER18.png" group-title="港台频道",myTV SUPER 18台
+http://s1.m16tv.cfd/aktv/mytvsuper18/AKTV.m3u8
+#EXTINF:-1 tvg-id="Channel 5 HD" tvg-name="Channel 5 HD" tvg-logo="https://epg.v1.mk/logo/CHANNEL5HD.png" group-title="港台频道",Channel 5 HD
+https://s1.m16tv.cfd/aktv/channel5hd/AKTV.m3u8
+#EXTINF:-1 tvg-id="Channel 8 HD" tvg-name="Channel 8 HD" tvg-logo="https://epg.v1.mk/logo/CHANNEL8HD.png" group-title="港台频道",Channel 8 HD
+http://s1.m16tv.cfd/aktv/channel8hd/AKTV.m3u8
+#EXTINF:-1 tvg-id="Channel U HD" tvg-name="Channel U HD" tvg-logo="https://epg.v1.mk/logo/CHANNELUHD.png" group-title="港台频道",Channel U HD
+http://s1.m16tv.cfd/aktv/channeluhd/AKTV.m3u8
+#EXTINF:-1 tvg-id="Astro Football" tvg-name="Astro Football" tvg-logo="https://epg.v1.mk/logo/VIUTV.png" group-title="港台频道",Astro Football
+https://s1.m16tv.cfd/aktv2/viutv/AKTV.m3u8
+#EXTINF:-1 tvg-id="Astro IQIYI" tvg-name="Astro IQIYI" tvg-logo="https://epg.v1.mk/logo/IQIYI.png" group-title="港台频道",Astro IQIYI
+https://s1.m16tv.cfd/aktv2/iqiyi/AKTV.m3u8
 #EXTINF:-1,tvg-id="PopC" tvg-name="PopC" tvg-logo="https://assets.livednow.com/logo/PopC.png" group-title="港台频道",PopC
 https://s1.m16tv.cfd/aktv/popc/AKTV.m3u8
 #EXTINF:-1,tvg-id="PopC" tvg-name="PopC" tvg-logo="https://assets.livednow.com/logo/PopC.png" group-title="港台频道",PopC

@@ -365,9 +365,9 @@ http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3
 
 #EXTINF:-1 tvg-id="TVB娱乐新闻台" tvg-name="TVB娱乐新闻台" tvg-logo="https://epg.v1.mk/logo/TVB娱乐新闻台.png" group-title="港台频道",TVB娱乐新闻台
 https://s1.m16tv.cfd/aktv/CH-1/AKTV.m3u8
-#EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://epg.v1.mk/logo/TVB星河.png" group-title="港台频道,TVB星河
+#EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://epg.v1.mk/logo/TVB星河.png" group-title="港台频道",TVB星河
 https://s1.m16tv.cfd/aktv2/tvb/AKTV.m3u8
-#EXTINF:-1 tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://epg.v1.mk/logo/VIUTV.png" group-title="港台频道,VIUTV
+#EXTINF:-1 tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://epg.v1.mk/logo/VIUTV.png" group-title="港台频道",VIUTV
 https://s1.m16tv.cfd/aktv2/viutv/AKTV.m3u8
 #EXTINF:-1 tvg-id="PopC" tvg-name="PopC" tvg-logo="https://assets.livednow.com/logo/PopC.png" group-title="港台频道",PopC
 https://s1.m16tv.cfd/aktv/popc/AKTV.m3u8

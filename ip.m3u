@@ -421,6 +421,8 @@ https://yang-1989.eu.org/live/TVB-Jade
 http://php.jdshipin.com:8880/smt.php?id=jade_twn
 #EXTINF:-1 tvg-id="緯來體育" tvg-name="緯來體育" tvg-logo="https://epg.v1.mk/logo/緯來體育.png" group-title="港台频道",緯來體育
 https://s1.m16tv.cfd/aktv2/CH-0/AKTV.m3u8
+#EXTINF:-1 tvg-id="纬来电影台" tvg-name="纬来电影台" tvg-logo="https://epg.112114.xyz/logo/纬来电影台.png" group-title="港台频道",纬来电影台
+https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="港台频道",翡翠台
 http://s1.m16tv.cfd/aktv/null/AKTV.m3u8
 #EXTINF:-1 tvg-id="PopC" tvg-name="PopC" tvg-logo="https://epg.v1.mk/logo/POPC.png" group-title="港台频道",PopC

@@ -43,6 +43,10 @@ http://192.168.100.1:8088/rtp/233.50.200.183:5140
 http://192.168.100.1:8088/rtp/233.50.201.117:5140
 #EXTINF:-1 tvg-id="华数影视4K" tvg-name="华数影视4K" tvg-logo="https://epg.v1.mk/logo/华数4K.png" group-title="BesTV", BesTV 影视
 http://192.168.100.1:8088/rtp/233.50.201.116:5140
+#EXTINF:-1 tvg-id="BesTV 4K" tvg-name="BesTV 4K" tvg-logo="https://raw.githubusercontent.com/Cmslexchange/octocat.github.io/refs/heads/master/bestv.png" group-title="BesTV", BesTV 4K
+http://192.168.100.1:8088/udp/233.50.200.237:5140
+#EXTINF:-1 tvg-id="BesTV 体育" tvg-name="BesTV 体育" tvg-logo="https://raw.githubusercontent.com/Cmslexchange/octocat.github.io/refs/heads/master/bestv.png" group-title="BesTV", BesTV 体育
+http://192.168.100.1:8088/udp/233.50.200.245:5140
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://assets.livednow.com/logo/北京卡酷少儿.png" group-title="BesTV",卡酷少儿
 http://192.168.100.1:8088/udp/233.50.200.166:5140
 #EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://assets.livednow.com/logo/睛彩竞技.png" group-title="BesTV",睛彩竞技

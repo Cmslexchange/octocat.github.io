@@ -373,6 +373,10 @@ https://s1.m16tv.cfd/aktv2/viutv/AKTV.m3u8
 https://s1.m16tv.cfd/aktv/popc/AKTV.m3u8
 #EXTINF:-1 tvg-id="Astro IQIYI" tvg-name="Astro IQIYI" tvg-logo="https://epg.v1.mk/logo/IQIYI.png" group-title="港台频道",Astro IQIYI
 https://s1.m16tv.cfd/aktv2/iqiyi/AKTV.m3u8
+#EXTINF:-1 tvg-id="好萊塢電影台" tvg-name="好萊塢電影台" tvg-logo="https://epg.v1.mk/logo/好萊塢電影台.png" group-title="港台频道",好萊塢電影台
+https://s2.m16tv.cfd/aktv2/CH-4/AKTV.m3u8
+#EXTINF:-1 tvg-id="天映电影" tvg-name="天映电影" tvg-logo="https://epg.v1.mk/logo/天映电影.png" group-title="港台频道",天映电影
+https://s2.m16tv.cfd/aktv2/CH-3/AKTV.m3u8
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.v1.mk/logo/HBO.png" group-title="港台频道",HBO
 https://s1.m16tv.cfd/aktv2/hbo/AKTV.m3u8
 #EXTINF:-1 tvg-id="Astro Football" tvg-name="Astro Football" tvg-logo="https://epg.v1.mk/logo/VIUTV.png" group-title="港台频道",Astro Football

@@ -11,6 +11,8 @@ http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fnptv%2F
 https://migu.188766.xyz/?migutoken=b730d8dd939d8e666da3c00ff377ebfd&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&pp=1
 #EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视4K" tvg-logo="https://epg.v1.mk/logo/北京卫视4k.png" group-title="4 K 8 K",北京卫视4K
 https://migu.188766.xyz/?migutoken=5f0bacbb370cade753059d920ac76770&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&pp=1
+#EXTINF:-1 tvg-id="深圳卫视4K" tvg-name="深圳卫视4K" tvg-logo="https://epg.v1.mk/logo/深圳卫视4k.png" group-title="4 K 8 K",深圳卫视4K
+http://192.168.100.1:8088/udp/233.50.201.193:5140
 #EXTINF:-1 tvg-id="广东综艺4k" tvg-name="广东综艺4k" tvg-logo="https://epg.v1.mk/logo/广东综艺.png" group-title="4 K 8 K",广东综艺4k
 https://stream1.freetv.fun/yan-dong-zong-yi-4.ctv
 #EXTINF:-1 tvg-id="SiTV-欢笑剧场-4K" tvg-name="SiTV 欢笑剧场-4K" tvg-logo="https://assets.livednow.com/logo/SiTV-欢笑剧场-4K.png" group-title="4 K 8 K",欢笑剧场-4K

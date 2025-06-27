@@ -3,9 +3,9 @@
 #EXT-X-APTV-TYPE remote
 #EXT-X-SUB-URL http://192.168.100.1:35456/m3u/2
 
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.iill.top/logo/cctv4k.png" group-title="4 K 8 K",CCTV4K
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.v1.mk/logo/cctv4k.png" group-title="4 K 8 K",CCTV4K
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fnptv%2Fcctv4k.m3u8%24other-NPTV
-#EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://epg.iill.top/logo/CCTV8K.png" group-title="4 K 8 K",CCTV8K
+#EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://epg.v1.mk/logo/CCTV8K.png" group-title="4 K 8 K",CCTV8K
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fnptv%2Fcctv8k.m3u8%24other-NPTV
 #EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视4K" tvg-logo="https://epg.v1.mk/logo/北京卫视4k.png" group-title="4 K 8 K",北京卫视4K
 https://migu.188766.xyz/?migutoken=b730d8dd939d8e666da3c00ff377ebfd&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&pp=1
@@ -213,11 +213,11 @@ http://192.168.100.1:8088/rtp/233.50.201.148:5140
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://assets.livednow.com/logo/西藏卫视.png" group-title="卫视频道",西藏卫视
 http://192.168.100.1:8088/rtp/233.50.201.70:5140
 
-#EXTINF:-1 tvg-id="上视东方影视" tvg-name="上视东方影视" tvg-logo="https://epg.iill.top/logo/东方影视.png" group-title="浙江频道",上视东方影视
+#EXTINF:-1 tvg-id="上视东方影视" tvg-name="上视东方影视" tvg-logo="https://epg.v1.mk/logo/东方影视.png" group-title="浙江频道",上视东方影视
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fmgtv%2F617290047.m3u8%24mgtv
-#EXTINF:-1 tvg-id="上视五星体育" tvg-name="上视五星体育" tvg-logo="https://epg.iill.top/logo/五星体育.png" group-title="浙江频道",上海五星体育
+#EXTINF:-1 tvg-id="上视五星体育" tvg-name="上视五星体育" tvg-logo="https://epg.v1.mk/logo/五星体育.png" group-title="浙江频道",上海五星体育
 https://stream1.freetv.fun/3790bf8630d515781cf6b215eebc059b6662c50a8a51aa0017183f0bfddd9101.ctv
-#EXTINF:-1 tvg-id="上海新闻" tvg-name="上海新闻" tvg-logo="https://epg.iill.top/logo/上海新闻.png" group-title="浙江频道",上海新闻
+#EXTINF:-1 tvg-id="上海新闻" tvg-name="上海新闻" tvg-logo="https://epg.v1.mk/logo/上海新闻.png" group-title="浙江频道",上海新闻
 https://tv.iill.top/migu/shxw
 #EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://assets.livednow.com/logo/上海第一财经.png" group-title="浙江频道",上海第一财经
 http://192.168.100.1:8088/udp/233.50.200.125:5140
@@ -414,7 +414,7 @@ http://s1.m16tv.cfd/aktv2/null-1/AKTV.m3u8
 https://s1.m16tv.cfd/aktv2/CH-2/AKTV.m3u8
 #EXTINF:-1 tvg-id="亞洲新聞台" tvg-name="亞洲新聞台" tvg-logo="https://epg.v1.mk/logo/亚洲新闻台.png" group-title="港台频道",亞洲新聞台
 https://s1.m16tv.cfd/aktv3/cna/AKTV.m3u8
-#EXTINF:-1 tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.iill.top/logo/TVBS新闻.png" group-title="港台频道",TVBS新闻台
+#EXTINF:-1 tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.v1.mk/logo/TVBS新闻.png" group-title="港台频道",TVBS新闻台
 https://s1.m16tv.cfd/tvbs/tvbs/AKTV.m3u8
 #EXTINF:-1 tvg-id="myTV SUPER 18台" tvg-name="myTV SUPER 18台" tvg-logo="https://epg.v1.mk/logo/MYTVSUPER18.png" group-title="港台频道",myTV SUPER 18台
 http://s1.m16tv.cfd/aktv/mytvsuper18/AKTV.m3u8
@@ -463,55 +463,55 @@ http://s1.m16tv.cfd/aktv/rockaction/AKTV.m3u8
 #EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://epg.v1.mk/logo/tvbplus.png" group-title="港台频道",TVB Plus
 http://s1.m16tv.cfd/aktv/tvbplus/AKTV.m3u8
 
-#EXTINF:-1 tvg-id="博斯无限台" tvg-name="博斯无限台" tvg-logo="https://epg.iill.top/logo/博斯无限.png" group-title="港台频道",博斯無限 一
+#EXTINF:-1 tvg-id="博斯无限台" tvg-name="博斯无限台" tvg-logo="https://epg.v1.mk/logo/博斯无限.png" group-title="港台频道",博斯無限 一
 https://tv.iill.top/litv/litv-longturn10
-#EXTINF:-1 tvg-id="博斯无限二台" tvg-name="博斯无限二台" tvg-logo="https://epg.iill.top/logo/博斯无限2.png" group-title="港台频道",博斯無限 二
+#EXTINF:-1 tvg-id="博斯无限二台" tvg-name="博斯无限二台" tvg-logo="https://epg.v1.mk/logo/博斯无限2.png" group-title="港台频道",博斯無限 二
 https://tv.iill.top/litv/litv-longturn13
-#EXTINF:-1 tvg-id="博斯网球台" tvg-name="博斯网球台" tvg-logo="https://epg.iill.top/logo/博斯网球.png" group-title="港台频道",博斯網球
+#EXTINF:-1 tvg-id="博斯网球台" tvg-name="博斯网球台" tvg-logo="https://epg.v1.mk/logo/博斯网球.png" group-title="港台频道",博斯網球
 https://tv.iill.top/litv/litv-longturn09
-#EXTINF:-1 tvg-id="博斯运动一台" tvg-name="博斯运动一台" tvg-logo="https://epg.iill.top/logo/博斯运动1.png" group-title="港台频道",博斯運動 一
+#EXTINF:-1 tvg-id="博斯运动一台" tvg-name="博斯运动一台" tvg-logo="https://epg.v1.mk/logo/博斯运动1.png" group-title="港台频道",博斯運動 一
 https://tv.iill.top/litv/litv-longturn07
-#EXTINF:-1 tvg-id="博斯运动二台" tvg-name="博斯运动二台" tvg-logo="https://epg.iill.top/logo/博斯运动2.png" group-title="港台频道",博斯運動 二
+#EXTINF:-1 tvg-id="博斯运动二台" tvg-name="博斯运动二台" tvg-logo="https://epg.v1.mk/logo/博斯运动2.png" group-title="港台频道",博斯運動 二
 https://tv.iill.top/litv/litv-longturn08
-#EXTINF:-1 tvg-id="博斯高球台" tvg-name="博斯高球台" tvg-logo="https://epg.iill.top/logo/博斯高球1.png" group-title="港台频道",博斯高球一
+#EXTINF:-1 tvg-id="博斯高球台" tvg-name="博斯高球台" tvg-logo="https://epg.v1.mk/logo/博斯高球1.png" group-title="港台频道",博斯高球一
 https://tv.iill.top/litv/litv-longturn05
-#EXTINF:-1 tvg-id="博斯高球二台" tvg-name="博斯高球二台" tvg-logo="https://epg.iill.top/logo/博斯高球2.png" group-title="港台频道",博斯高球 二
+#EXTINF:-1 tvg-id="博斯高球二台" tvg-name="博斯高球二台" tvg-logo="https://epg.v1.mk/logo/博斯高球2.png" group-title="港台频道",博斯高球 二
 https://tv.iill.top/litv/litv-longturn06
-#EXTINF:-1 tvg-id="博斯魅力台" tvg-name="博斯魅力台" tvg-logo="https://epg.iill.top/logo/博斯魅力.png" group-title="港台频道",博斯魅力
+#EXTINF:-1 tvg-id="博斯魅力台" tvg-name="博斯魅力台" tvg-logo="https://epg.v1.mk/logo/博斯魅力.png" group-title="港台频道",博斯魅力
 https://tv.iill.top/litv/litv-longturn04
-#EXTINF:-1 tvg-id="时尚运动X" tvg-name="时尚运动X" tvg-logo="https://epg.iill.top/logo/时尚运动X.png" group-title="港台频道",時尚運動X
+#EXTINF:-1 tvg-id="时尚运动X" tvg-name="时尚运动X" tvg-logo="https://epg.v1.mk/logo/时尚运动X.png" group-title="港台频道",時尚運動X
 https://tv.iill.top/4gtv/277
-#EXTINF:-1 tvg-id="智林体育台" tvg-name="智林体育台" tvg-logo="https://epg.iill.top/logo/智林体育.png" group-title="港台频道",智林體育
+#EXTINF:-1 tvg-id="智林体育台" tvg-name="智林体育台" tvg-logo="https://epg.v1.mk/logo/智林体育.png" group-title="港台频道",智林體育
 https://tv.iill.top/litv/4gtv-4gtv101
-#EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://epg.iill.top/logo/东森新闻.png" group-title="港台频道",東森新聞
+#EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://epg.v1.mk/logo/东森新闻.png" group-title="港台频道",東森新聞
 https://tv.iill.top/litv/4gtv-4gtv152
-#EXTINF:-1 tvg-id="东森财经新闻" tvg-name="东森财经新闻" tvg-logo="https://epg.iill.top/logo/东森财经.png" group-title="港台频道",東森財經新聞
+#EXTINF:-1 tvg-id="东森财经新闻" tvg-name="东森财经新闻" tvg-logo="https://epg.v1.mk/logo/东森财经.png" group-title="港台频道",東森財經新聞
 https://tv.iill.top/litv/4gtv-4gtv153
-#EXTINF:-1 tvg-id="三立新闻" tvg-name="三立新闻" tvg-logo="https://epg.iill.top/logo/三立新闻.png" group-title="港台频道",三立新聞
+#EXTINF:-1 tvg-id="三立新闻" tvg-name="三立新闻" tvg-logo="https://epg.v1.mk/logo/三立新闻.png" group-title="港台频道",三立新聞
 https://tv.iill.top/4gtv/229
-#EXTINF:-1 tvg-id="三立综合台" tvg-name="三立综合台" tvg-logo="https://epg.iill.top/logo/三立综合.png" group-title="港台频道",三立綜合
+#EXTINF:-1 tvg-id="三立综合台" tvg-name="三立综合台" tvg-logo="https://epg.v1.mk/logo/三立综合.png" group-title="港台频道",三立綜合
 https://tv.iill.top/4gtv/169
-#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.iill.top/logo/TVBS.png" group-title="港台频道",TVBS
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.v1.mk/logo/TVBS.png" group-title="港台频道",TVBS
 https://tv.iill.top/litv/4gtv-4gtv073
-#EXTINF:-1 tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.iill.top/logo/TVBS新闻.png" group-title="港台频道",TVBS 新聞
+#EXTINF:-1 tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.v1.mk/logo/TVBS新闻.png" group-title="港台频道",TVBS 新聞
 https://tv.iill.top/litv/4gtv-4gtv072
-#EXTINF:-1 tvg-id="TVBS欢乐台" tvg-name="TVBS欢乐台" tvg-logo="https://epg.iill.top/logo/TVBS欢乐.png" group-title="港台频道",TVBS 歡樂
+#EXTINF:-1 tvg-id="TVBS欢乐台" tvg-name="TVBS欢乐台" tvg-logo="https://epg.v1.mk/logo/TVBS欢乐.png" group-title="港台频道",TVBS 歡樂
 https://tv.iill.top/litv/4gtv-4gtv068
-#EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://epg.iill.top/logo/TVBS精采.png" group-title="港台频道",TVBS 精采
+#EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://epg.v1.mk/logo/TVBS精采.png" group-title="港台频道",TVBS 精采
 https://tv.iill.top/litv/4gtv-4gtv067
-#EXTINF:-1 tvg-id="TVBS综艺台" tvg-name="TVBS综艺台" tvg-logo="https://epg.iill.top/logo/TVBS综艺.png" group-title="港台频道",TVBS 綜藝
+#EXTINF:-1 tvg-id="TVBS综艺台" tvg-name="TVBS综艺台" tvg-logo="https://epg.v1.mk/logo/TVBS综艺.png" group-title="港台频道",TVBS 綜藝
 https://tv.iill.top/4gtv/284
-#EXTINF:-1 tvg-id="TVBS台剧台" tvg-name="TVBS台剧台" tvg-logo="https://epg.iill.top/logo/TVBS台剧.png" group-title="港台频道",TVBS 台劇
+#EXTINF:-1 tvg-id="TVBS台剧台" tvg-name="TVBS台剧台" tvg-logo="https://epg.v1.mk/logo/TVBS台剧.png" group-title="港台频道",TVBS 台劇
 https://tv.iill.top/4gtv/285
-#EXTINF:-1 tvg-id="中天亚洲台" tvg-name="中天亚洲台" tvg-logo="https://epg.iill.top/logo/中天亚洲.png" group-title="港台频道",中天亞洲
+#EXTINF:-1 tvg-id="中天亚洲台" tvg-name="中天亚洲台" tvg-logo="https://epg.v1.mk/logo/中天亚洲.png" group-title="港台频道",中天亞洲
 https://tv.iill.top/litv/4gtv-4gtv109
-#EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://epg.iill.top/logo/中天新闻.png" group-title="港台频道",中天新聞
+#EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://epg.v1.mk/logo/中天新闻.png" group-title="港台频道",中天新聞
 https://tv.iill.top/litv/4gtv-4gtv009
-#EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.iill.top/logo/中视.png" group-title="港台频道",中視
+#EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.v1.mk/logo/中视.png" group-title="港台频道",中視
 https://tv.iill.top/litv/4gtv-4gtv040
-#EXTINF:-1 tvg-id="中视新闻台" tvg-name="中视新闻台" tvg-logo="https://epg.iill.top/logo/中视新闻.png" group-title="港台频道",中視新聞
+#EXTINF:-1 tvg-id="中视新闻台" tvg-name="中视新闻台" tvg-logo="https://epg.v1.mk/logo/中视新闻.png" group-title="港台频道",中視新聞
 https://tv.iill.top/litv/4gtv-4gtv074
-#EXTINF:-1 tvg-id="中视经典台" tvg-name="中视经典台" tvg-logo="https://epg.iill.top/logo/中视经典.png" group-title="港台频道",中視經典
+#EXTINF:-1 tvg-id="中视经典台" tvg-name="中视经典台" tvg-logo="https://epg.v1.mk/logo/中视经典.png" group-title="港台频道",中視經典
 https://tv.iill.top/litv/4gtv-4gtv080
 #EXTINF:-1 tvg-id="亚洲旅游台" tvg-name="亚洲旅游台" tvg-logo="https://assets.livednow.com/logo/亞洲旅遊台.png" group-title="港台频道",亞洲旅遊
 https://tv.iill.top/litv/4gtv-4gtv076
@@ -719,7 +719,7 @@ https://tv.iill.top/litv/4gtv-4gtv018
 https://tv.iill.top/litv/4gtv-4gtv049
 #EXTINF:-1 tvg-id="金光布袋戏" tvg-name="金光布袋戏" tvg-logo="https://assets.livednow.com/logo/金光布袋戲.png" group-title="港台频道",金光布袋戲
 https://tv.iill.top/4gtv/236
-#EXTINF:-1 tvg-id="霹雳布袋戏" tvg-name="霹雳布袋戏" tvg-logo="https://epg.iill.top/logo/霹雳布袋戏.png" group-title="港台频道",霹靂布袋戲
+#EXTINF:-1 tvg-id="霹雳布袋戏" tvg-name="霹雳布袋戏" tvg-logo="https://epg.v1.mk/logo/霹雳布袋戏.png" group-title="港台频道",霹靂布袋戲
 https://tv.iill.top/4gtv/301
 #EXTINF:-1 tvg-id="电影原声台CMUSIC" tvg-name="电影原声台CMUSIC" tvg-logo="https://assets.livednow.com/logo/電影原聲台CMusic.png" group-title="港台频道",電影原聲 CMusic
 https://tv.iill.top/4gtv/218

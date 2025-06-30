@@ -1,0 +1,1926 @@
+#EXTM3U
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE local
+
+#EXTINF:-1 group-title="央视",CCTV1
+http://api.mytv666.top/api/fh6.php?t=%E5%A4%AE%E8%A7%86%E9%A2%91%E9%81%93&id=CCTV1
+#EXTINF:-1 group-title="央视",CCTV2
+http://api.mytv666.top/api/fh6.php?t=%E5%A4%AE%E8%A7%86%E9%A2%91%E9%81%93&id=CCTV2
+#EXTINF:-1 group-title="央视",CCTV3
+http://api.mytv666.top/api/fh6.php?t=%E5%A4%AE%E8%A7%86%E9%A2%91%E9%81%93&id=CCTV3
+#EXTINF:-1 group-title="央视",CCTV4
+http://api.mytv666.top/api/fh6.php?t=%E5%A4%AE%E8%A7%86%E9%A2%91%E9%81%93&id=CCTV4
+#EXTINF:-1 group-title="央视",CCTV5
+http://api.mytv666.top/api/fh6.php?t=%E5%A4%AE%E8%A7%86%E9%A2%91%E9%81%93&id=CCTV5
+#EXTINF:-1 group-title="央视",CCTV5p
+http://api.mytv666.top/api/fh6.php?t=%E5%A4%AE%E8%A7%86%E9%A2%91%E9%81%93&id=CCTV5p
+#EXTINF:-1 group-title="央视",CCTV6
+http://api.mytv666.top/api/fh6.php?t=%E5%A4%AE%E8%A7%86%E9%A2%91%E9%81%93&id=CCTV6
+#EXTINF:-1 group-title="央视",CCTV7
+http://api.mytv666.top/api/fh6.php?t=%E5%A4%AE%E8%A7%86%E9%A2%91%E9%81%93&id=CCTV7
+#EXTINF:-1 group-title="央视",CCTV8
+http://api.mytv666.top/api/fh6.php?t=%E5%A4%AE%E8%A7%86%E9%A2%91%E9%81%93&id=CCTV8
+#EXTINF:-1 group-title="央视",CCTV9
+http://api.mytv666.top/api/fh6.php?t=%E5%A4%AE%E8%A7%86%E9%A2%91%E9%81%93&id=CCTV9
+#EXTINF:-1 group-title="央视",CCTV10
+http://api.mytv666.top/api/fh6.php?t=%E5%A4%AE%E8%A7%86%E9%A2%91%E9%81%93&id=CCTV10
+#EXTINF:-1 group-title="央视",CCTV11
+http://api.mytv666.top/api/fh6.php?t=%E5%A4%AE%E8%A7%86%E9%A2%91%E9%81%93&id=CCTV11
+#EXTINF:-1 group-title="央视",CCTV12
+http://api.mytv666.top/api/fh6.php?t=%E5%A4%AE%E8%A7%86%E9%A2%91%E9%81%93&id=CCTV12
+#EXTINF:-1 group-title="央视",CCTV13
+http://api.mytv666.top/api/fh6.php?t=%E5%A4%AE%E8%A7%86%E9%A2%91%E9%81%93&id=CCTV13
+#EXTINF:-1 group-title="央视",CCTV14
+http://api.mytv666.top/api/fh6.php?t=%E5%A4%AE%E8%A7%86%E9%A2%91%E9%81%93&id=CCTV14
+#EXTINF:-1 group-title="央视",CCTV15
+http://api.mytv666.top/api/fh6.php?t=%E5%A4%AE%E8%A7%86%E9%A2%91%E9%81%93&id=CCTV15
+#EXTINF:-1 group-title="央视",CCTV16
+http://api.mytv666.top/api/fh6.php?t=%E5%A4%AE%E8%A7%86%E9%A2%91%E9%81%93&id=CCTV16
+#EXTINF:-1 group-title="央视",CCTV17
+http://api.mytv666.top/api/fh6.php?t=%E5%A4%AE%E8%A7%86%E9%A2%91%E9%81%93&id=CCTV17
+#EXTINF:-1 group-title="央视",CCTV少儿
+http://api.mytv666.top/api/fh6.php?t=%E5%B0%91%E5%84%BF%E9%A2%91%E9%81%93&id=CCTV%E5%B0%91%E5%84%BF
+#EXTINF:-1 group-title="央视",CCTV5
+http://api.mytv666.top/api/fh6.php?t=%E4%BD%93%E8%82%B2%E9%A2%91%E9%81%93&id=CCTV5
+#EXTINF:-1 group-title="央视",CCTV5+
+http://api.mytv666.top/api/fh6.php?t=%E4%BD%93%E8%82%B2%E9%A2%91%E9%81%93&id=CCTV5+
+#EXTINF:-1 group-title="央视",CCTV16
+http://api.mytv666.top/api/fh6.php?t=%E4%BD%93%E8%82%B2%E9%A2%91%E9%81%93&id=CCTV16
+#EXTINF:-1 group-title="卫视",北京卫视
+http://api.mytv666.top/api/fh6.php?t=%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="卫视",湖南卫视
+http://api.mytv666.top/api/fh6.php?t=%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93&id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="卫视",浙江卫视
+http://api.mytv666.top/api/fh6.php?t=%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="卫视",江苏卫视
+http://api.mytv666.top/api/fh6.php?t=%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93&id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="卫视",广东卫视
+http://api.mytv666.top/api/fh6.php?t=%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="卫视",大湾区卫视
+http://api.mytv666.top/api/fh6.php?t=%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93&id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="卫视",东方卫视
+http://api.mytv666.top/api/fh6.php?t=%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93&id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="卫视",东南卫视
+http://api.mytv666.top/api/fh6.php?t=%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93&id=%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="卫视",辽宁卫视
+http://api.mytv666.top/api/fh6.php?t=%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93&id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="卫视",深圳卫视
+http://api.mytv666.top/api/fh6.php?t=%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="卫视",天津卫视
+http://api.mytv666.top/api/fh6.php?t=%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93&id=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="卫视",安徽卫视
+http://api.mytv666.top/api/fh6.php?t=%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93&id=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="卫视",河北卫视
+http://api.mytv666.top/api/fh6.php?t=%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93&id=%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="卫视",重庆卫视
+http://api.mytv666.top/api/fh6.php?t=%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93&id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="卫视",吉林卫视
+http://api.mytv666.top/api/fh6.php?t=%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93&id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="卫视",黑龙江卫视
+http://api.mytv666.top/api/fh6.php?t=%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93&id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="卫视",山东卫视
+http://api.mytv666.top/api/fh6.php?t=%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93&id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="卫视",海南卫视
+http://api.mytv666.top/api/fh6.php?t=%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93&id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="卫视",贵州卫视
+http://api.mytv666.top/api/fh6.php?t=%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93&id=%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="卫视",湖北卫视
+http://api.mytv666.top/api/fh6.php?t=%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93&id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="卫视",河南卫视
+http://api.mytv666.top/api/fh6.php?t=%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93&id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="卫视",广西卫视
+http://api.mytv666.top/api/fh6.php?t=%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93&id=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="卫视",江西卫视
+http://api.mytv666.top/api/fh6.php?t=%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93&id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="卫视",陕西卫视
+http://api.mytv666.top/api/fh6.php?t=%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="卫视",宁夏卫视
+http://api.mytv666.top/api/fh6.php?t=%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93&id=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="卫视",内蒙古卫视
+http://api.mytv666.top/api/fh6.php?t=%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93&id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="卫视",四川卫视
+http://api.mytv666.top/api/fh6.php?t=%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93&id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="卫视",山西卫视
+http://api.mytv666.top/api/fh6.php?t=%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93&id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="卫视",甘肃卫视
+http://api.mytv666.top/api/fh6.php?t=%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93&id=%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="卫视",新疆卫视
+http://api.mytv666.top/api/fh6.php?t=%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93&id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="卫视",青海卫视
+http://api.mytv666.top/api/fh6.php?t=%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93&id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="卫视",星空卫视
+http://api.mytv666.top/api/fh6.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E6%98%9F%E7%A9%BA%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="卫视",东森美洲卫视
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E4%B8%9C%E6%A3%AE%E7%BE%8E%E6%B4%B2%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="卫视",国兴卫视
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E5%9B%BD%E5%85%B4%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="卫视",东风卫视
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E4%B8%9C%E9%A3%8E%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="少儿频道",CETV1
+http://api.mytv666.top/api/fh6.php?t=%E5%B0%91%E5%84%BF%E9%A2%91%E9%81%93&id=CETV1
+#EXTINF:-1 group-title="少儿频道",CETV2
+http://api.mytv666.top/api/fh6.php?t=%E5%B0%91%E5%84%BF%E9%A2%91%E9%81%93&id=CETV2
+#EXTINF:-1 group-title="少儿频道",CETV4
+http://api.mytv666.top/api/fh6.php?t=%E5%B0%91%E5%84%BF%E9%A2%91%E9%81%93&id=CETV4
+#EXTINF:-1 group-title="少儿频道",卡酷少儿
+http://api.mytv666.top/api/fh6.php?t=%E5%B0%91%E5%84%BF%E9%A2%91%E9%81%93&id=%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF
+#EXTINF:-1 group-title="少儿频道",金鹰卡通
+http://api.mytv666.top/api/fh6.php?t=%E5%B0%91%E5%84%BF%E9%A2%91%E9%81%93&id=%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9A
+#EXTINF:-1 group-title="少儿频道",哈哈炫动
+http://api.mytv666.top/api/fh6.php?t=%E5%B0%91%E5%84%BF%E9%A2%91%E9%81%93&id=%E5%93%88%E5%93%88%E7%82%AB%E5%8A%A8
+#EXTINF:-1 group-title="少儿频道",优漫卡通
+http://api.mytv666.top/api/fh6.php?t=%E5%B0%91%E5%84%BF%E9%A2%91%E9%81%93&id=%E4%BC%98%E6%BC%AB%E5%8D%A1%E9%80%9A
+#EXTINF:-1 group-title="少儿频道",嘉佳卡通
+http://api.mytv666.top/api/fh6.php?t=%E5%B0%91%E5%84%BF%E9%A2%91%E9%81%93&id=%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A
+#EXTINF:-1 group-title="少儿频道",ZooMoo
+http://api.mytv666.top/api/fh6.php?t=%E5%B0%91%E5%84%BF%E9%A2%91%E9%81%93&id=ZooMoo
+#EXTINF:-1 group-title="少儿频道",Nickelodeon
+http://api.mytv666.top/api/fh6.php?t=%E5%B0%91%E5%84%BF%E9%A2%91%E9%81%93&id=Nickelodeon
+#EXTINF:-1 group-title="少儿频道",NickJr儿童频道
+http://api.mytv666.top/api/fh6.php?t=%E5%B0%91%E5%84%BF%E9%A2%91%E9%81%93&id=NickJr%E5%84%BF%E7%AB%A5%E9%A2%91%E9%81%93
+#EXTINF:-1 group-title="少儿频道",i-Fun動漫台
+http://api.mytv666.top/api/fh6.php?t=%E5%B0%91%E5%84%BF%E9%A2%91%E9%81%93&id=i-Fun%E5%8B%95%E6%BC%AB%E5%8F%B0
+#EXTINF:-1 group-title="影视频道~7656",POPC
+http://api.mytv666.top/api/fh6.php?t=%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93&id=POPC
+#EXTINF:-1 group-title="影视频道~7656",Now爆谷台
+http://api.mytv666.top/api/fh6.php?t=%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93&id=Now%E7%88%86%E8%B0%B7%E5%8F%B0
+#EXTINF:-1 group-title="影视频道~7656",Now星影台
+http://api.mytv666.top/api/fh6.php?t=%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93&id=Now%E6%98%9F%E5%BD%B1%E5%8F%B0
+#EXTINF:-1 group-title="影视频道~7656",天映经典
+http://api.mytv666.top/api/fh6.php?t=%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93&id=%E5%A4%A9%E6%98%A0%E7%BB%8F%E5%85%B8
+#EXTINF:-1 group-title="影视频道~7656",TVB功夫台(国)
+http://api.mytv666.top/api/fh6.php?t=%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93&id=TVB%E5%8A%9F%E5%A4%AB%E5%8F%B0%28%E5%9B%BD%29
+#EXTINF:-1 group-title="影视频道~7656",TVB功夫台(粤)
+http://api.mytv666.top/api/fh6.php?t=%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93&id=TVB%E5%8A%9F%E5%A4%AB%E5%8F%B0%28%E7%B2%A4%29
+#EXTINF:-1 group-title="影视频道~7656",美亚电影(国)
+http://api.mytv666.top/api/fh6.php?t=%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93&id=%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1%28%E5%9B%BD%29
+#EXTINF:-1 group-title="影视频道~7656",美亚电影(粤)
+http://api.mytv666.top/api/fh6.php?t=%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93&id=%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1%28%E7%B2%A4%29
+#EXTINF:-1 group-title="影视频道~7656",中国电影频道
+http://api.mytv666.top/api/fh6.php?t=%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93&id=%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1%E9%A2%91%E9%81%93
+#EXTINF:-1 group-title="影视频道~7656",纬来电影
+http://api.mytv666.top/api/fh6.php?t=%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93&id=%E7%BA%AC%E6%9D%A5%E7%94%B5%E5%BD%B1
+#EXTINF:-1 group-title="影视频道~7656",东森电影
+http://api.mytv666.top/api/fh6.php?t=%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93&id=%E4%B8%9C%E6%A3%AE%E7%94%B5%E5%BD%B1
+#EXTINF:-1 group-title="影视频道~7656",东森洋片
+http://api.mytv666.top/api/fh6.php?t=%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93&id=%E4%B8%9C%E6%A3%AE%E6%B4%8B%E7%89%87
+#EXTINF:-1 group-title="影视频道~7656",tvN
+http://api.mytv666.top/api/fh6.php?t=%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93&id=tvN
+#EXTINF:-1 group-title="影视频道~7656",Kix
+http://api.mytv666.top/api/fh6.php?t=%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93&id=Kix
+#EXTINF:-1 group-title="影视频道~7656",ROCK超级娱乐
+http://api.mytv666.top/api/fh6.php?t=%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93&id=ROCK%E8%B6%85%E7%BA%A7%E5%A8%B1%E4%B9%90
+#EXTINF:-1 group-title="影视频道~7656",ROCK综艺娱乐
+http://api.mytv666.top/api/fh6.php?t=%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93&id=ROCK%E7%BB%BC%E8%89%BA%E5%A8%B1%E4%B9%90
+#EXTINF:-1 group-title="影视频道~7656",AXN
+http://api.mytv666.top/api/fh6.php?t=%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93&id=AXN
+#EXTINF:-1 group-title="影视频道~7656",Animax
+http://api.mytv666.top/api/fh6.php?t=%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93&id=Animax
+#EXTINF:-1 group-title="影视频道~7656",Thrill惊悚
+http://api.mytv666.top/api/fh6.php?t=%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93&id=Thrill%E6%83%8A%E6%82%9A
+#EXTINF:-1 group-title="影视频道~7656",美亚电影台
+http://api.mytv666.top/api/fh6.php?t=%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93&id=%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1%E5%8F%B0
+#EXTINF:-1 group-title="影视频道~7656",AXN頻道
+http://api.mytv666.top/api/fh6.php?t=%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93&id=AXN%E9%A0%BB%E9%81%93
+#EXTINF:-1 group-title="影视频道~7656",华纳电影
+http://api.mytv666.top/api/fh6.php?t=%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93&id=%E5%8D%8E%E7%BA%B3%E7%94%B5%E5%BD%B1
+#EXTINF:-1 group-title="影视频道~7656",CINEMAX
+http://api.mytv666.top/api/fh6.php?t=%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93&id=CINEMAX
+#EXTINF:-1 group-title="影视频道~7656",HBOHD
+http://api.mytv666.top/api/fh6.php?t=%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93&id=HBOHD
+#EXTINF:-1 group-title="影视频道~7656",HBO原创
+http://api.mytv666.top/api/fh6.php?t=%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93&id=HBO%E5%8E%9F%E5%88%9B
+#EXTINF:-1 group-title="影视频道~7656",HBO强档
+http://api.mytv666.top/api/fh6.php?t=%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93&id=HBO%E5%BC%BA%E6%A1%A3
+#EXTINF:-1 group-title="影视频道~7656",HBO家庭
+http://api.mytv666.top/api/fh6.php?t=%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93&id=HBO%E5%AE%B6%E5%BA%AD
+#EXTINF:-1 group-title="影视频道~7656",好莱坞电影
+http://api.mytv666.top/api/fh6.php?t=%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93&id=%E5%A5%BD%E8%8E%B1%E5%9D%9E%E7%94%B5%E5%BD%B1
+#EXTINF:-1 group-title="影视频道~7656",amc最爱电影
+http://api.mytv666.top/api/fh6.php?t=%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93&id=amc%E6%9C%80%E7%88%B1%E7%94%B5%E5%BD%B1
+#EXTINF:-1 group-title="体育频道~7656",NBATV
+http://api.mytv666.top/api/fh6.php?t=%E4%BD%93%E8%82%B2%E9%A2%91%E9%81%93&id=NBATV
+#EXTINF:-1 group-title="体育频道~7656",HKC18台
+http://api.mytv666.top/api/fh6.php?t=%E4%BD%93%E8%82%B2%E9%A2%91%E9%81%93&id=HKC18%E5%8F%B0
+#EXTINF:-1 group-title="体育频道~7656",NowSports1
+http://api.mytv666.top/api/fh6.php?t=%E4%BD%93%E8%82%B2%E9%A2%91%E9%81%93&id=NowSports1
+#EXTINF:-1 group-title="体育频道~7656",NowSports2
+http://api.mytv666.top/api/fh6.php?t=%E4%BD%93%E8%82%B2%E9%A2%91%E9%81%93&id=NowSports2
+#EXTINF:-1 group-title="体育频道~7656",NowSports3
+http://api.mytv666.top/api/fh6.php?t=%E4%BD%93%E8%82%B2%E9%A2%91%E9%81%93&id=NowSports3
+#EXTINF:-1 group-title="体育频道~7656",NowSports|4|
+http://api.mytv666.top/api/fh6.php?t=%E4%BD%93%E8%82%B2%E9%A2%91%E9%81%93&id=NowSports%7C4%7C
+#EXTINF:-1 group-title="体育频道~7656",NowSports5
+http://api.mytv666.top/api/fh6.php?t=%E4%BD%93%E8%82%B2%E9%A2%91%E9%81%93&id=NowSports5
+#EXTINF:-1 group-title="体育频道~7656",NowSports6
+http://api.mytv666.top/api/fh6.php?t=%E4%BD%93%E8%82%B2%E9%A2%91%E9%81%93&id=NowSports6
+#EXTINF:-1 group-title="体育频道~7656",NowSports7
+http://api.mytv666.top/api/fh6.php?t=%E4%BD%93%E8%82%B2%E9%A2%91%E9%81%93&id=NowSports7
+#EXTINF:-1 group-title="体育频道~7656",NowSports英超1台
+http://api.mytv666.top/api/fh6.php?t=%E4%BD%93%E8%82%B2%E9%A2%91%E9%81%93&id=NowSports%E8%8B%B1%E8%B6%851%E5%8F%B0
+#EXTINF:-1 group-title="体育频道~7656",NowSports英超2台
+http://api.mytv666.top/api/fh6.php?t=%E4%BD%93%E8%82%B2%E9%A2%91%E9%81%93&id=NowSports%E8%8B%B1%E8%B6%852%E5%8F%B0
+#EXTINF:-1 group-title="体育频道~7656",NowSports英超3台
+http://api.mytv666.top/api/fh6.php?t=%E4%BD%93%E8%82%B2%E9%A2%91%E9%81%93&id=NowSports%E8%8B%B1%E8%B6%853%E5%8F%B0
+#EXTINF:-1 group-title="体育频道~7656",NowSports英超|4|台
+http://api.mytv666.top/api/fh6.php?t=%E4%BD%93%E8%82%B2%E9%A2%91%E9%81%93&id=NowSports%E8%8B%B1%E8%B6%85%7C4%7C%E5%8F%B0
+#EXTINF:-1 group-title="体育频道~7656",NowSports英超5台
+http://api.mytv666.top/api/fh6.php?t=%E4%BD%93%E8%82%B2%E9%A2%91%E9%81%93&id=NowSports%E8%8B%B1%E8%B6%855%E5%8F%B0
+#EXTINF:-1 group-title="体育频道~7656",NowSports英超6台
+http://api.mytv666.top/api/fh6.php?t=%E4%BD%93%E8%82%B2%E9%A2%91%E9%81%93&id=NowSports%E8%8B%B1%E8%B6%856%E5%8F%B0
+#EXTINF:-1 group-title="体育频道~7656",C18跑马
+http://api.mytv666.top/api/fh6.php?t=%E4%BD%93%E8%82%B2%E9%A2%91%E9%81%93&id=C18%E8%B7%91%E9%A9%AC
+#EXTINF:-1 group-title="体育频道~7656",88跑马台
+http://api.mytv666.top/api/fh6.php?t=%E4%BD%93%E8%82%B2%E9%A2%91%E9%81%93&id=88%E8%B7%91%E9%A9%AC%E5%8F%B0
+#EXTINF:-1 group-title="体育频道~7656",28AI智慧赛马
+http://api.mytv666.top/api/fh6.php?t=%E4%BD%93%E8%82%B2%E9%A2%91%E9%81%93&id=28AI%E6%99%BA%E6%85%A7%E8%B5%9B%E9%A9%AC
+#EXTINF:-1 group-title="体育频道~7656",mySUPER直播足球2台
+http://api.mytv666.top/api/fh6.php?t=%E4%BD%93%E8%82%B2%E9%A2%91%E9%81%93&id=mySUPER%E7%9B%B4%E6%92%AD%E8%B6%B3%E7%90%832%E5%8F%B0
+#EXTINF:-1 group-title="体育频道~7656",mySUPER直播足球3台
+http://api.mytv666.top/api/fh6.php?t=%E4%BD%93%E8%82%B2%E9%A2%91%E9%81%93&id=mySUPER%E7%9B%B4%E6%92%AD%E8%B6%B3%E7%90%833%E5%8F%B0
+#EXTINF:-1 group-title="体育频道~7656",mySUPER直播足球|4|台
+http://api.mytv666.top/api/fh6.php?t=%E4%BD%93%E8%82%B2%E9%A2%91%E9%81%93&id=mySUPER%E7%9B%B4%E6%92%AD%E8%B6%B3%E7%90%83%7C4%7C%E5%8F%B0
+#EXTINF:-1 group-title="体育频道~7656",mySUPER直播足球5台
+http://api.mytv666.top/api/fh6.php?t=%E4%BD%93%E8%82%B2%E9%A2%91%E9%81%93&id=mySUPER%E7%9B%B4%E6%92%AD%E8%B6%B3%E7%90%835%E5%8F%B0
+#EXTINF:-1 group-title="体育频道~7656",mySUPER直播足球6台
+http://api.mytv666.top/api/fh6.php?t=%E4%BD%93%E8%82%B2%E9%A2%91%E9%81%93&id=mySUPER%E7%9B%B4%E6%92%AD%E8%B6%B3%E7%90%836%E5%8F%B0
+#EXTINF:-1 group-title="体育频道~7656",ELTA体育1
+http://api.mytv666.top/api/fh6.php?t=%E4%BD%93%E8%82%B2%E9%A2%91%E9%81%93&id=ELTA%E4%BD%93%E8%82%B21
+#EXTINF:-1 group-title="体育频道~7656",ELTA体育2
+http://api.mytv666.top/api/fh6.php?t=%E4%BD%93%E8%82%B2%E9%A2%91%E9%81%93&id=ELTA%E4%BD%93%E8%82%B22
+#EXTINF:-1 group-title="体育频道~7656",ELTA体育3
+http://api.mytv666.top/api/fh6.php?t=%E4%BD%93%E8%82%B2%E9%A2%91%E9%81%93&id=ELTA%E4%BD%93%E8%82%B23
+#EXTINF:-1 group-title="体育频道~7656",ELTA体育|4|
+http://api.mytv666.top/api/fh6.php?t=%E4%BD%93%E8%82%B2%E9%A2%91%E9%81%93&id=ELTA%E4%BD%93%E8%82%B2%7C4%7C
+#EXTINF:-1 group-title="体育频道~7656",GinxTV电竞频道
+http://api.mytv666.top/api/fh6.php?t=%E4%BD%93%E8%82%B2%E9%A2%91%E9%81%93&id=GinxTV%E7%94%B5%E7%AB%9E%E9%A2%91%E9%81%93
+#EXTINF:-1 group-title="体育频道~7656",博斯运动1
+http://api.mytv666.top/api/fh6.php?t=%E4%BD%93%E8%82%B2%E9%A2%91%E9%81%93&id=%E5%8D%9A%E6%96%AF%E8%BF%90%E5%8A%A81
+#EXTINF:-1 group-title="体育频道~7656",博斯运动2
+http://api.mytv666.top/api/fh6.php?t=%E4%BD%93%E8%82%B2%E9%A2%91%E9%81%93&id=%E5%8D%9A%E6%96%AF%E8%BF%90%E5%8A%A82
+#EXTINF:-1 group-title="体育频道~7656",博斯高球1
+http://api.mytv666.top/api/fh6.php?t=%E4%BD%93%E8%82%B2%E9%A2%91%E9%81%93&id=%E5%8D%9A%E6%96%AF%E9%AB%98%E7%90%831
+#EXTINF:-1 group-title="体育频道~7656",博斯高球2
+http://api.mytv666.top/api/fh6.php?t=%E4%BD%93%E8%82%B2%E9%A2%91%E9%81%93&id=%E5%8D%9A%E6%96%AF%E9%AB%98%E7%90%832
+#EXTINF:-1 group-title="体育频道~7656",博斯网球
+http://api.mytv666.top/api/fh6.php?t=%E4%BD%93%E8%82%B2%E9%A2%91%E9%81%93&id=%E5%8D%9A%E6%96%AF%E7%BD%91%E7%90%83
+#EXTINF:-1 group-title="体育频道~7656",博斯无限
+http://api.mytv666.top/api/fh6.php?t=%E4%BD%93%E8%82%B2%E9%A2%91%E9%81%93&id=%E5%8D%9A%E6%96%AF%E6%97%A0%E9%99%90
+#EXTINF:-1 group-title="体育频道~7656",博斯无限2
+http://api.mytv666.top/api/fh6.php?t=%E4%BD%93%E8%82%B2%E9%A2%91%E9%81%93&id=%E5%8D%9A%E6%96%AF%E6%97%A0%E9%99%902
+#EXTINF:-1 group-title="体育频道~7656",博斯魅力
+http://api.mytv666.top/api/fh6.php?t=%E4%BD%93%E8%82%B2%E9%A2%91%E9%81%93&id=%E5%8D%9A%E6%96%AF%E9%AD%85%E5%8A%9B
+#EXTINF:-1 group-title="体育频道~7656",智林体育台
+http://api.mytv666.top/api/fh6.php?t=%E4%BD%93%E8%82%B2%E9%A2%91%E9%81%93&id=%E6%99%BA%E6%9E%97%E4%BD%93%E8%82%B2%E5%8F%B0
+#EXTINF:-1 group-title="体育频道~7656",TRACESportStars
+http://api.mytv666.top/api/fh6.php?t=%E4%BD%93%E8%82%B2%E9%A2%91%E9%81%93&id=TRACESportStars
+#EXTINF:-1 group-title="体育频道~7656",纬来体育
+http://api.mytv666.top/api/fh6.php?t=%E4%BD%93%E8%82%B2%E9%A2%91%E9%81%93&id=%E7%BA%AC%E6%9D%A5%E4%BD%93%E8%82%B2
+#EXTINF:-1 group-title="香港频道~7656",凤凰中文台
+http://api.mytv666.top/api/fh6.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87%E5%8F%B0
+#EXTINF:-1 group-title="香港频道~7656",凤凰资讯台
+http://api.mytv666.top/api/fh6.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF%E5%8F%B0
+#EXTINF:-1 group-title="香港频道~7656",凤凰香港台
+http://api.mytv666.top/api/fh6.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF%E5%8F%B0
+#EXTINF:-1 group-title="香港频道~7656",翡翠台
+http://api.mytv666.top/api/fh6.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E7%BF%A1%E7%BF%A0%E5%8F%B0
+#EXTINF:-1 group-title="香港频道~7656",TVBPlus
+http://api.mytv666.top/api/fh6.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=TVBPlus
+#EXTINF:-1 group-title="香港频道~7656",TVB无线新闻台
+http://api.mytv666.top/api/fh6.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=TVB%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0
+#EXTINF:-1 group-title="香港频道~7656",TVB明珠台
+http://api.mytv666.top/api/fh6.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=TVB%E6%98%8E%E7%8F%A0%E5%8F%B0
+#EXTINF:-1 group-title="香港频道~7656",TVB生活台
+http://api.mytv666.top/api/fh6.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=TVB%E7%94%9F%E6%B4%BB%E5%8F%B0
+#EXTINF:-1 group-title="香港频道~7656",TVB星河频道(粤)
+http://api.mytv666.top/api/fh6.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=TVB%E6%98%9F%E6%B2%B3%E9%A2%91%E9%81%93%28%E7%B2%A4%29
+#EXTINF:-1 group-title="香港频道~7656",TVB星河频道(国)
+http://api.mytv666.top/api/fh6.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=TVB%E6%98%9F%E6%B2%B3%E9%A2%91%E9%81%93%28%E5%9B%BD%29
+#EXTINF:-1 group-title="香港频道~7656",TVB1
+http://api.mytv666.top/api/fh6.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=TVB1
+#EXTINF:-1 group-title="香港频道~7656",TVBJ1
+http://api.mytv666.top/api/fh6.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=TVBJ1
+#EXTINF:-1 group-title="香港频道~7656",TVBDrama翡翠劇集台
+http://api.mytv666.top/api/fh6.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=TVBDrama%E7%BF%A1%E7%BF%A0%E5%8A%87%E9%9B%86%E5%8F%B0
+#EXTINF:-1 group-title="香港频道~7656",TVBPearlDrama明珠劇集台
+http://api.mytv666.top/api/fh6.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=TVBPearlDrama%E6%98%8E%E7%8F%A0%E5%8A%87%E9%9B%86%E5%8F%B0
+#EXTINF:-1 group-title="香港频道~7656",TVB娱乐新闻
+http://api.mytv666.top/api/fh6.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=TVB%E5%A8%B1%E4%B9%90%E6%96%B0%E9%97%BB
+#EXTINF:-1 group-title="香港频道~7656",TVBE翡翠娛樂台
+http://api.mytv666.top/api/fh6.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=TVBE%E7%BF%A1%E7%BF%A0%E5%A8%9B%E6%A8%82%E5%8F%B0
+#EXTINF:-1 group-title="香港频道~7656",TVB千禧经典
+http://api.mytv666.top/api/fh6.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=TVB%E5%8D%83%E7%A6%A7%E7%BB%8F%E5%85%B8
+#EXTINF:-1 group-title="香港频道~7656",天映频道(国)
+http://api.mytv666.top/api/fh6.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E5%A4%A9%E6%98%A0%E9%A2%91%E9%81%93%28%E5%9B%BD%29
+#EXTINF:-1 group-title="香港频道~7656",天映频道(粤)
+http://api.mytv666.top/api/fh6.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E5%A4%A9%E6%98%A0%E9%A2%91%E9%81%93%28%E7%B2%A4%29
+#EXTINF:-1 group-title="香港频道~7656",天映经典
+http://api.mytv666.top/api/fh6.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E5%A4%A9%E6%98%A0%E7%BB%8F%E5%85%B8
+#EXTINF:-1 group-title="香港频道~7656",TVB功夫台(国)
+http://api.mytv666.top/api/fh6.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=TVB%E5%8A%9F%E5%A4%AB%E5%8F%B0%28%E5%9B%BD%29
+#EXTINF:-1 group-title="香港频道~7656",TVB功夫台(粤)
+http://api.mytv666.top/api/fh6.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=TVB%E5%8A%9F%E5%A4%AB%E5%8F%B0%28%E7%B2%A4%29
+#EXTINF:-1 group-title="香港频道~7656",美亚电影(国)
+http://api.mytv666.top/api/fh6.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1%28%E5%9B%BD%29
+#EXTINF:-1 group-title="香港频道~7656",美亚电影(粤)
+http://api.mytv666.top/api/fh6.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1%28%E7%B2%A4%29
+#EXTINF:-1 group-title="香港频道~7656",龙祥电影
+http://api.mytv666.top/api/fh6.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E9%BE%99%E7%A5%A5%E7%94%B5%E5%BD%B1
+#EXTINF:-1 group-title="香港频道~7656",中国电影频道
+http://api.mytv666.top/api/fh6.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1%E9%A2%91%E9%81%93
+#EXTINF:-1 group-title="香港频道~7656",POPC
+http://api.mytv666.top/api/fh6.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=POPC
+#EXTINF:-1 group-title="香港频道~7656",黃金華劇台
+http://api.mytv666.top/api/fh6.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E9%BB%83%E9%87%91%E8%8F%AF%E5%8A%87%E5%8F%B0
+#EXTINF:-1 group-title="香港频道~7656",Now新闻台
+http://api.mytv666.top/api/fh6.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=Now%E6%96%B0%E9%97%BB%E5%8F%B0
+#EXTINF:-1 group-title="香港频道~7656",Now直播台
+http://api.mytv666.top/api/fh6.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=Now%E7%9B%B4%E6%92%AD%E5%8F%B0
+#EXTINF:-1 group-title="香港频道~7656",Now财经台
+http://api.mytv666.top/api/fh6.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=Now%E8%B4%A2%E7%BB%8F%E5%8F%B0
+#EXTINF:-1 group-title="香港频道~7656",Now爆谷台
+http://api.mytv666.top/api/fh6.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=Now%E7%88%86%E8%B0%B7%E5%8F%B0
+#EXTINF:-1 group-title="香港频道~7656",Now星影台
+http://api.mytv666.top/api/fh6.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=Now%E6%98%9F%E5%BD%B1%E5%8F%B0
+#EXTINF:-1 group-title="香港频道~7656",Now華劇台
+http://api.mytv666.top/api/fh6.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=Now%E8%8F%AF%E5%8A%87%E5%8F%B0
+#EXTINF:-1 group-title="香港频道~7656",Now劇集台
+http://api.mytv666.top/api/fh6.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=Now%E5%8A%87%E9%9B%86%E5%8F%B0
+#EXTINF:-1 group-title="香港频道~7656",NowJelli紫金国际
+http://api.mytv666.top/api/fh6.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=NowJelli%E7%B4%AB%E9%87%91%E5%9B%BD%E9%99%85
+#EXTINF:-1 group-title="香港频道~7656",HOY76
+http://api.mytv666.top/api/fh6.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=HOY76
+#EXTINF:-1 group-title="香港频道~7656",HOY77
+http://api.mytv666.top/api/fh6.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=HOY77
+#EXTINF:-1 group-title="香港频道~7656",HOY78
+http://api.mytv666.top/api/fh6.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=HOY78
+#EXTINF:-1 group-title="香港频道~7656",ViuTV
+http://api.mytv666.top/api/fh6.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=ViuTV
+#EXTINF:-1 group-title="香港频道~7656",ViuTV6
+http://api.mytv666.top/api/fh6.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=ViuTV6
+#EXTINF:-1 group-title="香港频道~7656",RTHK31
+http://api.mytv666.top/api/fh6.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=RTHK31
+#EXTINF:-1 group-title="香港频道~7656",RTHK32
+http://api.mytv666.top/api/fh6.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=RTHK32
+#EXTINF:-1 group-title="香港频道~7656",HKC18台
+http://api.mytv666.top/api/fh6.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=HKC18%E5%8F%B0
+#EXTINF:-1 group-title="香港频道~7656",亚洲剧台
+http://api.mytv666.top/api/fh6.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E4%BA%9A%E6%B4%B2%E5%89%A7%E5%8F%B0
+#EXTINF:-1 group-title="香港频道~7656",华语剧台
+http://api.mytv666.top/api/fh6.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E5%8D%8E%E8%AF%AD%E5%89%A7%E5%8F%B0
+#EXTINF:-1 group-title="香港频道~7656",黄金翡翠台
+http://api.mytv666.top/api/fh6.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E9%BB%84%E9%87%91%E7%BF%A1%E7%BF%A0%E5%8F%B0
+#EXTINF:-1 group-title="香港频道~7656",MyTV千禧经典台
+http://api.mytv666.top/api/fh6.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=MyTV%E5%8D%83%E7%A6%A7%E7%BB%8F%E5%85%B8%E5%8F%B0
+#EXTINF:-1 group-title="香港频道~7656",TVBSuperFree
+http://api.mytv666.top/api/fh6.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=TVBSuperFree
+#EXTINF:-1 group-title="香港频道~7656",HandsUP
+http://api.mytv666.top/api/fh6.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=HandsUP
+#EXTINF:-1 group-title="香港频道~7656",戏曲台
+http://api.mytv666.top/api/fh6.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E6%88%8F%E6%9B%B2%E5%8F%B0
+#EXTINF:-1 group-title="香港频道~7656",粤语片台
+http://api.mytv666.top/api/fh6.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E7%B2%A4%E8%AF%AD%E7%89%87%E5%8F%B0
+#EXTINF:-1 group-title="香港频道~7656",亚洲综合娱乐台
+http://api.mytv666.top/api/fh6.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E4%BA%9A%E6%B4%B2%E7%BB%BC%E5%90%88%E5%A8%B1%E4%B9%90%E5%8F%B0
+#EXTINF:-1 group-title="香港频道~7656",28AI智慧赛马
+http://api.mytv666.top/api/fh6.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=28AI%E6%99%BA%E6%85%A7%E8%B5%9B%E9%A9%AC
+#EXTINF:-1 group-title="台湾频道~7656",中视
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E4%B8%AD%E8%A7%86
+#EXTINF:-1 group-title="台湾频道~7656",中视新闻
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB
+#EXTINF:-1 group-title="台湾频道~7656",中视经典
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E4%B8%AD%E8%A7%86%E7%BB%8F%E5%85%B8
+#EXTINF:-1 group-title="台湾频道~7656",公视
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E5%85%AC%E8%A7%86
+#EXTINF:-1 group-title="台湾频道~7656",小公视
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E5%B0%8F%E5%85%AC%E8%A7%86
+#EXTINF:-1 group-title="台湾频道~7656",公视戏剧
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E5%85%AC%E8%A7%86%E6%88%8F%E5%89%A7
+#EXTINF:-1 group-title="台湾频道~7656",公视台语台
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E5%85%AC%E8%A7%86%E5%8F%B0%E8%AF%AD%E5%8F%B0
+#EXTINF:-1 group-title="台湾频道~7656",公视新闻网
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E5%85%AC%E8%A7%86%E6%96%B0%E9%97%BB%E7%BD%91
+#EXTINF:-1 group-title="台湾频道~7656",民视
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E6%B0%91%E8%A7%86
+#EXTINF:-1 group-title="台湾频道~7656",民视第一台
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E6%B0%91%E8%A7%86%E7%AC%AC%E4%B8%80%E5%8F%B0
+#EXTINF:-1 group-title="台湾频道~7656",民视台湾台
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E6%B0%91%E8%A7%86%E5%8F%B0%E6%B9%BE%E5%8F%B0
+#EXTINF:-1 group-title="台湾频道~7656",民视新闻台
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB%E5%8F%B0
+#EXTINF:-1 group-title="台湾频道~7656",民视影剧台
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E6%B0%91%E8%A7%86%E5%BD%B1%E5%89%A7%E5%8F%B0
+#EXTINF:-1 group-title="台湾频道~7656",民视旅游台
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E6%B0%91%E8%A7%86%E6%97%85%E6%B8%B8%E5%8F%B0
+#EXTINF:-1 group-title="台湾频道~7656",民视综艺台
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E6%B0%91%E8%A7%86%E7%BB%BC%E8%89%BA%E5%8F%B0
+#EXTINF:-1 group-title="台湾频道~7656",台视
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E5%8F%B0%E8%A7%86
+#EXTINF:-1 group-title="台湾频道~7656",台视新闻HD
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BBHD
+#EXTINF:-1 group-title="台湾频道~7656",台视综合
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E5%8F%B0%E8%A7%86%E7%BB%BC%E5%90%88
+#EXTINF:-1 group-title="台湾频道~7656",台视财经
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E5%8F%B0%E8%A7%86%E8%B4%A2%E7%BB%8F
+#EXTINF:-1 group-title="台湾频道~7656",台湾戏剧
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E5%8F%B0%E6%B9%BE%E6%88%8F%E5%89%A7
+#EXTINF:-1 group-title="台湾频道~7656",华视
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E5%8D%8E%E8%A7%86
+#EXTINF:-1 group-title="台湾频道~7656",CTS华视新闻资讯
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=CTS%E5%8D%8E%E8%A7%86%E6%96%B0%E9%97%BB%E8%B5%84%E8%AE%AF
+#EXTINF:-1 group-title="台湾频道~7656",霹雳台湾台
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E9%9C%B9%E9%9B%B3%E5%8F%B0%E6%B9%BE%E5%8F%B0
+#EXTINF:-1 group-title="台湾频道~7656",壹新闻
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E5%A3%B9%E6%96%B0%E9%97%BB
+#EXTINF:-1 group-title="台湾频道~7656",壹电影
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E5%A3%B9%E7%94%B5%E5%BD%B1
+#EXTINF:-1 group-title="台湾频道~7656",JET综合台
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=JET%E7%BB%BC%E5%90%88%E5%8F%B0
+#EXTINF:-1 group-title="台湾频道~7656",年代新闻
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E5%B9%B4%E4%BB%A3%E6%96%B0%E9%97%BB
+#EXTINF:-1 group-title="台湾频道~7656",年代Much
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E5%B9%B4%E4%BB%A3Much
+#EXTINF:-1 group-title="台湾频道~7656",非凡新闻
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E9%9D%9E%E5%87%A1%E6%96%B0%E9%97%BB
+#EXTINF:-1 group-title="台湾频道~7656",非凡商业
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E9%9D%9E%E5%87%A1%E5%95%86%E4%B8%9A
+#EXTINF:-1 group-title="台湾频道~7656",寰宇新闻
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E5%AF%B0%E5%AE%87%E6%96%B0%E9%97%BB
+#EXTINF:-1 group-title="台湾频道~7656",寰宇新闻台湾
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E5%AF%B0%E5%AE%87%E6%96%B0%E9%97%BB%E5%8F%B0%E6%B9%BE
+#EXTINF:-1 group-title="台湾频道~7656",寰宇财经
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E5%AF%B0%E5%AE%87%E8%B4%A2%E7%BB%8F
+#EXTINF:-1 group-title="台湾频道~7656",鏡新闻
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E9%8F%A1%E6%96%B0%E9%97%BB
+#EXTINF:-1 group-title="台湾频道~7656",东森超视美洲
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E4%B8%9C%E6%A3%AE%E8%B6%85%E8%A7%86%E7%BE%8E%E6%B4%B2
+#EXTINF:-1 group-title="台湾频道~7656",东森美洲
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E4%B8%9C%E6%A3%AE%E7%BE%8E%E6%B4%B2
+#EXTINF:-1 group-title="台湾频道~7656",东森中国台
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E4%B8%9C%E6%A3%AE%E4%B8%AD%E5%9B%BD%E5%8F%B0
+#EXTINF:-1 group-title="台湾频道~7656",东森超视
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E4%B8%9C%E6%A3%AE%E8%B6%85%E8%A7%86
+#EXTINF:-1 group-title="台湾频道~7656",东森幼幼
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E4%B8%9C%E6%A3%AE%E5%B9%BC%E5%B9%BC
+#EXTINF:-1 group-title="台湾频道~7656",MOMO亲子台
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=MOMO%E4%BA%B2%E5%AD%90%E5%8F%B0
+#EXTINF:-1 group-title="台湾频道~7656",龙华偶像
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E9%BE%99%E5%8D%8E%E5%81%B6%E5%83%8F
+#EXTINF:-1 group-title="台湾频道~7656",龙华戏剧
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E9%BE%99%E5%8D%8E%E6%88%8F%E5%89%A7
+#EXTINF:-1 group-title="台湾频道~7656",龙华日韩
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E9%BE%99%E5%8D%8E%E6%97%A5%E9%9F%A9
+#EXTINF:-1 group-title="台湾频道~7656",龙华电影
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E9%BE%99%E5%8D%8E%E7%94%B5%E5%BD%B1
+#EXTINF:-1 group-title="台湾频道~7656",龙华影剧
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E9%BE%99%E5%8D%8E%E5%BD%B1%E5%89%A7
+#EXTINF:-1 group-title="台湾频道~7656",龙华洋片
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E9%BE%99%E5%8D%8E%E6%B4%8B%E7%89%87
+#EXTINF:-1 group-title="台湾频道~7656",龙华卡通
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E9%BE%99%E5%8D%8E%E5%8D%A1%E9%80%9A
+#EXTINF:-1 group-title="台湾频道~7656",龙华经典
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E9%BE%99%E5%8D%8E%E7%BB%8F%E5%85%B8
+#EXTINF:-1 group-title="台湾频道~7656",三立都会台
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E4%B8%89%E7%AB%8B%E9%83%BD%E4%BC%9A%E5%8F%B0
+#EXTINF:-1 group-title="台湾频道~7656",三立综合台
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E4%B8%89%E7%AB%8B%E7%BB%BC%E5%90%88%E5%8F%B0
+#EXTINF:-1 group-title="台湾频道~7656",三立台湾台
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E4%B8%89%E7%AB%8B%E5%8F%B0%E6%B9%BE%E5%8F%B0
+#EXTINF:-1 group-title="台湾频道~7656",三立戏剧台
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E4%B8%89%E7%AB%8B%E6%88%8F%E5%89%A7%E5%8F%B0
+#EXTINF:-1 group-title="台湾频道~7656",三立新闻台
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E4%B8%89%E7%AB%8B%E6%96%B0%E9%97%BB%E5%8F%B0
+#EXTINF:-1 group-title="台湾频道~7656",三立iNEWS
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E4%B8%89%E7%AB%8BiNEWS
+#EXTINF:-1 group-title="台湾频道~7656",三立国际台
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E4%B8%89%E7%AB%8B%E5%9B%BD%E9%99%85%E5%8F%B0
+#EXTINF:-1 group-title="台湾频道~7656",LIVE三立
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=LIVE%E4%B8%89%E7%AB%8B
+#EXTINF:-1 group-title="台湾频道~7656",中天新闻
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB
+#EXTINF:-1 group-title="台湾频道~7656",CTI+中天2台
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=CTI+%E4%B8%AD%E5%A4%A92%E5%8F%B0
+#EXTINF:-1 group-title="台湾频道~7656",中天综合
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E4%B8%AD%E5%A4%A9%E7%BB%BC%E5%90%88
+#EXTINF:-1 group-title="台湾频道~7656",中天娱乐
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E4%B8%AD%E5%A4%A9%E5%A8%B1%E4%B9%90
+#EXTINF:-1 group-title="台湾频道~7656",纬来日本
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E7%BA%AC%E6%9D%A5%E6%97%A5%E6%9C%AC
+#EXTINF:-1 group-title="台湾频道~7656",纬来育乐
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E7%BA%AC%E6%9D%A5%E8%82%B2%E4%B9%90
+#EXTINF:-1 group-title="台湾频道~7656",八大第一台
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E5%85%AB%E5%A4%A7%E7%AC%AC%E4%B8%80%E5%8F%B0
+#EXTINF:-1 group-title="台湾频道~7656",八大戏剧台
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E5%85%AB%E5%A4%A7%E6%88%8F%E5%89%A7%E5%8F%B0
+#EXTINF:-1 group-title="台湾频道~7656",八大综合台
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E5%85%AB%E5%A4%A7%E7%BB%BC%E5%90%88%E5%8F%B0
+#EXTINF:-1 group-title="台湾频道~7656",八大精彩台
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E5%85%AB%E5%A4%A7%E7%B2%BE%E5%BD%A9%E5%8F%B0
+#EXTINF:-1 group-title="台湾频道~7656",八大娱乐台
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E5%85%AB%E5%A4%A7%E5%A8%B1%E4%B9%90%E5%8F%B0
+#EXTINF:-1 group-title="台湾频道~7656",TVBS新闻台
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=TVBS%E6%96%B0%E9%97%BB%E5%8F%B0
+#EXTINF:-1 group-title="台湾频道~7656",TVBS精采台
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=TVBS%E7%B2%BE%E9%87%87%E5%8F%B0
+#EXTINF:-1 group-title="台湾频道~7656",TVBS欢乐台
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=TVBS%E6%AC%A2%E4%B9%90%E5%8F%B0
+#EXTINF:-1 group-title="台湾频道~7656",TVBSHD
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=TVBSHD
+#EXTINF:-1 group-title="台湾频道~7656",TVBSNEWS
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=TVBSNEWS
+#EXTINF:-1 group-title="台湾频道~7656",靖天综合台
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E9%9D%96%E5%A4%A9%E7%BB%BC%E5%90%88%E5%8F%B0
+#EXTINF:-1 group-title="台湾频道~7656",靖天日本台
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E9%9D%96%E5%A4%A9%E6%97%A5%E6%9C%AC%E5%8F%B0
+#EXTINF:-1 group-title="台湾频道~7656",靖天卡通台
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E9%9D%96%E5%A4%A9%E5%8D%A1%E9%80%9A%E5%8F%B0
+#EXTINF:-1 group-title="台湾频道~7656",靖洋卡通台
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E9%9D%96%E6%B4%8B%E5%8D%A1%E9%80%9A%E5%8F%B0
+#EXTINF:-1 group-title="台湾频道~7656",靖天国际台
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E9%9D%96%E5%A4%A9%E5%9B%BD%E9%99%85%E5%8F%B0
+#EXTINF:-1 group-title="台湾频道~7656",靖天育乐台
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E9%9D%96%E5%A4%A9%E8%82%B2%E4%B9%90%E5%8F%B0
+#EXTINF:-1 group-title="台湾频道~7656",靖天映画台
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E9%9D%96%E5%A4%A9%E6%98%A0%E7%94%BB%E5%8F%B0
+#EXTINF:-1 group-title="台湾频道~7656",靖天欢乐台
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E9%9D%96%E5%A4%A9%E6%AC%A2%E4%B9%90%E5%8F%B0
+#EXTINF:-1 group-title="台湾频道~7656",華藝MBC綜合台
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E8%8F%AF%E8%97%9DMBC%E7%B6%9C%E5%90%88%E5%8F%B0
+#EXTINF:-1 group-title="台湾频道~7656",LUXETV
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=LUXETV
+#EXTINF:-1 group-title="台湾频道~7656",亚洲旅游台
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E4%BA%9A%E6%B4%B2%E6%97%85%E6%B8%B8%E5%8F%B0
+#EXTINF:-1 group-title="台湾频道~7656",台湾Plus
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E5%8F%B0%E6%B9%BEPlus
+#EXTINF:-1 group-title="台湾频道~7656",EYETV旅游
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=EYETV%E6%97%85%E6%B8%B8
+#EXTINF:-1 group-title="台湾频道~7656",EYETV戏剧
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=EYETV%E6%88%8F%E5%89%A7
+#EXTINF:-1 group-title="台湾频道~7656",ELTA日韩
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=ELTA%E6%97%A5%E9%9F%A9
+#EXTINF:-1 group-title="台湾频道~7656",ELTA影剧
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=ELTA%E5%BD%B1%E5%89%A7
+#EXTINF:-1 group-title="台湾频道~7656",ELTA综合
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=ELTA%E7%BB%BC%E5%90%88
+#EXTINF:-1 group-title="台湾频道~7656",ELTA娱乐
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=ELTA%E5%A8%B1%E4%B9%90
+#EXTINF:-1 group-title="台湾频道~7656",ELTA生活旅游
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=ELTA%E7%94%9F%E6%B4%BB%E6%97%85%E6%B8%B8
+#EXTINF:-1 group-title="台湾频道~7656",i-Fun動漫台
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=i-Fun%E5%8B%95%E6%BC%AB%E5%8F%B0
+#EXTINF:-1 group-title="台湾频道~7656",Z频道
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=Z%E9%A2%91%E9%81%93
+#EXTINF:-1 group-title="台湾频道~7656",美亚电影台
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1%E5%8F%B0
+#EXTINF:-1 group-title="台湾频道~7656",Thrill惊悚
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=Thrill%E6%83%8A%E6%82%9A
+#EXTINF:-1 group-title="台湾频道~7656",AXN頻道
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=AXN%E9%A0%BB%E9%81%93
+#EXTINF:-1 group-title="台湾频道~7656",华纳电影
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E5%8D%8E%E7%BA%B3%E7%94%B5%E5%BD%B1
+#EXTINF:-1 group-title="台湾频道~7656",tVN
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=tVN
+#EXTINF:-1 group-title="台湾频道~7656",CINEMAX
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=CINEMAX
+#EXTINF:-1 group-title="台湾频道~7656",HBO
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=HBO
+#EXTINF:-1 group-title="台湾频道~7656",HBOHD
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=HBOHD
+#EXTINF:-1 group-title="台湾频道~7656",HBO原创
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=HBO%E5%8E%9F%E5%88%9B
+#EXTINF:-1 group-title="台湾频道~7656",HBO强档
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=HBO%E5%BC%BA%E6%A1%A3
+#EXTINF:-1 group-title="台湾频道~7656",HBO家庭
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=HBO%E5%AE%B6%E5%BA%AD
+#EXTINF:-1 group-title="台湾频道~7656",好莱坞电影
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E5%A5%BD%E8%8E%B1%E5%9D%9E%E7%94%B5%E5%BD%B1
+#EXTINF:-1 group-title="台湾频道~7656",amc最爱电影
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=amc%E6%9C%80%E7%88%B1%E7%94%B5%E5%BD%B1
+#EXTINF:-1 group-title="台湾频道~7656",采昌影剧台
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E9%87%87%E6%98%8C%E5%BD%B1%E5%89%A7%E5%8F%B0
+#EXTINF:-1 group-title="台湾频道~7656",高点综合
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E9%AB%98%E7%82%B9%E7%BB%BC%E5%90%88
+#EXTINF:-1 group-title="台湾频道~7656",Smart知识台
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=Smart%E7%9F%A5%E8%AF%86%E5%8F%B0
+#EXTINF:-1 group-title="台湾频道~7656",客家电视台
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E5%AE%A2%E5%AE%B6%E7%94%B5%E8%A7%86%E5%8F%B0
+#EXTINF:-1 group-title="台湾频道~7656",原住民频道
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E5%8E%9F%E4%BD%8F%E6%B0%91%E9%A2%91%E9%81%93
+#EXTINF:-1 group-title="台湾频道~7656",MTV音乐频道
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=MTV%E9%9F%B3%E4%B9%90%E9%A2%91%E9%81%93
+#EXTINF:-1 group-title="台湾频道~7656",韩国娱乐台
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E9%9F%A9%E5%9B%BD%E5%A8%B1%E4%B9%90%E5%8F%B0
+#EXTINF:-1 group-title="台湾频道~7656",猪哥亮歌厅秀
+http://api.mytv666.top/api/fh6.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E7%8C%AA%E5%93%A5%E4%BA%AE%E6%AD%8C%E5%8E%85%E7%A7%80
+#EXTINF:-1 group-title="国外频道~7656",AstroAEC
+http://api.mytv666.top/api/fh6.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=AstroAEC
+#EXTINF:-1 group-title="国外频道~7656",AstroQJ
+http://api.mytv666.top/api/fh6.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=AstroQJ
+#EXTINF:-1 group-title="国外频道~7656",AstroAOD
+http://api.mytv666.top/api/fh6.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=AstroAOD
+#EXTINF:-1 group-title="国外频道~7656",Astro欢喜台
+http://api.mytv666.top/api/fh6.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=Astro%E6%AC%A2%E5%96%9C%E5%8F%B0
+#EXTINF:-1 group-title="国外频道~7656",娱家台
+http://api.mytv666.top/api/fh6.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=%E5%A8%B1%E5%AE%B6%E5%8F%B0
+#EXTINF:-1 group-title="国外频道~7656",都会台
+http://api.mytv666.top/api/fh6.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=%E9%83%BD%E4%BC%9A%E5%8F%B0
+#EXTINF:-1 group-title="国外频道~7656",新时代1
+http://api.mytv666.top/api/fh6.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=%E6%96%B0%E6%97%B6%E4%BB%A31
+#EXTINF:-1 group-title="国外频道~7656",新时代2
+http://api.mytv666.top/api/fh6.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=%E6%96%B0%E6%97%B6%E4%BB%A32
+#EXTINF:-1 group-title="国外频道~7656",城市电视
+http://api.mytv666.top/api/fh6.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=%E5%9F%8E%E5%B8%82%E7%94%B5%E8%A7%86
+#EXTINF:-1 group-title="国外频道~7656",中旺电视
+http://api.mytv666.top/api/fh6.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=%E4%B8%AD%E6%97%BA%E7%94%B5%E8%A7%86
+#EXTINF:-1 group-title="国外频道~7656",FashionBox
+http://api.mytv666.top/api/fh6.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=FashionBox
+#EXTINF:-1 group-title="国外频道~7656",tvN
+http://api.mytv666.top/api/fh6.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=tvN
+#EXTINF:-1 group-title="国外频道~7656",Kix
+http://api.mytv666.top/api/fh6.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=Kix
+#EXTINF:-1 group-title="国外频道~7656",ROCK超级娱乐
+http://api.mytv666.top/api/fh6.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=ROCK%E8%B6%85%E7%BA%A7%E5%A8%B1%E4%B9%90
+#EXTINF:-1 group-title="国外频道~7656",ROCK综艺娱乐
+http://api.mytv666.top/api/fh6.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=ROCK%E7%BB%BC%E8%89%BA%E5%A8%B1%E4%B9%90
+#EXTINF:-1 group-title="国外频道~7656",AXN
+http://api.mytv666.top/api/fh6.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=AXN
+#EXTINF:-1 group-title="国外频道~7656",Animax
+http://api.mytv666.top/api/fh6.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=Animax
+#EXTINF:-1 group-title="国外频道~7656",Thrill
+http://api.mytv666.top/api/fh6.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=Thrill
+#EXTINF:-1 group-title="国外频道~7656",ZooMoo
+http://api.mytv666.top/api/fh6.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=ZooMoo
+#EXTINF:-1 group-title="国外频道~7656",Nickelodeon
+http://api.mytv666.top/api/fh6.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=Nickelodeon
+#EXTINF:-1 group-title="国外频道~7656",NickJr儿童频道
+http://api.mytv666.top/api/fh6.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=NickJr%E5%84%BF%E7%AB%A5%E9%A2%91%E9%81%93
+#EXTINF:-1 group-title="国外频道~7656",DreamWorks
+http://api.mytv666.top/api/fh6.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=DreamWorks
+#EXTINF:-1 group-title="国外频道~7656",动物星球
+http://api.mytv666.top/api/fh6.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=%E5%8A%A8%E7%89%A9%E6%98%9F%E7%90%83
+#EXTINF:-1 group-title="国外频道~7656",国家地理
+http://api.mytv666.top/api/fh6.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=%E5%9B%BD%E5%AE%B6%E5%9C%B0%E7%90%86
+#EXTINF:-1 group-title="国外频道~7656",探索频道
+http://api.mytv666.top/api/fh6.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=%E6%8E%A2%E7%B4%A2%E9%A2%91%E9%81%93
+#EXTINF:-1 group-title="国外频道~7656",Arirang
+http://api.mytv666.top/api/fh6.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=Arirang
+#EXTINF:-1 group-title="国外频道~7656",KBS1
+http://api.mytv666.top/api/fh6.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=KBS1
+#EXTINF:-1 group-title="国外频道~7656",KBS2
+http://api.mytv666.top/api/fh6.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=KBS2
+#EXTINF:-1 group-title="国外频道~7656",KBSDrama
+http://api.mytv666.top/api/fh6.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=KBSDrama
+#EXTINF:-1 group-title="国外频道~7656",History
+http://api.mytv666.top/api/fh6.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=History
+#EXTINF:-1 group-title="国外频道~7656",SBS
+http://api.mytv666.top/api/fh6.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=SBS
+#EXTINF:-1 group-title="国外频道~7656",SBSBiz
+http://api.mytv666.top/api/fh6.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=SBSBiz
+#EXTINF:-1 group-title="国外频道~7656",JTBC
+http://api.mytv666.top/api/fh6.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=JTBC
+#EXTINF:-1 group-title="国外频道~7656",EBS
+http://api.mytv666.top/api/fh6.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=EBS
+#EXTINF:-1 group-title="国外频道~7656",YTN
+http://api.mytv666.top/api/fh6.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=YTN
+#EXTINF:-1 group-title="国外频道~7656",Mnet
+http://api.mytv666.top/api/fh6.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=Mnet
+#EXTINF:-1 group-title="国外频道~7656",OCN
+http://api.mytv666.top/api/fh6.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=OCN
+#EXTINF:-1 group-title="国外频道~7656",InetTV
+http://api.mytv666.top/api/fh6.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=InetTV
+#EXTINF:-1 group-title="国外频道~7656",MBC
+http://api.mytv666.top/api/fh6.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=MBC
+#EXTINF:-1 group-title="国外频道~7656",MBN
+http://api.mytv666.top/api/fh6.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=MBN
+#EXTINF:-1 group-title="国外频道~7656",Tooniverse
+http://api.mytv666.top/api/fh6.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=Tooniverse
+#EXTINF:-1 group-title="国外频道~7656",SPOTV
+http://api.mytv666.top/api/fh6.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=SPOTV
+#EXTINF:-1 group-title="国外频道~7656",JTBCGOLF
+http://api.mytv666.top/api/fh6.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=JTBCGOLF
+#EXTINF:-1 group-title="苏超粤评",06-28江苏联第5轮⚽📡
+http://lxajh.top/tv/douyu.php?id=11531165
+#EXTINF:-1 group-title="苏超粤评",19:00连云港🆚淮安队
+http://dd.rihou.cc:555/mp4
+#EXTINF:-1 group-title="苏超粤评",粤🔊1旁述
+http://dd.rihou.cc:555/mp4
+#EXTINF:-1 group-title="苏超粤评",国🔊咪咕评评
+https://www.freetv.top/migu/955239413.m3u8?migutoken=85071cda6f82f826687b1f7f9aaa8beb3b861e5fcc695fa17cbe153b28739a06a5ff49922913943b88bf722331634a1236546db9dd1af5d086b12b85e40d54c560bfebf1040224586ab1239e99
+#EXTINF:-1 group-title="苏超粤评",19:30盐城队🆚镇江队
+http://dd.rihou.cc:555/mp4
+#EXTINF:-1 group-title="苏超粤评",粤🔊2旁述
+http://dd.rihou.cc:555/mp4
+#EXTINF:-1 group-title="苏超粤评",国🔊咪咕述述
+https://www.freetv.top/migu/955239464.m3u8?migutoken=2cf61aba8490e9742628f25445148a2f1f548eb1a05b635e6f398c40fb2a8335aa1d09264874d3164d7d8cb6bf093732c204fca536589bd23c923c0ce7575128f51c89e9154c615350cb5c059a
+#EXTINF:-1 group-title="苏超粤评",06-29江苏联第5轮⚽📡
+http://lxajh.top/tv/douyu.php?id=11531165
+#EXTINF:-1 group-title="苏超粤评",19:00苏州队🆚扬州队
+http://dd.rihou.cc:555/mp4
+#EXTINF:-1 group-title="苏超粤评",粤🔊3旁述
+http://dd.rihou.cc:555/mp4
+#EXTINF:-1 group-title="苏超粤评",国🔊3评述
+http://dd.rihou.cc:555/mp4
+#EXTINF:-1 group-title="苏超粤评",19:30南通队🆚宿迁队
+http://dd.rihou.cc:555/mp4
+#EXTINF:-1 group-title="苏超粤评",粤🔊4旁述
+http://dd.rihou.cc:555/mp4
+#EXTINF:-1 group-title="苏超粤评",国🔊4评述
+http://dd.rihou.cc:555/mp4
+#EXTINF:-1 group-title="苏超粤评",19:30泰州队🆚徐州队
+http://dd.rihou.cc:555/mp4
+#EXTINF:-1 group-title="苏超粤评",粤🔊5旁述
+http://dd.rihou.cc:555/mp4
+#EXTINF:-1 group-title="苏超粤评",国🔊5评述
+http://dd.rihou.cc:555/mp4
+#EXTINF:-1 group-title="世俱粤评",06-29世俱杯1/8决赛⚽📡
+http://lxajh.top/tv/douyu.php?id=11531165
+#EXTINF:-1 group-title="世俱粤评",00:00帕尔梅拉斯🆚博塔弗戈
+http://dd.rihou.cc:555/mp4
+#EXTINF:-1 group-title="世俱粤评",国🔊4k李子琪
+https://www.freetv.top/migu/955681023.m3u8?migutoken=a25b4bf7afc36f7c1efb96a689e9276d92381255e877c38e4d6c2e2aa99cc9dc18f5df8a35d7ba2e0cded1ec80070f784356eb268afeca29644c96de8542732c79d408102de3a62f3a402f6410
+#EXTINF:-1 group-title="世俱粤评",国🔊咪咕张路
+https://www.freetv.top/migu/955680892.m3u8?migutoken=47bf3d62d2e71969eeec65665eef7a16bb15208eb9f5b6d61c796d07f68393b2df078aecf00fc70d98a1044af666269c1b1abaf3a7870eab94d75215a3361c52bc6bc8016220e63fa3300e73c0
+#EXTINF:-1 group-title="世俱粤评",04:00本菲卡🆚车路士
+http://dd.rihou.cc:555/mp4
+#EXTINF:-1 group-title="世俱粤评",国🔊4k邵凌霄
+https://www.freetv.top/migu/955681113.m3u8?migutoken=295c1950f5239a16d4dd3cacf76f1c5055c04bf3fa139e6eccb8933be7717eae39e82f3bac9fb5698f945f227df8d085ad4fb7cde33d5b031aff137439ed522c850987499bce147e29c3b32079
+#EXTINF:-1 group-title="世俱粤评",国🔊咪咕颜强
+https://www.freetv.top/migu/955681077.m3u8?migutoken=d4e7e8fa0f920aadd2338735c7ab90fda3cccb402a35801c30719d143d1fc0397956f3edfad4a1ead9c57dd5f275f1779da90a502472114fd0f47200ce21689343e1c08402954e51524f4ce47f
+#EXTINF:-1 group-title="中超粤评",06-29中超第16轮⚽📡
+http://lxajh.top/tv/douyu.php?id=11531165
+#EXTINF:-1 group-title="中超粤评",18:30长春亚泰🆚上海申花
+http://dd.rihou.cc:555/mp4
+#EXTINF:-1 group-title="中超粤评",国🔊1评述
+http://dd.rihou.cc:555/mp4
+#EXTINF:-1 group-title="中超粤评",18:30青岛西岸🆚青岛海牛
+http://dd.rihou.cc:555/mp4
+#EXTINF:-1 group-title="中超粤评",国🔊2评述
+http://dd.rihou.cc:555/mp4
+#EXTINF:-1 group-title="中超粤评",19:00梅州客家🆚天津门虎
+http://dd.rihou.cc:555/mp4
+#EXTINF:-1 group-title="中超粤评",19:35武汉三镇🆚成都蓉城
+http://dd.rihou.cc:555/mp4
+#EXTINF:-1 group-title="中超粤评",06-30中超第16轮⚽📡
+http://lxajh.top/tv/douyu.php?id=11531165
+#EXTINF:-1 group-title="中超粤评",19:00河南俱乐🆚山东泰山
+http://dd.rihou.cc:555/mp4
+#EXTINF:-1 group-title="中超粤评",粤🔊6旁述
+http://dd.rihou.cc:555/mp4
+#EXTINF:-1 group-title="中超粤评",国🔊6评述
+http://dd.rihou.cc:555/mp4
+#EXTINF:-1 group-title="中超粤评",19:35北京国安🆚云南玉昆
+http://dd.rihou.cc:555/mp4
+#EXTINF:-1 group-title="中超粤评",粤🔊7旁述
+http://dd.rihou.cc:555/mp4
+#EXTINF:-1 group-title="中超粤评",国🔊7评述
+http://dd.rihou.cc:555/mp4
+#EXTINF:-1 group-title="中超粤评",20:00深圳鹏城🆚上海海港
+http://dd.rihou.cc:555/mp4
+#EXTINF:-1 group-title="中超粤评",粤🔊8旁述
+http://dd.rihou.cc:555/mp4
+#EXTINF:-1 group-title="中超粤评",国🔊8评述
+http://dd.rihou.cc:555/mp4
+#EXTINF:-1 group-title="赛事咪咕",抖姐舞陪你看
+http://lxajh.top/tv/douyu.php?id=11531165
+#EXTINF:-1 group-title="赛事咪咕",赛事睛彩竞技
+http://59.188.94.126:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="赛事咪咕",赛事睛彩篮球
+http://59.188.94.126:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="赛事咪咕",赛事睛彩青少
+http://59.188.94.126:35455/itv/3000000020000011525.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="赛事咪咕",赛事睛彩广场
+http://59.188.94.126:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="赛事咪咕",赛事广竞抖播
+http://101.126.22.199:35455/douyin/802006140488
+#EXTINF:-1 group-title="赛事咪咕",赛事咪咕4k播
+http://59.188.94.126:35455/itv/3000000010000015686.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="赛事咪咕",赛事咪咕播01
+http://59.188.94.126:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="赛事咪咕",赛事咪咕播02
+http://59.188.94.126:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="赛事咪咕",赛事咪咕播03
+http://59.188.94.126:35455/itv/3000000001000007218.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="赛事咪咕",赛事咪咕播04
+http://59.188.94.126:35455/itv/3000000001000008001.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="赛事咪咕",赛事咪咕播05
+http://59.188.94.126:35455/itv/3000000001000008176.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="赛事咪咕",赛事咪咕播06
+http://59.188.94.126:35455/itv/3000000001000008379.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="赛事咪咕",赛事咪咕播07
+http://59.188.94.126:35455/itv/3000000001000010129.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="赛事咪咕",赛事咪咕播08
+http://59.188.94.126:35455/itv/3000000001000010948.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="赛事咪咕",赛事咪咕播09
+http://59.188.94.126:35455/itv/3000000001000026778.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="赛事咪咕",赛事咪咕播10
+http://59.188.94.126:35455/itv/3000000001000028638.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="赛事咪咕",赛事咪咕播11
+http://59.188.94.126:35455/itv/3000000001000031494.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="赛事咪咕",赛事咪咕播12
+http://59.188.94.126:35455/itv/3000000010000000097.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="赛事咪咕",赛事咪咕播13
+http://59.188.94.126:35455/itv/3000000010000002019.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="赛事咪咕",赛事咪咕播14
+http://59.188.94.126:35455/itv/3000000010000002032.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="赛事咪咕",赛事咪咕播15
+http://59.188.94.126:35455/itv/3000000010000002809.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="赛事咪咕",赛事咪咕播16
+http://59.188.94.126:35455/itv/3000000010000003915.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="赛事咪咕",赛事咪咕播17
+http://59.188.94.126:35455/itv/3000000010000004193.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="赛事咪咕",赛事咪咕播18
+http://59.188.94.126:35455/itv/3000000010000004464.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="赛事咪咕",赛事咪咕播19
+http://59.188.94.126:35455/itv/3000000010000005837.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="赛事咪咕",赛事咪咕播20
+http://59.188.94.126:35455/itv/3000000010000006077.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="赛事咪咕",赛事咪咕播21
+http://59.188.94.126:35455/itv/3000000010000006658.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="赛事咪咕",赛事咪咕播22
+http://59.188.94.126:35455/itv/3000000010000006944.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="赛事咪咕",赛事咪咕播23
+http://59.188.94.126:35455/itv/3000000010000007692.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="赛事咪咕",赛事咪咕播24
+http://59.188.94.126:35455/itv/3000000010000009788.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="赛事咪咕",赛事咪咕播25
+http://59.188.94.126:35455/itv/3000000010000010833.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="赛事咪咕",赛事咪咕播26
+http://59.188.94.126:35455/itv/3000000010000011112.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="赛事咪咕",赛事咪咕播27
+http://59.188.94.126:35455/itv/3000000010000011297.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="赛事咪咕",赛事咪咕播28
+http://59.188.94.126:35455/itv/3000000010000011518.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="赛事咪咕",赛事咪咕播29
+http://59.188.94.126:35455/itv/3000000010000011763.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="赛事咪咕",赛事咪咕播30
+http://59.188.94.126:35455/itv/3000000010000011873.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="赛事咪咕",赛事咪咕播31
+http://59.188.94.126:35455/itv/3000000010000012398.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="赛事咪咕",赛事咪咕播32
+http://59.188.94.126:35455/itv/3000000010000012450.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="赛事咪咕",赛事咪咕播33
+http://59.188.94.126:35455/itv/3000000010000012558.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="赛事咪咕",赛事咪咕播34
+http://59.188.94.126:35455/itv/3000000010000012616.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="赛事咪咕",赛事咪咕播35
+http://59.188.94.126:35455/itv/3000000010000015470.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="赛事咪咕",赛事咪咕播36
+http://59.188.94.126:35455/itv/3000000010000015560.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="赛事咪咕",赛事咪咕播37
+http://59.188.94.126:35455/itv/3000000010000017389.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="赛事咪咕",赛事咪咕播38
+http://59.188.94.126:35455/itv/3000000010000017678.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="赛事咪咕",赛事咪咕播39
+http://59.188.94.126:35455/itv/3000000010000017997.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="赛事咪咕",赛事咪咕播40
+http://59.188.94.126:35455/itv/3000000010000019380.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="赛事咪咕",赛事咪咕播41
+http://59.188.94.126:35455/itv/3000000010000019839.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="赛事咪咕",赛事咪咕播42
+http://59.188.94.126:35455/itv/3000000010000020168.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="赛事咪咕",赛事咪咕播43
+http://59.188.94.126:35455/itv/3000000010000021904.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="赛事咪咕",赛事咪咕播44
+http://59.188.94.126:35455/itv/3000000010000023434.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="赛事咪咕",赛事咪咕播45
+http://59.188.94.126:35455/itv/3000000010000024205.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="赛事咪咕",赛事咪咕播46
+http://59.188.94.126:35455/itv/3000000010000024691.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="赛事咪咕",赛事咪咕播47
+http://59.188.94.126:35455/itv/3000000010000025380.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="赛事咪咕",赛事咪咕播48
+http://59.188.94.126:35455/itv/3000000010000025943.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="赛事咪咕",赛事咪咕播49
+http://59.188.94.126:35455/itv/3000000010000027318.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="赛事咪咕",赛事咪咕播50
+http://59.188.94.126:35455/itv/3000000010000027638.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="赛事咪咕",赛事咪咕播51
+http://59.188.94.126:35455/itv/3000000010000027691.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="赛事咪咕",赛事咪咕播52
+http://59.188.94.126:35455/itv/3000000010000031669.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="赛事咪咕",赛事咪咕播53
+http://59.188.94.126:35455/itv/3000000010000032106.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="赛事咪咕",赛备睛彩竞技
+http://59.188.94.126:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="赛事咪咕",赛备睛彩篮球
+http://59.188.94.126:35455/itv/3000000020000011531.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="赛事咪咕",赛备睛彩青少
+http://59.188.94.126:35455/itv/3000000020000031315.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="赛事咪咕",赛备睛彩广场
+http://59.188.94.126:35455/itv/3000000020000011524.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="赛事咪咕",赛备咪咕4k播
+http://59.188.94.126:35455/itv/3000000010000005180.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="央卫北京",北京新闻高码
+http://k.061899.xyz/m.php?id=bjxw
+#EXTINF:-1 group-title="央卫北京",北京影视高码
+http://k.061899.xyz/m.php?id=bjys
+#EXTINF:-1 group-title="央卫北京",北京文艺高码
+http://k.061899.xyz/m.php?id=bjwy
+#EXTINF:-1 group-title="央卫北京",北京科教高码
+http://k.061899.xyz/m.php?id=bjjs
+#EXTINF:-1 group-title="央卫北京",北京生活高码
+http://k.061899.xyz/m.php?id=bjsh
+#EXTINF:-1 group-title="央卫北京",北京财经高码
+http://k.061899.xyz/m.php?id=bjcj
+#EXTINF:-1 group-title="央卫北京",北京体闲高码
+http://k.061899.xyz/m.php?id=bjty
+#EXTINF:-1 group-title="央卫北京",CCTV-01高码
+http://k.061899.xyz/m.php?id=cctv1
+#EXTINF:-1 group-title="央卫北京",CCTV-02高码
+http://k.061899.xyz/m.php?id=cctv2
+#EXTINF:-1 group-title="央卫北京",CCTV-03高码
+http://k.061899.xyz/m.php?id=cctv3
+#EXTINF:-1 group-title="央卫北京",CCTV-04高码
+http://k.061899.xyz/m.php?id=cctv4
+#EXTINF:-1 group-title="央卫北京",CCTV-05高码
+http://k.061899.xyz/m.php?id=cctv5
+#EXTINF:-1 group-title="央卫北京",CCTV-5+高码
+http://k.061899.xyz/m.php?id=cctv5p
+#EXTINF:-1 group-title="央卫北京",CCTV-06高码
+http://k.061899.xyz/m.php?id=cctv6
+#EXTINF:-1 group-title="央卫北京",CCTV-07高码
+http://k.061899.xyz/m.php?id=cctv7
+#EXTINF:-1 group-title="央卫北京",CCTV-08高码
+http://k.061899.xyz/m.php?id=cctv8
+#EXTINF:-1 group-title="央卫北京",CCTV-09高码
+http://k.061899.xyz/m.php?id=cctv9
+#EXTINF:-1 group-title="央卫北京",CCTV-10高码
+http://k.061899.xyz/m.php?id=cctv10
+#EXTINF:-1 group-title="央卫北京",CCTV-11高码
+http://k.061899.xyz/m.php?id=cctv11
+#EXTINF:-1 group-title="央卫北京",CCTV-12高码
+http://k.061899.xyz/m.php?id=cctv12
+#EXTINF:-1 group-title="央卫北京",CCTV-13高码
+http://k.061899.xyz/m.php?id=cctv13
+#EXTINF:-1 group-title="央卫北京",CCTV-14高码
+http://k.061899.xyz/m.php?id=cctv14
+#EXTINF:-1 group-title="央卫北京",CCTV-15高码
+http://k.061899.xyz/m.php?id=cctv15
+#EXTINF:-1 group-title="央卫北京",CCTV-16高码
+http://k.061899.xyz/m.php?id=cctv16
+#EXTINF:-1 group-title="央卫北京",CCTV-17高码
+http://k.061899.xyz/m.php?id=cctv17
+#EXTINF:-1 group-title="央卫北京",广东珠江高码
+http://k.061899.xyz/m.php?id=gdzj
+#EXTINF:-1 group-title="央卫北京",广东体育高码
+http://k.061899.xyz/m.php?id=gdty
+#EXTINF:-1 group-title="央卫北京",五星体育高码
+http://k.061899.xyz/m.php?id=wxty
+#EXTINF:-1 group-title="央卫北京",劲爆体育高码
+http://k.061899.xyz/m.php?id=jbty
+#EXTINF:-1 group-title="央卫北京",魅力体育高码
+http://k.061899.xyz/m.php?id=mlzq
+#EXTINF:-1 group-title="央卫北京",咪咕体育高码
+http://k.061899.xyz/m.php?id=mgty
+#EXTINF:-1 group-title="央卫北京",动作电影高码
+http://k.061899.xyz/m.php?id=dzdy
+#EXTINF:-1 group-title="央卫北京",家庭影院高码
+http://k.061899.xyz/m.php?id=jtyy
+#EXTINF:-1 group-title="央卫北京",影迷电影高码
+http://k.061899.xyz/m.php?id=ymdy
+#EXTINF:-1 group-title="央卫北京",国际美洲高码
+http://k.061899.xyz/m.php?id=cctv4m
+#EXTINF:-1 group-title="央卫北京",国际欧洲高码
+http://k.061899.xyz/m.php?id=cctv4o
+#EXTINF:-1 group-title="央卫北京",北京卫视高码
+http://k.061899.xyz/m.php?id=bjws
+#EXTINF:-1 group-title="央卫北京",东方卫视高码
+http://k.061899.xyz/m.php?id=dfws
+#EXTINF:-1 group-title="央卫北京",浙江卫视高码
+http://k.061899.xyz/m.php?id=zjws
+#EXTINF:-1 group-title="央卫北京",江苏卫视高码
+http://k.061899.xyz/m.php?id=jsws
+#EXTINF:-1 group-title="央卫北京",湖南卫视高码
+http://k.061899.xyz/m.php?id=hunws
+#EXTINF:-1 group-title="央卫北京",广东卫视高码
+http://k.061899.xyz/m.php?id=gdws
+#EXTINF:-1 group-title="央卫北京",深圳卫视高码
+http://k.061899.xyz/m.php?id=szws
+#EXTINF:-1 group-title="央卫北京",天津卫视高码
+http://k.061899.xyz/m.php?id=tjws
+#EXTINF:-1 group-title="央卫北京",安徽卫视高码
+http://k.061899.xyz/m.php?id=ahws
+#EXTINF:-1 group-title="央卫北京",山东卫视高码
+http://k.061899.xyz/m.php?id=sdws
+#EXTINF:-1 group-title="央卫北京",辽宁卫视高码
+http://k.061899.xyz/m.php?id=lnws
+#EXTINF:-1 group-title="央卫北京",河北卫视高码
+http://k.061899.xyz/m.php?id=hbws
+#EXTINF:-1 group-title="央卫北京",河南卫视高码
+http://k.061899.xyz/m.php?id=hnws
+#EXTINF:-1 group-title="央卫北京",江西卫视高码
+http://k.061899.xyz/m.php?id=jxws
+#EXTINF:-1 group-title="央卫北京",四川卫视高码
+http://k.061899.xyz/m.php?id=scws
+#EXTINF:-1 group-title="央卫北京",重庆卫视高码
+http://k.061899.xyz/m.php?id=cqws
+#EXTINF:-1 group-title="央卫北京",贵州卫视高码
+http://k.061899.xyz/m.php?id=gzws
+#EXTINF:-1 group-title="央卫北京",湖北卫视高码
+http://k.061899.xyz/m.php?id=hubws
+#EXTINF:-1 group-title="央卫北京",广西卫视高码
+http://k.061899.xyz/m.php?id=gxws
+#EXTINF:-1 group-title="央卫北京",东南卫视高码
+http://k.061899.xyz/m.php?id=dnws
+#EXTINF:-1 group-title="央卫北京",海南卫视高码
+http://k.061899.xyz/m.php?id=hinws
+#EXTINF:-1 group-title="央卫北京",青海卫视高码
+http://k.061899.xyz/m.php?id=qhws
+#EXTINF:-1 group-title="央卫北京",吉林卫视高码
+http://k.061899.xyz/m.php?id=jlws
+#EXTINF:-1 group-title="央卫北京",兵团卫视高码
+http://k.061899.xyz/m.php?id=btws
+#EXTINF:-1 group-title="央卫北京",西藏卫视高码
+http://k.061899.xyz/m.php?id=xzws
+#EXTINF:-1 group-title="央卫北京",内蒙古视高码
+http://k.061899.xyz/m.php?id=nmgws
+#EXTINF:-1 group-title="央卫北京",黑龙江视高码
+http://k.061899.xyz/m.php?id=hljws
+#EXTINF:-1 group-title="新剧追更",⬇️书卷一梦⬇️
+http://dd.rihou.cc:555/mp4
+#EXTINF:-1 group-title="新剧追更",书卷一梦01集
+https://tyyszywvod5.com/videos/202506/26/685cdc1be58d0b3d9a107e0e/cb911b/index.m3u8
+#EXTINF:-1 group-title="新剧追更",书卷一梦02集
+https://tyyszywvod5.com/videos/202506/26/685cdc3ae58d0b3d9a107e6c/f83eee/index.m3u8
+#EXTINF:-1 group-title="新剧追更",书卷一梦03集
+https://tyyszywvod5.com/videos/202506/26/685cdc00e58d0b3d9a107e06/b273f8/index.m3u8
+#EXTINF:-1 group-title="新剧追更",书卷一梦04集
+https://tyyszywvod5.com/videos/202506/26/685cdc09e58d0b3d9a107e0d/1c5e3b/index.m3u8
+#EXTINF:-1 group-title="新剧追更",书卷一梦05集
+https://tyyszywvod5.com/videos/202506/26/685cdc42e58d0b3d9a107e6d/216131/index.m3u8
+#EXTINF:-1 group-title="新剧追更",书卷一梦06集
+https://tyyszywvod5.com/videos/202506/26/685cdc57e58d0b3d9a107ecb/dc153e/index.m3u8
+#EXTINF:-1 group-title="新剧追更",书卷一梦07集
+https://tyyszywvod5.com/videos/202506/27/685e6c03e58d0b3d9a16eebc/086273/index.m3u8
+#EXTINF:-1 group-title="新剧追更",书卷一梦08集
+https://tyyszywvod5.com/videos/202506/27/685e6c07e58d0b3d9a16eebd/434903/index.m3u8
+#EXTINF:-1 group-title="新剧追更",⬇️桃花映江山⬇️
+http://dd.rihou.cc:555/mp4
+#EXTINF:-1 group-title="新剧追更",桃花映江山01
+https://tyyszywvod5.com/videos/202506/25/685bd75f7ea4833d7f901144/16332f/index.m3u8
+#EXTINF:-1 group-title="新剧追更",桃花映江山02
+https://tyyszywvod5.com/videos/202506/25/685bd7387ea4833d7f901087/d48be4/index.m3u8
+#EXTINF:-1 group-title="新剧追更",桃花映江山03
+https://tyyszywvod5.com/videos/202506/25/685bd70a7ea4833d7f900fca/87gdad/index.m3u8
+#EXTINF:-1 group-title="新剧追更",桃花映江山04
+https://tyyszywvod5.com/videos/202506/26/685c1f977ea4833d7f91c5d2/1gbbg7/index.m3u8
+#EXTINF:-1 group-title="新剧追更",桃花映江山05
+https://tyyszywvod5.com/videos/202506/26/685d22a87ea4833d7f961990/669741/index.m3u8
+#EXTINF:-1 group-title="新剧追更",桃花映江山06
+https://tyyszywvod5.com/videos/202506/26/685d48ef7ea4833d7f96ba13/09f99d/index.m3u8
+#EXTINF:-1 group-title="新剧追更",桃花映江山07
+https://tyyszywvod5.com/videos/202506/27/685e7062e58d0b3d9a171d62/693d90/index.m3u8
+#EXTINF:-1 group-title="新剧追更",桃花映江山08
+https://tyyszywvod5.com/videos/202506/27/685e9161e58d0b3d9a17f27f/4edbga/index.m3u8
+#EXTINF:-1 group-title="新剧追更",⬇️以法之名⬇️
+http://dd.rihou.cc:555/mp4
+#EXTINF:-1 group-title="新剧追更",以法之名01集
+https://tyyszywvod5.com/videos/202506/24/685a91e27ea4833d7f8a8df9/f136b0/index.m3u8
+#EXTINF:-1 group-title="新剧追更",以法之名02集
+https://tyyszywvod5.com/videos/202506/24/685aada07ea4833d7f8b4d24/2e2a46/index.m3u8
+#EXTINF:-1 group-title="新剧追更",以法之名03集
+https://tyyszywvod5.com/videos/202506/25/685ae90ae58d0b3d9a082de4/8ge89e/index.m3u8
+#EXTINF:-1 group-title="新剧追更",以法之名04集
+https://tyyszywvod5.com/videos/202506/24/685ab80a7ea4833d7f8b798a/480dc5/index.m3u8
+#EXTINF:-1 group-title="新剧追更",以法之名05集
+https://tyyszywvod5.com/videos/202506/25/685beb4d7ea4833d7f907224/g6gc5e/index.m3u8
+#EXTINF:-1 group-title="新剧追更",以法之名06集
+https://tyyszywvod5.com/videos/202506/25/685bed327ea4833d7f907bf8/249356/index.m3u8
+#EXTINF:-1 group-title="新剧追更",以法之名07集
+https://tyyszywvod5.com/videos/202506/26/685d38b37ea4833d7f966b6f/6ec69b/index.m3u8
+#EXTINF:-1 group-title="新剧追更",以法之名08集
+https://tyyszywvod5.com/videos/202506/26/685d38e87ea4833d7f967828/4417b9/index.m3u8
+#EXTINF:-1 group-title="新剧追更",以法之名09集
+https://tyyszywvod5.com/videos/202506/27/685e7e6ee58d0b3d9a179d5c/395e16/index.m3u8
+#EXTINF:-1 group-title="新剧追更",以法之名10集
+https://tyyszywvod5.com/videos/202506/27/685e9833e58d0b3d9a1812a7/db3147/index.m3u8
+#EXTINF:-1 group-title="新剧追更",⬇️焕羽⬇️
+http://dd.rihou.cc:555/mp4
+#EXTINF:-1 group-title="新剧追更",焕羽之第01集
+https://tyyszywvod5.com/videos/202506/19/6853e35e9ad7fe08f19ecd37/10bc2g/index.m3u8
+#EXTINF:-1 group-title="新剧追更",焕羽之第02集
+https://tyyszywvod5.com/videos/202506/19/6853e3519ad7fe08f19ecd32/627ec1/index.m3u8
+#EXTINF:-1 group-title="新剧追更",焕羽之第03集
+https://tyyszywvod5.com/videos/202506/19/6853e3629ad7fe08f19ecd38/559g65/index.m3u8
+#EXTINF:-1 group-title="新剧追更",焕羽之第04集
+https://tyyszywvod5.com/videos/202506/19/6853fe269ad7fe08f19f66ae/3f7e3d/index.m3u8
+#EXTINF:-1 group-title="新剧追更",焕羽之第05集
+https://tyyszywvod5.com/videos/202506/20/685531cc010cb608c901ded3/d6e05d/index.m3u8
+#EXTINF:-1 group-title="新剧追更",焕羽之第06集
+https://tyyszywvod5.com/videos/202506/20/68555d3f9ad7fe08f1a6528c/c1gbcb/index.m3u8
+#EXTINF:-1 group-title="新剧追更",焕羽之第07集
+https://tyyszywvod5.com/videos/202506/21/685683f3010cb608c909c78e/19gfeb/index.m3u8
+#EXTINF:-1 group-title="新剧追更",焕羽之第08集
+https://tyyszywvod5.com/videos/202506/21/6856b1ab9ad7fe08f1ae4998/1491bd/index.m3u8
+#EXTINF:-1 group-title="新剧追更",焕羽之第09集
+https://tyyszywvod5.com/videos/202506/22/6857d5d19ad7fe08f1b71e80/7e30eb/index.m3u8
+#EXTINF:-1 group-title="新剧追更",焕羽之第10集
+https://tyyszywvod5.com/videos/202506/22/685802399ad7fe08f1b8604c/a493e5/index.m3u8
+#EXTINF:-1 group-title="新剧追更",焕羽之第11集
+https://tyyszywvod5.com/videos/202506/23/68595a9e010cb608c91c3683/eg7cb2/index.m3u8
+#EXTINF:-1 group-title="新剧追更",焕羽之第12集
+https://tyyszywvod5.com/videos/202506/24/685aa5507ea4833d7f8b1941/0abg3d/index.m3u8
+#EXTINF:-1 group-title="新剧追更",焕羽之第13集
+https://tyyszywvod5.com/videos/202506/25/685bf6117ea4833d7f90cffc/b68e4c/index.m3u8
+#EXTINF:-1 group-title="新剧追更",焕羽之第14集
+https://tyyszywvod5.com/videos/202506/26/685d246c7ea4833d7f962684/ce0d12/index.m3u8
+#EXTINF:-1 group-title="新剧追更",焕羽之第15集
+https://tyyszywvod5.com/videos/202506/26/685d53457ea4833d7f973be6/c1d15a/index.m3u8
+#EXTINF:-1 group-title="新剧追更",焕羽之第16集
+https://tyyszywvod5.com/videos/202506/27/685e6bbae58d0b3d9a16eda3/ddbbb1/index.m3u8
+#EXTINF:-1 group-title="新剧追更",焕羽之第17集
+https://tyyszywvod5.com/videos/202506/27/685e94bee58d0b3d9a18031d/67g78c/index.m3u8
+#EXTINF:-1 group-title="新剧追更",⬇️淬火年代⬇️
+http://dd.rihou.cc:555/mp4
+#EXTINF:-1 group-title="新剧追更",淬火年代01集
+https://tyyszywvod5.com/videos/202506/18/6852b59f9ad7fe08f1982e16/bbc4g9/index.m3u8
+#EXTINF:-1 group-title="新剧追更",淬火年代02集
+https://tyyszywvod5.com/videos/202506/18/6852b5a99ad7fe08f1982e17/44ade7/index.m3u8
+#EXTINF:-1 group-title="新剧追更",淬火年代03集
+https://tyyszywvod5.com/videos/202506/18/6852b5939ad7fe08f1982d72/c201a0/index.m3u8
+#EXTINF:-1 group-title="新剧追更",淬火年代04集
+https://tyyszywvod5.com/videos/202506/18/6852b5969ad7fe08f1982d73/2d8g37/index.m3u8
+#EXTINF:-1 group-title="新剧追更",淬火年代05集
+https://tyyszywvod5.com/videos/202506/19/6853fcc49ad7fe08f19f59bc/22g092/index.m3u8
+#EXTINF:-1 group-title="新剧追更",淬火年代06集
+https://tyyszywvod5.com/videos/202506/19/6853fca49ad7fe08f19f59b5/gf535a/index.m3u8
+#EXTINF:-1 group-title="新剧追更",淬火年代07集
+https://tyyszywvod5.com/videos/202506/23/68594940010cb608c91bdc7a/5f44dc/index.m3u8
+#EXTINF:-1 group-title="新剧追更",淬火年代08集
+https://tyyszywvod5.com/videos/202506/23/68594956010cb608c91bddc9/af49ab/index.m3u8
+#EXTINF:-1 group-title="新剧追更",淬火年代09集
+https://tyyszywvod5.com/videos/202506/24/685a96037ea4833d7f8aa533/58cb90/index.m3u8
+#EXTINF:-1 group-title="新剧追更",淬火年代10集
+https://tyyszywvod5.com/videos/202506/24/685a95e77ea4833d7f8aa480/1bg7e3/index.m3u8
+#EXTINF:-1 group-title="新剧追更",淬火年代11集
+https://tyyszywvod5.com/videos/202506/25/685bedc67ea4833d7f9094e7/5ef843/index.m3u8
+#EXTINF:-1 group-title="新剧追更",淬火年代12集
+https://tyyszywvod5.com/videos/202506/25/685bed957ea4833d7f909086/cbgc7a/index.m3u8
+#EXTINF:-1 group-title="新剧追更",淬火年代13集
+https://tyyszywvod5.com/videos/202506/26/685d369c7ea4833d7f966576/bee727/index.m3u8
+#EXTINF:-1 group-title="新剧追更",淬火年代14集
+https://tyyszywvod5.com/videos/202506/26/685d36a97ea4833d7f966619/5beea9/index.m3u8
+#EXTINF:-1 group-title="新剧追更",淬火年代15集
+https://tyyszywvod5.com/videos/202506/27/685e8910e58d0b3d9a17cdc2/5egggc/index.m3u8
+#EXTINF:-1 group-title="新剧追更",淬火年代16集
+https://tyyszywvod5.com/videos/202506/27/685e8904e58d0b3d9a17cdbc/bgdc03/index.m3u8
+#EXTINF:-1 group-title="特闽AKtv",Plus综合AKtv
+https://s1.m16tv.cfd/aktv/tvbplus/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",pₒₚc电影AKtv
+https://s1.m16tv.cfd/aktv/popc/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",美亚电影AKtv
+https://s1.m16tv.cfd/aktv/hk/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",天映频道AKtv
+https://s1.m16tv.cfd/aktv2/CH-3/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",凤凰中文AKtv
+https://s1.m16tv.cfd/aktv/CH-3/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",凤凰资讯AKtv
+https://s1.m16tv.cfd/aktv/CH-4/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",凤凰香港AKtv
+https://s1.m16tv.cfd/aktv/CH-5/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",中天新闻AKtv
+https://s1.m16tv.cfd/zhongtian/CH-0/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",无线新闻AKtv
+https://s1.m16tv.cfd/aktv/CH-1/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",无线翡翠AKtv
+https://s1.m16tv.cfd/aktv/CH-0/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",无线明珠AKtv
+https://s1.m16tv.cfd/aktv/CH-2/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",无线赛马AKtv
+https://s1.m16tv.cfd/aktv/mytvsuper18/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",无线星河AKtv
+https://s1.m16tv.cfd/aktv2/tvb/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",无线翡剧AKtv
+https://s1.m16tv.cfd/aktv/CH-18/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",无线明剧AKtv
+https://s1.m16tv.cfd/aktv/CH-19/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",无线J1美AKtv
+https://s1.m16tv.cfd/aktv/CH-17/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",VIUTV-粤AKtv
+https://s1.m16tv.cfd/aktv2/viutv/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",爱奇剧场AKtv
+https://s1.m16tv.cfd/aktv2/iqiyi/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",tvbs新闻AKtv
+https://s1.m16tv.cfd/tvbs/tvbs/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",东森新闻AKtv
+https://s1.m16tv.cfd/zhongtian/CH-1/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",东森洋片AKtv
+https://s1.m16tv.cfd/aktv2/CH-2/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",东森电影AKtv
+https://s1.m16tv.cfd/aktv2/CH-1/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",好莱电影AKtv
+https://s1.m16tv.cfd/aktv2/CH-4/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",HBO电影AKtv
+https://s1.m16tv.cfd/aktv2/hbo/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",民视第一AKtv
+https://s1.m16tv.cfd/taiwan/CH-0/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",纬来体育AKtv
+https://s1.m16tv.cfd/aktv2/CH-0/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",channeluAKtv
+https://s1.m16tv.cfd/aktv/channeluhd/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",channel5AKtv
+https://s1.m16tv.cfd/aktv/channel5hd/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",channel8AKtv
+https://s1.m16tv.cfd/aktv/channel8hd/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",CNA新闻AKtv
+https://s1.m16tv.cfd/aktv3/cna/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",TVN韩综AKtv
+https://s1.m16tv.cfd/aktv/tvn/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",KPoP+韩AKtv
+https://s1.m16tv.cfd/aktv3/kpop/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",朝鲜恩情AKtv
+https://s1.m16tv.cfd/aktv3/CH-0/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",日-NEWSAKtv
+https://s1.m16tv.cfd/aktvjp/ntv/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",japan_24AKtv
+https://s1.m16tv.cfd/aktvjp/japannews24hlive/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",rock影综AKtv
+https://s1.m16tv.cfd/aktv/rockaction/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",AXN电影AKtv
+https://s1.m16tv.cfd/aktv/axn/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",Plus综合AKtv
+https://s2.m16tv.cfd/aktv/tvbplus/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",pₒₚc电影AKtv
+https://s2.m16tv.cfd/aktv/popc/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",美亚电影AKtv
+https://s2.m16tv.cfd/aktv/hk/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",天映频道AKtv
+https://s2.m16tv.cfd/aktv2/CH-3/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",凤凰中文AKtv
+https://s2.m16tv.cfd/aktv/CH-3/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",凤凰资讯AKtv
+https://s2.m16tv.cfd/aktv/CH-4/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",凤凰香港AKtv
+https://s2.m16tv.cfd/aktv/CH-5/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",中天新闻AKtv
+https://s2.m16tv.cfd/zhongtian/CH-0/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",无线新闻AKtv
+https://s2.m16tv.cfd/aktv/CH-1/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",无线翡翠AKtv
+https://s2.m16tv.cfd/aktv/CH-0/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",无线明珠AKtv
+https://s2.m16tv.cfd/aktv/CH-2/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",无线赛马AKtv
+https://s2.m16tv.cfd/aktv/mytvsuper18/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",无线星河AKtv
+https://s2.m16tv.cfd/aktv2/tvb/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",无线翡剧AKtv
+https://s2.m16tv.cfd/aktv/CH-18/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",无线明剧AKtv
+https://s2.m16tv.cfd/aktv/CH-19/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",无线J1美AKtv
+https://s2.m16tv.cfd/aktv/CH-17/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",VIUTV-粤AKtv
+https://s2.m16tv.cfd/aktv2/viutv/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",爱奇剧场AKtv
+https://s2.m16tv.cfd/aktv2/iqiyi/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",tvbs新闻AKtv
+https://s2.m16tv.cfd/tvbs/tvbs/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",东森新闻AKtv
+https://s2.m16tv.cfd/zhongtian/CH-1/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",东森洋片AKtv
+https://s2.m16tv.cfd/aktv2/CH-2/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",东森电影AKtv
+https://s2.m16tv.cfd/aktv2/CH-1/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",好莱电影AKtv
+https://s2.m16tv.cfd/aktv2/CH-4/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",HBO电影AKtv
+https://s2.m16tv.cfd/aktv2/hbo/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",民视第一AKtv
+https://s2.m16tv.cfd/taiwan/CH-0/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",纬来体育AKtv
+https://s2.m16tv.cfd/aktv2/CH-0/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",channeluAKtv
+https://s2.m16tv.cfd/aktv/channeluhd/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",channel5AKtv
+https://s2.m16tv.cfd/aktv/channel5hd/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",channel8AKtv
+https://s2.m16tv.cfd/aktv/channel8hd/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",CNA新闻AKtv
+https://s2.m16tv.cfd/aktv3/cna/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",TVN韩综AKtv
+https://s2.m16tv.cfd/aktv/tvn/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",KPoP+韩AKtv
+https://s2.m16tv.cfd/aktv3/kpop/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",朝鲜恩情AKtv
+https://s2.m16tv.cfd/aktv3/CH-0/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",日-NEWSAKtv
+https://s2.m16tv.cfd/aktvjp/ntv/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",japan_24AKtv
+https://s2.m16tv.cfd/aktvjp/japannews24hlive/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",rock影综AKtv
+https://s2.m16tv.cfd/aktv/rockaction/AKTV.m3u8
+#EXTINF:-1 group-title="特闽AKtv",AXN电影AKtv
+https://s2.m16tv.cfd/aktv/axn/AKTV.m3u8
+#EXTINF:-1 group-title="央卫时限",CCTV-01时限
+http://k.061899.xyz/m.php?id=cctv1
+#EXTINF:-1 group-title="央卫时限",CCTV-02时限
+http://k.061899.xyz/m.php?id=cctv2
+#EXTINF:-1 group-title="央卫时限",CCTV-03时限
+http://k.061899.xyz/m.php?id=cctv3
+#EXTINF:-1 group-title="央卫时限",CCTV-04时限
+http://k.061899.xyz/m.php?id=cctv4
+#EXTINF:-1 group-title="央卫时限",CCTV-05时限
+http://k.061899.xyz/m.php?id=cctv5
+#EXTINF:-1 group-title="央卫时限",CCTV-5+时限
+http://k.061899.xyz/m.php?id=cctv5p
+#EXTINF:-1 group-title="央卫时限",CCTV-06时限
+http://k.061899.xyz/m.php?id=cctv6
+#EXTINF:-1 group-title="央卫时限",CCTV-07时限
+http://k.061899.xyz/m.php?id=cctv7
+#EXTINF:-1 group-title="央卫时限",CCTV-08时限
+http://k.061899.xyz/m.php?id=cctv8
+#EXTINF:-1 group-title="央卫时限",CCTV-09时限
+http://k.061899.xyz/m.php?id=cctv9
+#EXTINF:-1 group-title="央卫时限",CCTV-10时限
+http://k.061899.xyz/m.php?id=cctv10
+#EXTINF:-1 group-title="央卫时限",CCTV-11时限
+http://k.061899.xyz/m.php?id=cctv11
+#EXTINF:-1 group-title="央卫时限",CCTV-12时限
+http://k.061899.xyz/m.php?id=cctv12
+#EXTINF:-1 group-title="央卫时限",CCTV-13时限
+http://k.061899.xyz/m.php?id=cctv13
+#EXTINF:-1 group-title="央卫时限",CCTV-14时限
+http://k.061899.xyz/m.php?id=cctv14
+#EXTINF:-1 group-title="央卫时限",CCTV-15时限
+http://k.061899.xyz/m.php?id=cctv15
+#EXTINF:-1 group-title="央卫时限",CCTV-16时限
+http://k.061899.xyz/m.php?id=cctv16
+#EXTINF:-1 group-title="央卫时限",CCTV-17时限
+http://k.061899.xyz/m.php?id=cctv17
+#EXTINF:-1 group-title="央卫时限",北京卫视时限
+http://k.061899.xyz/m.php?id=bjws
+#EXTINF:-1 group-title="央卫时限",东方卫视时限
+http://k.061899.xyz/m.php?id=dfws
+#EXTINF:-1 group-title="央卫时限",浙江卫视时限
+http://k.061899.xyz/m.php?id=zjws
+#EXTINF:-1 group-title="央卫时限",江苏卫视时限
+http://k.061899.xyz/m.php?id=jsws
+#EXTINF:-1 group-title="央卫时限",湖南卫视时限
+http://k.061899.xyz/m.php?id=hunws
+#EXTINF:-1 group-title="央卫时限",广东卫视时限
+http://k.061899.xyz/m.php?id=gdws
+#EXTINF:-1 group-title="央卫时限",深圳卫视时限
+http://k.061899.xyz/m.php?id=szws
+#EXTINF:-1 group-title="央卫时限",天津卫视时限
+http://k.061899.xyz/m.php?id=tjws
+#EXTINF:-1 group-title="央卫时限",安徽卫视时限
+http://k.061899.xyz/m.php?id=ahws
+#EXTINF:-1 group-title="央卫时限",山东卫视时限
+http://k.061899.xyz/m.php?id=sdws
+#EXTINF:-1 group-title="央卫时限",辽宁卫视时限
+http://k.061899.xyz/m.php?id=lnws
+#EXTINF:-1 group-title="央卫时限",河北卫视时限
+http://k.061899.xyz/m.php?id=hbws
+#EXTINF:-1 group-title="央卫时限",河南卫视时限
+http://k.061899.xyz/m.php?id=hnws
+#EXTINF:-1 group-title="央卫时限",江西卫视时限
+http://k.061899.xyz/m.php?id=jxws
+#EXTINF:-1 group-title="央卫时限",四川卫视时限
+http://k.061899.xyz/m.php?id=scws
+#EXTINF:-1 group-title="央卫时限",重庆卫视时限
+http://k.061899.xyz/m.php?id=cqws
+#EXTINF:-1 group-title="央卫时限",贵州卫视时限
+http://k.061899.xyz/m.php?id=gzws
+#EXTINF:-1 group-title="央卫时限",湖北卫视时限
+http://k.061899.xyz/m.php?id=hubws
+#EXTINF:-1 group-title="央卫时限",广西卫视时限
+http://k.061899.xyz/m.php?id=gxws
+#EXTINF:-1 group-title="央卫时限",东南卫视时限
+http://k.061899.xyz/m.php?id=dnws
+#EXTINF:-1 group-title="央卫时限",海南卫视时限
+http://k.061899.xyz/m.php?id=hinws
+#EXTINF:-1 group-title="央卫时限",青海卫视时限
+http://k.061899.xyz/m.php?id=qhws
+#EXTINF:-1 group-title="央卫时限",吉林卫视时限
+http://k.061899.xyz/m.php?id=jlws
+#EXTINF:-1 group-title="央卫时限",兵团卫视时限
+http://k.061899.xyz/m.php?id=btws
+#EXTINF:-1 group-title="央卫时限",西藏卫视时限
+http://k.061899.xyz/m.php?id=xzws
+#EXTINF:-1 group-title="央卫时限",内蒙古视时限
+http://k.061899.xyz/m.php?id=nmgws
+#EXTINF:-1 group-title="央卫时限",黑龙江视时限
+http://k.061899.xyz/m.php?id=hljws
+#EXTINF:-1 group-title="特区时限",凤凰中文时限
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87%E5%8F%B0
+#EXTINF:-1 group-title="特区时限",凤凰资讯时限
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF%E5%8F%B0
+#EXTINF:-1 group-title="特区时限",凤凰香港时限
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF%E5%8F%B0
+#EXTINF:-1 group-title="特区时限",Plus综合时限
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=TVBPlus
+#EXTINF:-1 group-title="特区时限",有线新闻时限
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy78.flv
+#EXTINF:-1 group-title="特区时限",无线新闻时限
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=TVB%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0
+#EXTINF:-1 group-title="特区时限",Now新闻时限
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=Now%E6%96%B0%E9%97%BB%E5%8F%B0
+#EXTINF:-1 group-title="特区时限",无线翡翠时限
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E7%BF%A1%E7%BF%A0%E5%8F%B0
+#EXTINF:-1 group-title="特区时限",无线明珠时限
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=TVB%E6%98%8E%E7%8F%A0%E5%8F%B0
+#EXTINF:-1 group-title="特区时限",无线娱乐时限
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=TVB%E5%A8%B1%E4%B9%90%E6%96%B0%E9%97%BB
+#EXTINF:-1 group-title="特区时限",无线生活时限
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=TVB%E7%94%9F%E6%B4%BB%E5%8F%B0
+#EXTINF:-1 group-title="特区时限",无线星河国限
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=TVB%E6%98%9F%E6%B2%B3%E9%A2%91%E9%81%93%28%E5%9B%BD%29
+#EXTINF:-1 group-title="特区时限",无线星河粤限
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=TVB%E6%98%9F%E6%B2%B3%E9%A2%91%E9%81%93%28%E7%B2%A4%29
+#EXTINF:-1 group-title="特区时限",无线功夫国限
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=TVB%E5%8A%9F%E5%A4%AB%E5%8F%B0%28%E5%9B%BD%29
+#EXTINF:-1 group-title="特区时限",无线功夫粤限
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=TVB%E5%8A%9F%E5%A4%AB%E5%8F%B0%28%E7%B2%A4%29
+#EXTINF:-1 group-title="特区时限",无线明剧时限
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=TVBPearlDrama%E6%98%8E%E7%8F%A0%E5%8A%87%E9%9B%86%E5%8F%B0
+#EXTINF:-1 group-title="特区时限",无线_1美时限
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=TVB1
+#EXTINF:-1 group-title="特区时限",无线千禧时限
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=TVB%E5%8D%83%E7%A6%A7%E7%BB%8F%E5%85%B8
+#EXTINF:-1 group-title="特区时限",无线经典时限
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=MyTV%E5%8D%83%E7%A6%A7%E7%BB%8F%E5%85%B8%E5%8F%B0
+#EXTINF:-1 group-title="特区时限",无线综合时限
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=TVBSuperFree
+#EXTINF:-1 group-title="特区时限",无线亚综时限
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E4%BA%9A%E6%B4%B2%E7%BB%BC%E5%90%88%E5%A8%B1%E4%B9%90%E5%8F%B0
+#EXTINF:-1 group-title="特区时限",无线亚剧时限
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E4%BA%9A%E6%B4%B2%E5%89%A7%E5%8F%B0
+#EXTINF:-1 group-title="特区时限",无线华剧时限
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E5%8D%8E%E8%AF%AD%E5%89%A7%E5%8F%B0
+#EXTINF:-1 group-title="特区时限",无线戏曲时限
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E6%88%8F%E6%9B%B2%E5%8F%B0
+#EXTINF:-1 group-title="特区时限",无线粤片时限
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E7%B2%A4%E8%AF%AD%E7%89%87%E5%8F%B0
+#EXTINF:-1 group-title="特区时限",无线少儿时限
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=HandsUP
+#EXTINF:-1 group-title="特区时限",有线综合时限
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=HOY77
+#EXTINF:-1 group-title="特区时限",有线赛讯时限
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=HOY76
+#EXTINF:-1 group-title="特区时限",有线赛马时限
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=HKC18%E5%8F%B0
+#EXTINF:-1 group-title="特区时限",28aI赛马时限
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=28AI%E6%99%BA%E6%85%A7%E8%B5%9B%E9%A9%AC
+#EXTINF:-1 group-title="特区时限",黄金翡翠时限
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E9%BB%84%E9%87%91%E7%BF%A1%E7%BF%A0%E5%8F%B0
+#EXTINF:-1 group-title="特区时限",黄金华剧时限
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E9%BB%83%E9%87%91%E8%8F%AF%E5%8A%87%E5%8F%B0
+#EXTINF:-1 group-title="特区时限",pₒₚc电影时限
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=POPC
+#EXTINF:-1 group-title="特区时限",Now爆谷时限
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=Now%E7%88%86%E8%B0%B7%E5%8F%B0
+#EXTINF:-1 group-title="特区时限",Now星影时限
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=Now%E6%98%9F%E5%BD%B1%E5%8F%B0
+#EXTINF:-1 group-title="特区时限",Now华剧时限
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=Now%E8%8F%AF%E5%8A%87%E5%8F%B0
+#EXTINF:-1 group-title="特区时限",Now剧集时限
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=Now%E5%8A%87%E9%9B%86%E5%8F%B0
+#EXTINF:-1 group-title="特区时限",Now紫金时限
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=NowJelli%E7%B4%AB%E9%87%91%E5%9B%BD%E9%99%85
+#EXTINF:-1 group-title="特区时限",Now直播时限
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=Now%E7%9B%B4%E6%92%AD%E5%8F%B0
+#EXTINF:-1 group-title="特区时限",Now财经时限
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=Now%E8%B4%A2%E7%BB%8F%E5%8F%B0
+#EXTINF:-1 group-title="特区时限",VIUTV-粤时限
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=ViuTV
+#EXTINF:-1 group-title="特区时限",VIUTV-英时限
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=ViuTV6
+#EXTINF:-1 group-title="特区时限",RTHK-31时限
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=RTHK31
+#EXTINF:-1 group-title="特区时限",RTHK-32时限
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=RTHK32
+#EXTINF:-1 group-title="特区时限",HUB娱家时限
+http://api.mytv666.top/api/qwt.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=%E5%A8%B1%E5%AE%B6%E5%8F%B0
+#EXTINF:-1 group-title="特区时限",HUB都会时限
+http://api.mytv666.top/api/qwt.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=%E9%83%BD%E4%BC%9A%E5%8F%B0
+#EXTINF:-1 group-title="特区时限",Ftv1时代时限
+http://api.mytv666.top/api/qwt.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=%E6%96%B0%E6%97%B6%E4%BB%A31
+#EXTINF:-1 group-title="特区时限",Ftv2时代时限
+http://api.mytv666.top/api/qwt.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=%E6%96%B0%E6%97%B6%E4%BB%A32
+#EXTINF:-1 group-title="特区时限",城市电视时限
+http://api.mytv666.top/api/qwt.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=%E5%9F%8E%E5%B8%82%E7%94%B5%E8%A7%86
+#EXTINF:-1 group-title="特区时限",天映经典时限
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E5%A4%A9%E6%98%A0%E7%BB%8F%E5%85%B8
+#EXTINF:-1 group-title="特区时限",天映经典国限
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E5%A4%A9%E6%98%A0%E9%A2%91%E9%81%93%28%E7%B2%A4%29
+#EXTINF:-1 group-title="特区时限",天映经典粤限
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E5%A4%A9%E6%98%A0%E9%A2%91%E9%81%93%28%E5%9B%BD%29
+#EXTINF:-1 group-title="特区时限",美亚电影国限
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1%28%E5%9B%BD%29
+#EXTINF:-1 group-title="特区时限",美亚电影粤限
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1%28%E7%B2%A4%29
+#EXTINF:-1 group-title="特区时限",中国电影时限
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1%E9%A2%91%E9%81%93
+#EXTINF:-1 group-title="闽南时限",中天新闻时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB
+#EXTINF:-1 group-title="闽南时限",中天新闻加限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=CTI+%E4%B8%AD%E5%A4%A92%E5%8F%B0
+#EXTINF:-1 group-title="闽南时限",寰宇新闻时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E5%AF%B0%E5%AE%87%E6%96%B0%E9%97%BB
+#EXTINF:-1 group-title="闽南时限",tvbs新闻时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=TVBS%E6%96%B0%E9%97%BB%E5%8F%B0
+#EXTINF:-1 group-title="闽南时限",三立新闻时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E4%B8%89%E7%AB%8B%E6%96%B0%E9%97%BB%E5%8F%B0
+#EXTINF:-1 group-title="闽南时限",三立新闻加限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E4%B8%89%E7%AB%8BiNEWS
+#EXTINF:-1 group-title="闽南时限",年代新闻时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E5%B9%B4%E4%BB%A3%E6%96%B0%E9%97%BB
+#EXTINF:-1 group-title="闽南时限",非凡新闻时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E9%9D%9E%E5%87%A1%E6%96%B0%E9%97%BB
+#EXTINF:-1 group-title="闽南时限",闽壹新闻时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E5%A3%B9%E6%96%B0%E9%97%BB
+#EXTINF:-1 group-title="闽南时限",闽镜新闻时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E9%8F%A1%E6%96%B0%E9%97%BB
+#EXTINF:-1 group-title="闽南时限",公视新闻时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E5%85%AC%E8%A7%86%E6%96%B0%E9%97%BB%E7%BD%91
+#EXTINF:-1 group-title="闽南时限",民视新闻时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB%E5%8F%B0
+#EXTINF:-1 group-title="闽南时限",中视新闻时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB
+#EXTINF:-1 group-title="闽南时限",华视新闻时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=CTS%E5%8D%8E%E8%A7%86%E6%96%B0%E9%97%BB%E8%B5%84%E8%AE%AF
+#EXTINF:-1 group-title="闽南时限",台视新闻时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BBHD
+#EXTINF:-1 group-title="闽南时限",公视闽南时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E5%85%AC%E8%A7%86
+#EXTINF:-1 group-title="闽南时限",民视闽南时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E6%B0%91%E8%A7%86
+#EXTINF:-1 group-title="闽南时限",中视闽南时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E4%B8%AD%E8%A7%86
+#EXTINF:-1 group-title="闽南时限",华视闽南时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E5%8D%8E%E8%A7%86
+#EXTINF:-1 group-title="闽南时限",台视闽南时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E5%8F%B0%E8%A7%86
+#EXTINF:-1 group-title="闽南时限",寰宇闽南时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E5%AF%B0%E5%AE%87%E6%96%B0%E9%97%BB%E5%8F%B0%E6%B9%BE
+#EXTINF:-1 group-title="闽南时限",tvbs闽南时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=TVBSHD
+#EXTINF:-1 group-title="闽南时限",霹雳闽南时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E9%9C%B9%E9%9B%B3%E5%8F%B0%E6%B9%BE%E5%8F%B0
+#EXTINF:-1 group-title="闽南时限",公视闽语时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E5%85%AC%E8%A7%86%E5%8F%B0%E8%AF%AD%E5%8F%B0
+#EXTINF:-1 group-title="闽南时限",公视戏剧时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E5%85%AC%E8%A7%86%E6%88%8F%E5%89%A7
+#EXTINF:-1 group-title="闽南时限",小公视综时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E5%B0%8F%E5%85%AC%E8%A7%86
+#EXTINF:-1 group-title="闽南时限",民视第一时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E6%B0%91%E8%A7%86%E7%AC%AC%E4%B8%80%E5%8F%B0
+#EXTINF:-1 group-title="闽南时限",民视闽语时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E6%B0%91%E8%A7%86%E5%8F%B0%E6%B9%BE%E5%8F%B0
+#EXTINF:-1 group-title="闽南时限",民视影剧时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E6%B0%91%E8%A7%86%E5%BD%B1%E5%89%A7%E5%8F%B0
+#EXTINF:-1 group-title="闽南时限",民视旅游时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E6%B0%91%E8%A7%86%E6%97%85%E6%B8%B8%E5%8F%B0
+#EXTINF:-1 group-title="闽南时限",民视综艺时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E6%B0%91%E8%A7%86%E7%BB%BC%E8%89%BA%E5%8F%B0
+#EXTINF:-1 group-title="闽南时限",中视经典时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E4%B8%AD%E8%A7%86%E7%BB%8F%E5%85%B8
+#EXTINF:-1 group-title="闽南时限",中天综合时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E4%B8%AD%E5%A4%A9%E7%BB%BC%E5%90%88
+#EXTINF:-1 group-title="闽南时限",中天娱乐时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E4%B8%AD%E5%A4%A9%E5%A8%B1%E4%B9%90
+#EXTINF:-1 group-title="闽南时限",台视综合时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E5%8F%B0%E8%A7%86%E7%BB%BC%E5%90%88
+#EXTINF:-1 group-title="闽南时限",台视财经时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E5%8F%B0%E8%A7%86%E8%B4%A2%E7%BB%8F
+#EXTINF:-1 group-title="闽南时限",寰宇财经时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E5%AF%B0%E5%AE%87%E8%B4%A2%E7%BB%8F
+#EXTINF:-1 group-title="闽南时限",三立都会时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E4%B8%89%E7%AB%8B%E9%83%BD%E4%BC%9A%E5%8F%B0
+#EXTINF:-1 group-title="闽南时限",三立综合时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E4%B8%89%E7%AB%8B%E7%BB%BC%E5%90%88%E5%8F%B0
+#EXTINF:-1 group-title="闽南时限",三立台湾时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E4%B8%89%E7%AB%8B%E5%8F%B0%E6%B9%BE%E5%8F%B0
+#EXTINF:-1 group-title="闽南时限",三立戏剧时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E4%B8%89%E7%AB%8B%E6%88%8F%E5%89%A7%E5%8F%B0
+#EXTINF:-1 group-title="闽南时限",三立国际时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E4%B8%89%E7%AB%8B%E5%9B%BD%E9%99%85%E5%8F%B0
+#EXTINF:-1 group-title="闽南时限",三立LIVE时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=LIVE%E4%B8%89%E7%AB%8B
+#EXTINF:-1 group-title="闽南时限",八大第一时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E5%85%AB%E5%A4%A7%E7%AC%AC%E4%B8%80%E5%8F%B0
+#EXTINF:-1 group-title="闽南时限",八大戏剧时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E5%85%AB%E5%A4%A7%E6%88%8F%E5%89%A7%E5%8F%B0
+#EXTINF:-1 group-title="闽南时限",八大综合时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E5%85%AB%E5%A4%A7%E7%BB%BC%E5%90%88%E5%8F%B0
+#EXTINF:-1 group-title="闽南时限",八大精彩时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E5%85%AB%E5%A4%A7%E7%B2%BE%E5%BD%A9%E5%8F%B0
+#EXTINF:-1 group-title="闽南时限",八大娱乐时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E5%85%AB%E5%A4%A7%E5%A8%B1%E4%B9%90%E5%8F%B0
+#EXTINF:-1 group-title="闽南时限",龙华电影时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E9%BE%99%E5%8D%8E%E7%94%B5%E5%BD%B1
+#EXTINF:-1 group-title="闽南时限",龙华偶像时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E9%BE%99%E5%8D%8E%E5%81%B6%E5%83%8F
+#EXTINF:-1 group-title="闽南时限",龙华戏剧时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E9%BE%99%E5%8D%8E%E6%88%8F%E5%89%A7
+#EXTINF:-1 group-title="闽南时限",龙华日韩时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E9%BE%99%E5%8D%8E%E6%97%A5%E9%9F%A9
+#EXTINF:-1 group-title="闽南时限",龙华影剧时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E9%BE%99%E5%8D%8E%E5%BD%B1%E5%89%A7
+#EXTINF:-1 group-title="闽南时限",龙华洋片时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E9%BE%99%E5%8D%8E%E6%B4%8B%E7%89%87
+#EXTINF:-1 group-title="闽南时限",龙华卡通时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E9%BE%99%E5%8D%8E%E5%8D%A1%E9%80%9A
+#EXTINF:-1 group-title="闽南时限",龙华经典时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E9%BE%99%E5%8D%8E%E7%BB%8F%E5%85%B8
+#EXTINF:-1 group-title="闽南时限",纬来日本时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E7%BA%AC%E6%9D%A5%E6%97%A5%E6%9C%AC
+#EXTINF:-1 group-title="闽南时限",纬来育乐时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E7%BA%AC%E6%9D%A5%E8%82%B2%E4%B9%90
+#EXTINF:-1 group-title="闽南时限",东森超美时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E4%B8%9C%E6%A3%AE%E8%B6%85%E8%A7%86%E7%BE%8E%E6%B4%B2
+#EXTINF:-1 group-title="闽南时限",东森美洲时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E4%B8%9C%E6%A3%AE%E7%BE%8E%E6%B4%B2
+#EXTINF:-1 group-title="闽南时限",东森美卫时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E4%B8%9C%E6%A3%AE%E7%BE%8E%E6%B4%B2%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="闽南时限",东森中国时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E4%B8%9C%E6%A3%AE%E4%B8%AD%E5%9B%BD%E5%8F%B0
+#EXTINF:-1 group-title="闽南时限",东森超视时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E4%B8%9C%E6%A3%AE%E8%B6%85%E8%A7%86
+#EXTINF:-1 group-title="闽南时限",东森幼幼时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E4%B8%9C%E6%A3%AE%E5%B9%BC%E5%B9%BC
+#EXTINF:-1 group-title="闽南时限",MO_亲子时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=MOMO%E4%BA%B2%E5%AD%90%E5%8F%B0
+#EXTINF:-1 group-title="闽南时限",闽南戏剧时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E5%8F%B0%E6%B9%BE%E6%88%8F%E5%89%A7
+#EXTINF:-1 group-title="闽南时限",壹电影综时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E5%A3%B9%E7%94%B5%E5%BD%B1
+#EXTINF:-1 group-title="闽南时限",JET-综合时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=JET%E7%BB%BC%E5%90%88%E5%8F%B0
+#EXTINF:-1 group-title="闽南时限",年代综合时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E5%B9%B4%E4%BB%A3Much
+#EXTINF:-1 group-title="闽南时限",非凡商业时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E9%9D%9E%E5%87%A1%E5%95%86%E4%B8%9A
+#EXTINF:-1 group-title="闽南时限",国兴卫视时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E5%9B%BD%E5%85%B4%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="闽南时限",tvbs精采时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=TVBS%E7%B2%BE%E9%87%87%E5%8F%B0
+#EXTINF:-1 group-title="闽南时限",tvbs欢乐时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=TVBS%E6%AC%A2%E4%B9%90%E5%8F%B0
+#EXTINF:-1 group-title="闽南时限",tvbs'new时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=TVBSNEWS
+#EXTINF:-1 group-title="闽南时限",靖天综合时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E9%9D%96%E5%A4%A9%E7%BB%BC%E5%90%88%E5%8F%B0
+#EXTINF:-1 group-title="闽南时限",靖天日本时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E9%9D%96%E5%A4%A9%E6%97%A5%E6%9C%AC%E5%8F%B0
+#EXTINF:-1 group-title="闽南时限",靖天卡通时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E9%9D%96%E5%A4%A9%E5%8D%A1%E9%80%9A%E5%8F%B0
+#EXTINF:-1 group-title="闽南时限",靖洋卡通时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E9%9D%96%E6%B4%8B%E5%8D%A1%E9%80%9A%E5%8F%B0
+#EXTINF:-1 group-title="闽南时限",靖天国际时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E9%9D%96%E5%A4%A9%E5%9B%BD%E9%99%85%E5%8F%B0
+#EXTINF:-1 group-title="闽南时限",靖天育乐时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E9%9D%96%E5%A4%A9%E8%82%B2%E4%B9%90%E5%8F%B0
+#EXTINF:-1 group-title="闽南时限",靖天映画时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E9%9D%96%E5%A4%A9%E6%98%A0%E7%94%BB%E5%8F%B0
+#EXTINF:-1 group-title="闽南时限",靖天欢乐时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E9%9D%96%E5%A4%A9%E6%AC%A2%E4%B9%90%E5%8F%B0
+#EXTINF:-1 group-title="闽南时限",华艺综合时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E8%8F%AF%E8%97%9DMBC%E7%B6%9C%E5%90%88%E5%8F%B0
+#EXTINF:-1 group-title="闽南时限",LUXE_TV时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=LUXETV
+#EXTINF:-1 group-title="闽南时限",亚洲旅游时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E4%BA%9A%E6%B4%B2%E6%97%85%E6%B8%B8%E5%8F%B0
+#EXTINF:-1 group-title="闽南时限",闽南'Plus时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E5%8F%B0%E6%B9%BEPlus
+#EXTINF:-1 group-title="闽南时限",EYE-旅游时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=EYETV%E6%97%85%E6%B8%B8
+#EXTINF:-1 group-title="闽南时限",EYE-戏剧时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=EYETV%E6%88%8F%E5%89%A7
+#EXTINF:-1 group-title="闽南时限",ELta日韩时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=ELTA%E6%97%A5%E9%9F%A9
+#EXTINF:-1 group-title="闽南时限",ELta影剧时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=ELTA%E5%BD%B1%E5%89%A7
+#EXTINF:-1 group-title="闽南时限",ELta综合时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=ELTA%E7%BB%BC%E5%90%88
+#EXTINF:-1 group-title="闽南时限",ELta娱乐时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=ELTA%E5%A8%B1%E4%B9%90
+#EXTINF:-1 group-title="闽南时限",ELta生活时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=ELTA%E7%94%9F%E6%B4%BB%E6%97%85%E6%B8%B8
+#EXTINF:-1 group-title="闽南时限",i-fun动漫时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=i-Fun%E5%8B%95%E6%BC%AB%E5%8F%B0
+#EXTINF:-1 group-title="闽南时限",Z-频道综时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=Z%E9%A2%91%E9%81%93
+#EXTINF:-1 group-title="闽南时限",thrill惊悚时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=Thrill%E6%83%8A%E6%82%9A
+#EXTINF:-1 group-title="闽南时限",AXN电影时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=AXN%E9%A0%BB%E9%81%93
+#EXTINF:-1 group-title="闽南时限",华纳电影时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E5%8D%8E%E7%BA%B3%E7%94%B5%E5%BD%B1
+#EXTINF:-1 group-title="闽南时限",美亚电影时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1%E5%8F%B0
+#EXTINF:-1 group-title="闽南时限",好莱电影时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E5%A5%BD%E8%8E%B1%E5%9D%9E%E7%94%B5%E5%BD%B1
+#EXTINF:-1 group-title="闽南时限",Amc电影时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=amc%E6%9C%80%E7%88%B1%E7%94%B5%E5%BD%B1
+#EXTINF:-1 group-title="闽南时限",CINemax时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=CINEMAX
+#EXTINF:-1 group-title="闽南时限",HBO频道时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=HBO
+#EXTINF:-1 group-title="闽南时限",HBO高清时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=HBOHD
+#EXTINF:-1 group-title="闽南时限",HBO原创时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=HBO%E5%8E%9F%E5%88%9B
+#EXTINF:-1 group-title="闽南时限",HBO强档时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=HBO%E5%BC%BA%E6%A1%A3
+#EXTINF:-1 group-title="闽南时限",HBO家庭时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=HBO%E5%AE%B6%E5%BA%AD
+#EXTINF:-1 group-title="闽南时限",采昌影剧时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E9%87%87%E6%98%8C%E5%BD%B1%E5%89%A7%E5%8F%B0
+#EXTINF:-1 group-title="闽南时限",高点综合时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E9%AB%98%E7%82%B9%E7%BB%BC%E5%90%88
+#EXTINF:-1 group-title="闽南时限",东风卫视时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E4%B8%9C%E9%A3%8E%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="闽南时限",Smart-综时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=Smart%E7%9F%A5%E8%AF%86%E5%8F%B0
+#EXTINF:-1 group-title="闽南时限",客家电视时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E5%AE%A2%E5%AE%B6%E7%94%B5%E8%A7%86%E5%8F%B0
+#EXTINF:-1 group-title="闽南时限",原住民频时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E5%8E%9F%E4%BD%8F%E6%B0%91%E9%A2%91%E9%81%93
+#EXTINF:-1 group-title="闽南时限",MTV音乐时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=MTV%E9%9F%B3%E4%B9%90%E9%A2%91%E9%81%93
+#EXTINF:-1 group-title="闽南时限",韩国娱乐时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E9%9F%A9%E5%9B%BD%E5%A8%B1%E4%B9%90%E5%8F%B0
+#EXTINF:-1 group-title="闽南时限",猪哥亮歌时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=%E7%8C%AA%E5%93%A5%E4%BA%AE%E6%AD%8C%E5%8E%85%E7%A7%80
+#EXTINF:-1 group-title="闽南时限",astroAec时限
+http://api.mytv666.top/api/qwt.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=AstroAEC
+#EXTINF:-1 group-title="闽南时限",astro_QJ时限
+http://api.mytv666.top/api/qwt.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=AstroQJ
+#EXTINF:-1 group-title="闽南时限",astroaod时限
+http://api.mytv666.top/api/qwt.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=AstroAOD
+#EXTINF:-1 group-title="闽南时限",astr-欢喜时限
+http://api.mytv666.top/api/qwt.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=Astro%E6%AC%A2%E5%96%9C%E5%8F%B0
+#EXTINF:-1 group-title="闽南时限",中旺电视时限
+http://api.mytv666.top/api/qwt.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=%E4%B8%AD%E6%97%BA%E7%94%B5%E8%A7%86
+#EXTINF:-1 group-title="闽南时限",Fashionb时限
+http://api.mytv666.top/api/qwt.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=FashionBox
+#EXTINF:-1 group-title="闽南时限",TVN韩综时限
+http://api.mytv666.top/api/qwt.php?t=%E5%8F%B0%E6%B9%BE%E9%A2%91%E9%81%93&id=tVN
+#EXTINF:-1 group-title="闽南时限",TVN综韩时限
+http://api.mytv666.top/api/qwt.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=tvN
+#EXTINF:-1 group-title="闽南时限",KIX_韩综时限
+http://api.mytv666.top/api/qwt.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=Kix
+#EXTINF:-1 group-title="闽南时限",rock娱乐时限
+http://api.mytv666.top/api/qwt.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=ROCK%E8%B6%85%E7%BA%A7%E5%A8%B1%E4%B9%90
+#EXTINF:-1 group-title="闽南时限",rock综艺时限
+http://api.mytv666.top/api/qwt.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=ROCK%E7%BB%BC%E8%89%BA%E5%A8%B1%E4%B9%90
+#EXTINF:-1 group-title="闽南时限",AXN电影时限
+http://api.mytv666.top/api/qwt.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=AXN
+#EXTINF:-1 group-title="闽南时限",ANIMAX-时限
+http://api.mytv666.top/api/qwt.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=Animax
+#EXTINF:-1 group-title="闽南时限",thrill电影时限
+http://api.mytv666.top/api/qwt.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=Thrill
+#EXTINF:-1 group-title="闽南时限",ZooMoo-时限
+http://api.mytv666.top/api/qwt.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=ZooMoo
+#EXTINF:-1 group-title="闽南时限",Nickelod'时限
+http://api.mytv666.top/api/qwt.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=Nickelodeon
+#EXTINF:-1 group-title="闽南时限",Nick儿童时限
+http://api.mytv666.top/api/qwt.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=NickJr%E5%84%BF%E7%AB%A5%E9%A2%91%E9%81%93
+#EXTINF:-1 group-title="闽南时限",Dream'W时限
+http://api.mytv666.top/api/qwt.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=DreamWorks
+#EXTINF:-1 group-title="闽南时限",动物星球时限
+http://api.mytv666.top/api/qwt.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=%E5%8A%A8%E7%89%A9%E6%98%9F%E7%90%83
+#EXTINF:-1 group-title="闽南时限",国家地理时限
+http://api.mytv666.top/api/qwt.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=%E5%9B%BD%E5%AE%B6%E5%9C%B0%E7%90%86
+#EXTINF:-1 group-title="闽南时限",探索频道时限
+http://api.mytv666.top/api/qwt.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=%E6%8E%A2%E7%B4%A2%E9%A2%91%E9%81%93
+#EXTINF:-1 group-title="央卫咪咕",CCTV-01咪咕
+http://36.105.100.208:35455/mgtv/608807420.m3u8
+#EXTINF:-1 group-title="央卫咪咕",CCTV-02咪咕
+http://36.105.100.208:35455/mgtv/631780532.m3u8
+#EXTINF:-1 group-title="央卫咪咕",CCTV-03咪咕
+http://36.105.100.208:35455/mgtv/624878271.m3u8
+#EXTINF:-1 group-title="央卫咪咕",CCTV-04咪咕
+http://36.105.100.208:35455/mgtv/631780421.m3u8
+#EXTINF:-1 group-title="央卫咪咕",CCTV-05咪咕
+http://36.105.100.208:35455/mgtv/641886683.m3u8
+#EXTINF:-1 group-title="央卫咪咕",CCTV-5+咪咕
+http://36.105.100.208:35455/mgtv/641886773.m3u8
+#EXTINF:-1 group-title="央卫咪咕",CCTV-06咪咕
+http://36.105.100.208:35455/mgtv/624878396.m3u8
+#EXTINF:-1 group-title="央卫咪咕",CCTV-07咪咕
+http://36.105.100.208:35455/mgtv/673168121.m3u8
+#EXTINF:-1 group-title="央卫咪咕",CCTV-08咪咕
+http://36.105.100.208:35455/mgtv/624878356.m3u8
+#EXTINF:-1 group-title="央卫咪咕",CCTV-09咪咕
+http://36.105.100.208:35455/mgtv/673168140.m3u8
+#EXTINF:-1 group-title="央卫咪咕",CCTV-10咪咕
+http://36.105.100.208:35455/mgtv/624878405.m3u8
+#EXTINF:-1 group-title="央卫咪咕",CCTV-11咪咕
+http://36.105.100.208:35455/mgtv/667987558.m3u8
+#EXTINF:-1 group-title="央卫咪咕",CCTV-12咪咕
+http://36.105.100.208:35455/mgtv/673168185.m3u8
+#EXTINF:-1 group-title="央卫咪咕",CCTV-13咪咕
+http://36.105.100.208:35455/mgtv/608807423.m3u8
+#EXTINF:-1 group-title="央卫咪咕",CCTV-14咪咕
+http://36.105.100.208:35455/mgtv/624878440.m3u8
+#EXTINF:-1 group-title="央卫咪咕",CCTV-15咪咕
+http://36.105.100.208:35455/mgtv/673168223.m3u8
+#EXTINF:-1 group-title="央卫咪咕",CCTV-16咪咕
+http://36.105.100.208:35455/nptv/cctv16.m3u8
+#EXTINF:-1 group-title="央卫咪咕",CCTV-17咪咕
+http://36.105.100.208:35455/mgtv/673168256.m3u8
+#EXTINF:-1 group-title="央卫咪咕",CCTV-4k咪咕
+http://36.105.100.208:35455/nptv/cctv4k.m3u8
+#EXTINF:-1 group-title="央卫咪咕",CCTV-8k咪咕
+http://36.105.100.208:35455/nptv/cctv8k.m3u8
+#EXTINF:-1 group-title="央卫咪咕",cct4欧洲咪咕
+http://36.105.100.208:35455/mgtv/608807419.m3u8
+#EXTINF:-1 group-title="央卫咪咕",cct4美洲咪咕
+http://36.105.100.208:35455/mgtv/608807416.m3u8
+#EXTINF:-1 group-title="央卫咪咕",CETV-01咪咕
+http://36.105.100.208:35455/mgtv/923
+#EXTINF:-1 group-title="闽南地波",tvbs欢乐高码
+http://61.216.11.93:49981/stream/channelid/1607444205.m3u8
+#EXTINF:-1 group-title="闽南地波",东森超视高码
+http://61.216.11.93:49981/stream/channelid/1026178460.m3u8
+#EXTINF:-1 group-title="闽南地波",民视闽南高码
+http://61.216.11.93:49981/stream/channelid/1736257299.m3u8
+#EXTINF:-1 group-title="闽南地波",八大第一高码
+http://61.216.11.93:49981/stream/channelid/2021000694.m3u8
+#EXTINF:-1 group-title="闽南地波",八大综合高码
+http://61.216.11.93:49981/stream/channelid/1339557876.m3u8
+#EXTINF:-1 group-title="闽南地波",年代综合高码
+http://61.216.11.93:49981/stream/channelid/644357774.m3u8
+#EXTINF:-1 group-title="闽南地波",纬来综合高码
+http://61.216.11.93:49981/stream/channelid/106481234.m3u8
+#EXTINF:-1 group-title="闽南地波",纬来电影高码
+http://61.216.11.93:49981/stream/channelid/1914405885.m3u8
+#EXTINF:-1 group-title="闽南地波",好莱电影高码
+http://61.216.11.93:49981/stream/channelid/286389561.m3u8
+#EXTINF:-1 group-title="闽南地波",CINeMax高码
+http://61.216.11.93:49981/stream/channelid/207378916.m3u8
+#EXTINF:-1 group-title="闽南地波",CINeMax高码
+http://61.216.11.93:49981/stream/channelid/1222093986.m3u8
+#EXTINF:-1 group-title="闽南地波",TLC'综合高码
+http://61.216.11.93:49981/stream/channelid/458490002.m3u8
+#EXTINF:-1 group-title="闽南地波",Nick少儿高码
+http://61.216.11.93:49981/stream/channelid/580636100.m3u8
+#EXTINF:-1 group-title="闽南地波",NHk日本高码
+http://61.216.11.93:49981/stream/channelid/797583403.m3u8
+#EXTINF:-1 group-title="闽南地波",cNN新闻高码
+http://61.216.11.93:49981/stream/channelid/881277234.m3u8
+#EXTINF:-1 group-title="闽南地波",信吉电视高码
+http://61.216.11.93:49981/stream/channelid/166215564.m3u8
+#EXTINF:-1 group-title="央视",CCTV1高清
+http://42.63.195.230:8089/hls/1/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV2高清
+http://42.63.195.230:8089/hls/2/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV3高清
+http://42.63.195.230:8089/hls/3/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV4高清
+http://42.63.195.230:8089/hls/4/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV5高清
+http://42.63.195.230:8089/hls/5/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV6高清
+http://42.63.195.230:8089/hls/6/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV7高清
+http://42.63.195.230:8089/hls/7/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV8高清
+http://42.63.195.230:8089/hls/8/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV9高清
+http://42.63.195.230:8089/hls/9/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV10高清
+http://42.63.195.230:8089/hls/10/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV11高清
+http://42.63.195.230:8089/hls/11/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV12高清
+http://42.63.195.230:8089/hls/12/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV13标清
+http://42.63.195.230:8089/hls/13/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV14高清
+http://42.63.195.230:8089/hls/14/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV15高清
+http://42.63.195.230:8089/hls/15/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV17高清
+http://42.63.195.230:8089/hls/16/index.m3u8
+#EXTINF:-1 group-title="卫视",江苏卫视高清
+http://42.63.195.230:8089/hls/26/index.m3u8
+#EXTINF:-1 group-title="卫视",浙江卫视高清
+http://42.63.195.230:8089/hls/27/index.m3u8
+#EXTINF:-1 group-title="卫视",北京卫视高清
+http://42.63.195.230:8089/hls/28/index.m3u8
+#EXTINF:-1 group-title="卫视",东方卫视标清
+http://42.63.195.230:8089/hls/29/index.m3u8
+#EXTINF:-1 group-title="卫视",广东卫视高清
+http://42.63.195.230:8089/hls/30/index.m3u8
+#EXTINF:-1 group-title="卫视",深圳卫视高清
+http://42.63.195.230:8089/hls/31/index.m3u8
+#EXTINF:-1 group-title="卫视",湖北卫视高清
+http://42.63.195.230:8089/hls/32/index.m3u8
+#EXTINF:-1 group-title="卫视",安徽卫视高清
+http://42.63.195.230:8089/hls/33/index.m3u8
+#EXTINF:-1 group-title="卫视",山东卫视高清
+http://42.63.195.230:8089/hls/34/index.m3u8
+#EXTINF:-1 group-title="卫视",辽宁卫视高清
+http://42.63.195.230:8089/hls/35/index.m3u8
+#EXTINF:-1 group-title="卫视",东南卫视高清
+http://42.63.195.230:8089/hls/36/index.m3u8
+#EXTINF:-1 group-title="卫视",河北卫视高清
+http://42.63.195.230:8089/hls/37/index.m3u8
+#EXTINF:-1 group-title="卫视",山西卫视标清
+http://42.63.195.230:8089/hls/38/index.m3u8
+#EXTINF:-1 group-title="卫视",吉林卫视标清
+http://42.63.195.230:8089/hls/39/index.m3u8

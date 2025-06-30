@@ -577,7 +577,7 @@ http://s1.m16tv.cfd/aktv/null-19/AKTV.m3u8
 http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
 #EXTINF:-1 tvg-id="tvN" tvg-name="tvN" tvg-logo="https://epg.v1.mk/logo/tvN.png" group-title="香港频道",tvN
 http://s1.m16tv.cfd/aktv/tvn/AKTV.m3u8
-#EXTINF:-1 tvg-id="纬来电影台" tvg-name="纬来电影台" tvg-logo="https://epg.112114.xyz/logo/纬来电影台.png" group-title="香港频道",纬来电影台
+#EXTINF:-1 tvg-id="纬来电影台" tvg-name="纬来电影台" tvg-logo="https://epg.v1.mk/logo/纬来电影.png" group-title="香港频道",纬来电影台
 https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
 #EXTINF:-1 tvg-name="中国电影" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/中国电影.png" group-title="香港频道",中国电影
 http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1%E9%A2%91%E9%81%93

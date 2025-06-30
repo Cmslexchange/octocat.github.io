@@ -56,17 +56,17 @@ http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3
 http://192.168.100.1:8088/udp/233.50.200.123:5140
 #EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" tvg-logo="https://assets.livednow.com/logo/湖南茶频道.png" group-title="BesTV",茶频道
 http://192.168.100.1:8088/udp/233.50.200.124:5140
-#EXTINF:-1 tvg-id="北京淘电影" tvg-name="北京淘电影" tvg-logo="https://epg.v1.mk/logo/北京淘电影.png" group-title="BesTV",北京淘电影
+#EXTINF:-1 tvg-id="北京淘电影" tvg-name="北京淘电影" tvg-logo="https://epg.v1.mk/logo/淘电影.png" group-title="BesTV",北京淘电影
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fbptv%2F3221226552.m3u8%24bptv
-#EXTINF:-1 tvg-id="北京淘剧场" tvg-name="北京淘剧场" tvg-logo="https://epg.v1.mk/logo/北京淘剧场.png" group-title="BesTV",北京淘剧场
+#EXTINF:-1 tvg-id="北京淘剧场" tvg-name="北京淘剧场" tvg-logo="https://epg.v1.mk/logo/淘剧场.png" group-title="BesTV",北京淘剧场
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fbptv%2F3221226553.m3u8%24bptv
-#EXTINF:-1 tvg-id="北京淘娱乐" tvg-name="北京淘娱乐" tvg-logo="https://epg.v1.mk/logo/北京淘娱乐.png" group-title="BesTV",北京淘娱乐
+#EXTINF:-1 tvg-id="北京淘娱乐" tvg-name="北京淘娱乐" tvg-logo="https://epg.v1.mk/logo/淘娱乐.png" group-title="BesTV",北京淘娱乐
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fbptv%2F3221226551.m3u8%24bptv
-#EXTINF:-1 tvg-id="北京淘BABY" tvg-name="北京淘BABY" tvg-logo="https://epg.v1.mk/logo/北京淘BABY.png" group-title="BesTV",北京淘BABY
+#EXTINF:-1 tvg-id="北京淘BABY" tvg-name="北京淘BABY" tvg-logo="https://epg.v1.mk/logo/淘BABY.png" group-title="BesTV",北京淘BABY
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fbptv%2F3221226554.m3u8%24bptv
-#EXTINF:-1 tvg-id="北京萌宠TV" tvg-name="北京萌宠TV" tvg-logo="https://epg.v1.mk/logo/北京萌宠TV.png" group-title="BesTV",北京萌宠TV
+#EXTINF:-1 tvg-id="北京萌宠TV" tvg-name="北京萌宠TV" tvg-logo="https://epg.v1.mk/logo/萌宠TV.png" group-title="BesTV",北京萌宠TV
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fbptv%2F3221226555.m3u8%24bptv
-#EXTINF:-1 tvg-id="北京重温经典" tvg-name="北京重温经典" tvg-logo="https://epg.v1.mk/logo/北京重温经典.png" group-title="BesTV",北京重温经典
+#EXTINF:-1 tvg-id="北京重温经典" tvg-name="北京重温经典" tvg-logo="https://epg.v1.mk/logo/重温经典.png" group-title="BesTV",北京重温经典
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fbptv%2F3221226556.m3u8%24bptv
 #EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://epg.v1.mk/logo/北京纪实.png" group-title="BesTV",北京纪实科教
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fbptv%2F3221226559.m3u8%24bptv

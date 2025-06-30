@@ -44,10 +44,6 @@ http://192.168.100.1:8088/rtp/233.50.200.183:5140
 http://192.168.100.1:8088/rtp/233.50.201.117:5140
 #EXTINF:-1 tvg-id="华数影视4K" tvg-name="华数影视4K" tvg-logo="https://epg.v1.mk/logo/华数4K.png" group-title="BesTV", BesTV 影视
 http://192.168.100.1:8088/rtp/233.50.201.116:5140
-#EXTINF:-1 tvg-id="BesTV 4K" tvg-name="BesTV 4K" tvg-logo="https://raw.githubusercontent.com/Cmslexchange/octocat.github.io/refs/heads/master/bestv.png" group-title="BesTV", BesTV 4K
-http://192.168.100.1:8088/udp/233.50.200.237:5140
-#EXTINF:-1 tvg-id="BesTV 体育" tvg-name="BesTV 体育" tvg-logo="https://raw.githubusercontent.com/Cmslexchange/octocat.github.io/refs/heads/master/bestv.png" group-title="BesTV", BesTV 体育
-http://192.168.100.1:8088/udp/233.50.200.245:5140
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://assets.livednow.com/logo/北京卡酷少儿.png" group-title="BesTV",卡酷少儿
 http://192.168.100.1:8088/udp/233.50.200.166:5140
 
@@ -573,7 +569,16 @@ http://php.jdshipin.com:8880/smt.php?id=Aodhd
 https://s1.m16tv.cfd/aktv2/CH-0/AKTV.m3u8
 #EXTINF:-1 tvg-id="ROCK Action" tvg-name="ROCK Action" tvg-logo="https://epg.v1.mk/logo/ROCKACTION.png" group-title="香港频道",ROCK Action
 http://s1.m16tv.cfd/aktv/rockaction/AKTV.m3u8
-
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.v1.mk/logo/明珠台.png" group-title="港台频道",明珠台
+http://s1.m16tv.cfd/aktv/null-2/AKTV.m3u8
+#EXTINF:-1 tvg-id="明珠剧集台(北美)" tvg-name="明珠剧集台(北美)" tvg-logo="https://epg.v1.mk/logo/tvb明珠.png" group-title="港台频道",明珠剧集台(北美)
+http://s1.m16tv.cfd/aktv/null-19/AKTV.m3u8
+#EXTINF:-1 tvg-id="娛樂新聞台(HK)" tvg-name="娛樂新聞台(HK)" tvg-logo="https://epg.v1.mk/logo/娱乐新闻台.png" group-title="港台频道",娛樂新聞台(HK)
+http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
+#EXTINF:-1 tvg-id="tvN" tvg-name="tvN" tvg-logo="https://epg.v1.mk/logo/tvN.png" group-title="港台频道",tvN
+http://s1.m16tv.cfd/aktv/tvn/AKTV.m3u8
+#EXTINF:-1 tvg-id="纬来电影台" tvg-name="纬来电影台" tvg-logo="https://epg.112114.xyz/logo/纬来电影台.png" group-title="港台频道",纬来电影台
+https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
 #EXTINF:-1 tvg-name="中国电影" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/中国电影.png" group-title="香港频道",中国电影
 http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1%E9%A2%91%E9%81%93
 
@@ -902,20 +907,6 @@ http://php.jdshipin.com:8880/smt.php?id=Huahee
 http://php.jdshipin.com:8880/smt.php?id=Aodhd
 #EXTINF:-1 tvg-id="千禧经典台" tvg-name="千禧经典台" tvg-logo="https://epg.v1.mk/logo/千禧经典台.png" group-title="港台频道",千禧经典台
 http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.v1.mk/logo/明珠台.png" group-title="港台频道",明珠台
-http://s1.m16tv.cfd/aktv/null-2/AKTV.m3u8
-#EXTINF:-1 tvg-id="明珠剧集台(北美)" tvg-name="明珠剧集台(北美)" tvg-logo="https://epg.v1.mk/logo/tvb明珠.png" group-title="港台频道",明珠剧集台(北美)
-http://s1.m16tv.cfd/aktv/null-19/AKTV.m3u8
-#EXTINF:-1 tvg-id="娛樂新聞台(HK)" tvg-name="娛樂新聞台(HK)" tvg-logo="https://epg.v1.mk/logo/娱乐新闻台.png" group-title="港台频道",娛樂新聞台(HK)
-http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
-#EXTINF:-1 tvg-id="tvN" tvg-name="tvN" tvg-logo="https://epg.v1.mk/logo/tvN.png" group-title="港台频道",tvN
-http://s1.m16tv.cfd/aktv/tvn/AKTV.m3u8
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="港台频道",翡翠台
-http://php.jdshipin.com:8880/smt.php?id=jade_twn
-#EXTINF:-1 tvg-id="緯來體育" tvg-name="緯來體育" tvg-logo="https://epg.v1.mk/logo/緯來體育.png" group-title="港台频道",緯來體育
-https://s1.m16tv.cfd/aktv2/CH-0/AKTV.m3u8
-#EXTINF:-1 tvg-id="纬来电影台" tvg-name="纬来电影台" tvg-logo="https://epg.112114.xyz/logo/纬来电影台.png" group-title="港台频道",纬来电影台
-https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="港台频道",翡翠台
 http://s1.m16tv.cfd/aktv/null/AKTV.m3u8
 #EXTINF:-1 tvg-id="PopC" tvg-name="PopC" tvg-logo="https://epg.v1.mk/logo/POPC.png" group-title="港台频道",PopC

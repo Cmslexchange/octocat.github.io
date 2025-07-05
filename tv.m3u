@@ -11,7 +11,7 @@
 ##########################################################################################################################################################################################################
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV 1" tvg-logo="https://assets.livednow.com/logo/CCTV1.png" group-title="央视频道", CCTV 1 综合
-http://192.168.100.1:8088/udp/233.50.200.130:5140
+http://192.168.100.1:7088/udp/233.50.200.130:5140
 
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV 2" tvg-logo="https://assets.livednow.com/logo/CCTV2.png" group-title="央视频道", CCTV 2 财经
 http://192.168.100.1:8088/udp/233.50.200.25:5140

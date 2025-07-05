@@ -1,0 +1,843 @@
+#EXTM3U url-tvg="https://epg.v1.mk/fy.xml"
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE remote
+#EXT-X-SUB-URL http://192.168.100.1:35456/m3u/2
+
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.v1.mk/logo/cctv4k.png" group-title="4 K 8 K",CCTV4K
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fnptv%2Fcctv4k.m3u8%24other-NPTV
+#EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://epg.v1.mk/logo/CCTV8K.png" group-title="4 K 8 K",CCTV8K
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fnptv%2Fcctv8k.m3u8%24other-NPTV
+#EXTINF:-1 tvg-id="SiTV-欢笑剧场-4K" tvg-name="SiTV 欢笑剧场-4K" tvg-logo="https://assets.livednow.com/logo/SiTV-欢笑剧场-4K.png" group-title="4 K 8 K",欢笑剧场-4K
+http://192.168.100.1:7088/rtp/233.50.200.52:5140
+#EXTINF:-1 tvg-id="南国都市4K" tvg-name="南国都市4K" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/linitfor/epg/main/logo/广州南国都市.png" group-title="4 K 8 K",南国都市 4K
+https://tencentplaywebsite.gztv.com/live/nanguodushi.m3u8?txSecret=e93eb85173edb8a0c70fd1438c7bd7d7&txTime=193108637cb
+#EXTINF:-1 tvg-id="南国都市4K" tvg-name="南国都市4K" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/linitfor/epg/main/logo/广州南国都市.png" group-title="4 K 8 K",南国都市 4K
+http://php.jdshipin.com:8880/gztv.php?id=shenghuo
+#EXTINF:-1 tvg-id="咪咕4K" tvg-name="咪咕4K" tvg-logo="https://epg.v1.mk/logo/咪咕4K.png" group-title="4 K 8 K",咪咕4K-1
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000010000005180.m3u8%3Fcdn%3DFifastbLive%24itv
+#EXTINF:-1 tvg-id="咪咕4K" tvg-name="咪咕4K" tvg-logo="https://epg.v1.mk/logo/咪咕4K.png" group-title="4 K 8 K",咪咕4K-2
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000010000015686.m3u8%3Fcdn%3DFifastbLive%24itv
+#EXTINF:-1 tvg-id="LOUPE4K" tvg-name="LOUPE4K" tvg-logo="https://epg.v1.mk/logo/LOUPE4K.png" group-title="4 K 8 K",Loupe 4K
+http://192.168.100.1:35456/jump?url=https%3A%2F%2Fd2dw21aq0j0l5c.cloudfront.net%2Fplaylist_3840x2160.m3u8%24cloudfront
+#EXTINF:-1 tvg-id="北京纪实科教8K" tvg-name="北京纪实科教8K" tvg-logo="https://epg.v1.mk/logo/北京纪实科教8K.png" group-title="4 K 8 K",北京纪实科教8K
+http://192.168.100.1:35456/jump?url=https%3A%2F%2Fgdcucc.v1.mk%2Fgdcucc%2Fbrtv8k.m3u8%24gdcucc
+#EXTINF:-1 tvg-id="北京纪实科教8K" tvg-name="北京纪实科教8K" tvg-logo="https://epg.v1.mk/logo/北京纪实科教8K.png" group-title="4 K 8 K",北京纪实科教8K
+https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
+#EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视4K" tvg-logo="https://epg.v1.mk/logo/北京卫视4k.png" group-title="4 K 8 K",北京卫视4K
+http://192.168.100.1:7088/rtp/233.50.202.100:5140
+#EXTINF:-1 tvg-id="广东卫视4K" tvg-name="广东卫视4K" tvg-logo="https://raw.githubusercontent.com/Cmslexchange/octocat.github.io/refs/heads/master/广东4k.png" group-title="4 K 8 K", 广东卫视4K
+http://192.168.100.1:7088/rtp/233.50.202.101:5140
+#EXTINF:-1 tvg-id="深圳卫视4K" tvg-name="深圳卫视4K" tvg-logo="https://epg.v1.mk/logo/深圳卫视.png" group-title="4 K 8 K", 深圳卫视4K
+http://192.168.100.1:7088/rtp/233.50.202.102:5140
+
+#EXTINF:-1 tvg-id="BesTV 新闻记录" tvg-name="BesTV 新闻记录" tvg-logo="https://raw.githubusercontent.com/Cmslexchange/octocat.github.io/refs/heads/master/bestv.png" group-title="BesTV", BesTV 新闻记录
+http://192.168.100.1:7088/rtp/233.50.200.182:5140
+#EXTINF:-1 tvg-id="BesTV 电影" tvg-name="BesTV 电影" tvg-logo="https://raw.githubusercontent.com/Cmslexchange/octocat.github.io/refs/heads/master/bestv.png" group-title="BesTV", BesTV 电影 4K
+http://192.168.100.1:7088/rtp/233.50.200.185:5140
+#EXTINF:-1 tvg-id="BesTV 电视剧" tvg-name="BesTV 电视剧" tvg-logo="https://raw.githubusercontent.com/Cmslexchange/octocat.github.io/refs/heads/master/bestv.png" group-title="BesTV", BesTV 电视剧
+http://192.168.100.1:7088/rtp/233.50.201.116:5140
+#EXTINF:-1 tvg-id="BesTV 少儿" tvg-name="BesTV 少儿" tvg-logo="https://raw.githubusercontent.com/Cmslexchange/octocat.github.io/refs/heads/master/bestv.png" group-title="BesTV", BesTV 少儿
+http://192.168.100.1:7088/rtp/233.50.200.183:5140
+#EXTINF:-1 tvg-id="历史" tvg-name="历史" tvg-logo="https://raw.githubusercontent.com/Cmslexchange/octocat.github.io/refs/heads/master/bestv.png" group-title="BesTV", BesTV 历史
+http://192.168.100.1:7088/rtp/233.50.201.117:5140
+#EXTINF:-1 tvg-id="华数影视4K" tvg-name="华数影视4K" tvg-logo="https://epg.v1.mk/logo/华数4K.png" group-title="BesTV", BesTV 影视
+http://192.168.100.1:7088/rtp/233.50.201.116:5140
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://assets.livednow.com/logo/北京卡酷少儿.png" group-title="BesTV",卡酷少儿
+http://192.168.100.1:7088/udp/233.50.200.166:5140
+
+#EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://assets.livednow.com/logo/睛彩竞技.png" group-title="BesTV",睛彩竞技
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000001000010948.m3u8%3Fcdn%3DFifastbLive%24itv
+#EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://assets.livednow.com/logo/睛彩篮球.png" group-title="BesTV",睛彩篮球
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000001000007218.m3u8%3Fcdn%3DFifastbLive%24itv
+#EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://assets.livednow.com/logo/睛彩青少.png" group-title="BesTV",睛彩青少
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000001000005308.m3u8%3Fcdn%3DFifastbLive%24itv
+#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://assets.livednow.com/logo/湖南快乐垂钓.png" group-title="BesTV",快乐垂钓
+http://192.168.100.1:7088/udp/233.50.200.123:5140
+#EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" tvg-logo="https://assets.livednow.com/logo/湖南茶频道.png" group-title="BesTV",茶频道
+http://192.168.100.1:7088/udp/233.50.200.124:5140
+#EXTINF:-1 tvg-id="NOW体育" tvg-name="NOW体育" tvg-logo="https://epg.pw/media/images/channel/2016/12/31/large/20161231231738105400_86.png" group-title="BesTV",NOW 体育
+http://a.ru8.dpdns.org/now/630/master.m3u8
+#EXTINF:-1 tvg-id="NOW新闻" tvg-name="NOW新闻" tvg-logo="https://epg.v1.mk/logo/NOW新闻.png" group-title="BesTV",NOW 新闻
+http://a.ru8.dpdns.org/now/332/master.m3u8
+#EXTINF:-1 tvg-id="SiTV-金色学堂" tvg-name="SiTV 金色学堂" tvg-logo="https://assets.livednow.com/logo/SiTV-金色学堂.png" group-title="SiTV", SiTV 金色学堂
+http://192.168.100.1:7088/rtp/233.50.200.122:5140
+
+#EXTINF:-1 tvg-id="SiTV-东方财经" tvg-name="SiTV 东方财经" tvg-logo="https://assets.livednow.com/logo/上海东方财经.png" group-title="SiTV", SiTV 东方财经
+http://192.168.100.1:7088/rtp/233.50.200.177:5140
+
+#EXTINF:-1 tvg-id="SiTV-法治天地" tvg-name="SiTV 法治天地" tvg-logo="https://assets.livednow.com/logo/SiTV-法治天地.png" group-title="SiTV", SiTV 法治天地
+http://192.168.100.1:7088/rtp/233.50.200.120:5140
+
+#EXTINF:-1 tvg-id="SiTV-魅力足球" tvg-name="SiTV 魅力足球" tvg-logo="https://assets.livednow.com/logo/SiTV-魅力足球.png" group-title="SiTV", SiTV 魅力足球
+http://192.168.100.1:7088/rtp/233.50.200.176:5140
+
+#EXTINF:-1 tvg-id="SiTV-乐游" tvg-name="SiTV 乐游" tvg-logo="https://assets.livednow.com/logo/SiTV-乐游.png" group-title="SiTV", SiTV 乐游
+http://192.168.100.1:7088/rtp/233.50.200.148:5140
+
+#EXTINF:-1 tvg-id="SiTV-动漫秀场" tvg-name="SiTV 动漫秀场" tvg-logo="https://assets.livednow.com/logo/SiTV-动漫秀场.png" group-title="SiTV", SiTV 动漫秀场
+http://192.168.100.1:7088/rtp/233.50.200.12:5140
+
+#EXTINF:-1 tvg-id="SiTV-都市剧场" tvg-name="SiTV 都市剧场" tvg-logo="https://assets.livednow.com/logo/SiTV-都市剧场.png" group-title="SiTV", SiTV 都市剧场
+http://192.168.100.1:7088/rtp/233.50.200.11:5140
+
+#EXTINF:-1 tvg-id="SiTV-欢笑剧场" tvg-name="SiTV 欢笑剧场" tvg-logo="https://assets.livednow.com/logo/SiTV-欢笑剧场.png" group-title="SiTV", SiTV 欢笑剧场
+http://192.168.100.1:7088/rtp/233.50.200.229:5140
+
+#EXTINF:-1 tvg-id="SiTV-生活时尚" tvg-name="SiTV 生活时尚" tvg-logo="https://assets.livednow.com/logo/SiTV-生活时尚.png" group-title="SiTV", SiTV 生活时尚
+http://192.168.100.1:7088/rtp/233.50.200.15:5140
+
+#EXTINF:-1 tvg-id="SiTV-游戏风云" tvg-name="SiTV 游戏风云" tvg-logo="https://assets.livednow.com/logo/SiTV-游戏风云.png" group-title="SiTV", SiTV 游戏风云
+http://192.168.100.1:7088/rtp/233.50.200.14:5140
+
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV 1" tvg-logo="https://assets.livednow.com/logo/CCTV1.png" group-title="央视频道",CCTV 1 综合
+http://192.168.100.1:7088/rtp/233.50.201.118:5140
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV 2" tvg-logo="https://assets.livednow.com/logo/CCTV2.png" group-title="央视频道",CCTV 2 财经
+http://192.168.100.1:7088/rtp/233.50.200.25:5140
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV 3" tvg-logo="https://assets.livednow.com/logo/CCTV3.png" group-title="央视频道",CCTV 3 综艺
+http://192.168.100.1:7088/rtp/233.50.200.107:5140
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV 4" tvg-logo="https://assets.livednow.com/logo/CCTV4.png" group-title="央视频道",CCTV 4 中文国际（亚）
+http://192.168.100.1:7088/rtp/233.50.200.101:5140
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV 5" tvg-logo="https://assets.livednow.com/logo/CCTV5.png" group-title="央视频道",CCTV 5 体育
+http://192.168.100.1:7088/rtp/233.50.200.108:5140
+#EXTINF:-1 tvg-id="CCTV5-plus" tvg-name="CCTV 5+" tvg-logo="https://assets.livednow.com/logo/CCTV5-plus.png" group-title="央视频道",CCTV 5+ 体育赛事
+http://192.168.100.1:7088/rtp/233.50.201.220:5140
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV 6" tvg-logo="https://assets.livednow.com/logo/CCTV6.png" group-title="央视频道",CCTV 6 电影
+http://192.168.100.1:7088/rtp/233.50.200.109:5140
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV 7" tvg-logo="https://assets.livednow.com/logo/CCTV7.png" group-title="央视频道",CCTV 7 国防军事
+http://192.168.100.1:7088/rtp/233.50.200.102:5140
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV 8" tvg-logo="https://assets.livednow.com/logo/CCTV8.png" group-title="央视频道",CCTV 8 电视剧
+http://192.168.100.1:7088/rtp/233.50.200.110:5140
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV 9" tvg-logo="https://assets.livednow.com/logo/CCTV9.png" group-title="央视频道",CCTV 9 纪录
+http://192.168.100.1:7088/rtp/233.50.201.121:5140
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV 10" tvg-logo="https://assets.livednow.com/logo/CCTV10.png" group-title="央视频道",CCTV 10 科教
+http://192.168.100.1:7088/rtp/233.50.200.22:5140
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV 11" tvg-logo="https://assets.livednow.com/logo/CCTV11.png" group-title="央视频道",CCTV 11 戏曲
+http://192.168.100.1:7088/rtp/233.50.200.132:5140
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV 12" tvg-logo="https://assets.livednow.com/logo/CCTV12.png" group-title="央视频道",CCTV 12 社会与法
+http://192.168.100.1:7088/rtp/233.50.200.21:5140
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV 13" tvg-logo="https://assets.livednow.com/logo/CCTV13.png" group-title="央视频道",CCTV 13 新闻
+http://192.168.100.1:7088/rtp/233.50.200.111:5140
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV 14" tvg-logo="https://assets.livednow.com/logo/CCTV14.png" group-title="央视频道",CCTV 14 少儿
+http://192.168.100.1:7088/rtp/233.50.200.103:5140
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV 15" tvg-logo="https://assets.livednow.com/logo/CCTV15.png" group-title="央视频道",CCTV 15 音乐
+http://192.168.100.1:7088/rtp/233.50.200.133:5140
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV 16 奥林匹克 4K" tvg-logo="https://assets.livednow.com/logo/CCTV16.png" group-title="央视频道",CCTV 16 奥林匹克 4K
+http://192.168.100.1:7088/rtp/233.50.201.63:5140
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV 16" tvg-logo="https://assets.livednow.com/logo/CCTV16.png" group-title="央视频道",CCTV 16 奥林匹克
+http://192.168.100.1:7088/rtp/233.50.200.112:5140
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV 17" tvg-logo="https://assets.livednow.com/logo/CCTV17.png" group-title="央视频道",CCTV 17 农业农村
+http://192.168.100.1:7088/rtp/233.50.200.113:5140
+
+#EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://epg.v1.mk/logo/凤凰卫视资讯.png" group-title="卫视频道",凤凰卫视资讯台
+http://192.168.100.1:7088/rtp/233.50.202.36:5140
+#EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://epg.v1.mk/logo/凤凰卫视中文.png" group-title="卫视频道",凤凰卫视中文台
+http://192.168.100.1:7088/rtp/233.50.202.35:5140
+#EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-name="凤凰卫视香港台" tvg-logo="https://epg.v1.mk/logo/凤凰卫视香港.png" group-title="卫视频道",凤凰卫视香港台
+https://s1.tvm4a1.cfd/aktv/CH-5/AKTV.m3u8
+#EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-name="凤凰卫视香港台" tvg-logo="https://epg.v1.mk/logo/凤凰卫视香港.png" group-title="卫视频道",凤凰卫视香港台
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+#EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://live.fanmingming.cn/tv/香港卫视.png" group-title="卫视频道",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://assets.livednow.com/logo/北京卫视.png" group-title="卫视频道",北京卫视
+http://192.168.100.1:7088/rtp/233.50.200.179:5140
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://assets.livednow.com/logo/东方卫视.png" group-title="卫视频道",东方卫视
+http://192.168.100.1:7088/rtp/233.50.200.146:5140
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://assets.livednow.com/logo/浙江卫视.png" group-title="卫视频道",浙江卫视
+http://192.168.100.1:7088/rtp/233.50.200.145:5140
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://assets.livednow.com/logo/湖南卫视.png" group-title="卫视频道",湖南卫视
+http://192.168.100.1:7088/rtp/233.50.200.190:5140
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://assets.livednow.com/logo/江西卫视.png" group-title="卫视频道",江西卫视
+http://192.168.100.1:7088/rtp/233.50.200.119:5140
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://assets.livednow.com/logo/山东卫视.png" group-title="卫视频道",山东卫视
+http://192.168.100.1:7088/rtp/233.50.200.127:5140
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://assets.livednow.com/logo/深圳卫视.png" group-title="卫视频道",深圳卫视
+http://192.168.100.1:7088/rtp/233.50.200.188:5140
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://assets.livednow.com/logo/江苏卫视.png" group-title="卫视频道",江苏卫视
+http://192.168.100.1:7088/rtp/233.50.200.144:5140
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://assets.livednow.com/logo/海南卫视.png" group-title="卫视频道",海南卫视
+http://192.168.100.1:7088/rtp/233.50.200.165:5140
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://assets.livednow.com/logo/广东卫视.png" group-title="卫视频道",广东卫视
+http://192.168.100.1:7088/rtp/233.50.200.149:5140
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://assets.livednow.com/logo/天津卫视.png" group-title="卫视频道",天津卫视
+http://192.168.100.1:7088/rtp/233.50.200.104:5140
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://assets.livednow.com/logo/河北卫视.png" group-title="卫视频道",河北卫视
+http://192.168.100.1:7088/rtp/233.50.200.105:5140
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://assets.livednow.com/logo/安徽卫视.png" group-title="卫视频道",安徽卫视
+http://192.168.100.1:7088/rtp/233.50.200.106:5140
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://assets.livednow.com/logo/重庆卫视.png" group-title="卫视频道",重庆卫视
+http://192.168.100.1:7088/rtp/233.50.200.114:5140
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://assets.livednow.com/logo/湖北卫视.png" group-title="卫视频道",湖北卫视
+http://192.168.100.1:7088/rtp/233.50.200.147:5140
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://assets.livednow.com/logo/四川卫视.png" group-title="卫视频道",四川卫视
+http://192.168.100.1:7088/rtp/233.50.200.118:5140
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://assets.livednow.com/logo/河南卫视.png" group-title="卫视频道",河南卫视
+http://192.168.100.1:7088/rtp/233.50.200.142:5140
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://assets.livednow.com/logo/山西卫视.png" group-title="卫视频道",山西卫视
+http://192.168.100.1:7088/rtp/233.50.201.51:5140
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://assets.livednow.com/logo/东南卫视.png" group-title="卫视频道",东南卫视
+http://192.168.100.1:7088/rtp/233.50.200.135:5140
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://assets.livednow.com/logo/贵州卫视.png" group-title="卫视频道",贵州卫视
+http://192.168.100.1:7088/rtp/233.50.200.139:5140
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://assets.livednow.com/logo/辽宁卫视.png" group-title="卫视频道",辽宁卫视
+http://192.168.100.1:7088/rtp/233.50.200.129:5140
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://assets.livednow.com/logo/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
+http://192.168.100.1:7088/rtp/233.50.200.189:5140
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://assets.livednow.com/logo/云南卫视.png" group-title="卫视频道",云南卫视
+http://192.168.100.1:7088/rtp/233.50.200.115:5140
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://assets.livednow.com/logo/吉林卫视.png" group-title="卫视频道",吉林卫视
+http://192.168.100.1:7088/rtp/233.50.200.164:5140
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://assets.livednow.com/logo/甘肃卫视.png" group-title="卫视频道",甘肃卫视
+http://192.168.100.1:7088/rtp/233.50.200.163:5140
+#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://assets.livednow.com/logo/三沙卫视.png" group-title="卫视频道",三沙卫视
+http://192.168.100.1:7088/rtp/233.50.200.175:5140
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://assets.livednow.com/logo/广西卫视.png" group-title="卫视频道",广西卫视
+http://192.168.100.1:7088/rtp/233.50.200.136:5140
+#EXTINF:-1 tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="https://assets.livednow.com/logo/延边卫视.png" group-title="卫视频道",延边卫视
+http://192.168.100.1:7088/rtp/233.50.200.184:5140
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://assets.livednow.com/logo/陕西卫视.png" group-title="卫视频道",陕西卫视
+http://192.168.100.1:7088/rtp/233.50.201.59:5140
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://assets.livednow.com/logo/青海卫视.png" group-title="卫视频道",青海卫视
+http://192.168.100.1:7088/rtp/233.50.200.131:5140
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://assets.livednow.com/logo/兵团卫视.png" group-title="卫视频道",兵团卫视
+http://192.168.100.1:7088/rtp/233.50.201.72:5140
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://assets.livednow.com/logo/宁夏卫视.png" group-title="卫视频道",宁夏卫视
+http://192.168.100.1:7088/rtp/233.50.201.57:5140
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://assets.livednow.com/logo/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
+http://192.168.100.1:7088/rtp/233.50.201.148:5140
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://assets.livednow.com/logo/西藏卫视.png" group-title="卫视频道",西藏卫视
+http://192.168.100.1:7088/rtp/233.50.201.70:5140
+
+#EXTINF:-1 tvg-id="上视东方影视" tvg-name="上视东方影视" tvg-logo="https://epg.v1.mk/logo/东方影视.png" group-title="浙江频道",上视东方影视
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fmgtv%2F617290047.m3u8%24mgtv
+#EXTINF:-1 tvg-id="上视五星体育" tvg-name="上视五星体育" tvg-logo="https://epg.v1.mk/logo/五星体育.png" group-title="浙江频道",上海五星体育
+https://stream1.freetv.fun/3790bf8630d515781cf6b215eebc059b6662c50a8a51aa0017183f0bfddd9101.ctv
+#EXTINF:-1 tvg-id="上海新闻" tvg-name="上海新闻" tvg-logo="https://epg.v1.mk/logo/上海新闻.png" group-title="浙江频道",上海新闻
+https://tv.iill.top/migu/shxw
+#EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://assets.livednow.com/logo/上海第一财经.png" group-title="浙江频道",上海第一财经
+http://192.168.100.1:7088/udp/233.50.200.125:5140
+#EXTINF:-1 tvg-id="浙江新闻" tvg-name="浙江新闻" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Zhejiang5.png" group-title="浙江频道",浙江新闻
+https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+#EXTINF:-1 tvg-id="浙江国际" tvg-name="浙江国际" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Zhejiang7.png" group-title="浙江频道",浙江国际
+https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1 tvg-id="浙江教科" tvg-name="浙江教科影视" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Zhejiang3.png" group-title="浙江频道",浙江教科
+https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Zhejiang6.png" group-title="浙江频道",浙江少儿
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 tvg-id="浙江民生" tvg-name="浙江民生休闲" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Zhejiang4.png" group-title="浙江频道",浙江民生
+https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1 tvg-id="浙江经视" tvg-name="浙江经济生活" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Zhejiang2.png" group-title="浙江频道",浙江经济
+https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 tvg-id="浙江钱江都市" tvg-name="钱江都市" tvg-logo="https://epg.v1.mk/logo/钱江都市.png" group-title="浙江频道",浙江钱江
+https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1 tvg-id="之江纪录" tvg-name="之江纪录" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/zhejiang/Zhejiang8.png" group-title="浙江频道",之江纪录
+https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 tvg-id="44" tvg-name="杭州1综合" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/zhejiang/Hangzhou1.png" group-title="浙江频道",杭州1综合
+http://192.168.100.1:7088/rtp/233.50.201.173:5140
+#EXTINF:-1 tvg-id="45" tvg-name="杭州2明珠" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/zhejiang/Hangzhou2.png" group-title="浙江频道",杭州2明珠
+http://192.168.100.1:7088/rtp/233.50.201.174:5140
+#EXTINF:-1 tvg-id="46" tvg-name="杭州3生活" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/zhejiang/Hangzhou3.png" group-title="浙江频道",杭州3生活
+http://192.168.100.1:7088/rtp/233.50.201.175:5140
+#EXTINF:-1 tvg-id="47" tvg-name="杭州4影视" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/zhejiang/Hangzhou4.png" group-title="浙江频道",杭州4影视
+http://192.168.100.1:7088/rtp/233.50.201.176:5140
+#EXTINF:-1 tvg-id="48" tvg-name="杭州5青少" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/zhejiang/Hangzhou5.png" group-title="浙江频道",杭州5青少
+http://192.168.100.1:7088/rtp/233.50.201.177:5140
+#EXTINF:-1 tvg-id="48" tvg-name="杭州导视" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/zhejiang/Hangzhou7.png" group-title="浙江频道",杭州导视
+http://192.168.100.1:7088/rtp/233.50.201.182:5140
+
+#EXTINF:-1 tvg-id="1905电影网" tvg-name="1905电影网" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/1905dy.png" group-title="数字频道",1905电影网
+http://150.138.77.132:10037/1905%E7%94%B5%E5%BD%B1%E7%BD%91.php?id=1905a
+#EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/xsj.png" group-title="数字频道",新视觉HD
+https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
+#EXTINF:-1 tvg-id="凤凰电影" tvg-name="凤凰电影" tvg-logo="https://epg.v1.mk/logo/凤凰电影.png" group-title="数字频道",凤凰电影
+http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fmgtv%2F644368373.m3u8%24other
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CHC动作电影.png" group-title="数字频道",CHC动作电影
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fmgtv%2F644368714.m3u8%24other
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CHC影迷电影.png" group-title="数字频道",CHC影迷电影
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fmgtv%2F952383261.m3u8%24other
+#EXTINF:-1 tvg-id="第一剧场-NPTV" tvg-name="第一剧场-NPTV" tvg-logo="https://epg.v1.mk/logo/第一剧场.png" group-title="数字频道",第一剧场
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fnptv%2Fdyjc.m3u8%24other
+#EXTINF:-1 tvg-id="风云剧场-NPTV" tvg-name="风云剧场-NPTV" tvg-logo="https://epg.v1.mk/logo/风云剧场.png" group-title="数字频道",风云剧场
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fnptv%2Ffyjc.m3u8%24other
+#EXTINF:-1 tvg-id="怀旧剧场-NPTV" tvg-name="怀旧剧场-NPTV" tvg-logo="https://epg.v1.mk/logo/怀旧剧场.png" group-title="数字频道",怀旧剧场
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fnptv%2Fhjjc.m3u8%24other
+#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://epg.v1.mk/logo/风云足球.png" group-title="数字频道",风云足球
+https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
+#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://epg.v1.mk/logo/重温经典.png" group-title="数字频道",重温经典
+http://192.168.100.1:35456/jump?url=https%3A%2F%2Fgdcucc.v1.mk%2Fgdcucc%2Fcwjd.m3u8%24gdcucc
+#EXTINF:-1 tvg-id="咪咕全民热练" tvg-name="咪咕全民热练" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪咕全民热练
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000020000031315.m3u8%3Fcdn%3DFifastbLive%24itv
+#EXTINF:-1 tvg-id="咪咕24小时体育" tvg-name="咪咕24小时体育" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪咕24小时体育台
+https://tv.iill.top/migu/mgty
+#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-1
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000001000005308.m3u8%3Fcdn%3DFifastbLive%24itv
+#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-2
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000001000005969.m3u8%3Fcdn%3DFifastbLive%24itv
+#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-3
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000001000007218.m3u8%3Fcdn%3DFifastbLive%24itv
+#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-4
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000001000008001.m3u8%3Fcdn%3DFifastbLive%24itv
+#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-5
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000001000008176.m3u8%3Fcdn%3DFifastbLive%24itv
+#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-6
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000001000008379.m3u8%3Fcdn%3DFifastbLive%24itv
+#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-7
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000001000010129.m3u8%3Fcdn%3DFifastbLive%24itv
+#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-8
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000001000010948.m3u8%3Fcdn%3DFifastbLive%24itv
+#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-9
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000001000028638.m3u8%3Fcdn%3DFifastbLive%24itv
+#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-10
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000001000031494.m3u8%3Fcdn%3DFifastbLive%24itv
+#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-11
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000010000005837.m3u8%3Fcdn%3DFifastbLive%24itv
+#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-12
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000020000011518.m3u8%3Fcdn%3DFifastbLive%24itv
+#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-13
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000020000011519.m3u8%3Fcdn%3DFifastbLive%24itv
+#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-14
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000020000011520.m3u8%3Fcdn%3DFifastbLive%24itv
+#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-15
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000020000011521.m3u8%3Fcdn%3DFifastbLive%24itv
+#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-16
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000020000011522.m3u8%3Fcdn%3DFifastbLive%24itv
+#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-17
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000020000011523.m3u8%3Fcdn%3DFifastbLive%24itv
+#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-18
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000020000011524.m3u8%3Fcdn%3DFifastbLive%24itv
+#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-19
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000020000011525.m3u8%3Fcdn%3DFifastbLive%24itv
+#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-20
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000020000011528.m3u8%3Fcdn%3DFifastbLive%24itv
+#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-21
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000020000011529.m3u8%3Fcdn%3DFifastbLive%24itv
+#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-22
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000020000011530.m3u8%3Fcdn%3DFifastbLive%24itv
+#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-23
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000020000011531.m3u8%3Fcdn%3DFifastbLive%24itv
+#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-24
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000010000000097.m3u8%3Fcdn%3DFifastbLive%24itv
+#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-25
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000010000002019.m3u8%3Fcdn%3DFifastbLive%24itv
+#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-26
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000010000002809.m3u8%3Fcdn%3DFifastbLive%24itv
+#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-27
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000010000003915.m3u8%3Fcdn%3DFifastbLive%24itv
+#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-28
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000010000004193.m3u8%3Fcdn%3DFifastbLive%24itv
+#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-29
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000010000006077.m3u8%3Fcdn%3DFifastbLive%24itv
+#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-30
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000010000006658.m3u8%3Fcdn%3DFifastbLive%24itv
+#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-31
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000010000009788.m3u8%3Fcdn%3DFifastbLive%24itv
+#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-32
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000010000010833.m3u8%3Fcdn%3DFifastbLive%24itv
+#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-33
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000010000011297.m3u8%3Fcdn%3DFifastbLive%24itv
+#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-34
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000010000011518.m3u8%3Fcdn%3DFifastbLive%24itv
+#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-35
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000010000012558.m3u8%3Fcdn%3DFifastbLive%24itv
+#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-36
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000010000012616.m3u8%3Fcdn%3DFifastbLive%24itv
+#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-37
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000010000015470.m3u8%3Fcdn%3DFifastbLive%24itv
+#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-38
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000010000015560.m3u8%3Fcdn%3DFifastbLive%24itv
+#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-39
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000010000017678.m3u8%3Fcdn%3DFifastbLive%24itv
+#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-40
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000010000019839.m3u8%3Fcdn%3DFifastbLive%24itv
+#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-41
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000010000021904.m3u8%3Fcdn%3DFifastbLive%24itv
+#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-42
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000010000023434.m3u8%3Fcdn%3DFifastbLive%24itv
+#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-43
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000010000025380.m3u8%3Fcdn%3DFifastbLive%24itv
+#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-44
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000010000027691.m3u8%3Fcdn%3DFifastbLive%24itv
+#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-45
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000010000031669.m3u8%3Fcdn%3DFifastbLive%24itv
+
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/凤凰中文.png" group-title="香港频道",凤凰中文
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87%E5%8F%B0
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/凤凰资讯.png" group-title="香港频道",凤凰资讯
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF%E5%8F%B0
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/凤凰香港.png" group-title="香港频道",凤凰香港
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF%E5%8F%B0
+#EXTINF:-1 tvg-name="TVBPlus" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/TVBPlus.png" group-title="香港频道",TVBPlus
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=TVBPlus
+#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/无线新闻台.png" group-title="香港频道",无线新闻台
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=TVB%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0
+#EXTINF:-1 tvg-name="Now新闻台" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/Now新闻台.png" group-title="香港频道",Now新闻台
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=Now%E6%96%B0%E9%97%BB%E5%8F%B0
+#EXTINF:-1 tvg-id="翡翠台4K" tvg-name="翡翠台4K" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="香港频道",翡翠台4K
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/翡翠台.png" group-title="香港频道",翡翠台
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E7%BF%A1%E7%BF%A0%E5%8F%B0
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/明珠台.png" group-title="香港频道",明珠台
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=TVB%E6%98%8E%E7%8F%A0%E5%8F%B0
+#EXTINF:-1 tvg-name="娱乐新闻台" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/娱乐新闻台.png" group-title="香港频道",娱乐新闻台
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=TVB%E5%A8%B1%E4%B9%90%E6%96%B0%E9%97%BB
+#EXTINF:-1 tvg-name="TVB生活台" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/TVB生活台.png" group-title="香港频道",TVB生活台
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=TVB%E7%94%9F%E6%B4%BB%E5%8F%B0
+#EXTINF:-1 tvg-name="星河国" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/星河.png" group-title="香港频道",星河国
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=TVB%E6%98%9F%E6%B2%B3%E9%A2%91%E9%81%93%28%E5%9B%BD%29
+#EXTINF:-1 tvg-name="星河粤" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/星河.png" group-title="香港频道",星河粤
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=TVB%E6%98%9F%E6%B2%B3%E9%A2%91%E9%81%93%28%E7%B2%A4%29
+#EXTINF:-1 tvg-name="功夫台国" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/功夫台.png" group-title="香港频道",功夫台国
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=TVB%E5%8A%9F%E5%A4%AB%E5%8F%B0%28%E5%9B%BD%29
+#EXTINF:-1 tvg-name="功夫台粤" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/功夫台.png" group-title="香港频道",功夫台粤
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=TVB%E5%8A%9F%E5%A4%AB%E5%8F%B0%28%E7%B2%A4%29
+#EXTINF:-1 tvg-name="明珠剧集台" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/明珠剧集台.png" group-title="香港频道",明珠剧集台
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=TVBPearlDrama%E6%98%8E%E7%8F%A0%E5%8A%87%E9%9B%86%E5%8F%B0
+#EXTINF:-1 tvg-name="TVB1" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/TVB1.png" group-title="香港频道",TVB1
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=TVB1
+#EXTINF:-1 tvg-name="无线千禧台" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/千禧经典台.png" group-title="香港频道",千禧经典台
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=TVB%E5%8D%83%E7%A6%A7%E7%BB%8F%E5%85%B8
+#EXTINF:-1 tvg-name="无线经典台" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/MytvSuper.png" group-title="香港频道",无线经典台
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=MyTV%E5%8D%83%E7%A6%A7%E7%BB%8F%E5%85%B8%E5%8F%B0
+#EXTINF:-1 tvg-name="TVBS" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/MytvSuper.png" group-title="香港频道",TVBS
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=TVBSuperFree
+#EXTINF:-1 tvg-name="无线亚洲综合台" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/MytvSuper.png" group-title="香港频道",无线亚洲综合台
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E4%BA%9A%E6%B4%B2%E7%BB%BC%E5%90%88%E5%A8%B1%E4%B9%90%E5%8F%B0
+#EXTINF:-1 tvg-name="无线亚洲剧台" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/MytvSuper.png" group-title="香港频道",无线亚洲剧台
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E4%BA%9A%E6%B4%B2%E5%89%A7%E5%8F%B0
+#EXTINF:-1 tvg-name="无线华语剧台" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/MytvSuper.png" group-title="香港频道",无线华语剧台
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E5%8D%8E%E8%AF%AD%E5%89%A7%E5%8F%B0
+#EXTINF:-1 tvg-name="无线戏曲台" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/MytvSuper.png" group-title="香港频道",无线戏曲台
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E6%88%8F%E6%9B%B2%E5%8F%B0
+#EXTINF:-1 tvg-name="无线粤语片台" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/MytvSuper.png" group-title="香港频道",无线粤语片台
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E7%B2%A4%E8%AF%AD%E7%89%87%E5%8F%B0
+#EXTINF:-1 tvg-name="无线少儿" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/MytvSuper.png" group-title="香港频道",无线少儿
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=HandsUP
+#EXTINF:-1 tvg-name="有线赛马" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/有线赛马.png" group-title="香港频道",有线赛马
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=HKC18%E5%8F%B0
+#EXTINF:-1 tvg-name="28aI赛马" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/28aI.png" group-title="香港频道",28aI赛马
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=28AI%E6%99%BA%E6%85%A7%E8%B5%9B%E9%A9%AC
+#EXTINF:-1 tvg-name="黄金翡翠台" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/黄金翡翠台.png" group-title="香港频道",黄金翡翠台
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E9%BB%84%E9%87%91%E7%BF%A1%E7%BF%A0%E5%8F%B0
+#EXTINF:-1 tvg-name="黄金华剧台" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/黄金华剧台.png" group-title="香港频道",黄金华剧台
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E9%BB%83%E9%87%91%E8%8F%AF%E5%8A%87%E5%8F%B0
+#EXTINF:-1 tvg-name="POPC" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/POPC.png" group-title="香港频道",POPC
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=POPC
+#EXTINF:-1 tvg-name="Now爆谷台" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/Now爆谷台.png" group-title="香港频道",Now爆谷台
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=Now%E7%88%86%E8%B0%B7%E5%8F%B0
+#EXTINF:-1 tvg-name="Now星影台" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/Now星影台.png" group-title="香港频道",Now星影台
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=Now%E6%98%9F%E5%BD%B1%E5%8F%B0
+#EXTINF:-1 tvg-name="Now华剧台" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/Now华剧台.png" group-title="香港频道",Now华剧台
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=Now%E8%8F%AF%E5%8A%87%E5%8F%B0
+#EXTINF:-1 tvg-name="Now剧集台" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/Now剧集台.png" group-title="香港频道",Now剧集台
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=Now%E5%8A%87%E9%9B%86%E5%8F%B0
+#EXTINF:-1 tvg-name="Now紫金台" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/Now紫金台.png" group-title="香港频道",Now紫金台
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=NowJelli%E7%B4%AB%E9%87%91%E5%9B%BD%E9%99%85
+#EXTINF:-1 tvg-name="Now直播台" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/Now直播台.png" group-title="香港频道",Now直播台
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=Now%E7%9B%B4%E6%92%AD%E5%8F%B0
+#EXTINF:-1 tvg-name="Now财经台" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/Now财经台.png" group-title="香港频道",Now财经台
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=Now%E8%B4%A2%E7%BB%8F%E5%8F%B0
+#EXTINF:-1 tvg-name="VIUTV-粤" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/VIUTV.png" group-title="香港频道",VIUTV-粤
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=ViuTV
+#EXTINF:-1 tvg-name="VIUTV-英" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/VIUTV.png" group-title="香港频道",VIUTV-英
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=ViuTV6
+#EXTINF:-1 tvg-name="RTHK-31" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/RTHK31.png" group-title="香港频道",RTHK-31
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=RTHK31
+#EXTINF:-1 tvg-name="RTHK-32" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/RTHK32.png" group-title="香港频道",RTHK-32
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=RTHK32
+#EXTINF:-1 tvg-name="HUB娱家" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/HUB娱家.png" group-title="香港频道",HUB娱家
+http://api.mytv666.top/api/qwt.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=%E5%A8%B1%E5%AE%B6%E5%8F%B0
+#EXTINF:-1 tvg-name="HUB都会" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/HUB都会.png" group-title="香港频道",HUB都会
+http://api.mytv666.top/api/qwt.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=%E9%83%BD%E4%BC%9A%E5%8F%B0
+#EXTINF:-1 tvg-name="Ftv1时代" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/Ftv1时代.png" group-title="香港频道",Ftv1时代
+http://api.mytv666.top/api/qwt.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=%E6%96%B0%E6%97%B6%E4%BB%A31
+#EXTINF:-1 tvg-name="Ftv2时代" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/Ftv2时代.png" group-title="香港频道",Ftv2时代
+http://api.mytv666.top/api/qwt.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=%E6%96%B0%E6%97%B6%E4%BB%A32
+#EXTINF:-1 tvg-name="城市电视" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/城市电视.png" group-title="香港频道",城市电视
+http://api.mytv666.top/api/qwt.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=%E5%9F%8E%E5%B8%82%E7%94%B5%E8%A7%86
+#EXTINF:-1 tvg-name="天映经典" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/天映经典.png" group-title="香港频道",天映经典
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E5%A4%A9%E6%98%A0%E7%BB%8F%E5%85%B8
+#EXTINF:-1 tvg-name="天映经典国" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/天映经典.png" group-title="香港频道",天映经典国
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E5%A4%A9%E6%98%A0%E9%A2%91%E9%81%93%28%E7%B2%A4%29
+#EXTINF:-1 tvg-name="天映经典粤" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/天映经典.png" group-title="香港频道",天映经典粤
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E5%A4%A9%E6%98%A0%E9%A2%91%E9%81%93%28%E5%9B%BD%29
+#EXTINF:-1 tvg-name="美亚电影国" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/美亚电影.png" group-title="香港频道",美亚电影国
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1%28%E5%9B%BD%29
+#EXTINF:-1 tvg-name="美亚电影粤" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/美亚电影.png" group-title="香港频道",美亚电影粤
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1%28%E7%B2%A4%29
+#EXTINF:-1 tvg-id="Astro IQIYI" tvg-name="Astro IQIYI" tvg-logo="https://epg.v1.mk/logo/IQIYI.png" group-title="香港频道",Astro IQIYI
+https://s1.tvm4a1.cfd/aktv2/iqiyi/AKTV.m3u8
+#EXTINF:-1 tvg-id="好萊塢電影台" tvg-name="好萊塢電影台" tvg-logo="https://epg.v1.mk/logo/好萊塢電影台.png" group-title="香港频道",好萊塢電影台
+https://s2.m16tv.cfd/aktv2/CH-4/AKTV.m3u8
+#EXTINF:-1 tvg-id="天映电影" tvg-name="天映电影" tvg-logo="https://epg.v1.mk/logo/天映电影.png" group-title="香港频道",天映电影
+https://s2.m16tv.cfd/aktv2/CH-3/AKTV.m3u8
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.v1.mk/logo/HBO.png" group-title="香港频道",HBO
+https://s1.tvm4a1.cfd/aktv2/hbo/AKTV.m3u8
+#EXTINF:-1 tvg-id="Channel U HD" tvg-name="Channel U HD" tvg-logo="https://epg.v1.mk/logo/CHANNELUHD.png" group-title="香港频道",Channel U HD
+http://s1.tvm4a1.cfd/aktv/channeluhd/AKTV.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://epg.v1.mk/logo/axn.png" group-title="香港频道",AXN
+https://s1.tvm4a1.cfd/aktv/axn/AKTV.m3u8
+#EXTINF:-1 tvg-id="东森电影" tvg-name="东森电影" tvg-logo="https://epg.v1.mk/logo/东森电影.png" group-title="香港频道",东森电影
+http://s1.tvm4a1.cfd/aktv2/null-1/AKTV.m3u8
+#EXTINF:-1 tvg-id="东森洋片" tvg-name="东森洋片" tvg-logo="https://epg.v1.mk/logo/东森洋片.png" group-title="香港频道",东森洋片
+https://s1.tvm4a1.cfd/aktv2/CH-2/AKTV.m3u8
+#EXTINF:-1 tvg-id="亞洲新聞台" tvg-name="亞洲新聞台" tvg-logo="https://epg.v1.mk/logo/亚洲新闻台.png" group-title="香港频道",亞洲新聞台
+https://s1.tvm4a1.cfd/aktv3/cna/AKTV.m3u8
+#EXTINF:-1 tvg-id="myTV SUPER 18台" tvg-name="myTV SUPER 18台" tvg-logo="https://epg.v1.mk/logo/MYTVSUPER18.png" group-title="香港频道",myTV SUPER 18台
+http://s1.tvm4a1.cfd/aktv/mytvsuper18/AKTV.m3u8
+#EXTINF:-1 tvg-id="Channel 5 HD" tvg-name="Channel 5 HD" tvg-logo="https://epg.v1.mk/logo/CHANNEL5HD.png" group-title="香港频道",Channel 5 HD
+https://s1.tvm4a1.cfd/aktv/channel5hd/AKTV.m3u8
+#EXTINF:-1 tvg-id="Channel 8 HD" tvg-name="Channel 8 HD" tvg-logo="https://epg.v1.mk/logo/CHANNEL8HD.png" group-title="香港频道",Channel 8 HD
+http://s1.tvm4a1.cfd/aktv/channel8hd/AKTV.m3u8
+#EXTINF:-1 tvg-id="AstroAOD" tvg-name="AstroAOD" tvg-logo="https://epg.v1.mk/logo/AstroAOD.png" group-title="香港频道",Astro AOD
+http://php.jdshipin.com:8880/smt.php?id=Aodhd
+#EXTINF:-1 tvg-id="緯來體育" tvg-name="緯來體育" tvg-logo="https://epg.v1.mk/logo/緯來體育.png" group-title="香港频道",緯來體育
+https://s1.tvm4a1.cfd/aktv2/CH-0/AKTV.m3u8
+#EXTINF:-1 tvg-id="ROCK Action" tvg-name="ROCK Action" tvg-logo="https://epg.v1.mk/logo/ROCKACTION.png" group-title="香港频道",ROCK Action
+http://s1.tvm4a1.cfd/aktv/rockaction/AKTV.m3u8
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.v1.mk/logo/明珠台.png" group-title="香港频道",明珠台
+http://s1.tvm4a1.cfd/aktv/null-2/AKTV.m3u8
+#EXTINF:-1 tvg-id="明珠剧集台(北美)" tvg-name="明珠剧集台(北美)" tvg-logo="https://epg.v1.mk/logo/tvb明珠.png" group-title="香港频道",明珠剧集台(北美)
+http://s1.tvm4a1.cfd/aktv/null-19/AKTV.m3u8
+#EXTINF:-1 tvg-id="娛樂新聞台(HK)" tvg-name="娛樂新聞台(HK)" tvg-logo="https://epg.v1.mk/logo/娱乐新闻台.png" group-title="香港频道",娛樂新聞台(HK)
+http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
+#EXTINF:-1 tvg-id="tvN" tvg-name="tvN" tvg-logo="https://epg.v1.mk/logo/tvN.png" group-title="香港频道",tvN
+http://s1.tvm4a1.cfd/aktv/tvn/AKTV.m3u8
+#EXTINF:-1 tvg-id="纬来电影台" tvg-name="纬来电影台" tvg-logo="https://epg.v1.mk/logo/緯來電影.png" group-title="香港频道",纬来电影台
+https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
+#EXTINF:-1 tvg-name="中国电影" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/中国电影.png" group-title="香港频道",中国电影
+http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1%E9%A2%91%E9%81%93
+
+#EXTINF:-1 tvg-id="博斯无限台" tvg-name="博斯无限台" tvg-logo="https://epg.v1.mk/logo/博斯无限.png" group-title="港台频道",博斯無限 一
+https://tv.iill.top/litv/litv-longturn10
+#EXTINF:-1 tvg-id="博斯无限二台" tvg-name="博斯无限二台" tvg-logo="https://epg.v1.mk/logo/博斯无限2.png" group-title="港台频道",博斯無限 二
+https://tv.iill.top/litv/litv-longturn13
+#EXTINF:-1 tvg-id="博斯网球台" tvg-name="博斯网球台" tvg-logo="https://epg.v1.mk/logo/博斯网球.png" group-title="港台频道",博斯網球
+https://tv.iill.top/litv/litv-longturn09
+#EXTINF:-1 tvg-id="博斯运动一台" tvg-name="博斯运动一台" tvg-logo="https://epg.v1.mk/logo/博斯运动1.png" group-title="港台频道",博斯運動 一
+https://tv.iill.top/litv/litv-longturn07
+#EXTINF:-1 tvg-id="博斯运动二台" tvg-name="博斯运动二台" tvg-logo="https://epg.v1.mk/logo/博斯运动2.png" group-title="港台频道",博斯運動 二
+https://tv.iill.top/litv/litv-longturn08
+#EXTINF:-1 tvg-id="博斯高球台" tvg-name="博斯高球台" tvg-logo="https://epg.v1.mk/logo/博斯高球1.png" group-title="港台频道",博斯高球一
+https://tv.iill.top/litv/litv-longturn05
+#EXTINF:-1 tvg-id="博斯高球二台" tvg-name="博斯高球二台" tvg-logo="https://epg.v1.mk/logo/博斯高球2.png" group-title="港台频道",博斯高球 二
+https://tv.iill.top/litv/litv-longturn06
+#EXTINF:-1 tvg-id="博斯魅力台" tvg-name="博斯魅力台" tvg-logo="https://epg.v1.mk/logo/博斯魅力.png" group-title="港台频道",博斯魅力
+https://tv.iill.top/litv/litv-longturn04
+#EXTINF:-1 tvg-id="时尚运动X" tvg-name="时尚运动X" tvg-logo="https://epg.v1.mk/logo/时尚运动X.png" group-title="港台频道",時尚運動X
+https://tv.iill.top/4gtv/277
+#EXTINF:-1 tvg-id="智林体育台" tvg-name="智林体育台" tvg-logo="https://epg.v1.mk/logo/智林体育.png" group-title="港台频道",智林體育
+https://tv.iill.top/litv/4gtv-4gtv101
+#EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://epg.v1.mk/logo/东森新闻.png" group-title="港台频道",東森新聞
+https://tv.iill.top/litv/4gtv-4gtv152
+#EXTINF:-1 tvg-id="东森财经新闻" tvg-name="东森财经新闻" tvg-logo="https://epg.v1.mk/logo/东森财经.png" group-title="港台频道",東森財經新聞
+https://tv.iill.top/litv/4gtv-4gtv153
+#EXTINF:-1 tvg-id="三立新闻" tvg-name="三立新闻" tvg-logo="https://epg.v1.mk/logo/三立新闻.png" group-title="港台频道",三立新聞
+https://tv.iill.top/4gtv/229
+#EXTINF:-1 tvg-id="三立综合台" tvg-name="三立综合台" tvg-logo="https://epg.v1.mk/logo/三立综合.png" group-title="港台频道",三立綜合
+https://tv.iill.top/4gtv/169
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.v1.mk/logo/TVBS.png" group-title="港台频道",TVBS
+https://tv.iill.top/litv/4gtv-4gtv073
+#EXTINF:-1 tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.v1.mk/logo/TVBS新闻.png" group-title="港台频道",TVBS 新聞
+https://tv.iill.top/litv/4gtv-4gtv072
+#EXTINF:-1 tvg-id="TVBS欢乐台" tvg-name="TVBS欢乐台" tvg-logo="https://epg.v1.mk/logo/TVBS欢乐.png" group-title="港台频道",TVBS 歡樂
+https://tv.iill.top/litv/4gtv-4gtv068
+#EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://epg.v1.mk/logo/TVBS精采.png" group-title="港台频道",TVBS 精采
+https://tv.iill.top/litv/4gtv-4gtv067
+#EXTINF:-1 tvg-id="TVBS综艺台" tvg-name="TVBS综艺台" tvg-logo="https://epg.v1.mk/logo/TVBS综艺.png" group-title="港台频道",TVBS 綜藝
+https://tv.iill.top/4gtv/284
+#EXTINF:-1 tvg-id="TVBS台剧台" tvg-name="TVBS台剧台" tvg-logo="https://epg.v1.mk/logo/TVBS台剧.png" group-title="港台频道",TVBS 台劇
+https://tv.iill.top/4gtv/285
+#EXTINF:-1 tvg-id="中天亚洲台" tvg-name="中天亚洲台" tvg-logo="https://epg.v1.mk/logo/中天亚洲.png" group-title="港台频道",中天亞洲
+https://tv.iill.top/litv/4gtv-4gtv109
+#EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://epg.v1.mk/logo/中天新闻.png" group-title="港台频道",中天新聞
+https://tv.iill.top/litv/4gtv-4gtv009
+#EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.v1.mk/logo/中视.png" group-title="港台频道",中視
+https://tv.iill.top/litv/4gtv-4gtv040
+#EXTINF:-1 tvg-id="中视新闻台" tvg-name="中视新闻台" tvg-logo="https://epg.v1.mk/logo/中视新闻.png" group-title="港台频道",中視新聞
+https://tv.iill.top/litv/4gtv-4gtv074
+#EXTINF:-1 tvg-id="中视经典台" tvg-name="中视经典台" tvg-logo="https://epg.v1.mk/logo/中视经典.png" group-title="港台频道",中視經典
+https://tv.iill.top/litv/4gtv-4gtv080
+#EXTINF:-1 tvg-id="亚洲旅游台" tvg-name="亚洲旅游台" tvg-logo="https://assets.livednow.com/logo/亞洲旅遊台.png" group-title="港台频道",亞洲旅遊
+https://tv.iill.top/litv/4gtv-4gtv076
+#EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://assets.livednow.com/logo/靖天卡通台.png" group-title="港台频道",靖天卡通
+https://tv.iill.top/litv/4gtv-4gtv044
+#EXTINF:-1 tvg-id="靖天国际台" tvg-name="靖天国际台" tvg-logo="https://assets.livednow.com/logo/靖天國際台.png" group-title="港台频道",靖天國際
+https://tv.iill.top/litv/4gtv-4gtv063
+#EXTINF:-1 tvg-id="靖天戏剧台" tvg-name="靖天戏剧台" tvg-logo="https://assets.livednow.com/logo/靖天戲劇台.png" group-title="港台频道",靖天戲劇
+https://tv.iill.top/litv/4gtv-4gtv058
+#EXTINF:-1 tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://assets.livednow.com/logo/靖天日本台.png" group-title="港台频道",靖天日本
+https://tv.iill.top/litv/4gtv-4gtv047
+#EXTINF:-1 tvg-id="靖天映画台" tvg-name="靖天映画台" tvg-logo="https://assets.livednow.com/logo/靖天映畫台.png" group-title="港台频道",靖天映畫
+https://tv.iill.top/litv/4gtv-4gtv055
+#EXTINF:-1 tvg-id="靖天欢乐台" tvg-name="靖天欢乐台" tvg-logo="https://assets.livednow.com/logo/靖天歡樂台.png" group-title="港台频道",靖天歡樂
+https://tv.iill.top/litv/4gtv-4gtv054
+#EXTINF:-1 tvg-id="靖天综合台" tvg-name="靖天综合台" tvg-logo="https://assets.livednow.com/logo/靖天綜合台.png" group-title="港台频道",靖天綜合
+https://tv.iill.top/litv/4gtv-4gtv046
+#EXTINF:-1 tvg-id="靖天育乐台" tvg-name="靖天育乐台" tvg-logo="https://assets.livednow.com/logo/靖天育樂台.png" group-title="港台频道",靖天育樂
+https://tv.iill.top/litv/4gtv-4gtv062
+#EXTINF:-1 tvg-id="靖天资讯台" tvg-name="靖天资讯台" tvg-logo="https://assets.livednow.com/logo/靖天資訊台.png" group-title="港台频道",靖天資訊
+https://tv.iill.top/litv/4gtv-4gtv065
+#EXTINF:-1 tvg-id="靖天电影台" tvg-name="靖天电影台" tvg-logo="https://assets.livednow.com/logo/靖天電影台.png" group-title="港台频道",靖天電影
+https://tv.iill.top/litv/4gtv-4gtv061
+#EXTINF:-1 tvg-id="靖洋卡通台" tvg-name="靖洋卡通台" tvg-logo="https://assets.livednow.com/logo/靖洋卡通-Nice-Bingo.png" group-title="港台频道",靖洋卡通
+https://tv.iill.top/litv/4gtv-4gtv057
+#EXTINF:-1 tvg-id="靖洋戏剧台" tvg-name="靖洋戏剧台" tvg-logo="https://assets.livednow.com/logo/靖洋戲劇台.png" group-title="港台频道",靖洋戲劇
+https://tv.iill.top/litv/4gtv-4gtv045
+#EXTINF:-1 tvg-id="龙华偶像台" tvg-name="龙华偶像台" tvg-logo="https://assets.livednow.com/logo/龍華偶像台.png" group-title="港台频道",龍華偶像
+https://tv.iill.top/litv/litv-longturn12
+#EXTINF:-1 tvg-id="龙华卡通台" tvg-name="龙华卡通台" tvg-logo="https://assets.livednow.com/logo/龍華卡通台.png" group-title="港台频道",龍華卡通
+https://tv.iill.top/litv/litv-longturn01
+#EXTINF:-1 tvg-id="龙华戏剧台" tvg-name="龙华戏剧台" tvg-logo="https://assets.livednow.com/logo/龍華戲劇台.png" group-title="港台频道",龍華戲劇
+https://tv.iill.top/litv/litv-longturn18
+#EXTINF:-1 tvg-id="龙华日韩台" tvg-name="龙华日韩台" tvg-logo="https://assets.livednow.com/logo/龍華日韓台.png" group-title="港台频道",龍華日韓
+https://tv.iill.top/litv/litv-longturn11
+#EXTINF:-1 tvg-id="龙华经典台" tvg-name="龙华经典台" tvg-logo="https://assets.livednow.com/logo/龍華經典台.png" group-title="港台频道",龍華經典
+https://tv.iill.top/litv/litv-longturn21
+#EXTINF:-1 tvg-id="龙华电影台" tvg-name="龙华电影台" tvg-logo="https://assets.livednow.com/logo/龍華電影台.png" group-title="港台频道",龍華電影
+https://tv.iill.top/litv/litv-longturn03
+#EXTINF:-1 tvg-id="八大精彩台" tvg-name="八大精彩台" tvg-logo="https://assets.livednow.com/logo/八大精彩台.png" group-title="港台频道",八大精彩
+https://tv.iill.top/litv/4gtv-4gtv034
+#EXTINF:-1 tvg-id="八大综艺台" tvg-name="八大综艺台" tvg-logo="https://assets.livednow.com/logo/八大綜藝台.png" group-title="港台频道",八大綜藝
+https://tv.iill.top/litv/4gtv-4gtv039
+#EXTINF:-1 tvg-id="公视戏剧台" tvg-name="公视戏剧台" tvg-logo="https://assets.livednow.com/logo/公視戲劇台.png" group-title="港台频道",公視戲劇
+https://tv.iill.top/litv/4gtv-4gtv042
+#EXTINF:-1 tvg-id="台湾戏剧台" tvg-name="台湾戏剧台" tvg-logo="https://assets.livednow.com/logo/台灣戲劇台.png" group-title="港台频道",台灣戲劇
+https://tv.iill.top/litv/litv-longturn22
+#EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="https://assets.livednow.com/logo/台視.png" group-title="港台频道",台視
+https://tv.iill.top/litv/4gtv-4gtv066
+#EXTINF:-1 tvg-id="台视新闻台" tvg-name="台视新闻台" tvg-logo="https://assets.livednow.com/logo/台視新聞台.png" group-title="港台频道",台視新聞
+https://tv.iill.top/litv/4gtv-4gtv051
+#EXTINF:-1 tvg-id="台视财经台" tvg-name="台视财经台" tvg-logo="https://assets.livednow.com/logo/台視財經台.png" group-title="港台频道",台視財經
+https://tv.iill.top/litv/4gtv-4gtv056
+#EXTINF:-1 tvg-id="客家电视台" tvg-name="客家电视台" tvg-logo="https://assets.livednow.com/logo/客家電視台.png" group-title="港台频道",客家電視
+https://tv.iill.top/litv/4gtv-4gtv043
+#EXTINF:-1 tvg-id="寰宇新闻台" tvg-name="寰宇新闻台" tvg-logo="https://assets.livednow.com/logo/寰宇新聞台.png" group-title="港台频道",寰宇新聞
+https://tv.iill.top/litv/litv-longturn14
+#EXTINF:-1 tvg-id="寰宇新闻台湾台" tvg-name="寰宇新闻台湾台" tvg-logo="https://assets.livednow.com/logo/寰宇新聞台灣台.png" group-title="港台频道",寰宇新聞台灣
+https://tv.iill.top/litv/4gtv-4gtv156
+#EXTINF:-1 tvg-id="寰宇财经台" tvg-name="寰宇财经台" tvg-logo="https://assets.livednow.com/logo/寰宇財經台.png" group-title="港台频道",寰宇財經
+https://tv.iill.top/litv/4gtv-4gtv158
+#EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="https://assets.livednow.com/logo/華視.png" group-title="港台频道",華視
+https://tv.iill.top/litv/4gtv-4gtv041
+#EXTINF:-1 tvg-id="华视新闻" tvg-name="华视新闻" tvg-logo="https://assets.livednow.com/logo/華視新聞.png" group-title="港台频道",華視新聞台
+https://tv.iill.top/litv/4gtv-4gtv052
+#EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="https://assets.livednow.com/logo/民視.png" group-title="港台频道",民視
+https://tv.iill.top/litv/4gtv-4gtv002
+#EXTINF:-1 tvg-id="民视台湾台" tvg-name="民视台湾台" tvg-logo="https://assets.livednow.com/logo/民視台灣台.png" group-title="港台频道",民視台灣
+https://tv.iill.top/litv/4gtv-4gtv001
+#EXTINF:-1 tvg-id="民视影剧台" tvg-name="民视影剧台" tvg-logo="https://assets.livednow.com/logo/民視影劇台.png" group-title="港台频道",民視影劇
+https://tv.iill.top/litv/litv-ftv09
+#EXTINF:-1 tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://assets.livednow.com/logo/民視新聞台.png" group-title="港台频道",民視新聞
+https://tv.iill.top/litv/litv-ftv13
+#EXTINF:-1 tvg-id="民视旅游台" tvg-name="民视旅游台" tvg-logo="https://assets.livednow.com/logo/民視旅遊台.png" group-title="港台频道",民視旅遊
+https://tv.iill.top/litv/litv-ftv07
+#EXTINF:-1 tvg-id="民视第一台" tvg-name="民视第一台" tvg-logo="https://assets.livednow.com/logo/民視第一台.png" group-title="港台频道",民視第一
+https://tv.iill.top/litv/4gtv-4gtv003
+#EXTINF:-1 tvg-id="民视综艺台" tvg-name="民视综艺台" tvg-logo="https://assets.livednow.com/logo/民視綜藝台.png" group-title="港台频道",民視綜藝
+https://tv.iill.top/litv/4gtv-4gtv004
+#EXTINF:-1 tvg-id="非凡商业台" tvg-name="非凡商业台" tvg-logo="https://assets.livednow.com/logo/非凡商業台.png" group-title="港台频道",非凡商業
+https://tv.iill.top/litv/4gtv-4gtv048
+#EXTINF:-1 tvg-id="非凡新闻台" tvg-name="非凡新闻台" tvg-logo="https://assets.livednow.com/logo/非凡新聞台.png" group-title="港台频道",非凡新聞
+https://tv.iill.top/litv/4gtv-4gtv010
+#EXTINF:-1 tvg-id="镜电视新闻台" tvg-name="镜电视新闻台" tvg-logo="https://assets.livednow.com/logo/鏡電視新聞台.png" group-title="港台频道",鏡電視新聞
+https://tv.iill.top/litv/4gtv-4gtv075
+#EXTINF:-1 tvg-id="AMC最爱电影" tvg-name="AMC最爱电影" tvg-logo="https://assets.livednow.com/logo/AMC-最愛電影.png" group-title="港台频道",AMC 最愛電影
+https://tv.iill.top/litv/4gtv-4gtv017
+#EXTINF:-1 tvg-id="ARIRANGTV" tvg-name="ARIRANGTV" tvg-logo="https://assets.livednow.com/logo/Arirang-TV.png" group-title="港台频道",Arirang TV
+https://tv.iill.top/litv/4gtv-4gtv079
+#EXTINF:-1 tvg-id="BLOOMBERGTV" tvg-name="BLOOMBERGTV" tvg-logo="https://assets.livednow.com/logo/BloombergTV.png" group-title="港台频道",Bloomberg TV
+https://tv.iill.top/4gtv/283
+#EXTINF:-1 tvg-id="CI罪案侦查频道" tvg-name="CI罪案侦查频道" tvg-logo="https://assets.livednow.com/logo/CI-罪案偵查頻道.png" group-title="港台频道",CI 罪案偵查頻道
+https://tv.iill.top/4gtv/215
+#EXTINF:-1 tvg-id="CNBCASIA财经台" tvg-name="CNBCASIA财经台" tvg-logo="https://assets.livednow.com/logo/CNBC-Asia-財經台.png" group-title="港台频道",CNBC Asia 財經
+https://tv.iill.top/4gtv/235
+#EXTINF:-1 tvg-id="CINEMAWORLD" tvg-name="CINEMAWORLD" tvg-logo="https://assets.livednow.com/logo/CinemaWorld.png" group-title="港台频道",CinemaWorld
+https://tv.iill.top/4gtv/225
+#EXTINF:-1 tvg-id="CLASSICA古典乐" tvg-name="CLASSICA古典乐" tvg-logo="https://assets.livednow.com/logo/Classica-古典樂.png" group-title="港台频道",Classica 古典樂
+https://tv.iill.top/litv/4gtv-4gtv059
+#EXTINF:-1 tvg-id="DW德国之声" tvg-name="DW德国之声" tvg-logo="https://assets.livednow.com/logo/DW.png" group-title="港台频道",DW德國之聲
+https://tv.iill.top/4gtv/226
+#EXTINF:-1 tvg-id="DREAMWORKS梦工厂动画" tvg-name="DREAMWORKS梦工厂动画" tvg-logo="https://assets.livednow.com/logo/DreamWorks-夢工廠動畫.png" group-title="港台频道",DreamWorks 夢工廠動畫
+https://tv.iill.top/4gtv/282
+#EXTINF:-1 tvg-id="ELTA娱乐" tvg-name="ELTA娱乐" tvg-logo="https://assets.livednow.com/logo/ELTA娛樂.png" group-title="港台频道",ELTA 娛樂
+https://tv.iill.top/litv/4gtv-4gtv070
+#EXTINF:-1 tvg-id="ELTA生活旅游" tvg-name="ELTA生活旅游" tvg-logo="https://assets.livednow.com/logo/ELTA生活旅遊.png" group-title="港台频道",ELTA 生活旅遊
+https://tv.iill.top/4gtv/237
+#EXTINF:-1 tvg-id="ELTA生活英语" tvg-name="ELTA生活英语" tvg-logo="https://assets.livednow.com/logo/ELTA生活英語.png" group-title="港台频道",ELTA生活英語
+https://tv.iill.top/litv/litv-longturn20
+#EXTINF:-1 tvg-id="FUN探索娱乐台" tvg-name="FUN探索娱乐台" tvg-logo="https://assets.livednow.com/logo/Fun-探索娛樂台.png" group-title="港台频道",Fun 探索娛樂
+https://tv.iill.top/4gtv/274
+#EXTINF:-1 tvg-id="GINXESPORTSTV" tvg-name="GINXESPORTSTV" tvg-logo="https://assets.livednow.com/logo/GINX-Esports-TV.png" group-title="港台频道",GINX Esports TV
+https://tv.iill.top/litv/4gtv-4gtv053
+#EXTINF:-1 tvg-id="GLOBALTREKKER" tvg-name="GLOBALTREKKER" tvg-logo="https://assets.livednow.com/logo/Global-Trekker.png" group-title="港台频道",Global Trekker
+https://tv.iill.top/4gtv/252
+#EXTINF:-1 tvg-id="GLOBETROTTER环游旅行家" tvg-name="GLOBETROTTER环游旅行家" tvg-logo="https://assets.livednow.com/logo/Globetrotter-環遊旅行家.png" group-title="港台频道",Globetrotter 環遊旅行家
+https://tv.iill.top/litv/4gtv-4gtv016
+#EXTINF:-1 tvg-id="HITS频道" tvg-name="HITS频道" tvg-logo="https://assets.livednow.com/logo/HITS-頻道.png" group-title="港台频道",HITS 頻道
+https://tv.iill.top/4gtv/186
+#EXTINF:-1 tvg-id="HISTORY历史频道" tvg-name="HISTORY历史频道" tvg-logo="https://assets.livednow.com/logo/History-歷史頻道.png" group-title="港台频道",History 歷史頻道
+https://tv.iill.top/4gtv/214
+#EXTINF:-1 tvg-id="LUXETV" tvg-name="LUXETV" tvg-logo="https://assets.livednow.com/logo/LUXE-TV.png" group-title="港台频道",LUXE TV
+https://tv.iill.top/4gtv/175
+#EXTINF:-1 tvg-id="LIFETIME娱乐频道" tvg-name="LIFETIME娱乐频道" tvg-logo="https://assets.livednow.com/logo/Lifetime-娛樂頻道.png" group-title="港台频道",Lifetime 娛樂頻道
+https://tv.iill.top/4gtv/217
+#EXTINF:-1 tvg-id="LIVEABC互动英语台" tvg-name="LIVEABC互动英语台" tvg-logo="https://assets.livednow.com/logo/LiveABC-互動英語台.png" group-title="港台频道",LiveABC 互動英語
+https://tv.iill.top/4gtv/188
+#EXTINF:-1 tvg-id="LOVENATURE" tvg-name="LOVENATURE" tvg-logo="https://assets.livednow.com/logo/Love-Nature.png" group-title="港台频道",Love Nature
+https://tv.iill.top/4gtv/139
+#EXTINF:-1 tvg-id="MOMO亲子台" tvg-name="MOMO亲子台" tvg-logo="https://assets.livednow.com/logo/MOMO-親子台.png" group-title="港台频道",MOMO 親子
+https://tv.iill.top/4gtv/231
+#EXTINF:-1 tvg-id="MTVLIVEHD音乐频道" tvg-name="MTVLIVEHD音乐频道" tvg-logo="https://assets.livednow.com/logo/MTV-Live-HD-音樂頻道.png" group-title="港台频道",MTV Live HD 音樂頻道
+https://tv.iill.top/4gtv/213
+#EXTINF:-1 tvg-id="MEZZOLIVE" tvg-name="MEZZOLIVE" tvg-logo="https://assets.livednow.com/logo/Mezzo-Live.png" group-title="港台频道",Mezzo Live
+https://tv.iill.top/litv/4gtv-4gtv083
+#EXTINF:-1 tvg-id="MYCINEMA" tvg-name="MYCINEMA EUROPEHD我的欧洲电影" tvg-logo="https://assets.livednow.com/logo/My-Cinema-Europe-HD-我的歐洲電影.png" group-title="港台频道",My Cinema Europe HD 我的歐洲電影
+https://tv.iill.top/4gtv/176
+#EXTINF:-1 tvg-id="NICKJR.儿童频道" tvg-name="NICKJR.儿童频道" tvg-logo="https://assets.livednow.com/logo/Nick-Jr..png" group-title="港台频道",Nick Jr. 兒童頻道
+https://tv.iill.top/4gtv/219
+#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://assets.livednow.com/logo/Nickelodeon.png" group-title="港台频道",Nickelodeon
+https://tv.iill.top/4gtv/185
+#EXTINF:-1 tvg-id="PETCLUBTV" tvg-name="PETCLUBTV" tvg-logo="https://assets.livednow.com/logo/Pet-Club-TV.png" group-title="港台频道",Pet Club TV
+https://tv.iill.top/4gtv/182
+#EXTINF:-1 tvg-id="ROCKACTION" tvg-name="ROCKACTION" tvg-logo="https://assets.livednow.com/logo/Rock-Action.png" group-title="港台频道",Rock Action
+https://tv.iill.top/4gtv/180
+#EXTINF:-1 tvg-id="ROCKENTERTAINMENT" tvg-name="ROCKENTERTAINMENT" tvg-logo="https://assets.livednow.com/logo/Rock-Entertainment.png" group-title="港台频道",Rock Entertainment
+https://tv.iill.top/4gtv/275
+#EXTINF:-1 tvg-id="SBN全球财经台" tvg-name="SBN全球财经台" tvg-logo="https://assets.livednow.com/logo/SBN-全球財經台.png" group-title="港台频道",SBN 全球財經
+https://tv.iill.top/4gtv/224
+#EXTINF:-1 tvg-id="SMART知识台" tvg-name="SMART知识台" tvg-logo="https://assets.livednow.com/logo/Smart-知識台.png" group-title="港台频道",Smart 知識
+https://tv.iill.top/litv/litv-longturn19
+#EXTINF:-1 tvg-id="TV5MONDESTYLE" tvg-name="TV5MONDESTYLE" tvg-logo="https://assets.livednow.com/logo/TV5MONDE-Style.png" group-title="港台频道",TV5MONDE Style
+https://tv.iill.top/4gtv/178
+#EXTINF:-1 tvg-id="TechStorm" tvg-name="TechStorm" tvg-logo="https://assets.livednow.com/logo/TechStorm.png" group-title="港台频道",TechStorm
+https://tv.iill.top/4gtv/181
+#EXTINF:-1 tvg-id="TRACEURBAN" tvg-name="TRACEURBAN" tvg-logo="https://assets.livednow.com/logo/Trace-Urban.png" group-title="港台频道",Trace Urban
+https://tv.iill.top/litv/4gtv-4gtv082
+#EXTINF:-1 tvg-id="TRACESPORTS" tvg-name="TRACESPORTS" tvg-logo="https://assets.livednow.com/logo/TraceSports.png" group-title="港台频道",TraceSports
+https://tv.iill.top/litv/4gtv-4gtv077
+#EXTINF:-1 tvg-id="VOA美国之音" tvg-name="VOA美国之音" tvg-logo="https://assets.livednow.com/logo/VOA-美國之音.png" group-title="港台频道",VOA 美國之音
+https://tv.iill.top/litv/litv-ftv03
+#EXTINF:-1 tvg-id="IFUN动漫台" tvg-name="IFUN动漫台" tvg-logo="https://assets.livednow.com/logo/i-Fun-動漫台.png" group-title="港台频道",i-Fun 動漫
+https://tv.iill.top/litv/litv-ftv15
+#EXTINF:-1 tvg-id="幸福空间居家台" tvg-name="幸福空间居家台" tvg-logo="https://assets.livednow.com/logo/幸福空間居家台.png" group-title="港台频道",幸福空間居家
+https://tv.iill.top/4gtv/168
+#EXTINF:-1 tvg-id="影迷数位纪实台" tvg-name="影迷数位纪实台" tvg-logo="https://assets.livednow.com/logo/影迷數位紀實台.png" group-title="港台频道",影迷數位紀實
+https://tv.iill.top/4gtv/212
+#EXTINF:-1 tvg-id="影迷数位电影台" tvg-name="影迷数位电影台" tvg-logo="https://assets.livednow.com/logo/影迷數位電影台.png" group-title="港台频道",影迷數位電影
+https://tv.iill.top/litv/4gtv-4gtv011
+#EXTINF:-1 tvg-id="戏剧免费看" tvg-name="戏剧免费看 1台" tvg-logo="https://assets.livednow.com/logo/戲劇免費看-1台.png" group-title="港台频道",戲劇免費看 1
+https://tv.iill.top/4gtv/270
+#EXTINF:-1 tvg-id="戏剧免费看" tvg-name="戏剧免费看 2台" tvg-logo="https://assets.livednow.com/logo/戲劇免費看-2台.png" group-title="港台频道",戲劇免費看 2
+https://tv.iill.top/4gtv/244
+#EXTINF:-1 tvg-id="电影免费看" tvg-name="电影免费看 2台" tvg-logo="https://assets.livednow.com/logo/電影免費看-2台.png" group-title="港台频道",電影免費看 2
+https://tv.iill.top/4gtv/245
+#EXTINF:-1 tvg-id="半岛国际新闻台" tvg-name="半岛国际新闻台" tvg-logo="https://assets.livednow.com/logo/半島國際新聞台.png" group-title="港台频道",半島國際新聞
+https://tv.iill.top/litv/litv-ftv10
+#EXTINF:-1 tvg-id="中视菁采台" tvg-name="中视菁采台" tvg-logo="https://assets.livednow.com/logo/中視菁采台.png" group-title="港台频道",中視菁采
+https://tv.iill.top/litv/4gtv-4gtv064
+#EXTINF:-1 tvg-id="原住民族电视台" tvg-name="原住民族电视台" tvg-logo="https://assets.livednow.com/logo/原住民族電視台.png" group-title="港台频道",原住民族電視
+https://tv.iill.top/4gtv/273
+#EXTINF:-1 tvg-id="人间卫视" tvg-name="人间卫视" tvg-logo="https://assets.livednow.com/logo/人間衛視.png" group-title="港台频道",人間衛視
+https://tv.iill.top/4gtv/210
+#EXTINF:-1 tvg-id="儿童卡通台" tvg-name="儿童卡通台" tvg-logo="https://assets.livednow.com/logo/兒童卡通台.png" group-title="港台频道",兒童卡通
+https://tv.iill.top/4gtv/269
+#EXTINF:-1 tvg-id="滚动力ROLLOR" tvg-name="滚动力ROLLOR" tvg-logo="https://assets.livednow.com/logo/滾動力-Rollor.png" group-title="港台频道",滾動力 Rollor
+https://tv.iill.top/4gtv/249
+#EXTINF:-1 tvg-id="第1商业台" tvg-name="第1商业台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv104_tv.png" group-title="港台频道",第1商業
+https://tv.iill.top/litv/4gtv-4gtv104
+#EXTINF:-1 tvg-id="精选动漫台" tvg-name="精选动漫台" tvg-logo="https://assets.livednow.com/logo/精選動漫台.png" group-title="港台频道",精選動漫
+https://tv.iill.top/4gtv/204
+#EXTINF:-1 tvg-id="经典卡通台" tvg-name="经典卡通台" tvg-logo="https://assets.livednow.com/logo/經典卡通台.png" group-title="港台频道",經典卡通
+https://tv.iill.top/4gtv/202
+#EXTINF:-1 tvg-id="经典电影台" tvg-name="经典电影台" tvg-logo="https://assets.livednow.com/logo/經典電影台.png" group-title="港台频道",經典電影
+https://tv.iill.top/4gtv/201
+#EXTINF:-1 tvg-id="视纳华仁纪实频道" tvg-name="视纳华仁纪实频道" tvg-logo="https://assets.livednow.com/logo/視納華仁紀實頻道.png" group-title="港台频道",視納華仁紀實頻道
+https://tv.iill.top/litv/4gtv-4gtv013
+#EXTINF:-1 tvg-id="猪哥亮歌厅秀" tvg-name="猪哥亮歌厅秀" tvg-logo="https://assets.livednow.com/logo/豬哥亮歌廳秀.png" group-title="港台频道",豬哥亮歌廳秀
+https://tv.iill.top/litv/4gtv-4gtv006
+#EXTINF:-1 tvg-id="车迷TV" tvg-name="车迷TV" tvg-logo="https://assets.livednow.com/logo/車迷-TV.png" group-title="港台频道",車迷 TV
+https://tv.iill.top/4gtv/160
+#EXTINF:-1 tvg-id="达文西频道" tvg-name="达文西频道" tvg-logo="https://assets.livednow.com/logo/達文西頻道.png" group-title="港台频道",達文西頻道
+https://tv.iill.top/litv/4gtv-4gtv018
+#EXTINF:-1 tvg-id="采昌影剧台" tvg-name="采昌影剧台" tvg-logo="https://assets.livednow.com/logo/采昌影劇台.png" group-title="港台频道",采昌影劇
+https://tv.iill.top/litv/4gtv-4gtv049
+#EXTINF:-1 tvg-id="金光布袋戏" tvg-name="金光布袋戏" tvg-logo="https://assets.livednow.com/logo/金光布袋戲.png" group-title="港台频道",金光布袋戲
+https://tv.iill.top/4gtv/236
+#EXTINF:-1 tvg-id="霹雳布袋戏" tvg-name="霹雳布袋戏" tvg-logo="https://epg.v1.mk/logo/霹雳布袋戏.png" group-title="港台频道",霹靂布袋戲
+https://tv.iill.top/4gtv/301
+#EXTINF:-1 tvg-id="电影原声台CMUSIC" tvg-name="电影原声台CMUSIC" tvg-logo="https://assets.livednow.com/logo/電影原聲台CMusic.png" group-title="港台频道",電影原聲 CMusic
+https://tv.iill.top/4gtv/218
+#EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://epg.v1.mk/logo/TVB星河.png" group-title="港台频道",TVB星河
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
+#EXTINF:-1 tvg-id="viutv" tvg-name="viutv" tvg-logo="https://epg.v1.mk/logo/viutv.png" group-title="港台频道",ViuTV
+http://php.jdshipin.com:8880/smt.php?id=viu1_twn
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="港台频道",翡翠台4K
+http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+#EXTINF:-1 tvg-id="rthk31" tvg-name="rthk31" tvg-logo="https://epg.v1.mk/logo/rthk31.png" group-title="港台频道",RTHK31
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
+#EXTINF:-1 tvg-id="rthk32" tvg-name="rthk32" tvg-logo="https://epg.v1.mk/logo/rthk32.png" group-title="港台频道",RTHK32
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
+#EXTINF:-1 tvg-id="rthk33" tvg-name="rthk33" tvg-logo="https://epg.v1.mk/logo/rthk33.png" group-title="港台频道",RTHK33
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+#EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://epg.v1.mk/logo/无线新闻台.png" group-title="港台频道",无线新闻台
+https://s1.tvm4a1.cfd/aktv/CH-1/AKTV.m3u8
+#EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://epg.v1.mk/logo/TVB星河.png" group-title="港台频道",TVB星河
+https://s1.tvm4a1.cfd/aktv2/tvb/AKTV.m3u8
+#EXTINF:-1 tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://epg.v1.mk/logo/VIUTV.png" group-title="港台频道",VIUTV
+https://stream1.freetv.fun/viutv-3.ctv
+#https://s1.tvm4a1.cfd/aktv2/viutv/AKTV.m3u8
+#EXTINF:-1 tvg-id="PopC" tvg-name="PopC" tvg-logo="https://assets.livednow.com/logo/PopC.png" group-title="港台频道",PopC
+https://s1.tvm4a1.cfd/aktv/popc/AKTV.m3u8
+#EXTINF:-1 tvg-id="Astro IQIYI" tvg-name="Astro IQIYI" tvg-logo="https://epg.v1.mk/logo/IQIYI.png" group-title="港台频道",Astro IQIYI
+https://s1.tvm4a1.cfd/aktv2/iqiyi/AKTV.m3u8
+#EXTINF:-1 tvg-id="好萊塢電影台" tvg-name="好萊塢電影台" tvg-logo="https://epg.v1.mk/logo/好萊塢電影台.png" group-title="港台频道",好萊塢電影台
+https://s2.m16tv.cfd/aktv2/CH-4/AKTV.m3u8
+#EXTINF:-1 tvg-id="天映电影" tvg-name="天映电影" tvg-logo="https://epg.v1.mk/logo/天映电影.png" group-title="港台频道",天映电影
+https://s2.m16tv.cfd/aktv2/CH-3/AKTV.m3u8
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.v1.mk/logo/HBO.png" group-title="港台频道",HBO
+https://s1.tvm4a1.cfd/aktv2/hbo/AKTV.m3u8
+#EXTINF:-1 tvg-id="Astro Football" tvg-name="Astro Football" tvg-logo="https://epg.v1.mk/logo/VIUTV.png" group-title="港台频道",Astro Football
+https://s1.tvm4a1.cfd/aktv2/viutv/AKTV.m3u8
+#EXTINF:-1 tvg-id="Channel U HD" tvg-name="Channel U HD" tvg-logo="https://epg.v1.mk/logo/CHANNELUHD.png" group-title="港台频道",Channel U HD
+http://s1.tvm4a1.cfd/aktv/channeluhd/AKTV.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://epg.v1.mk/logo/axn.png" group-title="港台频道",AXN
+https://s1.tvm4a1.cfd/aktv/axn/AKTV.m3u8
+#EXTINF:-1 tvg-id="东森电影" tvg-name="东森电影" tvg-logo="https://epg.v1.mk/logo/东森电影.png" group-title="港台频道",东森电影
+http://s1.tvm4a1.cfd/aktv2/null-1/AKTV.m3u8
+#EXTINF:-1 tvg-id="东森洋片" tvg-name="东森洋片" tvg-logo="https://epg.v1.mk/logo/东森洋片.png" group-title="港台频道",东森洋片
+https://s1.tvm4a1.cfd/aktv2/CH-2/AKTV.m3u8
+#EXTINF:-1 tvg-id="亞洲新聞台" tvg-name="亞洲新聞台" tvg-logo="https://epg.v1.mk/logo/亚洲新闻台.png" group-title="港台频道",亞洲新聞台
+https://s1.tvm4a1.cfd/aktv3/cna/AKTV.m3u8
+#EXTINF:-1 tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.v1.mk/logo/TVBS新闻.png" group-title="港台频道",TVBS新闻台
+https://s1.tvm4a1.cfd/tvbs/tvbs/AKTV.m3u8
+#EXTINF:-1 tvg-id="myTV SUPER 18台" tvg-name="myTV SUPER 18台" tvg-logo="https://epg.v1.mk/logo/MYTVSUPER18.png" group-title="港台频道",myTV SUPER 18台
+http://s1.tvm4a1.cfd/aktv/mytvsuper18/AKTV.m3u8
+#EXTINF:-1 tvg-id="Channel 5 HD" tvg-name="Channel 5 HD" tvg-logo="https://epg.v1.mk/logo/CHANNEL5HD.png" group-title="港台频道",Channel 5 HD
+https://s1.tvm4a1.cfd/aktv/channel5hd/AKTV.m3u8
+#EXTINF:-1 tvg-id="Channel 8 HD" tvg-name="Channel 8 HD" tvg-logo="https://epg.v1.mk/logo/CHANNEL8HD.png" group-title="港台频道",Channel 8 HD
+http://s1.tvm4a1.cfd/aktv/channel8hd/AKTV.m3u8
+#EXTINF:-1 tvg-id="翡翠剧集台(北美)" tvg-name="翡翠剧集台(北美)" tvg-logo="https://epg.v1.mk/logo/翡翠剧集台.png" group-title="港台频道",翡翠剧集台(北美)
+http://s1.tvm4a1.cfd/aktv/null-18/AKTV.m3u8
+#EXTINF:-1 tvg-id="美亞電影台(HK)" tvg-name="美亞電影台(HK)" tvg-logo="https://assets.livednow.com/logo/美亞電影台-HK.png" group-title="港台频道",美亞電影台(HK)
+https://s1.tvm4a1.cfd/aktv/hk/AKTV.m3u8
+#EXTINF:-1 tvg-id="AstroAOD" tvg-name="AstroAOD" tvg-logo="https://epg.v1.mk/logo/AstroAOD.png" group-title="港台频道",Astro AOD
+http://php.jdshipin.com:8880/smt.php?id=Aodhd
+#EXTINF:-1 tvg-id="AstroAEC" tvg-name="AstroAEC" tvg-logo="https://epg.v1.mk/logo/AstroAEC.png" group-title="港台频道",Astro AEC
+http://php.jdshipin.com:8880/smt.php?id=AEC
+#EXTINF:-1 tvg-id="ASTROQUANJIA" tvg-name="ASTROQUANJIA" tvg-logo="https://epg.v1.mk/logo/ASTROQUANJIA.png" group-title="港台频道",Astro QJ
+http://php.jdshipin.com:8880/smt.php?id=Quanjia
+#EXTINF:-1 tvg-id="Astro欢喜台" tvg-name="Astro欢喜台" tvg-logo="https://epg.v1.mk/logo/Astro欢喜台.png" group-title="港台频道",Astro欢喜台
+http://php.jdshipin.com:8880/smt.php?id=Huahee
+#EXTINF:-1 tvg-id="Astro AOD" tvg-name="Astro AOD" tvg-logo="https://epg.v1.mk/logo/AstroAOD.png" group-title="港台频道",Astro AOD
+http://php.jdshipin.com:8880/smt.php?id=Aodhd
+#EXTINF:-1 tvg-id="千禧经典台" tvg-name="千禧经典台" tvg-logo="https://epg.v1.mk/logo/千禧经典台.png" group-title="港台频道",千禧经典台
+http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="港台频道",翡翠台
+http://s1.tvm4a1.cfd/aktv/null/AKTV.m3u8
+#EXTINF:-1 tvg-id="PopC" tvg-name="PopC" tvg-logo="https://epg.v1.mk/logo/POPC.png" group-title="港台频道",PopC
+http://s1.tvm4a1.cfd/aktv/popc/AKTV.m3u8
+#EXTINF:-1 tvg-id="ROCK Action" tvg-name="ROCK Action" tvg-logo="https://epg.v1.mk/logo/ROCKACTION.png" group-title="港台频道",ROCK Action
+http://s1.tvm4a1.cfd/aktv/rockaction/AKTV.m3u8
+#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://epg.v1.mk/logo/tvbplus.png" group-title="港台频道",TVB Plus
+http://s1.tvm4a1.cfd/aktv/tvbplus/AKTV.m3u8

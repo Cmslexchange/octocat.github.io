@@ -291,11 +291,11 @@ https://mslipt.kooldns.cn//mgtv/923287154.m3u8
 https://mslipt.kooldns.cn//mgtv/923287211.m3u8
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/154/202407181433_1721283860085_H169_1080.jpg" group-title="数字频道",CETV4
 https://mslipt.kooldns.cn//mgtv/923287339.m3u8
-#EXTINF:-1 tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="央视频道",cctv16-NPTV
+#EXTINF:-1 tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="4K频道",cctv16-NPTV
 http://mslipt.kooldns.cn/nptv/cctv16.m3u8
-#EXTINF:-1 tvg-id="cctv4k" tvg-name="cctv4k" tvg-logo="https://epg.v1.mk/logo/cctv4k.png" group-title="央视频道",cctv4k-NPTV
+#EXTINF:-1 tvg-id="cctv4k" tvg-name="cctv4k" tvg-logo="https://epg.v1.mk/logo/cctv4k.png" group-title="4K频道",cctv4k-NPTV
 http://mslipt.kooldns.cn/nptv/cctv4k.m3u8
-#EXTINF:-1 tvg-id="cctv8k" tvg-name="cctv8k" tvg-logo="https://epg.v1.mk/logo/cctv8k.png" group-title="央视频道",cctv8k-NPTV
+#EXTINF:-1 tvg-id="cctv8k" tvg-name="cctv8k" tvg-logo="https://epg.v1.mk/logo/cctv8k.png" group-title="4K频道",cctv8k-NPTV
 http://mslipt.kooldns.cn/nptv/cctv8k.m3u8
 #EXTINF:-1 tvg-id="CGTNALBY" tvg-name="CGTNALBY" tvg-logo="https://epg.v1.mk/logo/CGTNALBY.png" group-title="央视频道",cgtnar-NPTV
 http://mslipt.kooldns.cn/nptv/cgtnar.m3u8
@@ -355,9 +355,9 @@ http://mslipt.kooldns.cn/nptv/jiangxi.m3u8
 http://mslipt.kooldns.cn/nptv/guangdong.m3u8
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.v1.mk/logo/河北卫视.png" group-title="卫视频道",河北卫视-NPTV
 http://mslipt.kooldns.cn/nptv/hebei.m3u8
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.v1.mk/logo/深圳卫视.png" group-title="卫视频道视",深圳卫视-NPTV
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.v1.mk/logo/深圳卫视.png" group-title="卫视频道",深圳卫视-NPTV
 http://mslipt.kooldns.cn/nptv/shenzheng.m3u8
-#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.v1.mk/logo/吉林卫视.png" group-title="卫视频道视",吉林卫视-NPTV
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.v1.mk/logo/吉林卫视.png" group-title="卫视频道",吉林卫视-NPTV
 http://mslipt.kooldns.cn/nptv/jiling.m3u8
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.v1.mk/logo/河南卫视.png" group-title="卫视频道",河南卫视-NPTV
 http://mslipt.kooldns.cn/nptv/henan.m3u8

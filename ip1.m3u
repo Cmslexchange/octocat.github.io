@@ -8,6 +8,16 @@
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fnptv%2Fcctv4k.m3u8%24other-NPTV
 #EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://epg.v1.mk/logo/CCTV8K.png" group-title="4 K 8 K",CCTV8K
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fnptv%2Fcctv8k.m3u8%24other-NPTV
+#EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视4K" tvg-logo="https://epg.v1.mk/logo/北京卫视4k.png" group-title="4 K 8 K",北京卫视4K
+https://migu.188766.xyz/?migutoken=52c1d25ee8ed081b9d53eb96a13980aa&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&pp=1
+#EXTINF:-1 tvg-id="广东卫视4K" tvg-name="广东卫视4K" tvg-logo="https://raw.githubusercontent.com/Cmslexchange/octocat.github.io/refs/heads/master/广东4K.png" group-title="4 K 8 K", 广东卫视4K
+http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146
+#EXTINF:-1 tvg-id="深圳卫视4K" tvg-name="深圳卫视4K" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/深圳卫视4K.png" group-title="4 K 8 K", 深圳卫视4K
+https://migu.188766.xyz/?migutoken=00a61d3733d7f54e6d57cde94a4fdd21&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
+#EXTINF:-1 tvg-id="苏州4K" tvg-name="苏州4K" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/苏州4K.png" group-title="超清频道",苏州4K
+https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+#EXTINF:-1 tvg-id="河北4K" tvg-name="河北4K" tvg-logo="https://fy.188766.xyz/logo/taksssss/tv/icon/纯享4K.png" group-title="超清频道",河北4K
+https://event.pull.hebtv.com:443/live/live101.m3u8
 #EXTINF:-1 tvg-id="SiTV-欢笑剧场-4K" tvg-name="SiTV 欢笑剧场-4K" tvg-logo="https://assets.livednow.com/logo/SiTV-欢笑剧场-4K.png" group-title="4 K 8 K",欢笑剧场-4K
 http://192.168.100.1:7088/rtp/233.50.200.52:5140
 #EXTINF:-1 tvg-id="南国都市4K" tvg-name="南国都市4K" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/linitfor/epg/main/logo/广州南国都市.png" group-title="4 K 8 K",南国都市 4K
@@ -24,12 +34,6 @@ http://192.168.100.1:35456/jump?url=https%3A%2F%2Fd2dw21aq0j0l5c.cloudfront.net%
 http://192.168.100.1:35456/jump?url=https%3A%2F%2Fgdcucc.v1.mk%2Fgdcucc%2Fbrtv8k.m3u8%24gdcucc
 #EXTINF:-1 tvg-id="北京纪实科教8K" tvg-name="北京纪实科教8K" tvg-logo="https://epg.v1.mk/logo/北京纪实科教8K.png" group-title="4 K 8 K",北京纪实科教8K
 https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
-#EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视4K" tvg-logo="https://epg.v1.mk/logo/北京卫视4k.png" group-title="4 K 8 K",北京卫视4K
-https://migu.188766.xyz/?migutoken=52c1d25ee8ed081b9d53eb96a13980aa&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&pp=1
-#EXTINF:-1 tvg-id="广东卫视4K" tvg-name="广东卫视4K" tvg-logo="https://raw.githubusercontent.com/Cmslexchange/octocat.github.io/refs/heads/master/广东4K.png" group-title="4 K 8 K", 广东卫视4K
-http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146
-#EXTINF:-1 tvg-id="深圳卫视4K" tvg-name="深圳卫视4K" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/深圳卫视4K.png" group-title="4 K 8 K", 深圳卫视4K
-https://migu.188766.xyz/?migutoken=00a61d3733d7f54e6d57cde94a4fdd21&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
 
 #EXTINF:-1 tvg-id="BesTV 新闻记录" tvg-name="BesTV 新闻记录" tvg-logo="https://raw.githubusercontent.com/Cmslexchange/octocat.github.io/refs/heads/master/bestv.png" group-title="BesTV", BesTV 新闻记录
 http://192.168.100.1:7088/rtp/233.50.200.182:5140
@@ -843,89 +847,103 @@ http://s1.tvm4a1.cfd/aktv/rockaction/AKTV.m3u8
 #EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://epg.v1.mk/logo/tvbplus.png" group-title="港台频道",TVB Plus
 http://s1.tvm4a1.cfd/aktv/tvbplus/AKTV.m3u8
 
-#EXTINF:-1 tvg-id="aktv/animaxhk" group-title="AKTV",Animax (HK)
+#EXTINF:-1 tvg-id="aktv/animaxhk" group-title="未分类",Animax (HK)
 https://s1.tvm4a1.cfd/aktv/animaxhk/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/axn" group-title="AKTV",AXN
+#EXTINF:-1 tvg-id="aktv/axn" group-title="未分类",AXN
 https://s1.tvm4a1.cfd/aktv/axn/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/channel5hd" group-title="AKTV",Channel 5 HD
+#EXTINF:-1 tvg-id="aktv/channel5hd" group-title="未分类",Channel 5 HD
 https://s1.tvm4a1.cfd/aktv/channel5hd/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/channel8hd" group-title="AKTV",Channel 8 HD
+#EXTINF:-1 tvg-id="aktv/channel8hd" group-title="未分类",Channel 8 HD
 https://s1.tvm4a1.cfd/aktv/channel8hd/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/channeluhd" group-title="AKTV",Channel U HD
+#EXTINF:-1 tvg-id="aktv/channeluhd" group-title="未分类",Channel U HD
 https://s1.tvm4a1.cfd/aktv/channeluhd/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/lovenaturehd" group-title="AKTV",Love Nature HD
+#EXTINF:-1 tvg-id="aktv/lovenaturehd" group-title="未分类",Love Nature HD
 https://s1.tvm4a1.cfd/aktv/lovenaturehd/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/popc" group-title="AKTV",PopC
+#EXTINF:-1 tvg-id="aktv/popc" group-title="未分类",PopC
 https://s1.tvm4a1.cfd/aktv/popc/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/rockaction" group-title="AKTV",ROCK Action
+#EXTINF:-1 tvg-id="aktv/rockaction" group-title="未分类",ROCK Action
 https://s1.tvm4a1.cfd/aktv/rockaction/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/tvbplus" group-title="AKTV",TVB Plus
+#EXTINF:-1 tvg-id="aktv/tvbplus" group-title="未分类",TVB Plus
 https://s1.tvm4a1.cfd/aktv/tvbplus/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/tvn" group-title="AKTV",tvN
+#EXTINF:-1 tvg-id="aktv/tvn" group-title="未分类",tvN
 https://s1.tvm4a1.cfd/aktv/tvn/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/1080" group-title="AKTV",天映經典(1080)
+#EXTINF:-1 tvg-id="aktv/1080" group-title="未分类",天映經典(1080)
 https://s1.tvm4a1.cfd/aktv/1080/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/CH-19" group-title="AKTV",明珠剧集台(北美)
+#EXTINF:-1 tvg-id="aktv/CH-19" group-title="未分类",明珠剧集台(北美)
 https://s1.tvm4a1.cfd/aktv/CH-19/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/CH-2" group-title="AKTV",明珠台
+#EXTINF:-1 tvg-id="aktv/CH-2" group-title="未分类",明珠台
 https://s1.tvm4a1.cfd/aktv/CH-2/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/CH-1" group-title="AKTV",無線新聞台
+#EXTINF:-1 tvg-id="aktv/CH-1" group-title="未分类",無線新聞台
 https://s1.tvm4a1.cfd/aktv/CH-1/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/hk" group-title="AKTV",美亞電影台(HK)
+#EXTINF:-1 tvg-id="aktv/hk" group-title="未分类",美亞電影台(HK)
 https://s1.tvm4a1.cfd/aktv/hk/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/CH-18" group-title="AKTV",翡翠剧集台(北美)
+#EXTINF:-1 tvg-id="aktv/CH-18" group-title="未分类",翡翠剧集台(北美)
 https://s1.tvm4a1.cfd/aktv/CH-18/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/CH-0" group-title="AKTV",翡翠台
+#EXTINF:-1 tvg-id="aktv/CH-0" group-title="未分类",翡翠台
 https://s1.tvm4a1.cfd/aktv/CH-0/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/CH-17" group-title="AKTV",翡翠综合台(北美)
+#EXTINF:-1 tvg-id="aktv/CH-17" group-title="未分类",翡翠综合台(北美)
 https://s1.tvm4a1.cfd/aktv/CH-17/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/CH-3" group-title="AKTV",鳳凰衛視中文台
+#EXTINF:-1 tvg-id="aktv/CH-3" group-title="未分类",鳳凰衛視中文台
 https://s1.tvm4a1.cfd/aktv/CH-3/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/CH-4" group-title="AKTV",鳳凰衛視資訊台
+#EXTINF:-1 tvg-id="aktv/CH-4" group-title="未分类",鳳凰衛視資訊台
 https://s1.tvm4a1.cfd/aktv/CH-4/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/CH-5" group-title="AKTV",鳳凰衛視香港台
+#EXTINF:-1 tvg-id="aktv/CH-5" group-title="未分类",鳳凰衛視香港台
 https://s1.tvm4a1.cfd/aktv/CH-5/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/CH-6" group-title="AKTV",黃金翡翠台
+#EXTINF:-1 tvg-id="aktv/CH-6" group-title="未分类",黃金翡翠台
 https://s1.tvm4a1.cfd/aktv/CH-6/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv2/CH-3" group-title="AKTV",天映电影
+#EXTINF:-1 tvg-id="aktv2/skysportsf1" group-title="未分类",Sky Sports F1
+https://s1.tvm4a1.cfd/aktv2/skysportsf1/AKTV.m3u8
+#EXTINF:-1 tvg-id="aktv2/CH-3" group-title="未分类",天映电影
 https://s1.tvm4a1.cfd/aktv2/CH-3/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv2/CH-2" group-title="AKTV",東森洋片
+#EXTINF:-1 tvg-id="aktv2/CH-2" group-title="未分类",東森洋片
 https://s1.tvm4a1.cfd/aktv2/CH-2/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv2/CH-1" group-title="AKTV",東森電影
+#EXTINF:-1 tvg-id="aktv2/CH-1" group-title="未分类",東森電影
 https://s1.tvm4a1.cfd/aktv2/CH-1/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv2/CH-0" group-title="AKTV",緯來體育台
+#EXTINF:-1 tvg-id="aktv2/CH-0" group-title="未分类",緯來體育台
 https://s1.tvm4a1.cfd/aktv2/CH-0/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv3/cna" group-title="AKTV",CNA
+#EXTINF:-1 tvg-id="aktv3/cna" group-title="未分类",CNA
 https://s1.tvm4a1.cfd/aktv3/cna/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv3/CH-0" group-title="AKTV",朝鲜恩情台
+#EXTINF:-1 tvg-id="aktv3/CH-0" group-title="未分类",朝鲜恩情台
 https://s1.tvm4a1.cfd/aktv3/CH-0/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktvjp/japannews24hlive" group-title="AKTV",Japan News 24H LIVE
+#EXTINF:-1 tvg-id="aktvjp/japannews24hlive" group-title="未分类",Japan News 24H LIVE
 https://s1.tvm4a1.cfd/aktvjp/japannews24hlive/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktvjp/ntv" group-title="AKTV",日テレNEWS LIVE
+#EXTINF:-1 tvg-id="aktvjp/ntv" group-title="未分类",日テレNEWS LIVE
 https://s1.tvm4a1.cfd/aktvjp/ntv/AKTV.m3u8
-#EXTINF:-1 tvg-id="astro/8tv" group-title="AKTV",8TV
+#EXTINF:-1 tvg-id="astro/8tv" group-title="未分类",8TV
 https://s1.tvm4a1.cfd/astro/8tv/AKTV.m3u8
-#EXTINF:-1 tvg-id="astro/CH-0" group-title="AKTV",Astro Football
+#EXTINF:-1 tvg-id="astro/CH-0" group-title="未分类",Astro Football
 https://s1.tvm4a1.cfd/astro/CH-0/AKTV.m3u8
-#EXTINF:-1 tvg-id="astro/astrosportuhd" group-title="AKTV",Astro Sport UHD
+#EXTINF:-1 tvg-id="astro/astrosportuhd" group-title="未分类",Astro Sport UHD
 https://s1.tvm4a1.cfd/astro/astrosportuhd/AKTV.m3u8
-#EXTINF:-1 tvg-id="astro/CH-1" group-title="AKTV",中天亚洲台
+#EXTINF:-1 tvg-id="astro/eurosport1" group-title="未分类",EuroSport 1
+https://s1.tvm4a1.cfd/astro/eurosport1/AKTV.m3u8
+#EXTINF:-1 tvg-id="astro/eurosport2" group-title="未分类",EuroSport 2
+https://s1.tvm4a1.cfd/astro/eurosport2/AKTV.m3u8
+#EXTINF:-1 tvg-id="astro/tntsports1" group-title="未分类",TNT SPORTS 1
+https://s1.tvm4a1.cfd/astro/tntsports1/AKTV.m3u8
+#EXTINF:-1 tvg-id="astro/tntsports2" group-title="未分类",TNT SPORTS 2
+https://s1.tvm4a1.cfd/astro/tntsports2/AKTV.m3u8
+#EXTINF:-1 tvg-id="astro/tntsports3" group-title="未分类",TNT SPORTS 3
+https://s1.tvm4a1.cfd/astro/tntsports3/AKTV.m3u8
+#EXTINF:-1 tvg-id="astro/CH-1" group-title="未分类",中天亚洲台
 https://s1.tvm4a1.cfd/astro/CH-1/AKTV.m3u8
-#EXTINF:-1 tvg-id="taiwan/CH-3" group-title="AKTV",KLT-靖天國際台
+#EXTINF:-1 tvg-id="taiwan/CH-3" group-title="未分类",KLT-靖天國際台
 https://s1.tvm4a1.cfd/taiwan/CH-3/AKTV.m3u8
-#EXTINF:-1 tvg-id="taiwan/tvbs" group-title="AKTV",TVBS
+#EXTINF:-1 tvg-id="taiwan/tvbs" group-title="未分类",TVBS
 https://s1.tvm4a1.cfd/taiwan/tvbs/AKTV.m3u8
-#EXTINF:-1 tvg-id="taiwan/CH-1" group-title="AKTV",民視
+#EXTINF:-1 tvg-id="taiwan/CH-1" group-title="未分类",民視
 https://s1.tvm4a1.cfd/taiwan/CH-1/AKTV.m3u8
-#EXTINF:-1 tvg-id="taiwan/CH-0" group-title="AKTV",民視第一台
+#EXTINF:-1 tvg-id="taiwan/CH-0" group-title="未分类",民視第一台
 https://s1.tvm4a1.cfd/taiwan/CH-0/AKTV.m3u8
-#EXTINF:-1 tvg-id="taiwan/CH-5" group-title="AKTV",龍華日韓台
+#EXTINF:-1 tvg-id="taiwan/CH-5" group-title="未分类",龍華日韓台
 https://s1.tvm4a1.cfd/taiwan/CH-5/AKTV.m3u8
-#EXTINF:-1 tvg-id="taiwan2/tvb" group-title="AKTV",TVB 星河
+#EXTINF:-1 tvg-id="taiwan2/tvb" group-title="未分类",TVB 星河
 https://s1.tvm4a1.cfd/taiwan2/tvb/AKTV.m3u8
-#EXTINF:-1 tvg-id="tvbs/tvbs" group-title="AKTV",TVBS新聞
+#EXTINF:-1 tvg-id="test/test01" group-title="未分类",test01
+https://s1.tvm4a1.cfd/test/test01/AKTV.m3u8
+#EXTINF:-1 tvg-id="tvbs/tvbs" group-title="未分类",TVBS新聞
 https://s1.tvm4a1.cfd/tvbs/tvbs/AKTV.m3u8
-#EXTINF:-1 tvg-id="zhongtian/CH-0" group-title="AKTV",中天新闻台
+#EXTINF:-1 tvg-id="zhongtian/CH-0" group-title="未分类",中天新闻台
 https://s1.tvm4a1.cfd/zhongtian/CH-0/AKTV.m3u8
-#EXTINF:-1 tvg-id="zhongtian/CH-1" group-title="AKTV",東森新聞
+#EXTINF:-1 tvg-id="zhongtian/CH-1" group-title="未分类",東森新聞
 https://s1.tvm4a1.cfd/zhongtian/CH-1/AKTV.m3u8

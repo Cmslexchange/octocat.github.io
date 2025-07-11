@@ -266,7 +266,7 @@ http://192.168.100.1:7088/rtp/233.50.201.177:5140
 #EXTINF:-1 tvg-id="48" tvg-name="杭州导视" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/zhejiang/Hangzhou7.png" group-title="浙江频道",杭州导视
 http://192.168.100.1:7088/rtp/233.50.201.182:5140
 
-#EXTINF:-1 tvg-id="1905电影网" tvg-name="1905电影网" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/hbo.png" group-title="数字频道",1905电影网
+#EXTINF:-1 tvg-id="1905电影网" tvg-name="1905电影网" tvg-logo="https://epg.v1.mk/logo/HBO.png" group-title="数字频道",HBO 电影网
 https://smart.pendy.dpdns.org/Smart.php?id=hbohd_twn
 #EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/xsj.png" group-title="数字频道",新视觉HD
 https://hdl-vip-ws.qf.56.com/live/lc_11730.flv

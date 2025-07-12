@@ -382,8 +382,6 @@ http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 #EXTINF:-1 tvg-id="娛樂新聞台(HK)" tvg-name="娛樂新聞台(HK)" tvg-logo="https://epg.v1.mk/logo/娱乐新闻台.png" group-title="港台频道",娛樂新聞台(HK)
 http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
-#EXTINF:-1 tvg-id="tvN" tvg-name="tvN" tvg-logo="https://epg.v1.mk/logo/tvN.png" group-title="港台频道",tvN
-http://s1.tvm4a1.cfd/aktv/tvn/AKTV.m3u8
 #EXTINF:-1 tvg-id="纬来电影台" tvg-name="纬来电影台" tvg-logo="https://epg.v1.mk/logo/緯來電影.png" group-title="港台频道",纬来电影台
 https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
 #EXTINF:-1 tvg-name="中国电影" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/中国电影.png" group-title="港台频道",中国电影

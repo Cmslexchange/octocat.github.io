@@ -53,7 +53,7 @@ http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fbst%2Fr
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fbst%2Fdzjcvcc4m%404000000.m3u8%24other
 #EXTINF:-1 tvg-id="华语影院HD" tvg-name="华语影院HD" tvg-logo="https://11.112114.xyz/logo/华语影院.png" group-title="BesTV",华语影院
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fbst%2Fhyyyvcc4m%404000000.m3u8%24other
-#EXTINF:-1 tvg-id="星光影院HD" tvg-name="星光影院HD" tvg-logo="https://epg.v1.mk/logo/星光影院.png" group-title="BesTV",星光影院
+#EXTINF:-1 tvg-id="星光影院HD" tvg-name="星光影院HD" tvg-logo="https://raw.githubusercontent.com/Cmslexchange/octocat.github.io/refs/heads/master/bestv.png" group-title="BesTV",星光影院
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fbst%2Fxgyyvcc4m%404000000.m3u8%24other
 #EXTINF:-1 tvg-id="全球大片HD" tvg-name="全球大片HD" tvg-logo="https://11.112114.xyz/logo/全球大片.png" group-title="BesTV",全球大片
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fbst%2Fqqdpvcc4m%404000000.m3u8%24other

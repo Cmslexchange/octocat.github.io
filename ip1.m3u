@@ -53,7 +53,7 @@ http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fbst%2Fr
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fbst%2Fdzjcvcc4m%404000000.m3u8%24other
 #EXTINF:-1 tvg-id="华语影院HD" tvg-name="华语影院HD" tvg-logo="https://11.112114.xyz/logo/华语影院.png" group-title="BesTV",华语影院
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fbst%2Fhyyyvcc4m%404000000.m3u8%24other
-#EXTINF:-1 tvg-id="星光影院HD" tvg-name="星光影院HD" tvg-logo="https://11.112114.xyz/logo/星光影院.png" group-title="BesTV",星光影院
+#EXTINF:-1 tvg-id="星光影院HD" tvg-name="星光影院HD" tvg-logo="https://epg.v1.mk/logo/星光影院.png" group-title="BesTV",星光影院
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fbst%2Fxgyyvcc4m%404000000.m3u8%24other
 #EXTINF:-1 tvg-id="全球大片HD" tvg-name="全球大片HD" tvg-logo="https://11.112114.xyz/logo/全球大片.png" group-title="BesTV",全球大片
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fbst%2Fqqdpvcc4m%404000000.m3u8%24other
@@ -65,8 +65,6 @@ http://192.168.100.1:7088/rtp/233.50.201.117:5140
 http://192.168.100.1:7088/rtp/233.50.201.116:5140
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://assets.livednow.com/logo/北京卡酷少儿.png" group-title="BesTV",卡酷少儿
 http://192.168.100.1:7088/udp/233.50.200.166:5140
-#EXTINF:-1 tvg-name="POPC" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/POPC.png" group-title="BesTV",POPC
-http://tl.061833.xyz/tl/popc
 #EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://assets.livednow.com/logo/睛彩竞技.png" group-title="BesTV",睛彩竞技
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000001000010948.m3u8%3Fcdn%3DFifastbLive%24itv
 #EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://assets.livednow.com/logo/睛彩篮球.png" group-title="BesTV",睛彩篮球
@@ -77,10 +75,6 @@ http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3
 http://192.168.100.1:7088/udp/233.50.200.123:5140
 #EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" tvg-logo="https://assets.livednow.com/logo/湖南茶频道.png" group-title="BesTV",茶频道
 http://192.168.100.1:7088/udp/233.50.200.124:5140
-#EXTINF:-1 tvg-id="NOW体育" tvg-name="NOW体育" tvg-logo="https://epg.pw/media/images/channel/2016/12/31/large/20161231231738105400_86.png" group-title="BesTV",NOW 体育
-http://a.ru8.dpdns.org/now/630/master.m3u8
-#EXTINF:-1 tvg-id="NOW新闻" tvg-name="NOW新闻" tvg-logo="https://epg.v1.mk/logo/NOW新闻.png" group-title="BesTV",NOW 新闻
-http://a.ru8.dpdns.org/now/332/master.m3u8
 #EXTINF:-1 tvg-id="SiTV-金色学堂" tvg-name="SiTV 金色学堂" tvg-logo="https://assets.livednow.com/logo/SiTV-金色学堂.png" group-title="SiTV", SiTV 金色学堂
 http://192.168.100.1:7088/rtp/233.50.200.122:5140
 
@@ -383,151 +377,16 @@ http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3
 #EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-45
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000010000031669.m3u8%3Fcdn%3DFifastbLive%24itv
 
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/凤凰中文.png" group-title="香港频道",凤凰中文
-http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87%E5%8F%B0
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/凤凰资讯.png" group-title="香港频道",凤凰资讯
-http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF%E5%8F%B0
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/凤凰香港.png" group-title="香港频道",凤凰香港
-http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF%E5%8F%B0
-#EXTINF:-1 tvg-name="TVBPlus" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/TVBPlus.png" group-title="香港频道",TVBPlus
-http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=TVBPlus
-#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/无线新闻台.png" group-title="香港频道",无线新闻台
-http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=TVB%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0
-#EXTINF:-1 tvg-name="Now新闻台" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/Now新闻台.png" group-title="香港频道",Now新闻台
-http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=Now%E6%96%B0%E9%97%BB%E5%8F%B0
-#EXTINF:-1 tvg-id="翡翠台4K" tvg-name="翡翠台4K" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="香港频道",翡翠台4K
+
+#EXTINF:-1 tvg-id="翡翠台4K" tvg-name="翡翠台4K" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="港台频道",翡翠台4K
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/翡翠台.png" group-title="香港频道",翡翠台
-http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E7%BF%A1%E7%BF%A0%E5%8F%B0
-#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/明珠台.png" group-title="香港频道",明珠台
-http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=TVB%E6%98%8E%E7%8F%A0%E5%8F%B0
-#EXTINF:-1 tvg-name="娱乐新闻台" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/娱乐新闻台.png" group-title="香港频道",娱乐新闻台
-http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=TVB%E5%A8%B1%E4%B9%90%E6%96%B0%E9%97%BB
-#EXTINF:-1 tvg-name="TVB生活台" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/TVB生活台.png" group-title="香港频道",TVB生活台
-http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=TVB%E7%94%9F%E6%B4%BB%E5%8F%B0
-#EXTINF:-1 tvg-name="星河国" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/星河.png" group-title="香港频道",星河国
-http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=TVB%E6%98%9F%E6%B2%B3%E9%A2%91%E9%81%93%28%E5%9B%BD%29
-#EXTINF:-1 tvg-name="星河粤" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/星河.png" group-title="香港频道",星河粤
-http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=TVB%E6%98%9F%E6%B2%B3%E9%A2%91%E9%81%93%28%E7%B2%A4%29
-#EXTINF:-1 tvg-name="功夫台国" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/功夫台.png" group-title="香港频道",功夫台国
-http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=TVB%E5%8A%9F%E5%A4%AB%E5%8F%B0%28%E5%9B%BD%29
-#EXTINF:-1 tvg-name="功夫台粤" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/功夫台.png" group-title="香港频道",功夫台粤
-http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=TVB%E5%8A%9F%E5%A4%AB%E5%8F%B0%28%E7%B2%A4%29
-#EXTINF:-1 tvg-name="明珠剧集台" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/明珠剧集台.png" group-title="香港频道",明珠剧集台
-http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=TVBPearlDrama%E6%98%8E%E7%8F%A0%E5%8A%87%E9%9B%86%E5%8F%B0
-#EXTINF:-1 tvg-name="TVB1" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/TVB1.png" group-title="香港频道",TVB1
-http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=TVB1
-#EXTINF:-1 tvg-name="无线千禧台" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/千禧经典台.png" group-title="香港频道",千禧经典台
-http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=TVB%E5%8D%83%E7%A6%A7%E7%BB%8F%E5%85%B8
-#EXTINF:-1 tvg-name="无线经典台" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/MytvSuper.png" group-title="香港频道",无线经典台
-http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=MyTV%E5%8D%83%E7%A6%A7%E7%BB%8F%E5%85%B8%E5%8F%B0
-#EXTINF:-1 tvg-name="TVBS" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/MytvSuper.png" group-title="香港频道",TVBS
-http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=TVBSuperFree
-#EXTINF:-1 tvg-name="无线亚洲综合台" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/MytvSuper.png" group-title="香港频道",无线亚洲综合台
-http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E4%BA%9A%E6%B4%B2%E7%BB%BC%E5%90%88%E5%A8%B1%E4%B9%90%E5%8F%B0
-#EXTINF:-1 tvg-name="无线亚洲剧台" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/MytvSuper.png" group-title="香港频道",无线亚洲剧台
-http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E4%BA%9A%E6%B4%B2%E5%89%A7%E5%8F%B0
-#EXTINF:-1 tvg-name="无线华语剧台" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/MytvSuper.png" group-title="香港频道",无线华语剧台
-http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E5%8D%8E%E8%AF%AD%E5%89%A7%E5%8F%B0
-#EXTINF:-1 tvg-name="无线戏曲台" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/MytvSuper.png" group-title="香港频道",无线戏曲台
-http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E6%88%8F%E6%9B%B2%E5%8F%B0
-#EXTINF:-1 tvg-name="无线粤语片台" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/MytvSuper.png" group-title="香港频道",无线粤语片台
-http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E7%B2%A4%E8%AF%AD%E7%89%87%E5%8F%B0
-#EXTINF:-1 tvg-name="无线少儿" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/MytvSuper.png" group-title="香港频道",无线少儿
-http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=HandsUP
-#EXTINF:-1 tvg-name="有线赛马" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/有线赛马.png" group-title="香港频道",有线赛马
-http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=HKC18%E5%8F%B0
-#EXTINF:-1 tvg-name="28aI赛马" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/28aI.png" group-title="香港频道",28aI赛马
-http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=28AI%E6%99%BA%E6%85%A7%E8%B5%9B%E9%A9%AC
-#EXTINF:-1 tvg-name="黄金翡翠台" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/黄金翡翠台.png" group-title="香港频道",黄金翡翠台
-http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E9%BB%84%E9%87%91%E7%BF%A1%E7%BF%A0%E5%8F%B0
-#EXTINF:-1 tvg-name="黄金华剧台" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/黄金华剧台.png" group-title="香港频道",黄金华剧台
-http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E9%BB%83%E9%87%91%E8%8F%AF%E5%8A%87%E5%8F%B0
-#EXTINF:-1 tvg-name="POPC" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/POPC.png" group-title="香港频道",POPC
-http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=POPC
-#EXTINF:-1 tvg-name="Now爆谷台" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/Now爆谷台.png" group-title="香港频道",Now爆谷台
-http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=Now%E7%88%86%E8%B0%B7%E5%8F%B0
-#EXTINF:-1 tvg-name="Now星影台" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/Now星影台.png" group-title="香港频道",Now星影台
-http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=Now%E6%98%9F%E5%BD%B1%E5%8F%B0
-#EXTINF:-1 tvg-name="Now华剧台" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/Now华剧台.png" group-title="香港频道",Now华剧台
-http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=Now%E8%8F%AF%E5%8A%87%E5%8F%B0
-#EXTINF:-1 tvg-name="Now剧集台" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/Now剧集台.png" group-title="香港频道",Now剧集台
-http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=Now%E5%8A%87%E9%9B%86%E5%8F%B0
-#EXTINF:-1 tvg-name="Now紫金台" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/Now紫金台.png" group-title="香港频道",Now紫金台
-http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=NowJelli%E7%B4%AB%E9%87%91%E5%9B%BD%E9%99%85
-#EXTINF:-1 tvg-name="Now直播台" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/Now直播台.png" group-title="香港频道",Now直播台
-http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=Now%E7%9B%B4%E6%92%AD%E5%8F%B0
-#EXTINF:-1 tvg-name="Now财经台" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/Now财经台.png" group-title="香港频道",Now财经台
-http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=Now%E8%B4%A2%E7%BB%8F%E5%8F%B0
-#EXTINF:-1 tvg-name="VIUTV-粤" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/VIUTV.png" group-title="香港频道",VIUTV-粤
-http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=ViuTV
-#EXTINF:-1 tvg-name="VIUTV-英" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/VIUTV.png" group-title="香港频道",VIUTV-英
-http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=ViuTV6
-#EXTINF:-1 tvg-name="RTHK-31" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/RTHK31.png" group-title="香港频道",RTHK-31
-http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=RTHK31
-#EXTINF:-1 tvg-name="RTHK-32" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/RTHK32.png" group-title="香港频道",RTHK-32
-http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=RTHK32
-#EXTINF:-1 tvg-name="HUB娱家" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/HUB娱家.png" group-title="香港频道",HUB娱家
-http://api.mytv666.top/api/qwt.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=%E5%A8%B1%E5%AE%B6%E5%8F%B0
-#EXTINF:-1 tvg-name="HUB都会" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/HUB都会.png" group-title="香港频道",HUB都会
-http://api.mytv666.top/api/qwt.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=%E9%83%BD%E4%BC%9A%E5%8F%B0
-#EXTINF:-1 tvg-name="Ftv1时代" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/Ftv1时代.png" group-title="香港频道",Ftv1时代
-http://api.mytv666.top/api/qwt.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=%E6%96%B0%E6%97%B6%E4%BB%A31
-#EXTINF:-1 tvg-name="Ftv2时代" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/Ftv2时代.png" group-title="香港频道",Ftv2时代
-http://api.mytv666.top/api/qwt.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=%E6%96%B0%E6%97%B6%E4%BB%A32
-#EXTINF:-1 tvg-name="城市电视" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/城市电视.png" group-title="香港频道",城市电视
-http://api.mytv666.top/api/qwt.php?t=%E5%9B%BD%E5%A4%96%E9%A2%91%E9%81%93&id=%E5%9F%8E%E5%B8%82%E7%94%B5%E8%A7%86
-#EXTINF:-1 tvg-name="天映经典" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/天映经典.png" group-title="香港频道",天映经典
-http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E5%A4%A9%E6%98%A0%E7%BB%8F%E5%85%B8
-#EXTINF:-1 tvg-name="天映经典国" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/天映经典.png" group-title="香港频道",天映经典国
-http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E5%A4%A9%E6%98%A0%E9%A2%91%E9%81%93%28%E7%B2%A4%29
-#EXTINF:-1 tvg-name="天映经典粤" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/天映经典.png" group-title="香港频道",天映经典粤
-http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E5%A4%A9%E6%98%A0%E9%A2%91%E9%81%93%28%E5%9B%BD%29
-#EXTINF:-1 tvg-name="美亚电影国" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/美亚电影.png" group-title="香港频道",美亚电影国
-http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1%28%E5%9B%BD%29
-#EXTINF:-1 tvg-name="美亚电影粤" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/美亚电影.png" group-title="香港频道",美亚电影粤
-http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1%28%E7%B2%A4%29
-#EXTINF:-1 tvg-id="Astro IQIYI" tvg-name="Astro IQIYI" tvg-logo="https://epg.v1.mk/logo/IQIYI.png" group-title="香港频道",Astro IQIYI
-https://s1.tvm4a1.cfd/aktv2/iqiyi/AKTV.m3u8
-#EXTINF:-1 tvg-id="好萊塢電影台" tvg-name="好萊塢電影台" tvg-logo="https://epg.v1.mk/logo/好萊塢電影台.png" group-title="香港频道",好萊塢電影台
-https://s2.m16tv.cfd/aktv2/CH-4/AKTV.m3u8
-#EXTINF:-1 tvg-id="天映电影" tvg-name="天映电影" tvg-logo="https://epg.v1.mk/logo/天映电影.png" group-title="香港频道",天映电影
-https://s2.m16tv.cfd/aktv2/CH-3/AKTV.m3u8
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.v1.mk/logo/HBO.png" group-title="香港频道",HBO
-https://s1.tvm4a1.cfd/aktv2/hbo/AKTV.m3u8
-#EXTINF:-1 tvg-id="Channel U HD" tvg-name="Channel U HD" tvg-logo="https://epg.v1.mk/logo/CHANNELUHD.png" group-title="香港频道",Channel U HD
-http://s1.tvm4a1.cfd/aktv/channeluhd/AKTV.m3u8
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://epg.v1.mk/logo/axn.png" group-title="香港频道",AXN
-https://s1.tvm4a1.cfd/aktv/axn/AKTV.m3u8
-#EXTINF:-1 tvg-id="东森电影" tvg-name="东森电影" tvg-logo="https://epg.v1.mk/logo/东森电影.png" group-title="香港频道",东森电影
-http://s1.tvm4a1.cfd/aktv2/null-1/AKTV.m3u8
-#EXTINF:-1 tvg-id="东森洋片" tvg-name="东森洋片" tvg-logo="https://epg.v1.mk/logo/东森洋片.png" group-title="香港频道",东森洋片
-https://s1.tvm4a1.cfd/aktv2/CH-2/AKTV.m3u8
-#EXTINF:-1 tvg-id="亞洲新聞台" tvg-name="亞洲新聞台" tvg-logo="https://epg.v1.mk/logo/亚洲新闻台.png" group-title="香港频道",亞洲新聞台
-https://s1.tvm4a1.cfd/aktv3/cna/AKTV.m3u8
-#EXTINF:-1 tvg-id="myTV SUPER 18台" tvg-name="myTV SUPER 18台" tvg-logo="https://epg.v1.mk/logo/MYTVSUPER18.png" group-title="香港频道",myTV SUPER 18台
-http://s1.tvm4a1.cfd/aktv/mytvsuper18/AKTV.m3u8
-#EXTINF:-1 tvg-id="Channel 5 HD" tvg-name="Channel 5 HD" tvg-logo="https://epg.v1.mk/logo/CHANNEL5HD.png" group-title="香港频道",Channel 5 HD
-https://s1.tvm4a1.cfd/aktv/channel5hd/AKTV.m3u8
-#EXTINF:-1 tvg-id="Channel 8 HD" tvg-name="Channel 8 HD" tvg-logo="https://epg.v1.mk/logo/CHANNEL8HD.png" group-title="香港频道",Channel 8 HD
-http://s1.tvm4a1.cfd/aktv/channel8hd/AKTV.m3u8
-#EXTINF:-1 tvg-id="AstroAOD" tvg-name="AstroAOD" tvg-logo="https://epg.v1.mk/logo/AstroAOD.png" group-title="香港频道",Astro AOD
-http://php.jdshipin.com:8880/smt.php?id=Aodhd
-#EXTINF:-1 tvg-id="緯來體育" tvg-name="緯來體育" tvg-logo="https://epg.v1.mk/logo/緯來體育.png" group-title="香港频道",緯來體育
-https://s1.tvm4a1.cfd/aktv2/CH-0/AKTV.m3u8
-#EXTINF:-1 tvg-id="ROCK Action" tvg-name="ROCK Action" tvg-logo="https://epg.v1.mk/logo/ROCKACTION.png" group-title="香港频道",ROCK Action
-http://s1.tvm4a1.cfd/aktv/rockaction/AKTV.m3u8
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.v1.mk/logo/明珠台.png" group-title="香港频道",明珠台
-http://s1.tvm4a1.cfd/aktv/null-2/AKTV.m3u8
-#EXTINF:-1 tvg-id="明珠剧集台(北美)" tvg-name="明珠剧集台(北美)" tvg-logo="https://epg.v1.mk/logo/tvb明珠.png" group-title="香港频道",明珠剧集台(北美)
-http://s1.tvm4a1.cfd/aktv/null-19/AKTV.m3u8
-#EXTINF:-1 tvg-id="娛樂新聞台(HK)" tvg-name="娛樂新聞台(HK)" tvg-logo="https://epg.v1.mk/logo/娱乐新闻台.png" group-title="香港频道",娛樂新聞台(HK)
+#EXTINF:-1 tvg-id="娛樂新聞台(HK)" tvg-name="娛樂新聞台(HK)" tvg-logo="https://epg.v1.mk/logo/娱乐新闻台.png" group-title="港台频道",娛樂新聞台(HK)
 http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
-#EXTINF:-1 tvg-id="tvN" tvg-name="tvN" tvg-logo="https://epg.v1.mk/logo/tvN.png" group-title="香港频道",tvN
+#EXTINF:-1 tvg-id="tvN" tvg-name="tvN" tvg-logo="https://epg.v1.mk/logo/tvN.png" group-title="港台频道",tvN
 http://s1.tvm4a1.cfd/aktv/tvn/AKTV.m3u8
-#EXTINF:-1 tvg-id="纬来电影台" tvg-name="纬来电影台" tvg-logo="https://epg.v1.mk/logo/緯來電影.png" group-title="香港频道",纬来电影台
+#EXTINF:-1 tvg-id="纬来电影台" tvg-name="纬来电影台" tvg-logo="https://epg.v1.mk/logo/緯來電影.png" group-title="港台频道",纬来电影台
 https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
-#EXTINF:-1 tvg-name="中国电影" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/中国电影.png" group-title="香港频道",中国电影
+#EXTINF:-1 tvg-name="中国电影" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/中国电影.png" group-title="港台频道",中国电影
 http://api.mytv666.top/api/qwt.php?t=%E9%A6%99%E6%B8%AF%E9%A2%91%E9%81%93&id=%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1%E9%A2%91%E9%81%93
 
 #EXTINF:-1 tvg-id="博斯无限台" tvg-name="博斯无限台" tvg-logo="https://epg.v1.mk/logo/博斯无限.png" group-title="港台频道",博斯無限 一
@@ -802,165 +661,5 @@ http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 #EXTINF:-1 tvg-id="rthk33" tvg-name="rthk33" tvg-logo="https://epg.v1.mk/logo/rthk33.png" group-title="港台频道",RTHK33
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
-#EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://epg.v1.mk/logo/无线新闻台.png" group-title="港台频道",无线新闻台
-https://s1.tvm4a1.cfd/aktv/CH-1/AKTV.m3u8
-#EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://epg.v1.mk/logo/TVB星河.png" group-title="港台频道",TVB星河
-https://s1.tvm4a1.cfd/aktv2/tvb/AKTV.m3u8
-#EXTINF:-1 tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://epg.v1.mk/logo/VIUTV.png" group-title="港台频道",VIUTV
-https://stream1.freetv.fun/viutv-3.ctv
-#https://s1.tvm4a1.cfd/aktv2/viutv/AKTV.m3u8
-#EXTINF:-1 tvg-id="PopC" tvg-name="PopC" tvg-logo="https://assets.livednow.com/logo/PopC.png" group-title="港台频道",PopC
-https://s1.tvm4a1.cfd/aktv/popc/AKTV.m3u8
-#EXTINF:-1 tvg-id="Astro IQIYI" tvg-name="Astro IQIYI" tvg-logo="https://epg.v1.mk/logo/IQIYI.png" group-title="港台频道",Astro IQIYI
-https://s1.tvm4a1.cfd/aktv2/iqiyi/AKTV.m3u8
-#EXTINF:-1 tvg-id="好萊塢電影台" tvg-name="好萊塢電影台" tvg-logo="https://epg.v1.mk/logo/好萊塢電影台.png" group-title="港台频道",好萊塢電影台
-https://s2.m16tv.cfd/aktv2/CH-4/AKTV.m3u8
-#EXTINF:-1 tvg-id="天映电影" tvg-name="天映电影" tvg-logo="https://epg.v1.mk/logo/天映电影.png" group-title="港台频道",天映电影
-https://s2.m16tv.cfd/aktv2/CH-3/AKTV.m3u8
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.v1.mk/logo/HBO.png" group-title="港台频道",HBO
-https://s1.tvm4a1.cfd/aktv2/hbo/AKTV.m3u8
-#EXTINF:-1 tvg-id="Astro Football" tvg-name="Astro Football" tvg-logo="https://epg.v1.mk/logo/VIUTV.png" group-title="港台频道",Astro Football
-https://s1.tvm4a1.cfd/aktv2/viutv/AKTV.m3u8
-#EXTINF:-1 tvg-id="Channel U HD" tvg-name="Channel U HD" tvg-logo="https://epg.v1.mk/logo/CHANNELUHD.png" group-title="港台频道",Channel U HD
-http://s1.tvm4a1.cfd/aktv/channeluhd/AKTV.m3u8
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://epg.v1.mk/logo/axn.png" group-title="港台频道",AXN
-https://s1.tvm4a1.cfd/aktv/axn/AKTV.m3u8
-#EXTINF:-1 tvg-id="东森电影" tvg-name="东森电影" tvg-logo="https://epg.v1.mk/logo/东森电影.png" group-title="港台频道",东森电影
-http://s1.tvm4a1.cfd/aktv2/null-1/AKTV.m3u8
-#EXTINF:-1 tvg-id="东森洋片" tvg-name="东森洋片" tvg-logo="https://epg.v1.mk/logo/东森洋片.png" group-title="港台频道",东森洋片
-https://s1.tvm4a1.cfd/aktv2/CH-2/AKTV.m3u8
-#EXTINF:-1 tvg-id="亞洲新聞台" tvg-name="亞洲新聞台" tvg-logo="https://epg.v1.mk/logo/亚洲新闻台.png" group-title="港台频道",亞洲新聞台
-https://s1.tvm4a1.cfd/aktv3/cna/AKTV.m3u8
-#EXTINF:-1 tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.v1.mk/logo/TVBS新闻.png" group-title="港台频道",TVBS新闻台
-https://s1.tvm4a1.cfd/tvbs/tvbs/AKTV.m3u8
-#EXTINF:-1 tvg-id="myTV SUPER 18台" tvg-name="myTV SUPER 18台" tvg-logo="https://epg.v1.mk/logo/MYTVSUPER18.png" group-title="港台频道",myTV SUPER 18台
-http://s1.tvm4a1.cfd/aktv/mytvsuper18/AKTV.m3u8
-#EXTINF:-1 tvg-id="Channel 5 HD" tvg-name="Channel 5 HD" tvg-logo="https://epg.v1.mk/logo/CHANNEL5HD.png" group-title="港台频道",Channel 5 HD
-https://s1.tvm4a1.cfd/aktv/channel5hd/AKTV.m3u8
-#EXTINF:-1 tvg-id="Channel 8 HD" tvg-name="Channel 8 HD" tvg-logo="https://epg.v1.mk/logo/CHANNEL8HD.png" group-title="港台频道",Channel 8 HD
-http://s1.tvm4a1.cfd/aktv/channel8hd/AKTV.m3u8
-#EXTINF:-1 tvg-id="翡翠剧集台(北美)" tvg-name="翡翠剧集台(北美)" tvg-logo="https://epg.v1.mk/logo/翡翠剧集台.png" group-title="港台频道",翡翠剧集台(北美)
-http://s1.tvm4a1.cfd/aktv/null-18/AKTV.m3u8
-#EXTINF:-1 tvg-id="美亞電影台(HK)" tvg-name="美亞電影台(HK)" tvg-logo="https://assets.livednow.com/logo/美亞電影台-HK.png" group-title="港台频道",美亞電影台(HK)
-https://s1.tvm4a1.cfd/aktv/hk/AKTV.m3u8
-#EXTINF:-1 tvg-id="AstroAOD" tvg-name="AstroAOD" tvg-logo="https://epg.v1.mk/logo/AstroAOD.png" group-title="港台频道",Astro AOD
-http://php.jdshipin.com:8880/smt.php?id=Aodhd
-#EXTINF:-1 tvg-id="AstroAEC" tvg-name="AstroAEC" tvg-logo="https://epg.v1.mk/logo/AstroAEC.png" group-title="港台频道",Astro AEC
-http://php.jdshipin.com:8880/smt.php?id=AEC
-#EXTINF:-1 tvg-id="ASTROQUANJIA" tvg-name="ASTROQUANJIA" tvg-logo="https://epg.v1.mk/logo/ASTROQUANJIA.png" group-title="港台频道",Astro QJ
-http://php.jdshipin.com:8880/smt.php?id=Quanjia
-#EXTINF:-1 tvg-id="Astro欢喜台" tvg-name="Astro欢喜台" tvg-logo="https://epg.v1.mk/logo/Astro欢喜台.png" group-title="港台频道",Astro欢喜台
-http://php.jdshipin.com:8880/smt.php?id=Huahee
 #EXTINF:-1 tvg-id="Astro AOD" tvg-name="Astro AOD" tvg-logo="https://epg.v1.mk/logo/AstroAOD.png" group-title="港台频道",Astro AOD
 http://php.jdshipin.com:8880/smt.php?id=Aodhd
-#EXTINF:-1 tvg-id="千禧经典台" tvg-name="千禧经典台" tvg-logo="https://epg.v1.mk/logo/千禧经典台.png" group-title="港台频道",千禧经典台
-http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="港台频道",翡翠台
-http://s1.tvm4a1.cfd/aktv/null/AKTV.m3u8
-#EXTINF:-1 tvg-id="PopC" tvg-name="PopC" tvg-logo="https://epg.v1.mk/logo/POPC.png" group-title="港台频道",PopC
-http://s1.tvm4a1.cfd/aktv/popc/AKTV.m3u8
-#EXTINF:-1 tvg-id="ROCK Action" tvg-name="ROCK Action" tvg-logo="https://epg.v1.mk/logo/ROCKACTION.png" group-title="港台频道",ROCK Action
-http://s1.tvm4a1.cfd/aktv/rockaction/AKTV.m3u8
-#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://epg.v1.mk/logo/tvbplus.png" group-title="港台频道",TVB Plus
-http://s1.tvm4a1.cfd/aktv/tvbplus/AKTV.m3u8
-
-#EXTINF:-1 tvg-id="aktv/animaxhk" group-title="未分类",Animax (HK)
-https://s1.tvm4a1.cfd/aktv/animaxhk/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/axn" group-title="未分类",AXN
-https://s1.tvm4a1.cfd/aktv/axn/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/channel5hd" group-title="未分类",Channel 5 HD
-https://s1.tvm4a1.cfd/aktv/channel5hd/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/channel8hd" group-title="未分类",Channel 8 HD
-https://s1.tvm4a1.cfd/aktv/channel8hd/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/channeluhd" group-title="未分类",Channel U HD
-https://s1.tvm4a1.cfd/aktv/channeluhd/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/lovenaturehd" group-title="未分类",Love Nature HD
-https://s1.tvm4a1.cfd/aktv/lovenaturehd/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/popc" group-title="未分类",PopC
-https://s1.tvm4a1.cfd/aktv/popc/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/rockaction" group-title="未分类",ROCK Action
-https://s1.tvm4a1.cfd/aktv/rockaction/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/tvbplus" group-title="未分类",TVB Plus
-https://s1.tvm4a1.cfd/aktv/tvbplus/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/tvn" group-title="未分类",tvN
-https://s1.tvm4a1.cfd/aktv/tvn/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/1080" group-title="未分类",天映經典(1080)
-https://s1.tvm4a1.cfd/aktv/1080/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/CH-19" group-title="未分类",明珠剧集台(北美)
-https://s1.tvm4a1.cfd/aktv/CH-19/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/CH-2" group-title="未分类",明珠台
-https://s1.tvm4a1.cfd/aktv/CH-2/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/CH-1" group-title="未分类",無線新聞台
-https://s1.tvm4a1.cfd/aktv/CH-1/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/hk" group-title="未分类",美亞電影台(HK)
-https://s1.tvm4a1.cfd/aktv/hk/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/CH-18" group-title="未分类",翡翠剧集台(北美)
-https://s1.tvm4a1.cfd/aktv/CH-18/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/CH-0" group-title="未分类",翡翠台
-https://s1.tvm4a1.cfd/aktv/CH-0/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/CH-17" group-title="未分类",翡翠综合台(北美)
-https://s1.tvm4a1.cfd/aktv/CH-17/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/CH-3" group-title="未分类",鳳凰衛視中文台
-https://s1.tvm4a1.cfd/aktv/CH-3/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/CH-4" group-title="未分类",鳳凰衛視資訊台
-https://s1.tvm4a1.cfd/aktv/CH-4/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/CH-5" group-title="未分类",鳳凰衛視香港台
-https://s1.tvm4a1.cfd/aktv/CH-5/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/CH-6" group-title="未分类",黃金翡翠台
-https://s1.tvm4a1.cfd/aktv/CH-6/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv2/skysportsf1" group-title="未分类",Sky Sports F1
-https://s1.tvm4a1.cfd/aktv2/skysportsf1/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv2/CH-3" group-title="未分类",天映电影
-https://s1.tvm4a1.cfd/aktv2/CH-3/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv2/CH-2" group-title="未分类",東森洋片
-https://s1.tvm4a1.cfd/aktv2/CH-2/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv2/CH-1" group-title="未分类",東森電影
-https://s1.tvm4a1.cfd/aktv2/CH-1/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv2/CH-0" group-title="未分类",緯來體育台
-https://s1.tvm4a1.cfd/aktv2/CH-0/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv3/cna" group-title="未分类",CNA
-https://s1.tvm4a1.cfd/aktv3/cna/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv3/CH-0" group-title="未分类",朝鲜恩情台
-https://s1.tvm4a1.cfd/aktv3/CH-0/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktvjp/japannews24hlive" group-title="未分类",Japan News 24H LIVE
-https://s1.tvm4a1.cfd/aktvjp/japannews24hlive/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktvjp/ntv" group-title="未分类",日テレNEWS LIVE
-https://s1.tvm4a1.cfd/aktvjp/ntv/AKTV.m3u8
-#EXTINF:-1 tvg-id="astro/8tv" group-title="未分类",8TV
-https://s1.tvm4a1.cfd/astro/8tv/AKTV.m3u8
-#EXTINF:-1 tvg-id="astro/CH-0" group-title="未分类",Astro Football
-https://s1.tvm4a1.cfd/astro/CH-0/AKTV.m3u8
-#EXTINF:-1 tvg-id="astro/astrosportuhd" group-title="未分类",Astro Sport UHD
-https://s1.tvm4a1.cfd/astro/astrosportuhd/AKTV.m3u8
-#EXTINF:-1 tvg-id="astro/eurosport1" group-title="未分类",EuroSport 1
-https://s1.tvm4a1.cfd/astro/eurosport1/AKTV.m3u8
-#EXTINF:-1 tvg-id="astro/eurosport2" group-title="未分类",EuroSport 2
-https://s1.tvm4a1.cfd/astro/eurosport2/AKTV.m3u8
-#EXTINF:-1 tvg-id="astro/tntsports1" group-title="未分类",TNT SPORTS 1
-https://s1.tvm4a1.cfd/astro/tntsports1/AKTV.m3u8
-#EXTINF:-1 tvg-id="astro/tntsports2" group-title="未分类",TNT SPORTS 2
-https://s1.tvm4a1.cfd/astro/tntsports2/AKTV.m3u8
-#EXTINF:-1 tvg-id="astro/tntsports3" group-title="未分类",TNT SPORTS 3
-https://s1.tvm4a1.cfd/astro/tntsports3/AKTV.m3u8
-#EXTINF:-1 tvg-id="astro/CH-1" group-title="未分类",中天亚洲台
-https://s1.tvm4a1.cfd/astro/CH-1/AKTV.m3u8
-#EXTINF:-1 tvg-id="taiwan/CH-3" group-title="未分类",KLT-靖天國際台
-https://s1.tvm4a1.cfd/taiwan/CH-3/AKTV.m3u8
-#EXTINF:-1 tvg-id="taiwan/tvbs" group-title="未分类",TVBS
-https://s1.tvm4a1.cfd/taiwan/tvbs/AKTV.m3u8
-#EXTINF:-1 tvg-id="taiwan/CH-1" group-title="未分类",民視
-https://s1.tvm4a1.cfd/taiwan/CH-1/AKTV.m3u8
-#EXTINF:-1 tvg-id="taiwan/CH-0" group-title="未分类",民視第一台
-https://s1.tvm4a1.cfd/taiwan/CH-0/AKTV.m3u8
-#EXTINF:-1 tvg-id="taiwan/CH-5" group-title="未分类",龍華日韓台
-https://s1.tvm4a1.cfd/taiwan/CH-5/AKTV.m3u8
-#EXTINF:-1 tvg-id="taiwan2/tvb" group-title="未分类",TVB 星河
-https://s1.tvm4a1.cfd/taiwan2/tvb/AKTV.m3u8
-#EXTINF:-1 tvg-id="test/test01" group-title="未分类",test01
-https://s1.tvm4a1.cfd/test/test01/AKTV.m3u8
-#EXTINF:-1 tvg-id="tvbs/tvbs" group-title="未分类",TVBS新聞
-https://s1.tvm4a1.cfd/tvbs/tvbs/AKTV.m3u8
-#EXTINF:-1 tvg-id="zhongtian/CH-0" group-title="未分类",中天新闻台
-https://s1.tvm4a1.cfd/zhongtian/CH-0/AKTV.m3u8
-#EXTINF:-1 tvg-id="zhongtian/CH-1" group-title="未分类",東森新聞
-https://s1.tvm4a1.cfd/zhongtian/CH-1/AKTV.m3u8

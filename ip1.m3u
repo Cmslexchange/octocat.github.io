@@ -760,4 +760,36 @@ http://s1.an94tv.cfd/tvbs/tvbs/AKTV.m3u8
 http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
 #EXTINF:-1 tvg-id="zhongtian/CH-1" group-title="香港频道",東森新聞
 http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
+#EXTINF:-1 group-title="香港频道",tvbs欢乐高码
+http://61.216.11.93:49981/stream/channelid/1607444205.m3u8
+#EXTINF:-1 group-title="香港频道",东森超视高码
+http://61.216.11.93:49981/stream/channelid/1026178460.m3u8
+#EXTINF:-1 group-title="香港频道",民视闽南高码
+http://61.216.11.93:49981/stream/channelid/1736257299.m3u8
+#EXTINF:-1 group-title="香港频道",八大第一高码
+http://61.216.11.93:49981/stream/channelid/2021000694.m3u8
+#EXTINF:-1 group-title="香港频道",八大综合高码
+http://61.216.11.93:49981/stream/channelid/1339557876.m3u8
+#EXTINF:-1 group-title="香港频道",年代综合高码
+http://61.216.11.93:49981/stream/channelid/644357774.m3u8
+#EXTINF:-1 group-title="香港频道",纬来综合高码
+http://61.216.11.93:49981/stream/channelid/106481234.m3u8
+#EXTINF:-1 group-title="香港频道",纬来电影高码
+http://61.216.11.93:49981/stream/channelid/1914405885.m3u8
+#EXTINF:-1 group-title="香港频道",好莱电影高码
+http://61.216.11.93:49981/stream/channelid/286389561.m3u8
+#EXTINF:-1 group-title="香港频道",CINeMax高码
+http://61.216.11.93:49981/stream/channelid/207378916.m3u8
+#EXTINF:-1 group-title="香港频道",CINeMax高码
+http://61.216.11.93:49981/stream/channelid/1222093986.m3u8
+#EXTINF:-1 group-title="香港频道",TLC'综合高码
+http://61.216.11.93:49981/stream/channelid/458490002.m3u8
+#EXTINF:-1 group-title="香港频道",Nick少儿高码
+http://61.216.11.93:49981/stream/channelid/580636100.m3u8
+#EXTINF:-1 group-title="香港频道",NHk日本高码
+http://61.216.11.93:49981/stream/channelid/797583403.m3u8
+#EXTINF:-1 group-title="香港频道",cNN新闻高码
+http://61.216.11.93:49981/stream/channelid/881277234.m3u8
+#EXTINF:-1 group-title="香港频道",信吉电视高码
+http://61.216.11.93:49981/stream/channelid/166215564.m3u8
 

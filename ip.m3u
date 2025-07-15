@@ -22,7 +22,7 @@ https://migu.188766.xyz/?migutoken=31edbeaf7b2d6993473122c20e8d49cb&id=%E6%B7%B1
 https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 #EXTINF:-1 tvg-id="河北4K" tvg-name="河北4K" tvg-logo="https://fy.188766.xyz/logo/taksssss/tv/icon/纯享4K.png" group-title="4 K 8 K",河北4K
 https://event.pull.hebtv.com:443/live/live101.m3u8
-#EXTINF:-1 tvg-id="SiTV-欢笑剧场-4K" tvg-name="SiTV 欢笑剧场-4K" tvg-logo="https://epg.v1.mk/logo/SiTV-欢笑剧场-4K.png" group-title="4 K 8 K",欢笑剧场-4K
+#EXTINF:-1 tvg-id="SiTV-欢笑剧场-4K" tvg-name="SiTV 欢笑剧场-4K" tvg-logo="https://epg.v1.mk/logo/欢笑剧场4K.png" group-title="4 K 8 K",欢笑剧场-4K
 http://192.168.100.1:7088/rtp/233.50.200.52:5140
 #EXTINF:-1 tvg-id="南国都市4K" tvg-name="南国都市4K" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/linitfor/epg/main/logo/广州南国都市.png" group-title="4 K 8 K",南国都市 4K
 https://tencentplaywebsite.gztv.com/live/nanguodushi.m3u8?txSecret=e93eb85173edb8a0c70fd1438c7bd7d7&txTime=193108637cb
@@ -81,34 +81,34 @@ http://192.168.100.1:7088/udp/233.50.200.124:5140
 #EXTINF:-1 tvg-id="上海新纪实" tvg-name="上海新纪实" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/新纪实频道.png" group-title="SiTV",上海新纪实
 https://migu.188766.xyz/?migutoken=569263e696f140fabcdc332bd96c170f&id=xjs&type=sz
 
-#EXTINF:-1 tvg-id="SiTV-金色学堂" tvg-name="SiTV 金色学堂" tvg-logo="https://epg.v1.mk/logo/SiTV-金色学堂.png" group-title="SiTV", SiTV 金色学堂
+#EXTINF:-1 tvg-id="SiTV-金色学堂" tvg-name="SiTV 金色学堂" tvg-logo="https://epg.v1.mk/logo/金色学堂.png" group-title="SiTV", SiTV 金色学堂
 http://192.168.100.1:7088/rtp/233.50.200.122:5140
 
 #EXTINF:-1 tvg-id="SiTV-东方财经" tvg-name="SiTV 东方财经" tvg-logo="https://epg.v1.mk/logo/上海东方财经.png" group-title="SiTV", SiTV 东方财经
 http://192.168.100.1:7088/rtp/233.50.200.177:5140
 
-#EXTINF:-1 tvg-id="SiTV-法治天地" tvg-name="SiTV 法治天地" tvg-logo="https://epg.v1.mk/logo/SiTV-法治天地.png" group-title="SiTV", SiTV 法治天地
+#EXTINF:-1 tvg-id="SiTV-法治天地" tvg-name="SiTV 法治天地" tvg-logo="https://epg.v1.mk/logo/法治天地.png" group-title="SiTV", SiTV 法治天地
 http://192.168.100.1:7088/rtp/233.50.200.120:5140
 
-#EXTINF:-1 tvg-id="SiTV-魅力足球" tvg-name="SiTV 魅力足球" tvg-logo="https://epg.v1.mk/logo/SiTV-魅力足球.png" group-title="SiTV", SiTV 魅力足球
+#EXTINF:-1 tvg-id="SiTV-魅力足球" tvg-name="SiTV 魅力足球" tvg-logo="https://epg.v1.mk/logo/魅力足球.png" group-title="SiTV", SiTV 魅力足球
 http://192.168.100.1:7088/rtp/233.50.200.176:5140
 
-#EXTINF:-1 tvg-id="SiTV-乐游" tvg-name="SiTV 乐游" tvg-logo="https://epg.v1.mk/logo/SiTV-乐游.png" group-title="SiTV", SiTV 乐游
+#EXTINF:-1 tvg-id="SiTV-乐游" tvg-name="SiTV 乐游" tvg-logo="https://epg.v1.mk/logo/乐游.png" group-title="SiTV", SiTV 乐游
 http://192.168.100.1:7088/rtp/233.50.200.148:5140
 
-#EXTINF:-1 tvg-id="SiTV-动漫秀场" tvg-name="SiTV 动漫秀场" tvg-logo="https://epg.v1.mk/logo/SiTV-动漫秀场.png" group-title="SiTV", SiTV 动漫秀场
+#EXTINF:-1 tvg-id="SiTV-动漫秀场" tvg-name="SiTV 动漫秀场" tvg-logo="https://epg.v1.mk/logo/动漫秀场.png" group-title="SiTV", SiTV 动漫秀场
 http://192.168.100.1:7088/rtp/233.50.200.12:5140
 
-#EXTINF:-1 tvg-id="SiTV-都市剧场" tvg-name="SiTV 都市剧场" tvg-logo="https://epg.v1.mk/logo/SiTV-都市剧场.png" group-title="SiTV", SiTV 都市剧场
+#EXTINF:-1 tvg-id="SiTV-都市剧场" tvg-name="SiTV 都市剧场" tvg-logo="https://epg.v1.mk/logo/都市剧场.png" group-title="SiTV", SiTV 都市剧场
 http://192.168.100.1:7088/rtp/233.50.200.11:5140
 
-#EXTINF:-1 tvg-id="SiTV-欢笑剧场" tvg-name="SiTV 欢笑剧场" tvg-logo="https://epg.v1.mk/logo/SiTV-欢笑剧场.png" group-title="SiTV", SiTV 欢笑剧场
+#EXTINF:-1 tvg-id="SiTV-欢笑剧场" tvg-name="SiTV 欢笑剧场" tvg-logo="https://epg.v1.mk/logo/欢笑剧场.png" group-title="SiTV", SiTV 欢笑剧场
 http://192.168.100.1:7088/rtp/233.50.200.229:5140
 
-#EXTINF:-1 tvg-id="SiTV-生活时尚" tvg-name="SiTV 生活时尚" tvg-logo="https://epg.v1.mk/logo/SiTV-生活时尚.png" group-title="SiTV", SiTV 生活时尚
+#EXTINF:-1 tvg-id="SiTV-生活时尚" tvg-name="SiTV 生活时尚" tvg-logo="https://epg.v1.mk/logo/生活时尚.png" group-title="SiTV", SiTV 生活时尚
 http://192.168.100.1:7088/rtp/233.50.200.15:5140
 
-#EXTINF:-1 tvg-id="SiTV-游戏风云" tvg-name="SiTV 游戏风云" tvg-logo="https://epg.v1.mk/logo/SiTV-游戏风云.png" group-title="SiTV", SiTV 游戏风云
+#EXTINF:-1 tvg-id="SiTV-游戏风云" tvg-name="SiTV 游戏风云" tvg-logo="https://epg.v1.mk/logo/游戏风云.png" group-title="SiTV", SiTV 游戏风云
 http://192.168.100.1:7088/rtp/233.50.200.14:5140
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV 1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视频道",CCTV 1 综合
@@ -121,7 +121,7 @@ http://192.168.100.1:7088/rtp/233.50.200.107:5140
 http://192.168.100.1:7088/rtp/233.50.200.101:5140
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV 5" tvg-logo="https://epg.v1.mk/logo/CCTV5.png" group-title="央视频道",CCTV 5 体育
 http://192.168.100.1:7088/rtp/233.50.200.108:5140
-#EXTINF:-1 tvg-id="CCTV5-plus" tvg-name="CCTV 5+" tvg-logo="https://epg.v1.mk/logo/CCTV5-plus.png" group-title="央视频道",CCTV 5+ 体育赛事
+#EXTINF:-1 tvg-id="CCTV5-plus" tvg-name="CCTV 5+" tvg-logo="https://epg.v1.mk/logo/CCTV5+.png" group-title="央视频道",CCTV 5+ 体育赛事
 http://192.168.100.1:7088/rtp/233.50.201.220:5140
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV 6" tvg-logo="https://epg.v1.mk/logo/CCTV6.png" group-title="央视频道",CCTV 6 电影
 http://192.168.100.1:7088/rtp/233.50.200.109:5140

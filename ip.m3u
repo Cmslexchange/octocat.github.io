@@ -5,19 +5,19 @@
 #EXT-X-SUB-URL https://aktv.space/live.m3u
 
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://11.112114.xyz/logo/cctv4k.png" group-title="4 K 8 K",CCTV4K-BST
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fbst%2Fcctv4k%4015000000%24other-BST
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fyhyx%2FIP-CCTV-4K.m3u8%24other-YHYX%E6%BB%A1%E8%A1%80
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://11.112114.xyz/logo/cctv16.png" group-title="4 K 8 K",CCTV16-4K-BST
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fbst%2Fcctv16hd4k%4015000000.m3u8%24other-BST
 #EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://epg.v1.mk/logo/CCTV8K.png" group-title="4 K 8 K",CCTV8K
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fnptv%2Fcctv8k.m3u8%24other-NPTV
 #EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视4K" tvg-logo="https://epg.v1.mk/logo/北京卫视4k.png" group-title="4 K 8 K",北京卫视4K
-https://migu.188766.xyz/?migutoken=35a22272c960abfe41b8a354d9b43a1b&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&pp=1
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fyhyx%2FIP-BJWS-4K.m3u8%24other
 #EXTINF:-1 tvg-id="广东卫视4K" tvg-name="广东卫视4K" tvg-logo="https://raw.githubusercontent.com/Cmslexchange/octocat.github.io/refs/heads/master/广东4K.png" group-title="4 K 8 K", 广东卫视4K
 http://vvip.lqcc.xyz:8092/stream/channelid/1248069700?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 #EXTINF:-1 tvg-id="广东卫视4K" tvg-name="广东卫视4K" tvg-logo="https://raw.githubusercontent.com/Cmslexchange/octocat.github.io/refs/heads/master/广东4K.png" group-title="4 K 8 K", 广东卫视4K
 http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146
 #EXTINF:-1 tvg-id="深圳卫视4K" tvg-name="深圳卫视4K" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/深圳卫视4K.png" group-title="4 K 8 K", 深圳卫视4K
-https://migu.188766.xyz/?migutoken=31edbeaf7b2d6993473122c20e8d49cb&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
+https://migu.188766.xyz/?migutoken=d5c0742017722ab466c62f89c866b5d5&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
 #EXTINF:-1 tvg-id="苏州4K" tvg-name="苏州4K" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/苏州4K.png" group-title="4 K 8 K",苏州4K
 https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 #EXTINF:-1 tvg-id="河北4K" tvg-name="河北4K" tvg-logo="https://fy.188766.xyz/logo/taksssss/tv/icon/纯享4K.png" group-title="4 K 8 K",河北4K
@@ -90,8 +90,8 @@ http://192.168.100.1:7088/rtp/233.50.200.177:5140
 #EXTINF:-1 tvg-id="SiTV-法治天地" tvg-name="SiTV 法治天地" tvg-logo="https://epg.v1.mk/logo/法治天地.png" group-title="SiTV", SiTV 法治天地
 http://192.168.100.1:7088/rtp/233.50.200.120:5140
 
-#EXTINF:-1 tvg-id="SiTV-魅力足球" tvg-name="SiTV 魅力足球" tvg-logo="https://epg.v1.mk/logo/魅力足球.png" group-title="SiTV", SiTV 魅力足球
-http://192.168.100.1:7088/rtp/233.50.200.176:5140
+#EXTINF:-1 tvg-id="SiTV-劲爆体育" tvg-name="SiTV 劲爆体育" tvg-logo="https://epg.v1.mk/logo/劲爆体育.png" group-title="SiTV", SiTV 劲爆体育
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fyhyx%2FIP-JBTY-HD.m3u8%24other
 
 #EXTINF:-1 tvg-id="SiTV-乐游" tvg-name="SiTV 乐游" tvg-logo="https://epg.v1.mk/logo/乐游.png" group-title="SiTV", SiTV 乐游
 http://192.168.100.1:7088/rtp/233.50.200.148:5140
@@ -287,7 +287,9 @@ http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fnptv%2F
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://epg.v1.mk/logo/风云足球.png" group-title="数字频道",风云足球
 https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://epg.v1.mk/logo/重温经典.png" group-title="数字频道",重温经典
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_cwjd.flv
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fyhyx%2FIP-CWJD-HD.m3u8%24other
+#EXTINF:-1 tvg-id="新视觉HD" tvg-name="新视觉HD" tvg-logo="https://11.112114.xyz/logo/新视觉.png" group-title="数字频道",新视觉HD
+http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fbst%2Fxsjhd%404000000.m3u8%24other
 #EXTINF:-1 tvg-id="咪咕全民热练" tvg-name="咪咕全民热练" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪咕全民热练
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000020000031315.m3u8%3Fcdn%3DFifastbLive%24itv
 #EXTINF:-1 tvg-id="咪咕24小时体育" tvg-name="咪咕24小时体育" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪咕24小时体育台

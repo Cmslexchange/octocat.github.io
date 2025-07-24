@@ -17,7 +17,7 @@ http://vvip.lqcc.xyz:8092/stream/channelid/1248069700?auth=PrI5LXwb51dYilt30TvNY
 #EXTINF:-1 tvg-id="广东卫视4K" tvg-name="广东卫视4K" tvg-logo="https://raw.githubusercontent.com/Cmslexchange/octocat.github.io/refs/heads/master/广东4K.png" group-title="4 K 8 K", 广东卫视4K
 http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146
 #EXTINF:-1 tvg-id="深圳卫视4K" tvg-name="深圳卫视4K" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/深圳卫视4K.png" group-title="4 K 8 K", 深圳卫视4K
-https://migu.188766.xyz/?migutoken=d5c0742017722ab466c62f89c866b5d5&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
+https://migu.188766.xyz/?migutoken=a42c22e6b8985031fce5b41da890eb7e&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
 #EXTINF:-1 tvg-id="苏州4K" tvg-name="苏州4K" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/苏州4K.png" group-title="4 K 8 K",苏州4K
 https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 #EXTINF:-1 tvg-id="河北4K" tvg-name="河北4K" tvg-logo="https://fy.188766.xyz/logo/taksssss/tv/icon/纯享4K.png" group-title="4 K 8 K",河北4K
@@ -698,10 +698,14 @@ http://s1.an94tv.cfd/aktv/CH-2/AKTV.m3u8
 http://s1.an94tv.cfd/aktv/CH-1/AKTV.m3u8
 #EXTINF:-1 tvg-id="aktv/hk" group-title="香港频道",美亞電影台(HK)
 http://s1.an94tv.cfd/aktv/hk/AKTV.m3u8
+#EXTINF:-1 tvg-id="aktv/CH-8" group-title="香港频道",翡翠一台(北美)
+http://s1.an94tv.cfd/aktv/CH-8/AKTV.m3u8
 #EXTINF:-1 tvg-id="aktv/CH-18" group-title="香港频道",翡翠剧集台(北美)
 http://s1.an94tv.cfd/aktv/CH-18/AKTV.m3u8
 #EXTINF:-1 tvg-id="aktv/CH-0" group-title="香港频道",翡翠台
 http://s1.an94tv.cfd/aktv/CH-0/AKTV.m3u8
+#EXTINF:-1 tvg-id="aktv/CH-7" group-title="香港频道",翡翠娛樂台(北美)
+http://s1.an94tv.cfd/aktv/CH-7/AKTV.m3u8
 #EXTINF:-1 tvg-id="aktv/CH-17" group-title="香港频道",翡翠综合台(北美)
 http://s1.an94tv.cfd/aktv/CH-17/AKTV.m3u8
 #EXTINF:-1 tvg-id="aktv/CH-3" group-title="香港频道",鳳凰衛視中文台
@@ -752,6 +756,8 @@ http://s1.an94tv.cfd/astro/CH-1/AKTV.m3u8
 http://s1.an94tv.cfd/taiwan/CH-3/AKTV.m3u8
 #EXTINF:-1 tvg-id="taiwan/tvbs" group-title="香港频道",TVBS
 http://s1.an94tv.cfd/taiwan/tvbs/AKTV.m3u8
+#EXTINF:-1 tvg-id="taiwan/tvbs-1" group-title="香港频道",TVBS新聞
+http://s1.an94tv.cfd/taiwan/tvbs-1/AKTV.m3u8
 #EXTINF:-1 tvg-id="taiwan/CH-1" group-title="香港频道",民視
 http://s1.an94tv.cfd/taiwan/CH-1/AKTV.m3u8
 #EXTINF:-1 tvg-id="taiwan/CH-0" group-title="香港频道",民視第一台
@@ -760,42 +766,9 @@ http://s1.an94tv.cfd/taiwan/CH-0/AKTV.m3u8
 http://s1.an94tv.cfd/taiwan/CH-5/AKTV.m3u8
 #EXTINF:-1 tvg-id="taiwan2/tvb" group-title="香港频道",TVB 星河
 http://s1.an94tv.cfd/taiwan2/tvb/AKTV.m3u8
-#EXTINF:-1 tvg-id="tvbs/tvbs" group-title="香港频道",TVBS新聞
-http://s1.an94tv.cfd/tvbs/tvbs/AKTV.m3u8
+#EXTINF:-1 tvg-id="test/test01" group-title="香港频道",test01
+http://s1.an94tv.cfd/test/test01/AKTV.m3u8
 #EXTINF:-1 tvg-id="zhongtian/CH-0" group-title="香港频道",中天新闻台
 http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
 #EXTINF:-1 tvg-id="zhongtian/CH-1" group-title="香港频道",東森新聞
 http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
-#EXTINF:-1 group-title="香港频道",tvbs欢乐高码
-http://61.216.11.93:49981/stream/channelid/1607444205.m3u8
-#EXTINF:-1 group-title="香港频道",东森超视高码
-http://61.216.11.93:49981/stream/channelid/1026178460.m3u8
-#EXTINF:-1 group-title="香港频道",民视闽南高码
-http://61.216.11.93:49981/stream/channelid/1736257299.m3u8
-#EXTINF:-1 group-title="香港频道",八大第一高码
-http://61.216.11.93:49981/stream/channelid/2021000694.m3u8
-#EXTINF:-1 group-title="香港频道",八大综合高码
-http://61.216.11.93:49981/stream/channelid/1339557876.m3u8
-#EXTINF:-1 group-title="香港频道",年代综合高码
-http://61.216.11.93:49981/stream/channelid/644357774.m3u8
-#EXTINF:-1 group-title="香港频道",纬来综合高码
-http://61.216.11.93:49981/stream/channelid/106481234.m3u8
-#EXTINF:-1 group-title="香港频道",纬来电影高码
-http://61.216.11.93:49981/stream/channelid/1914405885.m3u8
-#EXTINF:-1 group-title="香港频道",好莱电影高码
-http://61.216.11.93:49981/stream/channelid/286389561.m3u8
-#EXTINF:-1 group-title="香港频道",CINeMax高码
-http://61.216.11.93:49981/stream/channelid/207378916.m3u8
-#EXTINF:-1 group-title="香港频道",CINeMax高码
-http://61.216.11.93:49981/stream/channelid/1222093986.m3u8
-#EXTINF:-1 group-title="香港频道",TLC'综合高码
-http://61.216.11.93:49981/stream/channelid/458490002.m3u8
-#EXTINF:-1 group-title="香港频道",Nick少儿高码
-http://61.216.11.93:49981/stream/channelid/580636100.m3u8
-#EXTINF:-1 group-title="香港频道",NHk日本高码
-http://61.216.11.93:49981/stream/channelid/797583403.m3u8
-#EXTINF:-1 group-title="香港频道",cNN新闻高码
-http://61.216.11.93:49981/stream/channelid/881277234.m3u8
-#EXTINF:-1 group-title="香港频道",信吉电视高码
-http://61.216.11.93:49981/stream/channelid/166215564.m3u8
-

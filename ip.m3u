@@ -79,7 +79,7 @@ http://192.168.100.1:7088/udp/233.50.200.123:5140
 http://192.168.100.1:7088/udp/233.50.200.124:5140
 
 #EXTINF:-1 tvg-id="上海新纪实" tvg-name="上海新纪实" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/新纪实频道.png" group-title="SiTV",上海新纪实
-https://migu.188766.xyz/?migutoken=569263e696f140fabcdc332bd96c170f&id=xjs&type=sz
+https://migu.188766.xyz/?migutoken=471fe639eb15232e090f025a6738131e&id=xjs&type=sz
 
 #EXTINF:-1 tvg-id="SiTV-金色学堂" tvg-name="SiTV 金色学堂" tvg-logo="https://epg.v1.mk/logo/金色学堂.png" group-title="SiTV", SiTV 金色学堂
 http://192.168.100.1:7088/rtp/233.50.200.122:5140
@@ -241,6 +241,8 @@ http://192.168.100.1:7088/udp/233.50.200.125:5140
 
 #EXTINF:-1 tvg-name="浙江公共新闻" tvg-logo="https://live.fanmingming.cn/tv/浙江新闻.png" group-title="浙江频道",浙江新闻
 http://192.168.100.1:7088/udp/233.50.201.137:5140
+#EXTINF:-1 tvg-id="浙江国际" tvg-name="浙江国际" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/浙江国际.png" group-title="浙江频道",浙江国际
+https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.cn/tv/浙江少儿.png" group-title="浙江频道",浙江少儿
 http://192.168.100.1:7088/udp/233.50.201.138:5140
 #EXTINF:-1 tvg-name="浙江教科影视" tvg-logo="https://live.fanmingming.cn/tv/浙江教科影视.png" group-title="浙江频道",浙江教科

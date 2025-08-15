@@ -4,12 +4,12 @@
 #EXT-X-SUB-URL http://192.168.100.1:35456/m3u/2
 #EXT-X-SUB-URL https://aktv.space/live.m3u
 
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://11.112114.xyz/logo/cctv4k.png" group-title="4 K 8 K",CCTV4K-BST
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fgptv%2FG_CCTV-4K-HD.m3u8%24other-GPTV
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://11.112114.xyz/logo/cctv16.png" group-title="4 K 8 K",CCTV16-4K-BST
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fbst%2Fcctv16hd4k%4015000000.m3u8%24other-BST
-#EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://epg.v1.mk/logo/CCTV8K.png" group-title="4 K 8 K",CCTV8K
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fnptv%2Fcctv8k.m3u8%24other-NPTV
+##EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://11.112114.xyz/logo/cctv4k.png" group-title="4 K 8 K",CCTV4K-BST
+#http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fgptv%2FG_CCTV-4K-HD.m3u8%24other-GPTV
+##EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://11.112114.xyz/logo/cctv16.png" group-title="4 K 8 K",CCTV16-4K-BST
+#http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fbst%2Fcctv16hd4k%4015000000.m3u8%24other-BST
+##EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://epg.v1.mk/logo/CCTV8K.png" group-title="4 K 8 K",CCTV8K
+#http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fnptv%2Fcctv8k.m3u8%24other-NPTV
 #EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视4K" tvg-logo="https://epg.v1.mk/logo/北京卫视4k.png" group-title="4 K 8 K",北京卫视4K
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fgptv%2FG_BEIJING-4K.m3u8%24other
 #EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视4K" tvg-logo="https://epg.v1.mk/logo/北京卫视4k.png" group-title="4 K 8 K",北京卫视4K
@@ -51,18 +51,18 @@ http://192.168.100.1:7088/rtp/233.50.200.185:5140
 http://192.168.100.1:7088/rtp/233.50.201.116:5140
 #EXTINF:-1 tvg-id="BesTV 少儿" tvg-name="BesTV 少儿" tvg-logo="https://raw.githubusercontent.com/Cmslexchange/octocat.github.io/refs/heads/master/bestv.png" group-title="BesTV", BesTV 少儿
 http://192.168.100.1:7088/rtp/233.50.200.183:5140
-#EXTINF:-1 tvg-id="热门剧场HD" tvg-name="热门剧场HD" tvg-logo="https://11.112114.xyz/logo/热门剧场.png" group-title="BesTV",热门剧场
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fbst%2Frmjcvcc4m%404000000.m3u8%24other
-#EXTINF:-1 tvg-id="谍战剧场HD" tvg-name="谍战剧场HD" tvg-logo="https://11.112114.xyz/logo/谍战剧场.png" group-title="BesTV",谍战剧场
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fbst%2Fdzjcvcc4m%404000000.m3u8%24other
-#EXTINF:-1 tvg-id="华语影院HD" tvg-name="华语影院HD" tvg-logo="https://11.112114.xyz/logo/华语影院.png" group-title="BesTV",华语影院
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fbst%2Fhyyyvcc4m%404000000.m3u8%24other
-#EXTINF:-1 tvg-id="星光影院HD" tvg-name="星光影院HD" tvg-logo="https://raw.githubusercontent.com/Cmslexchange/octocat.github.io/refs/heads/master/bestv.png" group-title="BesTV",星光影院
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fbst%2Fxgyyvcc4m%404000000.m3u8%24other
+##EXTINF:-1 tvg-id="热门剧场HD" tvg-name="热门剧场HD" tvg-logo="https://11.112114.xyz/logo/热门剧场.png" group-title="BesTV",热门剧场
+#http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fbst%2Frmjcvcc4m%404000000.m3u8%24other
+##EXTINF:-1 tvg-id="谍战剧场HD" tvg-name="谍战剧场HD" tvg-logo="https://11.112114.xyz/logo/谍战剧场.png" group-title="BesTV",谍战剧场
+#http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fbst%2Fdzjcvcc4m%404000000.m3u8%24other
+##EXTINF:-1 tvg-id="华语影院HD" tvg-name="华语影院HD" tvg-logo="https://11.112114.xyz/logo/华语影院.png" group-title="BesTV",华语影院
+#http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fbst%2Fhyyyvcc4m%404000000.m3u8%24other
+##EXTINF:-1 tvg-id="星光影院HD" tvg-name="星光影院HD" tvg-logo="https://raw.githubusercontent.com/Cmslexchange/octocat.github.io/refs/heads/master/bestv.png" group-title="BesTV",星光影院
+#http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fbst%2Fxgyyvcc4m%404000000.m3u8%24other
 #EXTINF:-1 tvg-id="全球大片HD" tvg-name="全球大片HD" tvg-logo="https://11.112114.xyz/logo/全球大片.png" group-title="BesTV",全球大片
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fbst%2Fqqdpvcc4m%404000000.m3u8%24other
-#EXTINF:-1 tvg-id="热门综艺HD" tvg-name="热门综艺HD" tvg-logo="https://11.112114.xyz/logo/热门综艺.png" group-title="BesTV",热门综艺
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fbst%2Frmzyvcc4m%404000000.m3u8%24other
+#http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fbst%2Fqqdpvcc4m%404000000.m3u8%24other
+##EXTINF:-1 tvg-id="热门综艺HD" tvg-name="热门综艺HD" tvg-logo="https://11.112114.xyz/logo/热门综艺.png" group-title="BesTV",热门综艺
+#http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fbst%2Frmzyvcc4m%404000000.m3u8%24other
 #EXTINF:-1 tvg-id="历史" tvg-name="历史" tvg-logo="https://raw.githubusercontent.com/Cmslexchange/octocat.github.io/refs/heads/master/bestv.png" group-title="BesTV", BesTV 历史
 http://192.168.100.1:7088/rtp/233.50.201.117:5140
 #EXTINF:-1 tvg-id="华数影视4K" tvg-name="华数影视4K" tvg-logo="https://epg.v1.mk/logo/华数4K.png" group-title="BesTV", BesTV 影视
@@ -82,8 +82,8 @@ http://192.168.100.1:7088/udp/233.50.200.123:5140
 #EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" tvg-logo="https://epg.v1.mk/logo/湖南茶频道.png" group-title="BesTV",茶频道
 http://192.168.100.1:7088/udp/233.50.200.124:5140
 
-#EXTINF:-1 tvg-id="上海新纪实" tvg-name="上海新纪实" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/新纪实频道.png" group-title="SiTV",上海新纪实
-https://migu.188766.xyz/?migutoken=471fe639eb15232e090f025a6738131e&id=xjs&type=sz
+##EXTINF:-1 tvg-id="上海新纪实" tvg-name="上海新纪实" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/新纪实频道.png" group-title="SiTV",上海新纪实
+#https://migu.188766.xyz/?migutoken=471fe639eb15232e090f025a6738131e&id=xjs&type=sz
 
 #EXTINF:-1 tvg-id="SiTV-金色学堂" tvg-name="SiTV 金色学堂" tvg-logo="https://epg.v1.mk/logo/金色学堂.png" group-title="SiTV", SiTV 金色学堂
 http://192.168.100.1:7088/rtp/233.50.200.122:5140

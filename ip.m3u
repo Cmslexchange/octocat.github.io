@@ -40,6 +40,13 @@ http://192.168.100.1:35456/jump?url=https%3A%2F%2Fd2dw21aq0j0l5c.cloudfront.net%
 http://192.168.100.1:35456/jump?url=https%3A%2F%2Fgdcucc.v1.mk%2Fgdcucc%2Fbrtv8k.m3u8%24gdcucc
 #EXTINF:-1 tvg-id="北京纪实科教8K" tvg-name="北京纪实科教8K" tvg-logo="https://epg.v1.mk/logo/北京纪实科教8K.png" group-title="4 K 8 K",北京纪实科教8K
 https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/176/202504161629_1744788994468_H169_1080.jpg" group-title="影视",CHC影迷电影
+https://mursor.ottiptv.cc/migu/952383261.m3u8?migutoken=4229e22d31f76409e09856fd20bf4c798a6d8887cb3df72e6a9ea8ab22679ccf322a3c17fa6971196ff5b9567392cc5e19c4602461b9b90e5fd9ae310d08f99a196d21659f19186067b8166bbb
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/554/795/202308221159_1692676692674_H169_1080.jpg" group-title="影视",CHC动作电影
+https://mursor.ottiptv.cc/migu/644368714.m3u8?migutoken=c360334b9dce3932ca94e98808cf086a0bd1c5e97165b1b447c379262b81db850b8395e270399492d07a01f0b950e509e8183decadc0fffc715586739af03212a71d9c4af7bff1a611eec6385b
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/554/911/202308221200_1692676825616_H169_1080.jpg" group-title="影视",CHC家庭影院
+https://mursor.ottiptv.cc/migu/644368373.m3u8?migutoken=a5cb784b300e5a5ff03e394ab68b1eb0953304c8cd008be384a8cdf43fe27b6bff0ba14fa0f43028891e50e75f9bec09b0dd2d85fcdf9896d2ee165f5ead05cff42a412d438411fb7da8fdea4c
+
 
 #EXTINF:-1 tvg-id="BesTV 新闻记录" tvg-name="BesTV 新闻记录" tvg-logo="https://raw.githubusercontent.com/Cmslexchange/octocat.github.io/refs/heads/master/bestv.png" group-title="BesTV", BesTV 新闻记录
 http://192.168.100.1:7088/rtp/233.50.200.182:5140

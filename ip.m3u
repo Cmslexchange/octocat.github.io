@@ -104,8 +104,8 @@ http://192.168.100.1:7088/rtp/233.50.200.177:5140
 #EXTINF:-1 tvg-id="SiTV-法治天地" tvg-name="SiTV 法治天地" tvg-logo="https://epg.v1.mk/logo/法治天地.png" group-title="SiTV", SiTV 法治天地
 http://192.168.100.1:7088/rtp/233.50.200.120:5140
 
-#EXTINF:-1 tvg-id="SiTV-劲爆体育" tvg-name="SiTV 劲爆体育" tvg-logo="https://epg.v1.mk/logo/劲爆体育.png" group-title="SiTV", SiTV 劲爆体育
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fyhyx%2FIP-JBTY-HD.m3u8%24other
+##EXTINF:-1 tvg-id="SiTV-劲爆体育" tvg-name="SiTV 劲爆体育" tvg-logo="https://epg.v1.mk/logo/劲爆体育.png" group-title="SiTV", SiTV 劲爆体育
+#http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fyhyx%2FIP-JBTY-HD.m3u8%24other
 
 #EXTINF:-1 tvg-id="SiTV-乐游" tvg-name="SiTV 乐游" tvg-logo="https://epg.v1.mk/logo/乐游.png" group-title="SiTV", SiTV 乐游
 http://192.168.100.1:7088/rtp/233.50.200.148:5140

@@ -309,122 +309,124 @@ http://118.89.87.74:88/live.php?id=%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8
 http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_cwjd.flv
 #EXTINF:-1 tvg-id="新视觉HD" tvg-name="新视觉HD" tvg-logo="https://11.112114.xyz/logo/新视觉.png" group-title="数字频道",新视觉HD
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fbst%2Fxsjhd%404000000.m3u8%24other
-#EXTINF:-1 tvg-id="咪咕全民热练" tvg-name="咪咕全民热练" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪咕全民热练
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000020000031315.m3u8%3Fcdn%3DFifastbLive%24itv
-#EXTINF:-1 tvg-id="咪咕24小时体育" tvg-name="咪咕24小时体育" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪咕24小时体育台
-https://tv.iill.top/migu/mgty
-#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-1
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000001000005308.m3u8%3Fcdn%3DFifastbLive%24itv
-#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-2
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000001000005969.m3u8%3Fcdn%3DFifastbLive%24itv
-#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-3
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000001000007218.m3u8%3Fcdn%3DFifastbLive%24itv
-#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-4
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000001000008001.m3u8%3Fcdn%3DFifastbLive%24itv
-#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-5
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000001000008176.m3u8%3Fcdn%3DFifastbLive%24itv
-#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-6
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000001000008379.m3u8%3Fcdn%3DFifastbLive%24itv
-#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-7
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000001000010129.m3u8%3Fcdn%3DFifastbLive%24itv
-#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-8
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000001000010948.m3u8%3Fcdn%3DFifastbLive%24itv
-#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-9
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000001000028638.m3u8%3Fcdn%3DFifastbLive%24itv
-#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-10
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000001000031494.m3u8%3Fcdn%3DFifastbLive%24itv
-#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-11
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000010000005837.m3u8%3Fcdn%3DFifastbLive%24itv
-#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-12
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000020000011518.m3u8%3Fcdn%3DFifastbLive%24itv
-#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-13
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000020000011519.m3u8%3Fcdn%3DFifastbLive%24itv
-#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-14
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000020000011520.m3u8%3Fcdn%3DFifastbLive%24itv
-#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-15
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000020000011521.m3u8%3Fcdn%3DFifastbLive%24itv
-#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-16
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000020000011522.m3u8%3Fcdn%3DFifastbLive%24itv
-#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-17
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000020000011523.m3u8%3Fcdn%3DFifastbLive%24itv
-#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-18
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000020000011524.m3u8%3Fcdn%3DFifastbLive%24itv
-#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-19
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000020000011525.m3u8%3Fcdn%3DFifastbLive%24itv
-#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-20
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000020000011528.m3u8%3Fcdn%3DFifastbLive%24itv
-#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-21
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000020000011529.m3u8%3Fcdn%3DFifastbLive%24itv
-#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-22
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000020000011530.m3u8%3Fcdn%3DFifastbLive%24itv
-#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-23
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000020000011531.m3u8%3Fcdn%3DFifastbLive%24itv
-#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-24
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000010000000097.m3u8%3Fcdn%3DFifastbLive%24itv
-#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-25
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000010000002019.m3u8%3Fcdn%3DFifastbLive%24itv
-#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-26
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000010000002809.m3u8%3Fcdn%3DFifastbLive%24itv
-#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-27
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000010000003915.m3u8%3Fcdn%3DFifastbLive%24itv
-#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-28
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000010000004193.m3u8%3Fcdn%3DFifastbLive%24itv
-#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-29
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000010000006077.m3u8%3Fcdn%3DFifastbLive%24itv
-#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-30
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000010000006658.m3u8%3Fcdn%3DFifastbLive%24itv
-#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-31
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000010000009788.m3u8%3Fcdn%3DFifastbLive%24itv
-#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-32
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000010000010833.m3u8%3Fcdn%3DFifastbLive%24itv
-#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-33
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000010000011297.m3u8%3Fcdn%3DFifastbLive%24itv
-#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-34
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000010000011518.m3u8%3Fcdn%3DFifastbLive%24itv
-#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-35
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000010000012558.m3u8%3Fcdn%3DFifastbLive%24itv
-#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-36
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000010000012616.m3u8%3Fcdn%3DFifastbLive%24itv
-#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-37
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000010000015470.m3u8%3Fcdn%3DFifastbLive%24itv
-#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-38
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000010000015560.m3u8%3Fcdn%3DFifastbLive%24itv
-#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-39
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000010000017678.m3u8%3Fcdn%3DFifastbLive%24itv
-#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-40
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000010000019839.m3u8%3Fcdn%3DFifastbLive%24itv
-#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-41
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000010000021904.m3u8%3Fcdn%3DFifastbLive%24itv
-#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-42
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000010000023434.m3u8%3Fcdn%3DFifastbLive%24itv
-#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-43
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000010000025380.m3u8%3Fcdn%3DFifastbLive%24itv
-#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-44
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000010000027691.m3u8%3Fcdn%3DFifastbLive%24itv
-#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="数字频道",咪视通-45
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000010000031669.m3u8%3Fcdn%3DFifastbLive%24itv
+#EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/晴彩竞技.png" group-title="数字频道",睛彩竞技 
+https://msj.188766.xyz/play?id=3000000020000011528&token=bdee919fbdee919fbdee919fbdee919f
+#EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/晴彩竞技.png" group-title="数字频道",睛彩篮球 
+https://msj.188766.xyz/play?id=3000000020000011529&token=bdee91a0bdee91a0bdee91a0bdee91a0
+#EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/睛彩青少.png" group-title="数字频道",睛彩青少 
+https://msj.188766.xyz/play?id=3000000020000011525&token=bdee919cbdee919cbdee919cbdee919c
+#EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/睛彩广场舞.png" group-title="数字频道",睛彩广场舞 
+https://msj.188766.xyz/play?id=3000000020000011523&token=bdee919abdee919abdee919abdee919a
+#EXTINF:-1 tvg-id="咪视界4k-1" tvg-name="咪视界4k-1" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界4K.png" group-title="数字频道",咪视界4K-1 
+https://msj.188766.xyz/play?id=3000000010000005180&token=28fd8a8728fd8a8728fd8a8728fd8a87
+#EXTINF:-1 tvg-id="咪视界4k-2" tvg-name="咪视界4k-2" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界4K.png" group-title="数字频道",咪视界4K-2 
+https://msj.188766.xyz/play?id=3000000010000015686&token=290bb4d3290bb4d3290bb4d3290bb4d3
+#EXTINF:-1 tvg-id="咪视界-1" tvg-name="咪视界-1" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="数字频道",咪视界-1 
+https://msj.188766.xyz/play?id=3000000001000005308&token=88624f7788624f7788624f7788624f77
+#EXTINF:-1 tvg-id="咪视界-2" tvg-name="咪视界-2" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="数字频道",咪视界-2 
+https://msj.188766.xyz/play?id=3000000001000005969&token=886266b8886266b8886266b8886266b8
+#EXTINF:-1 tvg-id="咪视界-3" tvg-name="咪视界-3" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="数字频道",咪视界-3 
+https://msj.188766.xyz/play?id=3000000001000007218&token=88633493886334938863349388633493
+#EXTINF:-1 tvg-id="咪视界-4" tvg-name="咪视界-4" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="数字频道",咪视界-4 
+https://msj.188766.xyz/play?id=3000000001000008001&token=8863a14a8863a14a8863a14a8863a14a
+#EXTINF:-1 tvg-id="咪视界-5" tvg-name="咪视界-5" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="数字频道",咪视界-5 
+https://msj.188766.xyz/play?id=3000000001000008176&token=8863a5e98863a5e98863a5e98863a5e9
+#EXTINF:-1 tvg-id="咪视界-6" tvg-name="咪视界-6" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="数字频道",咪视界-6 
+https://msj.188766.xyz/play?id=3000000001000008379&token=8863ad6e8863ad6e8863ad6e8863ad6e
+#EXTINF:-1 tvg-id="咪视界-7" tvg-name="咪视界-7" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="数字频道",咪视界-7 
+https://msj.188766.xyz/play?id=3000000001000010129&token=886e19da886e19da886e19da886e19da
+#EXTINF:-1 tvg-id="咪视界-8" tvg-name="咪视界-8" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="数字频道",咪视界-8 
+https://msj.188766.xyz/play?id=3000000001000010948&token=886e381f886e381f886e381f886e381f
+#EXTINF:-1 tvg-id="咪视界-9" tvg-name="咪视界-9" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="数字频道",咪视界-9 
+https://msj.188766.xyz/play?id=3000000001000028638&token=887fe736887fe736887fe736887fe736
+#EXTINF:-1 tvg-id="咪视界-10" tvg-name="咪视界-10" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="数字频道",咪视界-10 
+https://msj.188766.xyz/play?id=3000000001000031494&token=888ac952888ac952888ac952888ac952
+#EXTINF:-1 tvg-id="咪视界-11" tvg-name="咪视界-11" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="数字频道",咪视界-11 
+https://msj.188766.xyz/play?id=3000000010000000097&token=28fb411128fb411128fb411128fb4111
+#EXTINF:-1 tvg-id="咪视界-12" tvg-name="咪视界-12" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="数字频道",咪视界-12 
+https://msj.188766.xyz/play?id=3000000010000002019&token=28fc28d928fc28d928fc28d928fc28d9
+#EXTINF:-1 tvg-id="咪视界-13" tvg-name="咪视界-13" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="数字频道",咪视界-13 
+https://msj.188766.xyz/play?id=3000000010000002809&token=28fc46c228fc46c228fc46c228fc46c2
+#EXTINF:-1 tvg-id="咪视界-14" tvg-name="咪视界-14" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="数字频道",咪视界-14 
+https://msj.188766.xyz/play?id=3000000010000003915&token=28fcbefd28fcbefd28fcbefd28fcbefd
+#EXTINF:-1 tvg-id="咪视界-15" tvg-name="咪视界-15" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="数字频道",咪视界-15 
+https://msj.188766.xyz/play?id=3000000010000004193&token=28fd164a28fd164a28fd164a28fd164a
+#EXTINF:-1 tvg-id="咪视界-16" tvg-name="咪视界-16" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="数字频道",咪视界-16 
+https://msj.188766.xyz/play?id=3000000010000005837&token=28fda43a28fda43a28fda43a28fda43a
+#EXTINF:-1 tvg-id="咪视界-17" tvg-name="咪视界-17" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="数字频道",咪视界-17 
+https://msj.188766.xyz/play?id=3000000010000006077&token=28fdfb0d28fdfb0d28fdfb0d28fdfb0d
+#EXTINF:-1 tvg-id="咪视界-18" tvg-name="咪视界-18" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="数字频道",咪视界-18 
+https://msj.188766.xyz/play?id=3000000010000006658&token=28fe115628fe115628fe115628fe1156
+#EXTINF:-1 tvg-id="咪视界-19" tvg-name="咪视界-19" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="数字频道",咪视界-19 
+https://msj.188766.xyz/play?id=3000000010000009788&token=28ff729128ff729128ff729128ff7291
+#EXTINF:-1 tvg-id="咪视界-20" tvg-name="咪视界-20" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="数字频道",咪视界-20 
+https://msj.188766.xyz/play?id=3000000010000010833&token=290975dc290975dc290975dc290975dc
+#EXTINF:-1 tvg-id="咪视界-21" tvg-name="咪视界-21" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="数字频道",咪视界-21 
+https://msj.188766.xyz/play?id=3000000010000011297&token=2909d4732909d4732909d4732909d473
+#EXTINF:-1 tvg-id="咪视界-22" tvg-name="咪视界-22" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="数字频道",咪视界-22 
+https://msj.188766.xyz/play?id=3000000010000011518&token=2909debf2909debf2909debf2909debf
+#EXTINF:-1 tvg-id="咪视界-23" tvg-name="咪视界-23" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="数字频道",咪视界-23 
+https://msj.188766.xyz/play?id=3000000010000012558&token=290a539a290a539a290a539a290a539a
+#EXTINF:-1 tvg-id="咪视界-24" tvg-name="咪视界-24" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="数字频道",咪视界-24 
+https://msj.188766.xyz/play?id=3000000010000012616&token=290a56dd290a56dd290a56dd290a56dd
+#EXTINF:-1 tvg-id="咪视界-25" tvg-name="咪视界-25" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="数字频道",咪视界-25 
+https://msj.188766.xyz/play?id=3000000010000015470&token=290bad2c290bad2c290bad2c290bad2c
+#EXTINF:-1 tvg-id="咪视界-26" tvg-name="咪视界-26" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="数字频道",咪视界-26 
+https://msj.188766.xyz/play?id=3000000010000015560&token=290bb0ce290bb0ce290bb0ce290bb0ce
+#EXTINF:-1 tvg-id="咪视界-27" tvg-name="咪视界-27" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="数字频道",咪视界-27 
+https://msj.188766.xyz/play?id=3000000010000017678&token=290c9d74290c9d74290c9d74290c9d74
+#EXTINF:-1 tvg-id="咪视界-28" tvg-name="咪视界-28" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="数字频道",咪视界-28 
+https://msj.188766.xyz/play?id=3000000010000019839&token=290d8d39290d8d39290d8d39290d8d39
+#EXTINF:-1 tvg-id="咪视界-29" tvg-name="咪视界-29" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="数字频道",咪视界-29 
+https://msj.188766.xyz/play?id=3000000010000021904&token=29180521291805212918052129180521
+#EXTINF:-1 tvg-id="咪视界-30" tvg-name="咪视界-30" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="数字频道",咪视界-30 
+https://msj.188766.xyz/play?id=3000000010000023434&token=2918db772918db772918db772918db77
+#EXTINF:-1 tvg-id="咪视界-31" tvg-name="咪视界-31" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="数字频道",咪视界-31 
+https://msj.188766.xyz/play?id=3000000010000025380&token=2919c10b2919c10b2919c10b2919c10b
+#EXTINF:-1 tvg-id="咪视界-32" tvg-name="咪视界-32" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="数字频道",咪视界-32 
+https://msj.188766.xyz/play?id=3000000010000027691&token=291ab52c291ab52c291ab52c291ab52c
+#EXTINF:-1 tvg-id="咪视界-33" tvg-name="咪视界-33" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="数字频道",咪视界-33 
+https://msj.188766.xyz/play?id=3000000010000031669&token=2926121e2926121e2926121e2926121e
+#EXTINF:-1 tvg-id="咪视界-34" tvg-name="咪视界-34" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="数字频道",咪视界-34 
+https://msj.188766.xyz/play?id=3000000020000011518&token=bdee9180bdee9180bdee9180bdee9180
+#EXTINF:-1 tvg-id="咪视界-35" tvg-name="咪视界-35" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="数字频道",咪视界-35 
+https://msj.188766.xyz/play?id=3000000020000011519&token=bdee9181bdee9181bdee9181bdee9181
+#EXTINF:-1 tvg-id="咪视界-36" tvg-name="咪视界-36" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="数字频道",咪视界-36 
+https://msj.188766.xyz/play?id=3000000020000011520&token=bdee9197bdee9197bdee9197bdee9197
+#EXTINF:-1 tvg-id="咪视界-37" tvg-name="咪视界-37" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="数字频道",咪视界-37 
+https://msj.188766.xyz/play?id=3000000020000011521&token=bdee9198bdee9198bdee9198bdee9198
+#EXTINF:-1 tvg-id="咪视界-38" tvg-name="咪视界-38" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="数字频道",咪视界-38 
+https://msj.188766.xyz/play?id=3000000020000011522&token=bdee9199bdee9199bdee9199bdee9199
 
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/翡翠台.png" group-title="港台频道",翡翠台
+https://migu.188766.xyz/?migutoken=04145df78ef83eef5b830ef166351e04&id=hk_fct&type=dy
+#EXTINF:-1 tvg-id="翡翠台4K" tvg-name="翡翠台4K" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/翡翠台.png" group-title="港台频道",翡翠台4K
+https://migu.188766.xyz/?migutoken=f5d3ddc45a607cb46f85565d6002e6fe&id=hk_fct4k&type=dy
+#EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/无线新闻.png" group-title="港台频道",无线新闻
+https://migu.188766.xyz/?migutoken=6d40ea4a8dd9f18c5bfbddaf30a8e3b9&id=hk_wxxw&type=dy
+#EXTINF:-1 tvg-id="Now新闻台" tvg-name="Now新闻台" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/NOW新闻台.png" group-title="港台频道",Now新闻台
+https://migu.188766.xyz/?migutoken=c279dda66e730c35558e092884fdb1dc&id=hk_now&type=dy
+#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/tvbplus.png" group-title="港台频道",TVB Plus
+https://migu.188766.xyz/?migutoken=16d671d8ea4bb37c1ccc5450cfce72d2&id=hk_tvbp&type=dy
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/明珠台.png" group-title="港台频道",明珠台
+https://migu.188766.xyz/?migutoken=bc0f802ab684ad9377fe77a79c51de79&id=hk_mzt&type=dy
+#EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/TVB星河.png" group-title="港台频道",TVB星河
+https://migu.188766.xyz/?migutoken=fa5509d3453723e42e49f4187e199f7c&id=hk_tvbxh&type=dy
+#EXTINF:-1 tvg-id="TVB功夫" tvg-name="TVB功夫" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/TVB功夫.png" group-title="港台频道",TVB功夫
+https://migu.188766.xyz/?migutoken=8a398d2b6b543d4e99df237897cfd4bf&id=hk_yzwx&type=dy
+#EXTINF:-1 tvg-id="八度空间" tvg-name="八度空间" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/八度空间.png" group-title="港台频道",八度空间
+https://migu.188766.xyz/?migutoken=dabecf5b3f67ce286f4c60ac66b74f89&id=hk_8tv&type=dy
+#EXTINF:-1 tvg-id="CHU" tvg-name="CHU" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/channelu.png" group-title="港台频道",CHU
+https://migu.188766.xyz/?migutoken=6e8e543491f6cced998cf2447e869807&id=hk_chu&type=dy
+#EXTINF:-1 tvg-id="CH5" tvg-name="CH5" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/channel5.png" group-title="港台频道",CH5
+https://migu.188766.xyz/?migutoken=743ae3a1579b552141abb1ec825c5f86&id=hk_ch5&type=dy
+#EXTINF:-1 tvg-id="CH8" tvg-name="CH8" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/channel8.png" group-title="港台频道",CH8
+https://migu.188766.xyz/?migutoken=b4beafba7f583f9f6bf135f83cabfb39&id=hk_ch8&type=dy
+#EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/澳视澳门.png" group-title="港台频道",澳视澳门
+https://migu.188766.xyz/?migutoken=ce19ac7ba26536bfb8a71fa37e934d32&id=hk_asam&type=dy
+#EXTINF:-1 tvg-id="HOY77" tvg-name="HOY77" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/HOY77.png" group-title="港台频道",HOY77
+https://migu.188766.xyz/?migutoken=9cd32ab08eaf1f9ab6155d8342a6c0b3&id=hk_hoy&type=dy
 
-#EXTINF:-1 tvg-id="翡翠台4K" tvg-name="翡翠台4K" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="港台频道",翡翠台4K
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
-#EXTINF:-1 tvg-id="娛樂新聞台(HK)" tvg-name="娛樂新聞台(HK)" tvg-logo="https://epg.v1.mk/logo/娱乐新闻台.png" group-title="港台频道",娛樂新聞台(HK)
-http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
-#EXTINF:-1 tvg-id="纬来电影台" tvg-name="纬来电影台" tvg-logo="https://epg.v1.mk/logo/緯來電影.png" group-title="港台频道",纬来电影台
-https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
-#EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://epg.v1.mk/logo/TVB星河.png" group-title="港台频道",TVB星河
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
-#EXTINF:-1 tvg-id="viutv" tvg-name="viutv" tvg-logo="https://epg.v1.mk/logo/viutv.png" group-title="港台频道",ViuTV
-http://php.jdshipin.com:8880/smt.php?id=viu1_twn
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="港台频道",翡翠台4K
-http://php.jdshipin.com/TVOD/iptv.php?id=fct4
-#EXTINF:-1 tvg-id="rthk31" tvg-name="rthk31" tvg-logo="https://epg.v1.mk/logo/rthk31.png" group-title="港台频道",RTHK31
-http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
-#EXTINF:-1 tvg-id="rthk32" tvg-name="rthk32" tvg-logo="https://epg.v1.mk/logo/rthk32.png" group-title="港台频道",RTHK32
-http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
-#EXTINF:-1 tvg-id="rthk33" tvg-name="rthk33" tvg-logo="https://epg.v1.mk/logo/rthk33.png" group-title="港台频道",RTHK33
-http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
-#EXTINF:-1 tvg-id="Astro AOD" tvg-name="Astro AOD" tvg-logo="https://epg.v1.mk/logo/AstroAOD.png" group-title="港台频道",Astro AOD
-http://php.jdshipin.com:8880/smt.php?id=Aodhd
 
 #EXTINF:-1 tvg-id="博斯无限台" tvg-name="博斯无限台" tvg-logo="https://epg.v1.mk/logo/博斯无限.png" group-title="港台频道",博斯無限 一
 https://tv.iill.top/litv/litv-longturn10

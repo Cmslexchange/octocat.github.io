@@ -82,11 +82,13 @@ http://php.jdshipin.com:8880/smt.php?id=Qiyi
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://epg.v1.mk/logo/北京卡酷少儿.png" group-title="BesTV",卡酷少儿
 http://192.168.100.1:7088/udp/233.50.200.166:5140
 #EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://epg.v1.mk/logo/睛彩竞技.png" group-title="BesTV",睛彩竞技
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000001000010948.m3u8%3Fcdn%3DFifastbLive%24itv
+http://192.168.100.1:7088/udp/233.50.202.26:5140
 #EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://epg.v1.mk/logo/睛彩篮球.png" group-title="BesTV",睛彩篮球
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000001000007218.m3u8%3Fcdn%3DFifastbLive%24itv
+http://192.168.100.1:7088/udp/233.50.202.27:5140
 #EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://epg.v1.mk/logo/睛彩青少.png" group-title="BesTV",睛彩青少
-http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fitv%2F3000000001000005308.m3u8%3Fcdn%3DFifastbLive%24itv
+http://192.168.100.1:7088/udp/233.50.202.28:5140
+#EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://epg.v1.mk/logo/睛彩广场舞.png" group-title="BesTV",睛彩广场舞
+http://192.168.100.1:7088/udp/233.50.202.29:5140
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://epg.v1.mk/logo/湖南快乐垂钓.png" group-title="BesTV",快乐垂钓
 http://192.168.100.1:7088/udp/233.50.200.123:5140
 #EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" tvg-logo="https://epg.v1.mk/logo/湖南茶频道.png" group-title="BesTV",茶频道
@@ -309,14 +311,6 @@ http://118.89.87.74:88/live.php?id=%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8
 http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_cwjd.flv
 #EXTINF:-1 tvg-id="新视觉HD" tvg-name="新视觉HD" tvg-logo="https://11.112114.xyz/logo/新视觉.png" group-title="数字频道",新视觉HD
 http://192.168.100.1:35456/jump?url=http%3A%2F%2F192.168.100.1%3A35455%2Fbst%2Fxsjhd%404000000.m3u8%24other
-#EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/晴彩竞技.png" group-title="数字频道",睛彩竞技 
-https://msj.188766.xyz/play?id=3000000020000011528&token=bdee919fbdee919fbdee919fbdee919f
-#EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/晴彩竞技.png" group-title="数字频道",睛彩篮球 
-https://msj.188766.xyz/play?id=3000000020000011529&token=bdee91a0bdee91a0bdee91a0bdee91a0
-#EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/睛彩青少.png" group-title="数字频道",睛彩青少 
-https://msj.188766.xyz/play?id=3000000020000011525&token=bdee919cbdee919cbdee919cbdee919c
-#EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/睛彩广场舞.png" group-title="数字频道",睛彩广场舞 
-https://msj.188766.xyz/play?id=3000000020000011523&token=bdee919abdee919abdee919abdee919a
 #EXTINF:-1 tvg-id="咪视界4k-1" tvg-name="咪视界4k-1" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界4K.png" group-title="数字频道",咪视界4K-1 
 https://msj.188766.xyz/play?id=3000000010000005180&token=28fd8a8728fd8a8728fd8a8728fd8a87
 #EXTINF:-1 tvg-id="咪视界4k-2" tvg-name="咪视界4k-2" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界4K.png" group-title="数字频道",咪视界4K-2 
@@ -717,28 +711,3 @@ https://migu.188766.xyz/?migutoken=f5d3ddc45a607cb46f85565d6002e6fe&id=hk_fct4k&
 https://migu.188766.xyz/?migutoken=6d40ea4a8dd9f18c5bfbddaf30a8e3b9&id=hk_wxxw&type=dy
 
 
-
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/湖南卫视4K.png" group-title="超清频道",湖南卫视4K
-https://migu.188766.xyz/?migutoken=d6b67b2171a35ef530ca22a29da66e10&id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K&pp=1
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/浙江卫视4K.png" group-title="超清频道",浙江卫视4K
-https://migu.188766.xyz/?migutoken=cba251d03fd7df7446c1ae1f839320a7&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K&pp=1
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/江苏卫视4K.png" group-title="超清频道",江苏卫视4K
-https://migu.188766.xyz/?migutoken=d26b8726ae0051b320c9ae9fc29bb90a&id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%864K&pp=1
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/东方卫视4K.png" group-title="超清频道",东方卫视4K
-https://migu.188766.xyz/?migutoken=84641fd492c1f5b7b282da640a4042cc&id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%864K&pp=1
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/北京卫视4K.png" group-title="超清频道",北京卫视4K
-https://migu.188766.xyz/?migutoken=5d1d188528459d8c3b4f85fca7483fa9&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" http-user-agent="aliplayer" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东卫视4K.png" group-title="超清频道",广东卫视4K
-https://migu.188766.xyz/?migutoken=73e67b9b0917a45254d768233f327419&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%864K&pp=1
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东卫视4K.png" group-title="超清频道",广东卫视4K
-http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/深圳卫视4K.png" group-title="超清频道",深圳卫视4K
-https://migu.188766.xyz/?migutoken=e8a3550a735c63fca9b9feed3e111338&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
-#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/山东卫视4K.png" group-title="超清频道",山东卫视4K
-https://migu.188766.xyz/?migutoken=861da1b40ff67c5c9eb9f5304c235632&id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%864K&pp=1
-#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" http-referer="https://api.chinaaudiovisual.cn/" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/四川卫视4K.png" group-title="超清频道",四川卫视4K
-https://migu.188766.xyz/?migutoken=bbc65fcfe6aec320cad0d482ed32b08a&id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%864K&pp=1
-#EXTINF:-1 tvg-id="苏州4K" tvg-name="苏州4K" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/苏州4K.png" group-title="超清频道",苏州4K
-https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
-#EXTINF:-1 tvg-id="河北4K" tvg-name="河北4K" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/纯享4K.png" group-title="超清频道",河北4K
-https://event.pull.hebtv.com:443/live/live101.m3u8

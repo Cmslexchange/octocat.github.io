@@ -72,6 +72,10 @@ http://192.168.100.1:7088/udp/233.50.200.182:5140
 http://192.168.100.1:7088/udp/233.50.200.183:5140
 #EXTINF:-1 tvg-id="BesTV-3" tvg-name="BesTV-3" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/BesTV.png" group-title="4K超高清",BesTV-3
 http://192.168.100.1:7088/udp/233.50.200.185:5140
+#EXTINF:-1 tvg-id="咪视界4k-2" tvg-name="咪视界4k-2" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界4K.png" group-title="4K超高清",咪视界4K-1
+https://msj.188766.xyz/play?id=3000000010000015686&token=8b73cfb58b73cfb58b73cfb58b73cfb5
+#EXTINF:-1 tvg-id="咪视界4k-1" tvg-name="咪视界4k-1" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界4K.png" group-title="4K超高清",咪视界4K-2
+https://msj.188766.xyz/play?id=3000000010000005180&token=8b65a5698b65a5698b65a5698b65a569
 #EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/睛彩广场舞.png" group-title="4K超高清",睛彩广场舞
 https://msj.188766.xyz/play?id=3000000020000011523&token=2056ac7c2056ac7c2056ac7c2056ac7c
 #EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/睛彩青少.png" group-title="4K超高清",睛彩青少
@@ -80,11 +84,6 @@ https://msj.188766.xyz/play?id=3000000020000011525&token=2056ac7e2056ac7e2056ac7
 https://msj.188766.xyz/play?id=3000000020000011529&token=2056ac822056ac822056ac822056ac82
 #EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/晴彩竞技.png" group-title="4K超高清",睛彩竞技
 https://msj.188766.xyz/play?id=3000000020000011528&token=2056ac812056ac812056ac812056ac81
-#EXTINF:-1 tvg-id="咪视界4k-2" tvg-name="咪视界4k-2" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界4K.png" group-title="4K超高清",咪视界4K-2
-https://msj.188766.xyz/play?id=3000000010000015686&token=8b73cfb58b73cfb58b73cfb58b73cfb5
-#EXTINF:-1 tvg-id="咪视界4k-1" tvg-name="咪视界4k-1" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界4K.png" group-title="4K超高清",咪视界4K-1
-https://msj.188766.xyz/play?id=3000000010000005180&token=8b65a5698b65a5698b65a5698b65a569
-
 
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/凤凰中文.png" group-title="卫视",凤凰中文
 http://192.168.100.1:7088/udp/233.50.202.35:5140

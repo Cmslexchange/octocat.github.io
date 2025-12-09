@@ -77,9 +77,9 @@ http://192.168.100.1:7088/udp/233.50.200.185:5140
 http://192.168.100.1:7088/udp/233.50.202.35:5140
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/凤凰资讯.png" group-title="卫视",凤凰资讯
 http://192.168.100.1:7088/udp/233.50.202.36:5140
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" http-user-agent="AptvPlayer-UA" group-title="卫视",翡翠台
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/翡翠台.png" http-user-agent="AptvPlayer-UA" group-title="卫视",翡翠台
 http://101.35.240.114:88/live.php?id=%E7%BF%A1%E7%BF%A0%E5%8F%B0
-#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" http-user-agent="iPhone" group-title="卫视" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",凤凰香港
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/凤凰香港.png" http-user-agent="iPhone" group-title="卫视" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",凤凰香港
 http://101.35.240.114:88/phenix.php?id=fhhk
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/浙江卫视.png" group-title="卫视",浙江卫视
 http://192.168.100.1:7088/udp/233.50.201.100:5140

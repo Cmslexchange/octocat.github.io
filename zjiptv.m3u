@@ -147,6 +147,12 @@ http://192.168.100.1:7088/udp/233.50.202.33:5140
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/金鹰卡通.png" group-title="卫视",金鹰卡通
 http://192.168.100.1:7088/udp/233.50.201.73:5140
 
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" http-user-agent="iPhone" http-header="Referer=https://live.kankanews.com/" group-title="地方",五星体育
+http://101.35.240.114:88/live.php?id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" http-user-agent="AptvPlayer-UA" group-title="地方",翡翠台
+http://101.35.240.114:88/live.php?id=%E7%BF%A1%E7%BF%A0%E5%8F%B0
+#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" http-user-agent="AptvPlayer-UA" group-title="地方",重温经典
+http://101.35.240.114:88/live.php?id=%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8
 #EXTINF:-1 tvg-id="浙江钱江都市" tvg-name="浙江钱江都市" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/钱江频道.png" group-title="地方",钱江频道
 http://192.168.100.1:7088/udp/233.50.201.132:5140
 #EXTINF:-1 tvg-id="浙江经济生活" tvg-name="浙江经济生活" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/浙江经济生活.png" group-title="地方",浙江经济生活

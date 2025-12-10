@@ -268,14 +268,12 @@ http://192.168.100.1:7088/udp/233.50.200.125:5140
 #EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/环球旅游.png" group-title="其他",环球旅游
 http://192.168.100.1:7088/udp/233.50.202.31:5140
 
-#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CHC家庭影院.png" group-title="电影频道",CHC家庭影院
-https://tv.iill.top/migu/chcjt
-#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://tb.zbds.top/logo/CHC电影.png" group-title="电影频道",CHC动作电影
-http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CHC动作电影.png" group-title="电影频道",CHC动作电影
-https://tv.iill.top/migu/chcdz
-#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CHC影迷电影.png" group-title="电影频道",CHC影迷电影
-https://tv.iill.top/migu/chcym
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CHC家庭影院.png" group-title="BesTV",CHC家庭影院
+http://vip1.xinketongxun.fun:8082/tsfile/live/1046_1.m3u8
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CHC动作电影.png" group-title="BesTV",CHC动作电影
+http://vip1.xinketongxun.fun:8082/tsfile/live/1045_1.m3u8
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CHC影迷电影.png" group-title="BesTV",CHC影迷电影
+http://vip1.xinketongxun.fun:8082/tsfile/live/1047_1.m3u8
 #EXTINF:-1 tvg-id="1905电影网" tvg-name="1905国外电影" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/1905dy.png" group-title="电影频道",1905国外电影
 http://php.jdshipin.com:8880/1905.php?id=1905dy2
 #EXTINF:-1 tvg-id="1905电影网" tvg-name="1905国内电影" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/1905dy.png" group-title="电影频道",1905国内电影

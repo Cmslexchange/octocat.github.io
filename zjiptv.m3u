@@ -72,18 +72,18 @@ http://192.168.100.1:7088/udp/233.50.200.182:5140
 http://192.168.100.1:7088/udp/233.50.200.183:5140
 #EXTINF:-1 tvg-id="BesTV-3" tvg-name="BesTV-3" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/BesTV.png" group-title="4K超高清",BesTV-3
 http://192.168.100.1:7088/udp/233.50.200.185:5140
-#EXTINF:-1 tvg-id="咪视界4k-2" tvg-name="咪视界4k-2" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界4K.png" group-title="4K超高清",咪视界4K-1
-https://msj.188766.xyz/play?id=3000000010000015686&token=8b73cfb58b73cfb58b73cfb58b73cfb5
-#EXTINF:-1 tvg-id="咪视界4k-1" tvg-name="咪视界4k-1" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界4K.png" group-title="4K超高清",咪视界4K-2
-https://msj.188766.xyz/play?id=3000000010000005180&token=8b65a5698b65a5698b65a5698b65a569
+#EXTINF:-1 tvg-id="咪视界4k-1" tvg-name="咪视界4k-1" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界4K.png" group-title="4K超高清",咪视界4K-1  
+https://msj.188766.xyz/play?id=3000000010000005180&token=e6688b2ce6688b2ce6688b2ce6688b2c
+#EXTINF:-1 tvg-id="咪视界4k-2" tvg-name="咪视界4k-2" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界4K.png" group-title="4K超高清",咪视界4K-2  
+https://msj.188766.xyz/play?id=3000000010000015686&token=e676b578e676b578e676b578e676b578
 #EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/睛彩广场舞.png" group-title="4K超高清",睛彩广场舞
-https://msj.188766.xyz/play?id=3000000020000011523&token=2056ac7c2056ac7c2056ac7c2056ac7c
+https://msj.188766.xyz/play?id=3000000020000011523&token=7b59923f7b59923f7b59923f7b59923f
 #EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/睛彩青少.png" group-title="4K超高清",睛彩青少
-https://msj.188766.xyz/play?id=3000000020000011525&token=2056ac7e2056ac7e2056ac7e2056ac7e
+https://msj.188766.xyz/play?id=3000000020000011525&token=7b5992417b5992417b5992417b599241
 #EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/晴彩竞技.png" group-title="4K超高清",睛彩篮球
-https://msj.188766.xyz/play?id=3000000020000011529&token=2056ac822056ac822056ac822056ac82
+https://msj.188766.xyz/play?id=3000000020000011529&token=7b5992457b5992457b5992457b599245
 #EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/晴彩竞技.png" group-title="4K超高清",睛彩竞技
-https://msj.188766.xyz/play?id=3000000020000011528&token=2056ac812056ac812056ac812056ac81
+https://msj.188766.xyz/play?id=3000000020000011528&token=7b5992447b5992447b5992447b599244
 
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/凤凰中文.png" group-title="卫视",凤凰中文
 http://192.168.100.1:7088/udp/233.50.202.35:5140
@@ -270,6 +270,8 @@ http://192.168.100.1:7088/udp/233.50.202.31:5140
 
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CHC家庭影院.png" group-title="电影频道",CHC家庭影院
 https://tv.iill.top/migu/chcjt
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://tb.zbds.top/logo/CHC电影.png" group-title="电影频道",CHC动作电影
+http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CHC动作电影.png" group-title="电影频道",CHC动作电影
 https://tv.iill.top/migu/chcdz
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CHC影迷电影.png" group-title="电影频道",CHC影迷电影
@@ -297,8 +299,7 @@ http://210.61.15.55:50007/li-4gtv-4gtv055/index.m3u8?proxy=true
 #EXTINF:-1 tvg-id="AMC电影" tvg-name="AMC电影" tvg-logo="https://tb.zbds.top/logo/AMC电影.png" group-title="电影频道",AMC电影
 http://61.221.215.25:8800/hls/43/index.m3u8
 
-#EXTINF:-1 tvg-id="CHC电影" tvg-name="CHC电影" tvg-logo="https://tb.zbds.top/logo/CHC电影.png" group-title="电影频道",CHC电影
-http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+
 #EXTINF:-1 tvg-id="东阳影视生活" tvg-name="东阳影视生活" tvg-logo="https://tb.zbds.top/logo/东阳影视生活.png" group-title="电影频道",东阳影视生活
 http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
 

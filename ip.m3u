@@ -276,7 +276,28 @@ https://msj.188766.xyz/play?id=3000000020000011529&token=7b5992457b5992457b59924
 https://msj.188766.xyz/play?id=3000000020000011525&token=7b5992417b5992417b5992417b599241
 #EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/睛彩广场舞.png" group-title="数字频道",睛彩广场舞  
 https://msj.188766.xyz/play?id=3000000020000011523&token=7b59923f7b59923f7b59923f7b59923f
-
+#EXTINF:-1 tvg-name="广西移动" tvg-logo="https://epg.v1.mk/logo/广西移动.png" group-title="数字频道",广西移动
+http://vip1.xinketongxun.fun:8082/tsfile/live/1001_1.m3u8
+#EXTINF:-1 tvg-name="广西都市" tvg-logo="https://epg.v1.mk/logo/广西都市.png" group-title="数字频道",广西都市
+http://vip1.xinketongxun.fun:8082/tsfile/live/1003_1.m3u8
+#EXTINF:-1 tvg-name="广西新闻" tvg-logo="https://epg.v1.mk/logo/广西新闻.png" group-title="数字频道",广西新闻
+http://vip1.xinketongxun.fun:8082/tsfile/live/1004_1.m3u8
+#EXTINF:-1 tvg-name="广西影视" tvg-logo="https://epg.v1.mk/logo/广西影视.png" group-title="数字频道",广西影视
+http://vip1.xinketongxun.fun:8082/tsfile/live/1037_1.m3u8
+#EXTINF:-1 tvg-name="广西综艺旅游" tvg-logo="https://epg.v1.mk/logo/广西综艺旅游.png" group-title="数字频道",广西综艺旅游
+http://vip1.xinketongxun.fun:8082/tsfile/live/1040_1.m3u8
+#EXTINF:-1 tvg-name="南宁文旅生活" tvg-logo="https://epg.v1.mk/logo/南宁文旅生活.png" group-title="数字频道",南宁文旅生活
+http://vip1.xinketongxun.fun:8082/tsfile/live/1005_1.m3u8
+#EXTINF:-1 tvg-name="南宁公共" tvg-logo="https://epg.v1.mk/logo/南宁公共.png" group-title="数字频道",南宁公共
+http://vip1.xinketongxun.fun:8082/tsfile/live/1017_1.m3u8
+#EXTINF:-1 tvg-name="南宁影视娱乐" tvg-logo="https://epg.v1.mk/logo/南宁影视娱乐.png" group-title="数字频道",南宁影视娱乐
+http://vip1.xinketongxun.fun:8082/tsfile/live/1018_1.m3u8
+#EXTINF:-1 tvg-name="南宁新闻综合" tvg-logo="https://epg.v1.mk/logo/南宁新闻综合.png" group-title="数字频道",南宁新闻综合
+http://vip1.xinketongxun.fun:8082/tsfile/live/1019_1.m3u8
+#EXTINF:-1 tvg-name="钦州综合" tvg-logo="https://epg.v1.mk/logo/钦州综合.png" group-title="数字频道",钦州综合
+http://vip1.xinketongxun.fun:8082/tsfile/live/1022_1.m3u8
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://epg.v1.mk/logo/CETV1.png" group-title="数字频道",CETV1
+http://vip1.xinketongxun.fun:8082/tsfile/live/1038_1.m3u8
 #EXTINF:-1 tvg-id="咪视界-1" tvg-name="咪视界-1" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="数字频道",咪视界-1  
 https://msj.188766.xyz/play?id=3000000001000005308&token=45cd501c45cd501c45cd501c45cd501c
 #EXTINF:-1 tvg-id="咪视界-2" tvg-name="咪视界-2" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="数字频道",咪视界-2  

@@ -75,7 +75,7 @@ http://192.168.100.1:7088/udp/233.50.200.124:5140
 http://vip1.xinketongxun.fun:8082/tsfile/live/1010_1.m3u8
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://epg.v1.mk/logo/CETV1.png" group-title="BesTV",CETV1
 http://vip1.xinketongxun.fun:8082/tsfile/live/1038_1.m3u8
-#EXTINF:-1 tvg-name="广西移动" tvg-logo="https://epg.v1.mk/logo/广西移动.png" group-title="BesTV",广西移动
+#EXTINF:-1 tvg-name="广西移动" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/广西移动.png" group-title="BesTV",广西移动
 http://vip1.xinketongxun.fun:8082/tsfile/live/1001_1.m3u8
 #EXTINF:-1 tvg-name="广西都市" tvg-logo="https://epg.v1.mk/logo/广西都市.png" group-title="BesTV",广西都市
 http://vip1.xinketongxun.fun:8082/tsfile/live/1003_1.m3u8

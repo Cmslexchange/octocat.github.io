@@ -169,7 +169,7 @@ http://192.168.100.1:7088/rtp/233.50.200.113:5140
 http://192.168.100.1:7088/rtp/233.50.202.36:5140
 #EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://epg.v1.mk/logo/凤凰卫视中文.png" group-title="卫视频道",凤凰卫视中文台
 http://192.168.100.1:7088/rtp/233.50.202.35:5140
-#EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-name="凤凰卫视香港台" tvg-logo="https://epg.iill.top/logo/凤凰香港.png" group-title="•海外「集合」",凤凰卫视香港台
+#EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-name="凤凰卫视香港台" tvg-logo="https://epg.iill.top/logo/凤凰香港.png" group-title="卫视频道",凤凰卫视香港台
 http://r.jdshipin.com/yDoTN
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="卫视频道",北京卫视
 http://192.168.100.1:7088/rtp/233.50.200.179:5140

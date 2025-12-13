@@ -13,8 +13,10 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236659/1/index.m3u8
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236657/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.v1.mk/logo/广东卫视.png" group-title="4K频道",广东卫视
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236661/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="至瑧视界" tvg-name="至瑧视界" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/至瑧视界.png" group-title="4K频道",至瑧视界
+#EXTINF:-1 tvg-id="至瑧视界" tvg-name="至瑧视界" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界4K.png" group-title="4K频道",至瑧视界
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235579/index.m3u8
+#EXTINF:-1 tvg-id="咪视界" tvg-name="咪视界" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界4K.png" group-title="4K频道",咪视界
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236545/index.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视频道",CCTV1
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228318/42329859.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视频道",CCTV1
@@ -863,8 +865,6 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228387/index.m3u8?f
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228387/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕频道",咪咕直播
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235583/index.m3u8
-#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕频道",咪咕8K
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236545/index.m3u8
 #EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕频道",咪视界1
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235557/index.m3u8
 #EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕频道",咪视界2

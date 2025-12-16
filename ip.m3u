@@ -36,14 +36,6 @@ http://192.168.100.1:7088/udp/233.50.200.182:5140
 http://192.168.100.1:7088/udp/233.50.200.183:5140
 #EXTINF:-1 tvg-id="BesTV-3" tvg-name="BesTV-3" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/BesTV.png" group-title="4K超高清",BesTV-3
 http://192.168.100.1:7088/udp/233.50.200.185:5140
-#EXTINF:-1 tvg-id="苏州4K" tvg-name="苏州4K" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/苏州4K.png" group-title="4K超高清",苏州4K
-https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
-#EXTINF:-1 tvg-id="河北4K" tvg-name="河北4K" tvg-logo="https://fy.188766.xyz/logo/taksssss/tv/icon/纯享4K.png" group-title="4K超高清",河北4K
-https://event.pull.hebtv.com:443/live/live101.m3u8
-#EXTINF:-1 tvg-id="南国都市4K" tvg-name="南国都市4K" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/linitfor/epg/main/logo/广州南国都市.png" group-title="4K超高清",南国都市 4K
-https://tencentplaywebsite.gztv.com/live/nanguodushi.m3u8?txSecret=e93eb85173edb8a0c70fd1438c7bd7d7&txTime=193108637cb
-#EXTINF:-1 tvg-id="南国都市4K" tvg-name="南国都市4K" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/linitfor/epg/main/logo/广州南国都市.png" group-title="4K超高清",南国都市 4K
-http://php.jdshipin.com:8880/gztv.php?id=shenghuo
 #EXTINF:-1 tvg-id="咪视界4k-1" tvg-name="咪视界4k-1" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界4K.png" group-title="4K超高清",咪视界4K-1
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235579/index.m3u8
 #EXTINF:-1 tvg-id="咪视界4k-2" tvg-name="咪视界4k-2" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界4K.png" group-title="4K超高清",咪视界4K-2
@@ -160,8 +152,6 @@ http://192.168.100.1:7088/rtp/233.50.200.111:5140
 http://192.168.100.1:7088/rtp/233.50.200.103:5140
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV 15" tvg-logo="https://epg.v1.mk/logo/CCTV15.png" group-title="央视频道",CCTV 15 音乐
 http://192.168.100.1:7088/rtp/233.50.202.40:5140
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV 16 奥林匹克 4K" tvg-logo="https://epg.v1.mk/logo/CCTV16.png" group-title="央视频道",CCTV 16 奥林匹克 4K
-http://192.168.100.1:7088/rtp/233.50.201.63:5140
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV 16" tvg-logo="https://epg.v1.mk/logo/CCTV16.png" group-title="央视频道",CCTV 16 奥林匹克
 http://192.168.100.1:7088/rtp/233.50.200.112:5140
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV 17" tvg-logo="https://epg.v1.mk/logo/CCTV17.png" group-title="央视频道",CCTV 17 农业农村
@@ -244,12 +234,9 @@ http://192.168.100.1:7088/rtp/233.50.201.148:5140
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://epg.v1.mk/logo/西藏卫视.png" group-title="卫视频道",西藏卫视
 http://192.168.100.1:7088/rtp/233.50.201.70:5140
 
-#EXTINF:-1 tvg-id="上视东方影视" tvg-name="上视东方影视" tvg-logo="https://epg.v1.mk/logo/东方影视.png" group-title="浙江频道",上视东方影视
-https://tv.iill.top/migu/shys
 #EXTINF:-1 tvg-id="上视五星体育" tvg-name="上视五星体育" tvg-logo="https://epg.v1.mk/logo/五星体育.png" group-title="浙江频道",上海五星体育
 https://stream1.freetv.fun/3790bf8630d515781cf6b215eebc059b6662c50a8a51aa0017183f0bfddd9101.ctv
-#EXTINF:-1 tvg-id="上海新闻" tvg-name="上海新闻" tvg-logo="https://epg.v1.mk/logo/上海新闻.png" group-title="浙江频道",上海新闻
-https://tv.iill.top/migu/shxw
+
 #EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://epg.v1.mk/logo/上海第一财经.png" group-title="浙江频道",上海第一财经
 http://192.168.100.1:7088/udp/233.50.200.125:5140
 
@@ -291,32 +278,6 @@ http://php.jdshipin.com:8880/1905.php?id=1905dy
 http://8.138.7.223/tv/1905.php?id=LIVE8J4LTCXPI7QJ5
 #EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/xsj.png" group-title="数字频道",新视觉HD
 https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
-
-##EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/五星体育.png" group-title="数字频道",五星体育
-#https://migu.188766.xyz/?migutoken=93fa50b706f23d9c90cb41666c61c906&id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2&pp=1
-##EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" http-user-agent="okHttp/Mod-1.4.0.0" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/重温经典.png" group-title="数字频道",重温经典
-#https://other.ottiptv.cc/cwjd.m3u8
-##EXTINF:-1 tvg-id="新片放映厅" tvg-name="新片放映厅" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/新片放映厅.png" group-title="数字频道",新片放映厅
-#https://migu.188766.xyz/?migutoken=6cfe6c6b5e1e03cc0f4d3aee8336291e&id=%E6%96%B0%E7%89%87%E6%94%BE%E6%98%A0%E5%8E%85&type=yy
-##EXTINF:-1 tvg-id="高清大片" tvg-name="高清大片" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/高清大片.png" group-title="数字频道",高清大片
-#https://migu.188766.xyz/?migutoken=0a581f145cdfa4f0d3f4f098a3ef4c8a&id=%E9%AB%98%E6%B8%85%E5%A4%A7%E7%89%87&type=yy
-
-#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/五星体育.png" group-title="数字频道",五星体育
-https://migu.188766.xyz/?migutoken=34dca69ea9ab5cc38d92a60526282e8c&id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2&pp=1
-#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" http-user-agent="okHttp/Mod-1.4.0.0" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/重温经典.png" group-title="数字频道",重温经典
-https://other.ottiptv.cc/cwjd.m3u8
-#EXTINF:-1 tvg-id="新片放映厅" tvg-name="新片放映厅" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/新片放映厅.png" group-title="数字频道",新片放映厅
-https://migu.188766.xyz/?migutoken=e4cd792973872f3e5786c6a1f8e5dcf3&id=%E6%96%B0%E7%89%87%E6%94%BE%E6%98%A0%E5%8E%85&type=yy
-#EXTINF:-1 tvg-id="经典香港电影" tvg-name="经典香港电影" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/242/089/202508211805_1755769511908_H32_1080.webp" group-title="数字频道",经典香港电影
-https://migu.188766.xyz/?migutoken=a521092b9ca13a4b6a4313db4c4a08fb&id=%E7%BB%8F%E5%85%B8%E9%A6%99%E6%B8%AF%E7%94%B5%E5%BD%B1&type=yy
-#EXTINF:-1 tvg-id="抗战经典影片" tvg-name="抗战经典影片" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/002/717/202507241513_1753340553498_H32_1080.webp" group-title="数字频道",抗战经典影片
-https://migu.188766.xyz/?migutoken=2c02f4a5dce4161999dd29fb33be64ef&id=%E6%8A%97%E6%88%98%E7%BB%8F%E5%85%B8%E5%BD%B1%E7%89%87&type=yy
-#EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/201/202509251348_1758698474363_H32_1080.webp" group-title="数字频道",武术世界
-https://migu.188766.xyz/?migutoken=d6507520d1be0ab49513bb37efb3e678&id=%E6%AD%A6%E6%9C%AF%E4%B8%96%E7%95%8C&type=yy
-#EXTINF:-1 tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/184/202508040856_5100132656_H32_1080.webp" group-title="数字频道",四海钓鱼
-https://migu.188766.xyz/?migutoken=06139cf206b8b1fb448e7c508811b5f8&id=%E5%9B%9B%E6%B5%B7%E9%92%93%E9%B1%BC&type=yy
-#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" http-user-agent="okHttp/Mod-1.4.0.0" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/五星体育.png" group-title="数字频道",五星体育
-https://other.ottiptv.cc/wxty.m3u8
 
 #EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/晴彩竞技.png" group-title="数字频道",睛彩竞技  
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232629/357220554.smil/index.m3u8?fmt=ts2hls

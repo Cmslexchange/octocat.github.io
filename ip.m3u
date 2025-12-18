@@ -7,7 +7,7 @@
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV16.png" group-title="4K超高清",CCTV16奥林匹克4K
 http://192.168.100.1:7088/udp/233.50.201.63:5140
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4K.png" group-title="4K超高清",CCTV4K
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/1/index.m3u8?fmt=ts2hls
+http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="CCTV高尔夫网球" tvg-name="CCTV高尔夫网球" tvg-logo="https://live.404003.xyz/LOGO/CCTV高尔夫网球.png" group-title="4K超高清",CCTV高尔夫网球
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232630/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/北京卫视4K.png" group-title="4K超高清",北京卫视4K

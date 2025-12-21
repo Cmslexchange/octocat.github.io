@@ -7,7 +7,7 @@
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV16.png" group-title="4K超高清",CCTV16奥林匹克4K
 http://192.168.100.1:7088/udp/233.50.201.63:5140
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4K.png" group-title="4K超高清",CCTV4K
-http://vip.xinketongxun.fun:8082/tsfile/live/1026_1.m3u8
+http://vip1.xinketongxun.fun:8082/tsfile/live/1026_1.m3u8
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4K.png" group-title="4K超高清",CCTV4K
 http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="CCTV高尔夫网球" tvg-name="CCTV高尔夫网球" tvg-logo="https://live.404003.xyz/LOGO/CCTV高尔夫网球.png" group-title="4K超高清",CCTV高尔夫网球
@@ -46,11 +46,11 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235583/index.m3u8
 https://cdn6.163189.xyz/163189/fct4k
 
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CHC家庭影院.png" group-title="BesTV",CHC家庭影院
-http://vip.xinketongxun.fun:8082/tsfile/live/1046_1.m3u8
+http://vip1.xinketongxun.fun:8082/tsfile/live/1046_1.m3u8
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CHC动作电影.png" group-title="BesTV",CHC动作电影
-http://vip.xinketongxun.fun:8082/tsfile/live/1045_1.m3u8
+http://vip1.xinketongxun.fun:8082/tsfile/live/1045_1.m3u8
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CHC影迷电影.png" group-title="BesTV",CHC影迷电影
-http://vip.xinketongxun.fun:8082/tsfile/live/1047_1.m3u8
+http://vip1.xinketongxun.fun:8082/tsfile/live/1047_1.m3u8
 #EXTINF:-1 tvg-id="爱奇艺" tvg-name="爱奇艺" tvg-logo="https://epg.v1.mk/logo/爱奇艺.png" group-title="BesTV",爱奇艺
 http://php.jdshipin.com:8880/smt.php?id=Qiyi
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://epg.v1.mk/logo/北京卡酷少儿.png" group-title="BesTV",卡酷少儿
@@ -68,29 +68,29 @@ http://192.168.100.1:7088/udp/233.50.200.123:5140
 #EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" tvg-logo="https://epg.v1.mk/logo/湖南茶频道.png" group-title="BesTV",茶频道
 http://192.168.100.1:7088/udp/233.50.200.124:5140
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://epg.v1.mk/logo/金鹰卡通.png" group-title="BesTV",金鹰卡通
-http://vip.xinketongxun.fun:8082/tsfile/live/1010_1.m3u8
+http://vip1.xinketongxun.fun:8082/tsfile/live/1010_1.m3u8
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://epg.v1.mk/logo/CETV1.png" group-title="BesTV",CETV1
-http://vip.xinketongxun.fun:8082/tsfile/live/1038_1.m3u8
+http://vip1.xinketongxun.fun:8082/tsfile/live/1038_1.m3u8
 #EXTINF:-1 tvg-name="广西移动" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/广西移动.png" group-title="BesTV",广西移动
-http://vip.xinketongxun.fun:8082/tsfile/live/1001_1.m3u8
+http://vip1.xinketongxun.fun:8082/tsfile/live/1001_1.m3u8
 #EXTINF:-1 tvg-name="广西都市" tvg-logo="https://epg.v1.mk/logo/广西都市.png" group-title="BesTV",广西都市
-http://vip.xinketongxun.fun:8082/tsfile/live/1003_1.m3u8
+http://vip1.xinketongxun.fun:8082/tsfile/live/1003_1.m3u8
 #EXTINF:-1 tvg-name="广西新闻" tvg-logo="https://epg.v1.mk/logo/广西新闻.png" group-title="BesTV",广西新闻
-http://vip.xinketongxun.fun:8082/tsfile/live/1004_1.m3u8
+http://vip1.xinketongxun.fun:8082/tsfile/live/1004_1.m3u8
 #EXTINF:-1 tvg-name="广西影视" tvg-logo="https://epg.v1.mk/logo/广西影视.png" group-title="BesTV",广西影视
-http://vip.xinketongxun.fun:8082/tsfile/live/1037_1.m3u8
+http://vip1.xinketongxun.fun:8082/tsfile/live/1037_1.m3u8
 #EXTINF:-1 tvg-name="广西综艺旅游" tvg-logo="https://epg.v1.mk/logo/广西综艺旅游.png" group-title="BesTV",广西综艺旅游
-http://vip.xinketongxun.fun:8082/tsfile/live/1040_1.m3u8
+http://vip1.xinketongxun.fun:8082/tsfile/live/1040_1.m3u8
 #EXTINF:-1 tvg-name="南宁文旅生活" tvg-logo="https://epg.v1.mk/logo/南宁文旅生活.png" group-title="BesTV",南宁文旅生活
-http://vip.xinketongxun.fun:8082/tsfile/live/1005_1.m3u8
+http://vip1.xinketongxun.fun:8082/tsfile/live/1005_1.m3u8
 #EXTINF:-1 tvg-name="南宁公共" tvg-logo="https://epg.v1.mk/logo/南宁公共.png" group-title="BesTV",南宁公共
-http://vip.xinketongxun.fun:8082/tsfile/live/1017_1.m3u8
+http://vip1.xinketongxun.fun:8082/tsfile/live/1017_1.m3u8
 #EXTINF:-1 tvg-name="南宁影视娱乐" tvg-logo="https://epg.v1.mk/logo/南宁影视娱乐.png" group-title="BesTV",南宁影视娱乐
-http://vip.xinketongxun.fun:8082/tsfile/live/1018_1.m3u8
+http://vip1.xinketongxun.fun:8082/tsfile/live/1018_1.m3u8
 #EXTINF:-1 tvg-name="南宁新闻综合" tvg-logo="https://epg.v1.mk/logo/南宁新闻综合.png" group-title="BesTV",南宁新闻综合
-http://vip.xinketongxun.fun:8082/tsfile/live/1019_1.m3u8
+http://vip1.xinketongxun.fun:8082/tsfile/live/1019_1.m3u8
 #EXTINF:-1 tvg-name="钦州综合" tvg-logo="https://epg.v1.mk/logo/钦州综合.png" group-title="BesTV",钦州综合
-http://vip.xinketongxun.fun:8082/tsfile/live/1022_1.m3u8
+http://vip1.xinketongxun.fun:8082/tsfile/live/1022_1.m3u8
 
 #EXTINF:-1 tvg-id="SiTV-金色学堂" tvg-name="SiTV 金色学堂" tvg-logo="https://epg.v1.mk/logo/金色学堂.png" group-title="SiTV", SiTV 金色学堂
 http://192.168.100.1:7088/rtp/233.50.200.122:5140

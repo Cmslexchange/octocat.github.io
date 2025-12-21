@@ -1,8 +1,6 @@
 #EXTM3U url-tvg="https://epg.v1.mk/fy.xml"
 #EXT-X-APP APTV
 #EXT-X-APTV-TYPE remote
-#EXT-X-SUB-URL http://192.168.100.1:35456/m3u/2
-#EXT-X-SUB-URL https://aktv.space/live.m3u
 
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV16.png" group-title="4K超高清",CCTV16奥林匹克4K
 http://192.168.100.1:7088/udp/233.50.201.63:5140

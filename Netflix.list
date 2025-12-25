@@ -1166,10 +1166,6 @@ IP-CIDR6,2620:10c:7000::/44,no-resolve
 IP-CIDR6,2a00:86c0::/32,no-resolve
 IP-CIDR6,2a03:5640::/32,no-resolve
 PROCESS-NAME,com.netflix.mediaclient
-DOMAIN-SUFFIX,mysupertv.pendy.dpdns.org
-DOMAIN-SUFFIX,live.tvfix.org
-DOMAIN-SUFFIX,vip1.xinketongxun.fun
 DOMAIN-SUFFIX,epg.v1.mk
 DOMAIN-SUFFIX,tv.iill.top
 DOMAIN-SUFFIX,epg.iill.top
-DOMAIN-SUFFIX,ntd-tgc.cdn.hinet.net

@@ -44,15 +44,15 @@ http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/32212355
 https://cdn6.163189.xyz/163189/fct4k
 
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CHC家庭影院.png" group-title="BesTV",CHC家庭影院
-http://218.15.183.23:9901/tsfile/live/23038_1.m3u8
+#http://218.15.183.23:9901/tsfile/live/23038_1.m3u8
 http://113.195.172.192:808/hls/111/index.m3u8
 #http://vip1.xinketongxun.fun:8082/tsfile/live/1046_1.m3u8
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CHC动作电影.png" group-title="BesTV",CHC动作电影
-http://218.15.183.23:9901/tsfile/live/23039_1.m3u8
+#http://218.15.183.23:9901/tsfile/live/23039_1.m3u8
 http://113.195.172.192:808/hls/112/index.m3u8
 #http://vip1.xinketongxun.fun:8082/tsfile/live/1045_1.m3u8
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CHC影迷电影.png" group-title="BesTV",CHC影迷电影
-http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
+#http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 http://113.195.172.192:808/hls/110/index.m3u8
 #http://vip1.xinketongxun.fun:8082/tsfile/live/1047_1.m3u8
 #EXTINF:-1 tvg-id="爱奇艺" tvg-name="爱奇艺" tvg-logo="https://epg.v1.mk/logo/爱奇艺.png" group-title="BesTV",爱奇艺
